@@ -28,8 +28,8 @@ const BASE = {
   shape: "poster" as const,
   width: 600,
   height: 900,
-  numberFill: "#141414", // gris très foncé (remplissage)
-  numberStroke: "#7a7a7a", // contour gris clair → dessine le chiffre même sur fond sombre
+  numberFill: "rgba(0,0,0,0.37)", // remplissage noir SEMI-TRANSPARENT → on voit l'affiche derrière, assombrie
+  numberStroke: "#9a9a9a", // contour gris clair opaque → dessine le chiffre même sur fond sombre
   strokeWidth: 6,
   bg: "#000000",
 };
