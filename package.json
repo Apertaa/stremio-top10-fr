@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/Apertaa/stremio-top10-fr/issues"
   },
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "author": "Apertaa (https://github.com/Apertaa)",
   "engines": {
     "bun": ">=1.0.0"

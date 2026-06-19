@@ -4,7 +4,7 @@
 > **affiches « gros chiffre » façon Netflix**.
 
 [![Build quotidien](https://github.com/Apertaa/stremio-top10-fr/actions/workflows/daily.yml/badge.svg)](https://github.com/Apertaa/stremio-top10-fr/actions/workflows/daily.yml)
-[![Licence : MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+[![Licence : PolyForm Noncommercial](https://img.shields.io/badge/Licence-PolyForm%20Noncommercial%201.0.0-orange.svg)](LICENSE)
 [![Fait avec Bun](https://img.shields.io/badge/Bun-1.x-000000?logo=bun&logoColor=white)](https://bun.sh)
 ![Hébergé sur GitHub Pages](https://img.shields.io/badge/h%C3%A9bergement-GitHub%20Pages-222?logo=githubpages)
 
@@ -232,4 +232,8 @@ Les contributions sont bienvenues — voir [CONTRIBUTING.md](CONTRIBUTING.md). E
 
 ## 📄 Licence
 
-[MIT](LICENSE) © Apertaa
+**[PolyForm Noncommercial 1.0.0](LICENSE)** © Apertaa.
+
+Le code est **ouvert** — tu peux le lire, le forker, le modifier et le partager — mais **uniquement à des
+fins non commerciales** (usage personnel, loisir, recherche, associations, établissements publics…). En
+faire un **usage commercial** nécessite l'accord préalable de l'auteur.
