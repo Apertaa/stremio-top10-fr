@@ -3,7 +3,7 @@ name: daily
 # Robot quotidien : régénère les Top 10 et publie sur GitHub Pages, tout seul.
 on:
   schedule:
-    - cron: "30 6 * * *" # 06:30 UTC ≈ 08:30 Paris (après publication des Top 10 du jour par FlixPatrol)
+    - cron: "0 16 * * *" # 16:00 UTC = 18h Paris — APRÈS la publication Netflix (~15h UTC, la plus tardive ; autres plateformes ~11h UTC)
   workflow_dispatch: {} # + bouton « Run workflow » pour lancer à la main
 
 permissions:
