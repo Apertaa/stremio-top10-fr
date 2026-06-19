@@ -1,0 +1,23 @@
+name: flixpatrol-reachability
+on: [push, workflow_dispatch]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: FlixPatrol depuis l'infra GitHub ?
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          for p in netflix disney canal amazon-prime apple-tv; do
+            code=$(curl -s -o /tmp/o.html -w "%{http_code}" -A "$UA" -H "Accept-Language: fr-FR,fr;q=0.9" -H "Referer: https://flixpatrol.com/" "https://flixpatrol.com/top10/$p/france/")
+            size=$(wc -c < /tmp/o.html)
+            echo "=========================================="
+            echo ">>> $p : HTTP $code, ${size} octets"
+            if [ "$code" = "200" ]; then
+              echo "    Titres extraits (preuve que le contenu est exploitable) :"
+              grep -oE 'href="/title/[^"]+">[^<]+' /tmp/o.html | sed 's/.*>//' | head -12 | sed 's/^/      - /'
+            else
+              echo "    BLOQUÉ ou indisponible."
+            fi
+          done
+          echo "=========================================="
+          echo "Test terminé."
