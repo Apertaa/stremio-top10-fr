@@ -31,17 +31,22 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   }
 
   const best = pickBest(results, entry, tmdbType);
-  const [details, imdbId] = await Promise.all([
-    getDetails(tmdbType, best.id, "fr-FR"),
-    externalIds(tmdbType, best.id),
-  ]);
+  const [details, imdbId] = await Promise.all([getDetails(tmdbType, best.id, "fr-FR"), externalIds(tmdbType, best.id)]);
 
   const titleFr = (tmdbType === "tv" ? details.name : details.title) || entry.title;
   const posterUrl = details.poster_path ? TMDB_IMG + details.poster_path : null;
   const date = tmdbType === "tv" ? details.first_air_date : details.release_date;
   const rating = typeof details.vote_average === "number" && details.vote_average > 0 ? details.vote_average : null;
 
-  const title: Title = { tmdbId: best.id, tmdbType, imdbId, titleFr, year: parseYear(date) ?? entry.year, posterUrl, rating };
+  const title: Title = {
+    tmdbId: best.id,
+    tmdbType,
+    imdbId,
+    titleFr,
+    year: parseYear(date) ?? entry.year,
+    posterUrl,
+    rating,
+  };
   cache.set(entry.fpSlug, { ...title, ts: new Date().toISOString().slice(0, 10) });
   return title;
 }
@@ -72,7 +77,7 @@ function normalize(s: string): string {
   return s
     .toLowerCase()
     .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
+    .replace(/\p{Diacritic}/gu, "") // retire les accents (après NFD, « café » → « cafe »)
     .replace(/[^a-z0-9]/g, "");
 }
 

@@ -4,11 +4,38 @@
   "private": true,
   "type": "module",
   "description": "Addon Stremio « Top 10 du jour » par plateforme (France) — généré chaque jour depuis FlixPatrol, fiches TMDB FR, affiches « gros chiffre » façon Netflix. 100% statique (GitHub Pages).",
+  "keywords": [
+    "stremio",
+    "stremio-addon",
+    "nuvio",
+    "top10",
+    "flixpatrol",
+    "tmdb",
+    "netflix",
+    "streaming",
+    "france",
+    "github-pages"
+  ],
+  "homepage": "https://github.com/Apertaa/stremio-top10-fr#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apertaa/stremio-top10-fr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Apertaa/stremio-top10-fr/issues"
+  },
+  "license": "MIT",
+  "author": "Apertaa (https://github.com/Apertaa)",
+  "engines": {
+    "bun": ">=1.0.0"
+  },
   "scripts": {
     "build": "bun run src/generate.ts",
     "dry": "bun run src/generate.ts --dry",
     "verify": "bun run src/generate.ts verify",
-    "serve": "python3 -m http.server -d public 8088"
+    "serve": "python3 -m http.server -d public 8088",
+    "lint": "biome check .",
+    "format": "biome format --write ."
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",

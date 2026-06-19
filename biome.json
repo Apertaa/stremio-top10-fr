@@ -20,7 +20,10 @@
     "rules": {
       "recommended": true,
       "suspicious": { "noExplicitAny": "off" },
-      "style": { "useNodejsImportProtocol": "error" }
+      "style": {
+        "useNodejsImportProtocol": "error",
+        "noNonNullAssertion": "off"
+      }
     }
   }
 }

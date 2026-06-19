@@ -27,9 +27,36 @@ function renderNumber(rank: number, v: Variant, h: number): string {
   const out = join(tmpdir(), `top10-num-${v.name}-${rank}-${h}.png`);
   run(
     [
-      "-background", "none", "-fill", v.numberFill, "-stroke", v.numberStroke, "-strokewidth", String(v.strokeWidth),
-      "-font", v.font, "-pointsize", String(Math.round(h * 1.4)), `label:${rank}`, "-trim", "+repage", "-resize", `x${h}`,
-      "(", "+clone", "-background", "black", "-shadow", "55x5+0+3", ")", "+swap", "-background", "none", "-layers", "merge", "+repage",
+      "-background",
+      "none",
+      "-fill",
+      v.numberFill,
+      "-stroke",
+      v.numberStroke,
+      "-strokewidth",
+      String(v.strokeWidth),
+      "-font",
+      v.font,
+      "-pointsize",
+      String(Math.round(h * 1.4)),
+      `label:${rank}`,
+      "-trim",
+      "+repage",
+      "-resize",
+      `x${h}`,
+      "(",
+      "+clone",
+      "-background",
+      "black",
+      "-shadow",
+      "55x5+0+3",
+      ")",
+      "+swap",
+      "-background",
+      "none",
+      "-layers",
+      "merge",
+      "+repage",
       out,
     ],
     `chiffre ${rank}`,
@@ -45,12 +72,31 @@ export function compose(posterPath: string | null, rank: number, v: Variant, out
 
   const args: string[] = ["-size", `${W}x${H}`, `canvas:${v.bg}`];
   if (posterPath) {
-    args.push("(", posterPath, "-resize", `${W}x${H}^`, "-gravity", "center", "-extent", `${W}x${H}`, ")", "-composite");
+    args.push(
+      "(",
+      posterPath,
+      "-resize",
+      `${W}x${H}^`,
+      "-gravity",
+      "center",
+      "-extent",
+      `${W}x${H}`,
+      ")",
+      "-composite",
+    );
   }
   // Léger dégradé sombre en bas (le `-size` ne pollue plus rien : le chiffre est un fichier, pas un label).
   args.push(
-    "(", "-size", `${W}x${Math.round(H * 0.2)}`, "gradient:none-black", ")",
-    "-gravity", "South", "-compose", "over", "-composite",
+    "(",
+    "-size",
+    `${W}x${Math.round(H * 0.2)}`,
+    "gradient:none-black",
+    ")",
+    "-gravity",
+    "South",
+    "-compose",
+    "over",
+    "-composite",
   );
   // Le chiffre (fichier → taille native conservée), ancré en bas-gauche.
   args.push(numPath, "-gravity", "SouthWest", "-geometry", `+${margin}+${margin}`, "-composite");

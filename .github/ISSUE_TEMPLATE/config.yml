@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📥 Installer l'addon et lire la doc
+    url: https://github.com/Apertaa/stremio-top10-fr#-installation-déploiement-public
+    about: L'URL à coller dans Stremio/Nuvio et le guide complet sont dans le README.

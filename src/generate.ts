@@ -12,10 +12,10 @@
  */
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { MEDIA_TYPES, PLATFORMS, PUBLIC_DIR } from "./config.ts";
 import { writeCatalog } from "./build/catalog.ts";
 import { writeManifest } from "./build/manifest.ts";
 import { toMetaPreview } from "./build/meta.ts";
+import { MEDIA_TYPES, PLATFORMS, PUBLIC_DIR } from "./config.ts";
 import { buildPoster, posterKey } from "./poster/compose.ts";
 import { DEFAULT_VARIANT, VARIANTS } from "./poster/variants.ts";
 import { fetchTop10 } from "./scrape/flixpatrol.ts";
@@ -106,7 +106,9 @@ async function verify(): Promise<void> {
     const bad = metas.filter((m: any) => !m.id || !m.type || !m.name || !m.poster).length;
     const unresolved = metas.filter((m: any) => String(m.id).startsWith("top10:")).length;
     if (!metas.length || bad) problems++;
-    console.error(`${!metas.length || bad ? "❌" : "✅"} ${cat.type}/${cat.id} : ${metas.length} metas${bad ? `, ${bad} incomplètes` : ""}${unresolved ? `, ${unresolved} non résolus` : ""}`);
+    console.error(
+      `${!metas.length || bad ? "❌" : "✅"} ${cat.type}/${cat.id} : ${metas.length} metas${bad ? `, ${bad} incomplètes` : ""}${unresolved ? `, ${unresolved} non résolus` : ""}`,
+    );
   }
   console.error(problems ? `\n⚠️ ${problems} problème(s).` : "\n✅ Tous les catalogues sont valides.");
   if (problems) process.exit(1);

@@ -13,8 +13,7 @@
 import type { Entry, MediaType, PlatformConfig, Trend } from "../types.ts";
 
 // Tendance non vide (tout ce qui suit le `.` du rang jusqu'au `[`), puis [titre](url …/title/slug/), puis « N d ».
-const LINE_RE =
-  /^(\d{1,2})\.([^[]*)\[([^\]]+)\]\(https:\/\/flixpatrol\.com\/title\/([^/)]+)\/?\)(?:\s*(\d+)\s*d)?/;
+const LINE_RE = /^(\d{1,2})\.([^[]*)\[([^\]]+)\]\(https:\/\/flixpatrol\.com\/title\/([^/)]+)\/?\)(?:\s*(\d+)\s*d)?/;
 
 /** Parse le Markdown d'une plateforme → { movie: Entry[], series: Entry[] }. */
 export function parseTop10(md: string, platform: PlatformConfig): Record<MediaType, Entry[]> {
