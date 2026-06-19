@@ -1,0 +1,74 @@
+{
+  "metas": [
+    {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "poster": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "FROM",
+      "poster": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Sa majesté des mouches",
+      "poster": "https://image.tmdb.org/t/p/w780/cwJRw5sUgvajwV0BdcVZp1rJZMV.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt34675596",
+      "type": "series",
+      "name": "Cape Fear - Les Nerfs à vif",
+      "poster": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt33204276",
+      "type": "series",
+      "name": "The Madison",
+      "poster": "https://image.tmdb.org/t/p/w780/6P6As5HNzlvbbAmp6cXunl9aH5C.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt31438328",
+      "type": "series",
+      "name": "La ville nous appartient",
+      "poster": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt21088136",
+      "type": "series",
+      "name": "Criminal Record",
+      "poster": "https://image.tmdb.org/t/p/w780/1vTUmvdV0BEfxy4A8l8s0h0cSlp.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt30459041",
+      "type": "series",
+      "name": "Vrais voisins, faux amis",
+      "poster": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
+      "posterShape": "poster"
+    }
+  ]
+}

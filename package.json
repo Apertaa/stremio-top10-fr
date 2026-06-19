@@ -1,0 +1,17 @@
+{
+  "name": "stremio-top10-fr",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Addon Stremio « Top 10 du jour » par plateforme (France) — généré chaque jour depuis FlixPatrol, fiches TMDB FR, affiches « gros chiffre » façon Netflix. 100% statique (GitHub Pages).",
+  "scripts": {
+    "build": "bun run src/generate.ts",
+    "dry": "bun run src/generate.ts --dry",
+    "verify": "bun run src/generate.ts verify",
+    "serve": "python3 -m http.server -d public 8088"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "bun-types": "latest"
+  }
+}

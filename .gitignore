@@ -1,0 +1,12 @@
+# Dépendances (le projet tourne sous Bun sans build ; bun-types/biome sont dev-only)
+node_modules/
+
+# Secrets locaux (les clés TMDB en local ; en CI = secrets GitHub Actions)
+.env
+.env.*
+!.env.example
+
+# Divers
+.DS_Store
+*.log
+/tmp-serve/

@@ -1,0 +1,46 @@
+{
+  "metas": [
+    {
+      "id": "tt36280391",
+      "type": "movie",
+      "name": "Chasse gardée 2",
+      "poster": "https://image.tmdb.org/t/p/w780/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt35455855",
+      "type": "movie",
+      "name": "Les enfants vont bien",
+      "poster": "https://image.tmdb.org/t/p/w780/lzHohlKAZ8qG0WbkctJq02ZB3lJ.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:1605730",
+      "type": "movie",
+      "name": "The Stranger",
+      "poster": "https://image.tmdb.org/t/p/w780/qJO8l0eyOmRlBfVuC9fGoXCGcXk.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6590982",
+      "type": "movie",
+      "name": "Case 137",
+      "poster": "https://image.tmdb.org/t/p/w780/tyswzNTNLWG1WKNVHHH3E8jZpNs.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0095907",
+      "type": "movie",
+      "name": "A Private Life",
+      "poster": "https://image.tmdb.org/t/p/w780/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt19838566",
+      "type": "movie",
+      "name": "Kraken",
+      "poster": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
+      "posterShape": "poster"
+    }
+  ]
+}

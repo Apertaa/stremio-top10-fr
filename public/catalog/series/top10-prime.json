@@ -1,0 +1,74 @@
+{
+  "metas": [
+    {
+      "id": "tt33055254",
+      "type": "series",
+      "name": "Au fil des années",
+      "poster": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt33546863",
+      "type": "series",
+      "name": "Off Campus",
+      "poster": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt30460310",
+      "type": "series",
+      "name": "Spider-Noir",
+      "poster": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt10541088",
+      "type": "series",
+      "name": "Clarkson à la ferme",
+      "poster": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt35707374",
+      "type": "series",
+      "name": "Memory of a Killer",
+      "poster": "https://image.tmdb.org/t/p/w780/sXpDNwci75WH21CAptGgWduBrXD.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11247158",
+      "type": "series",
+      "name": "La légende de Vox Machina",
+      "poster": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13696152",
+      "type": "series",
+      "name": "LOL : Qui rit, sort !",
+      "poster": "https://image.tmdb.org/t/p/w780/ha9Nii4BB05xLLSQEAwZsdKIhZX.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9794044",
+      "type": "series",
+      "name": "Citadel",
+      "poster": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt14016500",
+      "type": "series",
+      "name": "L'Été où je suis devenue jolie",
+      "poster": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
+      "posterShape": "poster"
+    }
+  ]
+}

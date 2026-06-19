@@ -1,0 +1,74 @@
+{
+  "metas": [
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick et Morty",
+      "poster": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt34885250",
+      "type": "series",
+      "name": "The Lady : A Royal Murder Scandal",
+      "poster": "https://image.tmdb.org/t/p/w780/lMveq4zyLX4dAZgO0xXMf4vYqf6.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt33270420",
+      "type": "series",
+      "name": "PONIES",
+      "poster": "https://image.tmdb.org/t/p/w780/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt41050785",
+      "type": "series",
+      "name": "Proud",
+      "poster": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt32767294",
+      "type": "series",
+      "name": "Half Man",
+      "poster": "https://image.tmdb.org/t/p/w780/jl24C9NkgCxbQk9T0GZkpq6dsf4.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt42835175",
+      "type": "series",
+      "name": "Bring Me the Beauties: A Model Cult",
+      "poster": "https://image.tmdb.org/t/p/w780/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt31589662",
+      "type": "series",
+      "name": "Georgie & Mandy's First Marriage",
+      "poster": "https://image.tmdb.org/t/p/w780/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5489746",
+      "type": "series",
+      "name": "Un meurtrier sous mon toit",
+      "poster": "https://image.tmdb.org/t/p/w780/q0R7c4J5DSjr7ecZmaH4f8C1dE6.jpg",
+      "posterShape": "poster"
+    }
+  ]
+}
