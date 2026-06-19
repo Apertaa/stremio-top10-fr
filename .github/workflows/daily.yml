@@ -1,0 +1,62 @@
+name: daily
+
+# Robot quotidien : régénère les Top 10 et publie sur GitHub Pages, tout seul.
+on:
+  schedule:
+    - cron: "30 6 * * *" # 06:30 UTC ≈ 08:30 Paris (après publication des Top 10 du jour par FlixPatrol)
+  workflow_dispatch: {} # + bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write # committer cache/ + public/
+  pages: write # déployer sur Pages
+  id-token: write # OIDC pour le déploiement Pages
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Garantir ImageMagick
+        run: (magick -version || convert -version) >/dev/null 2>&1 || sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Générer les Top 10
+        env:
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: bun run src/generate.ts
+
+      - name: Vérifier
+        run: bun run src/generate.ts verify
+
+      - name: Committer l'état régénéré
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cache public
+          git commit -m "Top 10 FR — $(date -u +%F)" || echo "Rien à committer (déjà à jour)."
+          git push
+
+      - name: Préparer l'artefact Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Déployer sur GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

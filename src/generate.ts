@@ -22,7 +22,9 @@ import { fetchTop10 } from "./scrape/flixpatrol.ts";
 import { parseTop10 } from "./scrape/parse.ts";
 import { loadCache, saveCache } from "./tmdb/cache.ts";
 import { resolveTitle } from "./tmdb/resolve.ts";
-import type { MetaPreview } from "./types.ts";
+import type { Entry, MediaType, MetaPreview } from "./types.ts";
+
+const msg = (e: unknown) => (e instanceof Error ? e.message : String(e));
 
 const args = process.argv.slice(2);
 const positional = args.filter((a) => !a.startsWith("--"));
@@ -37,24 +39,39 @@ async function build(): Promise<void> {
   if (!platforms.length) throw new Error(`Aucune plateforme ne correspond à --only=${only}`);
 
   const cache = loadCache();
-  let catalogs = 0;
+  let ok = 0;
+  let fallback = 0;
+
   for (const platform of platforms) {
     console.error(`\n📡 ${platform.name} (${platform.slug})`);
-    const md = await fetchTop10(platform.slug);
-    const parsed = parseTop10(md, platform);
+    // Filet de sécurité niveau plateforme : si le scrape échoue, on garde films + séries de la veille.
+    let parsed: Record<MediaType, Entry[]>;
+    try {
+      parsed = parseTop10(await fetchTop10(platform.slug), platform);
+    } catch (e) {
+      console.error(`   ❌ scrape échoué (${msg(e)}) → on garde les fichiers de la veille`);
+      fallback += MEDIA_TYPES.length;
+      continue;
+    }
+    // Filet de sécurité niveau liste : un type qui échoue ne touche pas son fichier de la veille.
     for (const type of MEDIA_TYPES) {
-      const metas: MetaPreview[] = [];
-      for (const entry of parsed[type]) {
-        const title = await resolveTitle(entry, type, cache);
-        const key = posterKey(platform.id, type, entry.rank);
-        if (!dry) await buildPoster({ posterUrl: title.posterUrl, rank: entry.rank, key, variant });
-        metas.push(toMetaPreview(title, entry, key));
-      }
-      console.error(`   ${type === "movie" ? "🎬 Films " : "📺 Séries"} : ${metas.length} titres`);
-      if (dry) metas.forEach((m, i) => console.error(`      ${String(i + 1).padStart(2)}. ${m.name}  [${m.id}]`));
-      else {
-        writeCatalog(platform, type, metas);
-        catalogs++;
+      try {
+        const entries = parsed[type];
+        if (entries.length === 0) throw new Error("aucune entrée");
+        const metas: MetaPreview[] = [];
+        for (const entry of entries) {
+          const title = await resolveTitle(entry, type, cache);
+          const key = posterKey(platform.id, type, entry.rank);
+          if (!dry) await buildPoster({ posterUrl: title.posterUrl, rank: entry.rank, key, variant });
+          metas.push(toMetaPreview(title, entry, key));
+        }
+        console.error(`   ${type === "movie" ? "🎬 Films " : "📺 Séries"} : ${metas.length} titres`);
+        if (dry) metas.forEach((m, i) => console.error(`      ${String(i + 1).padStart(2)}. ${m.name}  [${m.id}]`));
+        else writeCatalog(platform, type, metas);
+        ok++;
+      } catch (e) {
+        console.error(`   ❌ ${type} : ${msg(e)} → on garde le fichier de la veille`);
+        fallback++;
       }
     }
   }
@@ -62,7 +79,13 @@ async function build(): Promise<void> {
   saveCache(cache); // on garde les correspondances trouvées, même en --dry
   if (!dry) {
     writeManifest(PLATFORMS); // le manifest liste TOUJOURS les 7 plateformes, même avec --only
-    console.error(`\n✅ ${catalogs} catalogues + manifest écrits dans public/.`);
+    console.error(`\n✅ ${ok} listes fraîches, ${fallback} conservées de la veille. Manifest écrit.`);
+  }
+  // Garde-fou : si plus de la moitié des listes sont en repli (panne proxy/TMDB), sortir en erreur — SANS
+  // rien écraser (les fichiers de la veille restent intacts), pour alerter la CI.
+  if (!dry && fallback > ok) {
+    console.error("⚠️ Plus de listes en repli que de fraîches — anomalie probable (proxy/TMDB).");
+    process.exit(1);
   }
 }
 
