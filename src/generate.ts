@@ -16,6 +16,8 @@ import { MEDIA_TYPES, PLATFORMS, PUBLIC_DIR } from "./config.ts";
 import { writeCatalog } from "./build/catalog.ts";
 import { writeManifest } from "./build/manifest.ts";
 import { toMetaPreview } from "./build/meta.ts";
+import { buildPoster, posterKey } from "./poster/compose.ts";
+import { DEFAULT_VARIANT, VARIANTS } from "./poster/variants.ts";
 import { fetchTop10 } from "./scrape/flixpatrol.ts";
 import { parseTop10 } from "./scrape/parse.ts";
 import { loadCache, saveCache } from "./tmdb/cache.ts";
@@ -27,6 +29,8 @@ const positional = args.filter((a) => !a.startsWith("--"));
 const cmd = positional[0] ?? "build";
 const dry = args.includes("--dry");
 const only = args.find((a) => a.startsWith("--only="))?.slice("--only=".length);
+const variantName = args.find((a) => a.startsWith("--variant="))?.slice("--variant=".length) ?? DEFAULT_VARIANT;
+const variant = VARIANTS[variantName] ?? VARIANTS[DEFAULT_VARIANT]!;
 
 async function build(): Promise<void> {
   const platforms = only ? PLATFORMS.filter((p) => p.slug === only || p.id === only) : PLATFORMS;
@@ -42,7 +46,9 @@ async function build(): Promise<void> {
       const metas: MetaPreview[] = [];
       for (const entry of parsed[type]) {
         const title = await resolveTitle(entry, type, cache);
-        metas.push(toMetaPreview(title, entry));
+        const key = posterKey(platform.id, type, entry.rank);
+        if (!dry) await buildPoster({ posterUrl: title.posterUrl, rank: entry.rank, key, variant });
+        metas.push(toMetaPreview(title, entry, key));
       }
       console.error(`   ${type === "movie" ? "🎬 Films " : "📺 Séries"} : ${metas.length} titres`);
       if (dry) metas.forEach((m, i) => console.error(`      ${String(i + 1).padStart(2)}. ${m.name}  [${m.id}]`));

@@ -18,8 +18,15 @@ export const POSTERS_DIR = join(PUBLIC_DIR, "posters");
 // ─────────── Publication ───────────
 /** Base de l'URL publique (GitHub Pages) — sert à fabriquer les URLs d'affiches. */
 export const PAGES_BASE = "https://apertaa.github.io/stremio-top10-fr";
+/** Base réellement servie : override en local/tunnel via `ADDON_BASE_URL` (sinon GitHub Pages). */
+export const BASE_URL = process.env.ADDON_BASE_URL || PAGES_BASE;
 /** Préfixe des affiches TMDB (w780 = bon compromis qualité/poids). */
 export const TMDB_IMG = "https://image.tmdb.org/t/p/w780";
+/** Date du run AAAAMMJJ (UTC) — version du manifest + paramètre anti-cache des affiches. */
+export const BUILD_DATE = ((d = new Date()) => {
+  const p = (n: number) => String(n).padStart(2, "0");
+  return `${d.getUTCFullYear()}${p(d.getUTCMonth() + 1)}${p(d.getUTCDate())}`;
+})();
 
 // ─────────── Réglages ───────────
 /** Types de média traités, dans l'ordre. */

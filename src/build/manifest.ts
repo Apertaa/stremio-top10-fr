@@ -7,7 +7,7 @@
  */
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
-import { PAGES_BASE, PUBLIC_DIR } from "../config.ts";
+import { BASE_URL, BUILD_DATE, PUBLIC_DIR } from "../config.ts";
 import type { PlatformConfig } from "../types.ts";
 
 export function writeManifest(platforms: PlatformConfig[]): void {
@@ -17,11 +17,11 @@ export function writeManifest(platforms: PlatformConfig[]): void {
   ]);
   const manifest = {
     id: "fr.apertaa.top10",
-    version: `1.0.${buildDate()}`,
+    version: `1.0.${BUILD_DATE}`,
     name: "Top 10 FR 🔟",
     description:
       "Les vrais Top 10 du jour par plateforme en France (Netflix, Disney+, Prime Video, Apple TV+, HBO Max, Paramount+, Canal+) — films et séries, mis à jour chaque jour.",
-    logo: `${PAGES_BASE}/posters/_logo.png`,
+    logo: `${BASE_URL}/posters/_logo.png`,
     resources: ["catalog"],
     types: ["movie", "series"],
     idPrefixes: ["tt", "tmdb:"],
@@ -29,11 +29,4 @@ export function writeManifest(platforms: PlatformConfig[]): void {
     behaviorHints: { configurable: false },
   };
   writeFileSync(join(PUBLIC_DIR, "manifest.json"), `${JSON.stringify(manifest, null, 2)}\n`);
-}
-
-/** Date du jour AAAAMMJJ (UTC) — sert de patch de version pour aider les clients à revalider. */
-function buildDate(): string {
-  const d = new Date();
-  const p = (n: number) => String(n).padStart(2, "0");
-  return `${d.getUTCFullYear()}${p(d.getUTCMonth() + 1)}${p(d.getUTCDate())}`;
 }
