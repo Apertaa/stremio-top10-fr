@@ -8,7 +8,7 @@
  *      (un échec garde le fichier de la veille, versionné).
  *   2. AFFICHES — régénère TOUTES les affiches custom depuis l'arbre `data/` (découplé du scrape : une liste
  *      conservée de la veille garde une affiche cohérente). Posters NON versionnés (cf. workflow CI).
- *   3. CARTE — écrit `availability.json` (combos réellement produits) + le manifest « France par défaut ».
+ *   3. CARTE — écrit `availability.json` (combos réellement produits, lu par le Worker et la page de config).
  *
  * Commandes :
  *   (défaut) build [--dry] [--only=<source>] [--country=<pays>]   pipeline complet
