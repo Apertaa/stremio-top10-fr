@@ -1,0 +1,138 @@
+{
+  "country": "belgium",
+  "key": "disney",
+  "list": "series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt33550053",
+      "name": "9-1-1: Nashville",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+      "rating": 8.181,
+      "year": 2025,
+      "days": 23,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt35728748",
+      "name": "Alice et Steve",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
+      "rating": 6.8,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 62,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0413573",
+      "name": "Grey's Anatomy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
+      "rating": 8.209,
+      "year": 2005,
+      "days": 20,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0410975",
+      "name": "Desperate Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": 21,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt21906238",
+      "name": "Rivals",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
+      "rating": 7.4,
+      "year": 2024,
+      "days": 33,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt21441010",
+      "name": "Good American Family",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KUSPrM65y2AE9t3FOd0LAuvBCW.jpg",
+      "rating": 7.625,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt17543592",
+      "name": "Will Trent",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rM3SSO2ZtNssvSCn0VubX92IgkO.jpg",
+      "rating": 7.238,
+      "year": 2023,
+      "days": 1,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}

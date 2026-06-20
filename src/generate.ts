@@ -1,28 +1,44 @@
 #!/usr/bin/env bun
 /**
- * generate.ts — orchestrateur + CLI du générateur « Top 10 FR ».
+ * generate.ts — orchestrateur + CLI du générateur « Top 10 FR » (multi-pays, configurable).
  *
- * Pour chaque plateforme et chaque type (films/séries) : scrape FlixPatrol (via r.jina.ai) → parse →
- * résout chaque titre sur TMDB (fiche FR + IMDb) → écrit le catalogue Stremio. Puis écrit le manifest.
+ * Pipeline quotidien :
+ *   1. DONNÉES — pour chaque pays × source × liste : scrape FlixPatrol (via r.jina.ai) → parse → résout
+ *      sur TMDB (fiche FR + IMDb) → écrit `data/<pays>/<source>/<liste>.json`. Filet de sécurité par liste
+ *      (un échec garde le fichier de la veille, versionné).
+ *   2. AFFICHES — régénère TOUTES les affiches custom depuis l'arbre `data/` (découplé du scrape : une liste
+ *      conservée de la veille garde une affiche cohérente). Posters NON versionnés (cf. workflow CI).
+ *   3. CARTE — écrit `availability.json` (combos réellement produits) + le manifest « France par défaut ».
  *
  * Commandes :
- *   (défaut) build [--dry] [--only=<slug>]   pipeline complet ; --dry n'écrit rien (debug/CI) ; --only cible une plateforme
- *   scrape <slug>                            dump du Markdown brut d'une plateforme (debug parsing)
- *   verify                                   valide les catalogues produits (10 entrées, ids, posters)
+ *   (défaut) build [--dry] [--only=<source>] [--country=<pays>]   pipeline complet
+ *   scrape <slug> [pays]                                          dump du Markdown brut (debug parsing)
+ *   verify                                                        valide l'arbre produit
  */
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { writeCatalog } from "./build/catalog.ts";
-import { writeManifest } from "./build/manifest.ts";
-import { toMetaPreview } from "./build/meta.ts";
-import { MEDIA_TYPES, PLATFORMS, PUBLIC_DIR } from "./config.ts";
-import { buildPoster, posterKey } from "./poster/compose.ts";
+import { buildAvailability, writeAvailability } from "./build/availability.ts";
+import { dataFileExists, scanDataFiles, writeDataFile } from "./build/data.ts";
+import { writeLegacyFrance } from "./build/legacy.ts";
+import {
+  BUILD_DAY,
+  COUNTRIES,
+  DEFAULT_COUNTRY,
+  LIST_KEYS,
+  POSTERS_DIR,
+  PUBLIC_DIR,
+  SOURCES,
+  listMedia,
+  posterKey,
+} from "./config.ts";
+import { buildPoster } from "./poster/compose.ts";
+import { makeLogo } from "./poster/magick.ts";
 import { DEFAULT_VARIANT, VARIANTS } from "./poster/variants.ts";
 import { fetchTop10 } from "./scrape/flixpatrol.ts";
-import { parseTop10 } from "./scrape/parse.ts";
+import { parseList } from "./scrape/parse.ts";
 import { loadCache, saveCache } from "./tmdb/cache.ts";
 import { resolveTitle } from "./tmdb/resolve.ts";
-import type { Entry, MediaType, MetaPreview } from "./types.ts";
+import type { DataEntry, ListKey, Source } from "./types.ts";
 
 const msg = (e: unknown) => (e instanceof Error ? e.message : String(e));
 
@@ -31,86 +47,151 @@ const positional = args.filter((a) => !a.startsWith("--"));
 const cmd = positional[0] ?? "build";
 const dry = args.includes("--dry");
 const only = args.find((a) => a.startsWith("--only="))?.slice("--only=".length);
+const onlyCountry = args.find((a) => a.startsWith("--country="))?.slice("--country=".length);
 const variantName = args.find((a) => a.startsWith("--variant="))?.slice("--variant=".length) ?? DEFAULT_VARIANT;
 const variant = VARIANTS[variantName] ?? VARIANTS[DEFAULT_VARIANT]!;
 
+/** Listes qu'une source peut produire (section présente, ou films dérivés de l'« Overall »). */
+function sourceLists(source: Source): ListKey[] {
+  return LIST_KEYS.filter((l) => source.sections[l] || (l === "movie" && source.sections.overall));
+}
+
+/** Résout une liste d'entrées FlixPatrol en entrées de données enrichies (fiche FR + IMDb + affiche source). */
+async function resolveEntries(md: string, source: Source, list: ListKey, cache: ReturnType<typeof loadCache>) {
+  const entries = parseList(md, source, list);
+  const out: DataEntry[] = [];
+  for (const entry of entries) {
+    const title = await resolveTitle(entry, listMedia(list), cache);
+    out.push({
+      rank: entry.rank,
+      id: title.imdbId ?? (title.tmdbId ? `tmdb:${title.tmdbId}` : `top10:${entry.fpSlug}`),
+      name: title.titleFr,
+      tmdbPosterUrl: title.posterUrl,
+      rating: title.rating,
+      year: title.year,
+      days: entry.days,
+      trend: entry.trend,
+    });
+  }
+  return out;
+}
+
 async function build(): Promise<void> {
-  const platforms = only ? PLATFORMS.filter((p) => p.slug === only || p.id === only) : PLATFORMS;
-  if (!platforms.length) throw new Error(`Aucune plateforme ne correspond à --only=${only}`);
+  const countries = COUNTRIES.filter((c) => !onlyCountry || c.slug === onlyCountry);
+  const sources = SOURCES.filter((s) => !only || s.key === only);
+  if (!countries.length) throw new Error(`Aucun pays ne correspond à --country=${onlyCountry}`);
+  if (!sources.length) throw new Error(`Aucune source ne correspond à --only=${only}`);
 
   const cache = loadCache();
-  let ok = 0;
-  let fallback = 0;
+  let fresh = 0;
+  let kept = 0;
 
-  for (const platform of platforms) {
-    console.error(`\n📡 ${platform.name} (${platform.slug})`);
-    // Filet de sécurité niveau plateforme : si le scrape échoue, on garde films + séries de la veille.
-    let parsed: Record<MediaType, Entry[]>;
-    try {
-      parsed = parseTop10(await fetchTop10(platform.slug), platform);
-    } catch (e) {
-      console.error(`   ❌ scrape échoué (${msg(e)}) → on garde les fichiers de la veille`);
-      fallback += MEDIA_TYPES.length;
-      continue;
-    }
-    // Filet de sécurité niveau liste : un type qui échoue ne touche pas son fichier de la veille.
-    for (const type of MEDIA_TYPES) {
+  // ─── 1. DONNÉES ───
+  for (const country of countries) {
+    for (const source of sources) {
+      const lists = sourceLists(source);
+      let md: string;
       try {
-        const entries = parsed[type];
-        if (entries.length === 0) throw new Error("aucune entrée");
-        const metas: MetaPreview[] = [];
-        for (const entry of entries) {
-          const title = await resolveTitle(entry, type, cache);
-          const key = posterKey(platform.id, type, entry.rank);
-          if (!dry) await buildPoster({ posterUrl: title.posterUrl, rank: entry.rank, key, variant });
-          metas.push(toMetaPreview(title, entry, key));
-        }
-        console.error(`   ${type === "movie" ? "🎬 Films " : "📺 Séries"} : ${metas.length} titres`);
-        if (dry) metas.forEach((m, i) => console.error(`      ${String(i + 1).padStart(2)}. ${m.name}  [${m.id}]`));
-        else writeCatalog(platform, type, metas);
-        ok++;
+        md = await fetchTop10(source.slug, country.slug);
       } catch (e) {
-        console.error(`   ❌ ${type} : ${msg(e)} → on garde le fichier de la veille`);
-        fallback++;
+        // Scrape échoué : on garde tous les fichiers de la veille de ce (pays, source).
+        const survived = lists.filter((l) => dataFileExists(country.slug, source.key, l)).length;
+        kept += survived;
+        console.error(`  ⏳ ${country.slug}/${source.key} : scrape KO (${msg(e)}) → ${survived} liste(s) gardée(s)`);
+        continue;
+      }
+      for (const list of lists) {
+        try {
+          const entries = await resolveEntries(md, source, list, cache);
+          if (entries.length === 0) {
+            // Section absente pour ce pays : on garde la veille si elle existe, sinon rien.
+            if (dataFileExists(country.slug, source.key, list)) kept++;
+            continue;
+          }
+          if (!dry) writeDataFile(country.slug, source.key, list, BUILD_DAY, entries);
+          fresh++;
+        } catch (e) {
+          if (dataFileExists(country.slug, source.key, list)) kept++;
+          console.error(`  ⚠️ ${country.slug}/${source.key}/${list} : ${msg(e)} → veille gardée`);
+        }
       }
     }
+    console.error(`📡 ${country.name} traité.`);
+  }
+  saveCache(cache);
+
+  // ─── 2. AFFICHES (depuis l'arbre data/, donc cohérentes même pour les listes conservées) ───
+  if (!dry) {
+    mkdirSync(POSTERS_DIR, { recursive: true });
+    makeLogo(variant.font, join(POSTERS_DIR, "_logo.png"));
+    const files = scanDataFiles();
+    let posters = 0;
+    let posterFail = 0;
+    for (const f of files) {
+      for (const e of f.entries) {
+        try {
+          await buildPoster({
+            posterUrl: e.tmdbPosterUrl,
+            rank: e.rank,
+            key: posterKey(f.country, f.key, f.list, e.rank),
+            variant,
+          });
+          posters++;
+        } catch (err) {
+          posterFail++;
+          if (posterFail <= 5) console.error(`  🖼️ affiche KO ${f.country}/${f.key}/${f.list}#${e.rank} : ${msg(err)}`);
+        }
+      }
+    }
+    console.error(`🖼️ ${posters} affiches générées${posterFail ? `, ${posterFail} échecs` : ""}.`);
+
+    // ─── 3. CARTE + compat France ───
+    writeAvailability(buildAvailability(files));
+    writeLegacyFrance();
   }
 
-  saveCache(cache); // on garde les correspondances trouvées, même en --dry
-  if (!dry) {
-    writeManifest(PLATFORMS); // le manifest liste TOUJOURS les 7 plateformes, même avec --only
-    console.error(`\n✅ ${ok} listes fraîches, ${fallback} conservées de la veille. Manifest écrit.`);
-  }
-  // Garde-fou : si plus de la moitié des listes sont en repli (panne proxy/TMDB), sortir en erreur — SANS
-  // rien écraser (les fichiers de la veille restent intacts), pour alerter la CI.
-  if (!dry && fallback > ok) {
-    console.error("⚠️ Plus de listes en repli que de fraîches — anomalie probable (proxy/TMDB).");
+  console.error(`\n✅ ${fresh} listes fraîches, ${kept} conservées de la veille.`);
+  // Garde-fou CI : panne totale (proxy/TMDB) → sortir en erreur SANS rien écraser d'utile.
+  if (!dry && fresh === 0) {
+    console.error("⚠️ Aucune liste fraîche — anomalie probable (proxy/TMDB).");
     process.exit(1);
   }
 }
 
-/** Valide les fichiers produits : chaque catalogue du manifest existe, est non vide, metas bien formées. */
+/** Valide l'arbre produit : availability + fichiers data référencés + manifest France. */
 async function verify(): Promise<void> {
-  const manifestFile = join(PUBLIC_DIR, "manifest.json");
-  if (!existsSync(manifestFile)) throw new Error("public/manifest.json absent — lance d'abord `build`.");
-  const manifest = JSON.parse(readFileSync(manifestFile, "utf8"));
+  const availFile = join(PUBLIC_DIR, "availability.json");
+  if (!existsSync(availFile)) throw new Error("public/availability.json absent — lance d'abord `build`.");
+  const avail = JSON.parse(readFileSync(availFile, "utf8"));
   let problems = 0;
-  for (const cat of manifest.catalogs) {
-    const file = join(PUBLIC_DIR, "catalog", cat.type, `${cat.id}.json`);
-    if (!existsSync(file)) {
-      console.error(`❌ catalogue manquant : ${cat.type}/${cat.id}`);
-      problems++;
-      continue;
+  let lists = 0;
+  for (const [country, bySource] of Object.entries(avail.combos as Record<string, Record<string, ListKey[]>>)) {
+    for (const [key, ls] of Object.entries(bySource)) {
+      for (const list of ls) {
+        lists++;
+        const file = join(PUBLIC_DIR, "data", country, key, `${list}.json`);
+        if (!existsSync(file)) {
+          console.error(`❌ data manquant : ${country}/${key}/${list}`);
+          problems++;
+          continue;
+        }
+        const data = JSON.parse(readFileSync(file, "utf8"));
+        const bad = data.entries.filter((e: DataEntry) => !e.id || !e.name).length;
+        if (!data.entries.length || bad) {
+          console.error(
+            `❌ ${country}/${key}/${list} : ${data.entries.length} entrées${bad ? `, ${bad} incomplètes` : ""}`,
+          );
+          problems++;
+        }
+      }
     }
-    const metas = JSON.parse(readFileSync(file, "utf8")).metas;
-    const bad = metas.filter((m: any) => !m.id || !m.type || !m.name || !m.poster).length;
-    const unresolved = metas.filter((m: any) => String(m.id).startsWith("top10:")).length;
-    if (!metas.length || bad) problems++;
-    console.error(
-      `${!metas.length || bad ? "❌" : "✅"} ${cat.type}/${cat.id} : ${metas.length} metas${bad ? `, ${bad} incomplètes` : ""}${unresolved ? `, ${unresolved} non résolus` : ""}`,
-    );
   }
-  console.error(problems ? `\n⚠️ ${problems} problème(s).` : "\n✅ Tous les catalogues sont valides.");
+  const manifest = join(PUBLIC_DIR, "manifest.json");
+  if (!existsSync(manifest)) {
+    console.error("❌ public/manifest.json (France par défaut) absent.");
+    problems++;
+  }
+  console.error(problems ? `\n⚠️ ${problems} problème(s) sur ${lists} listes.` : `\n✅ ${lists} listes valides.`);
   if (problems) process.exit(1);
 }
 
@@ -124,12 +205,15 @@ async function main(): Promise<void> {
       break;
     case "scrape": {
       const slug = positional[1];
-      if (!slug) throw new Error("Usage : scrape <slug>");
-      console.log(await fetchTop10(slug));
+      const country = positional[2] ?? DEFAULT_COUNTRY;
+      if (!slug) throw new Error("Usage : scrape <slug> [pays]");
+      console.log(await fetchTop10(slug, country));
       break;
     }
     default:
-      console.error("Commandes : build [--dry] [--only=<slug>]  ·  scrape <slug>  ·  verify");
+      console.error(
+        "Commandes : build [--dry] [--only=<source>] [--country=<pays>]  ·  scrape <slug> [pays]  ·  verify",
+      );
       process.exit(1);
   }
 }

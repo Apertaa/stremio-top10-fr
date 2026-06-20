@@ -1,0 +1,138 @@
+{
+  "country": "canada",
+  "key": "global",
+  "list": "movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt1294226",
+      "name": "La Dernière Chanson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
+      "rating": 7.2,
+      "year": 2010,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt9883398",
+      "name": "Long Distance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
+      "rating": 6.532,
+      "year": 2024,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt8323668",
+      "name": "Jerry & Marge Go Large",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
+      "rating": 7.379,
+      "year": 2022,
+      "days": 14,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt38681832",
+      "name": "Les Couleurs du mal : Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
+      "rating": 6.703,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0104070",
+      "name": "La mort vous va si bien",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62DPuJy63ZAK62NxWB04bKCXrye.jpg",
+      "rating": 6.8,
+      "year": 1992,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt40792117",
+      "name": "L'Accident",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCJTvf7xZpqoEXF9PFf9t5jttxl.jpg",
+      "rating": 6.935,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt29540862",
+      "name": "Bhooth Bangla",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nDZdP9NBxvbIabDQflfhKXVTjnz.jpg",
+      "rating": 5.3,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 41,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}

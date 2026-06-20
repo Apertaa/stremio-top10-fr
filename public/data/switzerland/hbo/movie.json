@@ -1,0 +1,125 @@
+{
+  "country": "switzerland",
+  "key": "hbo",
+  "list": "movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "top10:ach-diese-lucke-diese-entsetzliche-lucke",
+      "name": "Ach, diese Lücke, diese entsetzliche Lücke",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 13,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt30851137",
+      "name": "The Bride!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
+      "rating": 6.171,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0110413",
+      "name": "Léon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
+      "rating": 8.294,
+      "year": 1994,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt6443346",
+      "name": "Black Adam",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYALH5NPM7xk2XQd2J8wrfmliIW.jpg",
+      "rating": 6.8,
+      "year": 2022,
+      "days": 26,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt18382850",
+      "name": "Si j'en avais la force",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ua6xDVAQ58zasCEfbGPVqHJOP70.jpg",
+      "rating": 6.335,
+      "year": 2025,
+      "days": 20,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0114069",
+      "name": "Alerte !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tDyhyelvT9iphZAWwNXGu7vbs7P.jpg",
+      "rating": 6.568,
+      "year": 1995,
+      "days": 24,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0093058",
+      "name": "Full Metal Jacket",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cShwwkz4gBBIRj8yFy8TP2tEWZ4.jpg",
+      "rating": 8.118,
+      "year": 1987,
+      "days": 29,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt13638858",
+      "name": "La Proie des Ombres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qCwqnTW5DEATFlQ3mACBm2GpTiM.jpg",
+      "rating": 6.857,
+      "year": 2024,
+      "days": 17,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    }
+  ]
+}

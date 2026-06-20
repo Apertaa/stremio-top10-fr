@@ -22,6 +22,34 @@ function run(args: string[], context: string): void {
   }
 }
 
+/** Génère le logo carré de l'addon (« 10 » blanc sur fond sombre) dans `out`. */
+export function makeLogo(font: string, out: string): void {
+  run(
+    [
+      "-size",
+      "512x512",
+      "canvas:#0b0b0b",
+      "-font",
+      font,
+      "-pointsize",
+      "300",
+      "-fill",
+      "#ffffff",
+      "-stroke",
+      "#9a9a9a",
+      "-strokewidth",
+      "4",
+      "-gravity",
+      "center",
+      "-annotate",
+      "+0+0",
+      "10",
+      out,
+    ],
+    "logo",
+  );
+}
+
 /** Génère le chiffre (remplissage foncé + contour clair + ombre portée) dans un PNG temporaire, hauteur `h`. */
 function renderNumber(rank: number, v: Variant, h: number): string {
   const out = join(tmpdir(), `top10-num-${v.name}-${rank}-${h}.png`);

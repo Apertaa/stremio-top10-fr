@@ -1,0 +1,138 @@
+{
+  "country": "united-kingdom",
+  "key": "hbo",
+  "list": "series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
+      "rating": 8.746,
+      "year": 2025,
+      "days": 3,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt2861424",
+      "name": "Rick et Morty",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "rating": 8.679,
+      "year": 2013,
+      "days": 3,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt8772296",
+      "name": "Euphoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "rating": 8.287,
+      "year": 2019,
+      "days": 3,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt42835175",
+      "name": "Bring Me the Beauties: A Model Cult",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt42907659",
+      "name": "Big Girls Wanted: Escaping Pearadise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tmdb:312384",
+      "name": "Mock the Week",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFNTdzP3obJEE33dQ0v69uauCKF.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt40444386",
+      "name": "Evil Lives Here: My Child the Killer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yRVjMeuY7E5lTtUPU9P7TNKA6mp.jpg",
+      "rating": 7.7,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0804503",
+      "name": "Mad Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A9FdR46H6Fl9p1nOMMRQHKrmtiH.jpg",
+      "rating": 8.117,
+      "year": 2007,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt11617414",
+      "name": "Sœurs de poids",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6TkxFK6wxirZDRy8DHsFW63uAL.jpg",
+      "rating": 7.2,
+      "year": 2020,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
+      "rating": 8.746,
+      "year": 2025,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    }
+  ]
+}

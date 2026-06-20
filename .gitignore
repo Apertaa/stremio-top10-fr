@@ -1,10 +1,18 @@
 # Dépendances (le projet tourne sous Bun sans build ; bun-types/biome sont dev-only)
 node_modules/
 
+# Artefacts temporaires de Wrangler (Worker Cloudflare)
+.wrangler/
+
 # Secrets locaux (les clés TMDB en local ; en CI = secrets GitHub Actions)
 .env
 .env.*
 !.env.example
+
+# Affiches : régénérées à chaque run depuis public/data/ et publiées via l'artefact Pages.
+# On ne les VERSIONNE PAS (sinon le dépôt gonflerait de ~930 images/jour). Elles existent sur le
+# disque au moment du déploiement, donc elles partent bien dans l'artefact GitHub Pages.
+/public/posters/
 
 # Divers
 .DS_Store

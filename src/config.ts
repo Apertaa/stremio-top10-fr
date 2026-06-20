@@ -1,19 +1,29 @@
 /**
- * config.ts — constantes du générateur « Top 10 FR » (plateformes, chemins, réglages).
+ * config.ts — constantes du générateur « Top 10 FR » (pays, sources, listes, chemins, réglages).
  *
  * Les chemins sont résolus par rapport à la RACINE du dépôt (calculée depuis ce fichier),
  * pour que le générateur écrive au bon endroit quel que soit le répertoire courant.
  */
 import { dirname, join } from "node:path";
-import type { MediaType, PlatformConfig } from "./types.ts";
+import type { Audience, Country, ListKey, MediaType, Source, TmdbType } from "./types.ts";
 
 // ─────────── Chemins ───────────
 /** Racine du dépôt : ce fichier vit dans `src/`, donc on remonte d'un cran. */
 export const ROOT = dirname(import.meta.dir);
 export const PUBLIC_DIR = join(ROOT, "public");
 export const CACHE_DIR = join(ROOT, "cache");
-export const DATA_DIR = join(ROOT, "data");
+export const DATA_DIR = join(PUBLIC_DIR, "data");
 export const POSTERS_DIR = join(PUBLIC_DIR, "posters");
+
+/** Chemin du fichier de données d'une (pays, source, liste). */
+export function dataFilePath(country: string, key: string, list: ListKey): string {
+  return join(DATA_DIR, country, key, `${list}.json`);
+}
+
+/** Clé d'affiche stable `<pays>-<source>-<liste>-<rang>` (l'URL ne change pas, le contenu oui). */
+export function posterKey(country: string, key: string, list: ListKey, rank: number): string {
+  return `${country}-${key}-${list}-${rank}`;
+}
 
 // ─────────── Publication ───────────
 /** Déploiement de référence — dernier repli quand on tourne hors CI et sans override. */
@@ -31,8 +41,8 @@ function resolveBaseUrl(): string {
   if (explicit) return explicit.replace(/\/+$/, "");
 
   const repo = process.env.GITHUB_REPOSITORY?.trim(); // format "owner/name"
-  if (repo?.includes("/")) {
-    const [owner, name] = repo.split("/");
+  const [owner, name] = repo?.split("/") ?? [];
+  if (owner && name) {
     const host = `${owner.toLowerCase()}.github.io`;
     // Dépôt nommé « owner.github.io » → Pages à la racine ; sinon Pages de projet « /name ».
     return name.toLowerCase() === host ? `https://${host}` : `https://${host}/${name}`;
@@ -49,45 +59,75 @@ export const BUILD_DATE = ((d = new Date()) => {
   const p = (n: number) => String(n).padStart(2, "0");
   return `${d.getUTCFullYear()}${p(d.getUTCMonth() + 1)}${p(d.getUTCDate())}`;
 })();
+/** Date AAAA-MM-JJ (UTC), stockée dans les fichiers `data/`. */
+export const BUILD_DAY = `${BUILD_DATE.slice(0, 4)}-${BUILD_DATE.slice(4, 6)}-${BUILD_DATE.slice(6, 8)}`;
 
 // ─────────── Réglages ───────────
-/** Types de média traités, dans l'ordre. */
-export const MEDIA_TYPES: MediaType[] = ["movie", "series"];
 /** Seuil de santé : en dessous de N entrées résolues, on garde la veille (filet de sécurité). */
 export const HEALTH_MIN = 8;
-/** Forme d'affiche (figée après validation visuelle TV — étape 3). */
-export const POSTER_SHAPE: MetaShape = "poster";
+/** Forme d'affiche (figée après validation visuelle TV). */
+export const POSTER_SHAPE = "poster" as const;
 
-type MetaShape = "poster" | "square" | "landscape";
+/** Les quatre listes possibles, dans l'ordre de génération. */
+export const LIST_KEYS: ListKey[] = ["movie", "series", "kids-movie", "kids-series"];
 
-// ─────────── Plateformes (ordre = celui de l'accueil de Sébastien) ───────────
-const STD_SECTIONS = { movie: "TOP 10 Movies", series: "TOP 10 TV Shows" } as const;
+/** Média Stremio d'une liste (`kids-movie` reste un film). */
+export function listMedia(list: ListKey): MediaType {
+  return list.endsWith("series") ? "series" : "movie";
+}
+/** Type TMDB d'une liste. */
+export function listTmdbType(list: ListKey): TmdbType {
+  return listMedia(list) === "series" ? "tv" : "movie";
+}
+/** Public d'une liste. */
+export function listAudience(list: ListKey): Audience {
+  return list.startsWith("kids") ? "kids" : "main";
+}
 
-export const PLATFORMS: PlatformConfig[] = [
-  { slug: "netflix", fpName: "Netflix", id: "top10-netflix", name: "🔴 Netflix", sections: { ...STD_SECTIONS } },
-  { slug: "disney", fpName: "Disney+", id: "top10-disney", name: "🏰 Disney+", sections: { ...STD_SECTIONS } },
-  {
-    slug: "amazon-prime",
-    fpName: "Amazon Prime Video",
-    id: "top10-prime",
-    name: "📦 Prime Video",
-    sections: { ...STD_SECTIONS },
-  },
-  { slug: "apple-tv", fpName: "Apple TV+", id: "top10-apple", name: "🍎 Apple TV+", sections: { ...STD_SECTIONS } },
-  { slug: "hbo-max", fpName: "HBO Max", id: "top10-hbo", name: "🎭 HBO Max", sections: { ...STD_SECTIONS } },
-  {
-    slug: "paramount-plus",
-    fpName: "Paramount+",
-    id: "top10-paramount",
-    name: "🗻 Paramount+",
-    sections: { ...STD_SECTIONS },
-  },
+// ─────────── Pays (la France d'abord ; ordre = affichage par défaut) ───────────
+export const COUNTRIES: Country[] = [
+  { slug: "france", name: "France", flag: "🇫🇷" },
+  { slug: "belgium", name: "Belgique", flag: "🇧🇪" },
+  { slug: "switzerland", name: "Suisse", flag: "🇨🇭" },
+  { slug: "canada", name: "Canada", flag: "🇨🇦" },
+  { slug: "united-states", name: "États-Unis", flag: "🇺🇸" },
+  { slug: "united-kingdom", name: "Royaume-Uni", flag: "🇬🇧" },
+];
+/** Pays par défaut (config simple sans personnalisation + rétro-compat). */
+export const DEFAULT_COUNTRY = "france";
+
+// ─────────── Sources (plateformes + agrégat « toutes plateformes ») ───────────
+const STD_SECTIONS = {
+  movie: "TOP 10 Movies",
+  series: "TOP 10 TV Shows",
+  "kids-movie": "TOP 10 Kids Movies",
+  "kids-series": "TOP 10 Kids TV Shows",
+} as const;
+
+/** Les 7 plateformes (ordre = celui de l'accueil de Sébastien). */
+export const PLATFORMS: Source[] = [
+  { key: "netflix", slug: "netflix", name: "🔴 Netflix", sections: { ...STD_SECTIONS } },
+  { key: "disney", slug: "disney", name: "🏰 Disney+", sections: { ...STD_SECTIONS } },
+  { key: "prime", slug: "amazon-prime", name: "📦 Prime Video", sections: { ...STD_SECTIONS } },
+  { key: "apple", slug: "apple-tv", name: "🍎 Apple TV+", sections: { ...STD_SECTIONS } },
+  { key: "hbo", slug: "hbo-max", name: "🎭 HBO Max", sections: { ...STD_SECTIONS } },
+  { key: "paramount", slug: "paramount-plus", name: "🗻 Paramount+", sections: { ...STD_SECTIONS } },
   // Canal+ : FlixPatrol n'expose pas de section « Movies » → films = « Overall » moins les séries.
   {
+    key: "canal",
     slug: "canal",
-    fpName: "Canal+",
-    id: "top10-canal",
     name: "📡 Canal+",
     sections: { series: "TOP 10 TV Shows", overall: "TOP 10 Overall" },
   },
 ];
+
+/** Agrégat « toutes plateformes confondues » (FlixPatrol slug `streaming`). */
+export const GLOBAL: Source = {
+  key: "global",
+  slug: "streaming",
+  name: "🌍 Toutes plateformes",
+  sections: { movie: "TOP 10 Movies", series: "TOP 10 TV Shows" },
+};
+
+/** Toutes les sources générées (plateformes + global). */
+export const SOURCES: Source[] = [...PLATFORMS, GLOBAL];

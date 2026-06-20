@@ -1,0 +1,138 @@
+{
+  "country": "switzerland",
+  "key": "prime",
+  "list": "movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 320,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt33311244",
+      "name": "À contre-sens 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
+      "rating": 7.374,
+      "year": 2025,
+      "days": 190,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 802,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt9663764",
+      "name": "Aquaman et le Royaume perdu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
+      "rating": 6.523,
+      "year": 2023,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tmdb:1651369",
+      "name": "Your Fault",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 336,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0800175",
+      "name": "Red Sonja",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rmoaCJYM2qVYL2LfJmQCkiEwMl.jpg",
+      "rating": 5.682,
+      "year": 2025,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt20048582",
+      "name": "Canary Black",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nov36BA6BxCSpDMMos7KW7pF6Em.jpg",
+      "rating": 6.217,
+      "year": 2024,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt34685692",
+      "name": "Over Your Dead Body",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 5
+      }
+    }
+  ]
+}

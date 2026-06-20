@@ -1,0 +1,138 @@
+{
+  "country": "france",
+  "key": "netflix",
+  "list": "kids-series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 68,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt7699866",
+      "name": "Simon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcoDTpylduKBQMkwCUwybXUyILc.jpg",
+      "rating": 7.9,
+      "year": 2016,
+      "days": 833,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 767,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt12363714",
+      "name": "Les Sisters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
+      "rating": 6,
+      "year": 2017,
+      "days": 883,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 73,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1074443",
+      "name": "Trotro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9LFlpS1Ei9AJEPr1RmLirkv1yS.jpg",
+      "rating": 6.4,
+      "year": 2004,
+      "days": 708,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 867,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 790,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt9165438",
+      "name": "Gabby et la maison magique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "rating": 7.9,
+      "year": 2021,
+      "days": 752,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 88,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}

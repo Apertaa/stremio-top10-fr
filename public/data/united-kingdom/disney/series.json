@@ -1,0 +1,138 @@
+{
+  "country": "united-kingdom",
+  "key": "disney",
+  "list": "series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt35728748",
+      "name": "Alice et Steve",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
+      "rating": 6.8,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tmdb:288403",
+      "name": "The Basement: A Vanishing In Apple Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/87tNuRbktnhNgCIIyvR4dKSpAyM.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 44,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt21906238",
+      "name": "Rivals",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
+      "rating": 7.4,
+      "year": 2024,
+      "days": 43,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 15,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 41,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt42670541",
+      "name": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ijUqXJ8SpOyZo3BvfXqooHyQb7S.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt28698590",
+      "name": "Protection",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/plKvTWv4lczZUsKcVvxnPAn3had.jpg",
+      "rating": 7.7,
+      "year": 2024,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt23731346",
+      "name": "Princesse Sofia : Apprentie magicienne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
+      "rating": 9.4,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 61,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}

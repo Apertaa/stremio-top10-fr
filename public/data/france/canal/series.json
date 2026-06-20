@@ -1,0 +1,138 @@
+{
+  "country": "france",
+  "key": "canal",
+  "list": "series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 34,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 146,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27557666",
+      "name": "Sa majesté des mouches",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cwJRw5sUgvajwV0BdcVZp1rJZMV.jpg",
+      "rating": 7.58,
+      "year": 2026,
+      "days": 17,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt34675596",
+      "name": "Cape Fear - Les Nerfs à vif",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 11,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33204276",
+      "name": "The Madison",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6P6As5HNzlvbbAmp6cXunl9aH5C.jpg",
+      "rating": 8.107,
+      "year": 2026,
+      "days": 35,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt31438328",
+      "name": "La ville nous appartient",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt8772296",
+      "name": "Euphoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "rating": 8.287,
+      "year": 2019,
+      "days": 66,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt21088136",
+      "name": "Criminal Record",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1vTUmvdV0BEfxy4A8l8s0h0cSlp.jpg",
+      "rating": 6.587,
+      "year": 2024,
+      "days": 72,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt33332385",
+      "name": "Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
+      "rating": 8.202,
+      "year": 2026,
+      "days": 22,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt30459041",
+      "name": "Vrais voisins, faux amis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
+      "rating": 7.719,
+      "year": 2025,
+      "days": 74,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    }
+  ]
+}

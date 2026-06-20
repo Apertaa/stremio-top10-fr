@@ -1,5 +1,5 @@
 /**
- * parse.ts — extrait les entrées du Top 10 depuis le Markdown FlixPatrol (rendu par r.jina.ai).
+ * parse.ts — extrait les entrées d'une liste depuis le Markdown FlixPatrol (rendu par r.jina.ai).
  *
  * Format d'une ligne de rang (vérifié sur données réelles) :
  *   `1.–[Maternal Instinct](https://flixpatrol.com/title/maternal-instinct/)7 d`
@@ -8,29 +8,29 @@
  *    │ │ └ titre (souvent EN)
  *    │ └ tendance : `–`(stable) · `+N`(monte) · `-N`(descend) · `n/a`(nouveau)
  *    └ rang
- * Sections ciblées : `### TOP 10 Movies` / `### TOP 10 TV Shows` (on IGNORE `Kids …` et `Top ranked …`).
+ * Sections ciblées par liste : `### TOP 10 Movies` / `TV Shows` / `Kids Movies` / `Kids TV Shows`.
  */
-import type { Entry, MediaType, PlatformConfig, Trend } from "../types.ts";
+import type { Entry, ListKey, Source, Trend } from "../types.ts";
 
 // Tendance non vide (tout ce qui suit le `.` du rang jusqu'au `[`), puis [titre](url …/title/slug/), puis « N d ».
 const LINE_RE = /^(\d{1,2})\.([^[]*)\[([^\]]+)\]\(https:\/\/flixpatrol\.com\/title\/([^/)]+)\/?\)(?:\s*(\d+)\s*d)?/;
 
-/** Parse le Markdown d'une plateforme → { movie: Entry[], series: Entry[] }. */
-export function parseTop10(md: string, platform: PlatformConfig): Record<MediaType, Entry[]> {
-  const series = parseSection(md, platform.sections.series);
-  let movie: Entry[];
-  if (platform.sections.movie) {
-    movie = parseSection(md, platform.sections.movie);
-  } else if (platform.sections.overall) {
-    // Canal+ : pas de section « Movies » → films = « Overall » privé des séries, re-rangé 1..N.
+/**
+ * Parse une liste donnée d'une source depuis le Markdown.
+ * Cas Canal+ : pas de section « Movies » → films = « Overall » privé des séries, re-rangés 1..N.
+ * Retourne `[]` si la section n'existe pas (la source n'offre pas cette liste pour ce pays).
+ */
+export function parseList(md: string, source: Source, list: ListKey): Entry[] {
+  if (list === "movie" && !source.sections.movie && source.sections.overall) {
+    const series = source.sections.series ? parseSection(md, source.sections.series) : [];
     const seriesSlugs = new Set(series.map((e) => e.fpSlug));
-    movie = parseSection(md, platform.sections.overall)
+    return parseSection(md, source.sections.overall)
       .filter((e) => !seriesSlugs.has(e.fpSlug))
       .map((e, i) => ({ ...e, rank: i + 1 }));
-  } else {
-    movie = [];
   }
-  return { movie, series };
+  const header = source.sections[list];
+  if (!header) return [];
+  return parseSection(md, header);
 }
 
 /** Extrait les entrées d'une section `### <header>` (jusqu'à la section suivante). */

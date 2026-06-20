@@ -1,0 +1,138 @@
+{
+  "country": "united-states",
+  "key": "paramount",
+  "list": "movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 21,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt2312718",
+      "name": "Homefront",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ikZZjUENLBY2vR3UlecNVrWVoY.jpg",
+      "rating": 6.9,
+      "year": 2013,
+      "days": 14,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0350261",
+      "name": "Une Vie Inachevée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yV2zy8n2ZNynfMHm9vm2II5rvjT.jpg",
+      "rating": 6.8,
+      "year": 2005,
+      "days": 53,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 670,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 169,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt33028778",
+      "name": "Primate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "rating": 6.526,
+      "year": 2026,
+      "days": 85,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt35003538",
+      "name": "EPiC: Elvis Presley in Concert",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "rating": 8.3,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0936501",
+      "name": "Taken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg",
+      "rating": 7.407,
+      "year": 2008,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0193560",
+      "name": "Texas Rangers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69tMHlxiCYlYKGZm1aPH1u7hY88.jpg",
+      "rating": 6.016,
+      "year": 2001,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0345950",
+      "name": "Bob l'éponge, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
+      "rating": 7.089,
+      "year": 2004,
+      "days": 101,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}

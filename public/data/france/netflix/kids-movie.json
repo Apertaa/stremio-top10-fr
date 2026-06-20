@@ -1,0 +1,138 @@
+{
+  "country": "france",
+  "key": "netflix",
+  "list": "kids-movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt1860353",
+      "name": "Turbo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
+      "rating": 6.271,
+      "year": 2013,
+      "days": 40,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 359,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 48,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 494,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0351283",
+      "name": "Madagascar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aA1eZtISZ2rqUk2QIUgu1pXcHrm.jpg",
+      "rating": 6.923,
+      "year": 2005,
+      "days": 89,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt27604215",
+      "name": "Dans tes rêves",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
+      "rating": 6.968,
+      "year": 2025,
+      "days": 174,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt22184976",
+      "name": "Minions et compagnie - La compil' n° 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
+      "rating": 7.028,
+      "year": 2022,
+      "days": 65,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt4624424",
+      "name": "Cigognes et compagnie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uXAA01xLmVOFLXr2uwL6NAwJHh4.jpg",
+      "rating": 6.674,
+      "year": 2016,
+      "days": 28,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt10600398",
+      "name": "C'est nous les héros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dh4Yn148qvKGFFrRh0E6dzT4pVa.jpg",
+      "rating": 5.949,
+      "year": 2020,
+      "days": 19,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0348878",
+      "name": "T'choupi, Le Film - Le Mystère Des Jouets",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p5dPk9rWDIMGTVtunyziWFPz3lq.jpg",
+      "rating": 6.8,
+      "year": 2004,
+      "days": 18,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}

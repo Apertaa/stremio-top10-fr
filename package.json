@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Addon Stremio « Top 10 du jour » par plateforme (France) — généré chaque jour depuis FlixPatrol, fiches TMDB FR, affiches « gros chiffre » façon Netflix. 100% statique (GitHub Pages).",
+  "description": "Addon Stremio « Top 10 du jour » par plateforme et par pays — configurable, généré chaque jour depuis FlixPatrol, fiches TMDB FR, affiches « gros chiffre » façon Netflix. Données statiques (GitHub Pages) + Worker Cloudflare.",
   "keywords": [
     "stremio",
     "stremio-addon",
@@ -35,10 +35,14 @@
     "verify": "bun run src/generate.ts verify",
     "serve": "python3 -m http.server -d public 8088",
     "lint": "biome check .",
-    "format": "biome format --write ."
+    "format": "biome format --write .",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "bun-types": "latest"
+    "@cloudflare/workers-types": "^4.20240620.0",
+    "bun-types": "latest",
+    "typescript": "^5.6.0",
+    "wrangler": "^3.78.0"
   }
 }

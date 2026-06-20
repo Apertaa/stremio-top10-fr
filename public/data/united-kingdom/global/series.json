@@ -1,0 +1,138 @@
+{
+  "country": "united-kingdom",
+  "key": "global",
+  "list": "series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt34771210",
+      "name": "Sur tes traces",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt43491766",
+      "name": "The Rest Is Football",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt32146518",
+      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
+      "rating": 8.2,
+      "year": 2024,
+      "days": 51,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt43507442",
+      "name": "Outlast : La jungle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt31631015",
+      "name": "Sous ses yeux",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
+      "rating": 6.119,
+      "year": 2026,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt42543947",
+      "name": "The Polygamist",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
+      "rating": 7.382,
+      "year": 2026,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0066722",
+      "name": "Maîtres et Valets",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vptpN27HqU7kwIfPE1E07ffnK9n.jpg",
+      "rating": 7.806,
+      "year": 1971,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt42873612",
+      "name": "Michael Jackson : Le Verdict",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
+      "rating": 4.4,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt9077540",
+      "name": "À l'ombre des magnolias",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
+      "rating": 7.7,
+      "year": 2020,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt33265765",
+      "name": "Legends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
+      "rating": 7.7,
+      "year": 2026,
+      "days": 43,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    }
+  ]
+}

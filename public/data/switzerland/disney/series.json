@@ -1,0 +1,138 @@
+{
+  "country": "switzerland",
+  "key": "disney",
+  "list": "series",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt33550053",
+      "name": "9-1-1: Nashville",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+      "rating": 8.181,
+      "year": 2025,
+      "days": 26,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt35466672",
+      "name": "Malcolm : Rien n’a changé",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
+      "rating": 8.072,
+      "year": 2026,
+      "days": 61,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt40197357",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "rating": 7.863,
+      "year": 2026,
+      "days": 61,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 61,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt35728748",
+      "name": "Alice et Steve",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
+      "rating": 6.8,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt9074360",
+      "name": "Trackers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/flKid0CGSxJbvO2BDfDeKX7nkGC.jpg",
+      "rating": 6.3,
+      "year": 2019,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 61,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0410975",
+      "name": "Desperate Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": 12,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    }
+  ]
+}
