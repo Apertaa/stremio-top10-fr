@@ -10,9 +10,11 @@
         --card: #161616;
         --card2: #1f1f1f;
         --line: #2a2a2a;
+        --line2: #3a3a3a;
         --text: #ededed;
         --muted: #9a9a9a;
         --accent: #e50914;
+        --ok: #46d369;
       }
       * { box-sizing: border-box; }
       body {
@@ -22,44 +24,93 @@
         font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
         line-height: 1.5;
       }
-      .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 150px; }
-      header h1 { font-size: 1.6rem; margin: 0 0 4px; }
-      header p { color: var(--muted); margin: 0 0 20px; }
-      .hint { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; color: var(--muted); font-size: 0.92rem; margin-bottom: 20px; }
-      .hint b { color: var(--text); }
-      h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 24px 0 10px; }
-      .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 8px; overflow: hidden; }
+      .wrap { max-width: 720px; margin: 0 auto; padding: 28px 16px 220px; }
+
+      /* ── En-tête ── */
+      header h1 { font-size: 1.7rem; margin: 0 0 6px; }
+      .tagline { color: var(--text); margin: 0 0 14px; font-size: 1.02rem; }
+      .tagline b { color: var(--accent); }
+      details.how { background: var(--card); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 26px; }
+      details.how > summary { cursor: pointer; padding: 12px 16px; color: var(--muted); font-weight: 600; list-style: none; }
+      details.how > summary::-webkit-details-marker { display: none; }
+      details.how > summary::before { content: "▸ "; color: var(--accent); }
+      details.how[open] > summary::before { content: "▾ "; }
+      details.how ol { margin: 0; padding: 0 18px 14px 36px; color: var(--muted); }
+      details.how li { margin: 6px 0; }
+      details.how b { color: var(--text); }
+
+      /* ── Titres de section ── */
+      h2 { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 10px; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 30px 0 12px; }
+      h2 .num { display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; border-radius: 50%; background: var(--accent); color: #fff; font-size: 0.8rem; font-weight: 700; }
+      h2 .sub { text-transform: none; letter-spacing: 0; font-weight: 400; color: #6f6f6f; }
+
+      /* ── Cartes plateformes ── */
+      .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 9px; overflow: hidden; transition: border-color 0.15s; }
+      .card.on { border-color: var(--line2); }
       .card.global { background: var(--card2); }
-      .card.off { opacity: 0.5; }
-      .row { display: flex; align-items: center; gap: 10px; padding: 10px 14px; }
-      .main { display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0; cursor: pointer; }
-      .main .name { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-      input[type="checkbox"] { width: 20px; height: 20px; accent-color: var(--accent); cursor: pointer; flex: none; }
+      .card.off { opacity: 0.55; }
+      .row { display: flex; align-items: center; gap: 10px; padding: 12px 14px; flex-wrap: wrap; }
+      .main { display: flex; align-items: center; gap: 12px; flex: 1 1 auto; min-width: 130px; cursor: pointer; }
+      .main .name { font-weight: 600; font-size: 1.05rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      input[type="checkbox"] { width: 21px; height: 21px; accent-color: var(--accent); cursor: pointer; flex: none; }
+      .controls { display: flex; gap: 8px; align-items: center; flex: 0 1 auto; }
       select, input[type="text"] {
-        background: #0e0e0e; color: var(--text); border: 1px solid var(--line);
-        border-radius: 8px; padding: 7px 8px; font-size: 0.9rem;
+        background: #0e0e0e; color: var(--text); border: 1px solid var(--line2);
+        border-radius: 8px; padding: 8px 9px; font-size: 0.9rem;
       }
-      select { cursor: pointer; max-width: 38vw; }
-      .edit { background: #2a2a2a; color: var(--text); border: 0; border-radius: 8px; padding: 7px 9px; cursor: pointer; font-size: 0.95rem; flex: none; }
-      .edit.active { background: var(--accent); }
-      .namepanel { display: none; padding: 0 14px 14px; border-top: 1px solid var(--line); margin-top: 2px; }
+      select { cursor: pointer; }
+      .row .controls select { min-width: 0; }
+      .edit { background: #2a2a2a; color: var(--text); border: 1px solid var(--line2); border-radius: 8px; padding: 8px 11px; cursor: pointer; font-size: 0.88rem; white-space: nowrap; flex: none; }
+      /* Mobile : la case + le bouton « Nom » restent en haut, les menus passent en pleine largeur dessous. */
+      @media (max-width: 600px) {
+        .main { order: 1; }
+        .edit { order: 2; margin-left: auto; }
+        .controls { order: 5; flex: 1 1 100%; }
+        .row .controls select { flex: 1 1 0; }
+      }
+      .edit.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+      /* ── Panneau « personnaliser le nom » ── */
+      .namepanel { display: none; padding: 4px 14px 16px; border-top: 1px solid var(--line); background: #121212; }
       .namepanel.open { display: block; }
-      .namepanel label { display: block; color: var(--muted); font-size: 0.82rem; margin: 12px 0 4px; }
+      .namepanel label { display: block; color: var(--text); font-size: 0.9rem; font-weight: 600; margin: 14px 0 5px; }
+      .namepanel label small { color: var(--muted); font-weight: 400; }
       .namepanel input[type="text"], .namepanel select { width: 100%; max-width: none; }
-      .preview { margin-top: 12px; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 10px; font-size: 0.92rem; }
-      .preview .pv { font-weight: 600; }
-      .preview small { color: var(--muted); }
-      .toggle { display: flex; align-items: center; gap: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-bottom: 8px; }
-      .toggle .name { flex: 1; }
-      .toggle .name small { display: block; color: var(--muted); font-weight: 400; }
-      footer { position: fixed; left: 0; right: 0; bottom: 0; background: linear-gradient(180deg, transparent, #000 22%); padding: 14px 16px 18px; }
-      .panel { max-width: 760px; margin: 0 auto; background: var(--card2); border: 1px solid var(--line); border-radius: 14px; padding: 14px; }
-      .url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.78rem; color: var(--muted); word-break: break-all; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin-bottom: 10px; max-height: 60px; overflow: auto; }
+      .preview { margin-top: 14px; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 12px; font-size: 0.92rem; }
+      .preview .pv-line { margin-bottom: 7px; }
+      .preview .pv-line:last-child { margin-bottom: 0; }
+      .preview .pv-lbl { color: var(--muted); }
+      .preview b { color: var(--text); }
+      .preview .pv-note { color: var(--muted); font-size: 0.84rem; margin-top: 4px; }
+
+      /* ── Options (toggles + réglage type) ── */
+      .opt { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 13px 15px; margin-bottom: 9px; }
+      label.opt { cursor: pointer; }
+      .opt-row { display: flex; align-items: center; gap: 12px; }
+      .opt-row .name { flex: 1; font-weight: 600; }
+      .opt-row .name small { display: block; color: var(--muted); font-weight: 400; font-size: 0.85rem; margin-top: 2px; }
+      .opt-help { color: var(--muted); font-size: 0.86rem; margin: 10px 0 0; }
+      .opt-example { margin-top: 10px; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; font-size: 0.86rem; color: var(--muted); }
+      .opt-example .ex { color: var(--text); }
+      .opt-example .ex-tag { display: inline-block; min-width: 96px; color: var(--accent); font-weight: 600; }
+
+      /* ── Pied : installation ── */
+      footer { position: fixed; left: 0; right: 0; bottom: 0; background: linear-gradient(180deg, transparent, #000 26%); padding: 16px 16px 18px; }
+      .panel { max-width: 720px; margin: 0 auto; background: var(--card2); border: 1px solid var(--line2); border-radius: 14px; padding: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.5); }
+      .count { color: var(--muted); font-size: 0.86rem; margin-bottom: 10px; text-align: center; }
+      .count b { color: var(--text); }
       .btns { display: flex; gap: 10px; flex-wrap: wrap; }
-      a.btn, button.cta { flex: 1; min-width: 140px; text-align: center; text-decoration: none; border: 0; border-radius: 10px; padding: 12px 14px; font-size: 0.95rem; font-weight: 600; cursor: pointer; }
+      a.btn, button.btn { flex: 1; min-width: 150px; text-align: center; text-decoration: none; border: 0; border-radius: 10px; padding: 13px 14px; font-size: 0.95rem; font-weight: 600; cursor: pointer; }
+      a.btn small, button.btn small { display: block; font-weight: 400; font-size: 0.74rem; opacity: 0.85; }
       .primary { background: var(--accent); color: #fff; }
-      .ghost { background: #2a2a2a; color: var(--text); }
-      .count { color: var(--muted); font-size: 0.85rem; margin-bottom: 8px; }
+      .primary.disabled { background: #444; pointer-events: none; opacity: 0.6; }
+      .ghost { background: #2f2f2f; color: var(--text); }
+      details.urlbox { margin-top: 11px; }
+      details.urlbox summary { cursor: pointer; color: var(--muted); font-size: 0.82rem; list-style: none; }
+      details.urlbox summary::-webkit-details-marker { display: none; }
+      details.urlbox summary::before { content: "▸ "; }
+      details.urlbox[open] summary::before { content: "▾ "; }
+      .url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.76rem; color: var(--muted); word-break: break-all; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin-top: 8px; max-height: 70px; overflow: auto; }
       .err { color: var(--accent); }
     </style>
   </head>
@@ -67,24 +118,30 @@
     <div class="wrap">
       <header>
         <h1>Top 10 FR 🔟</h1>
-        <p>Compose ton addon : plateformes, pays, films/séries — et personnalise le nom de chaque rangée.</p>
+        <p class="tagline">Le vrai <b>Top 10 du jour</b> de Netflix, Disney+, Prime… directement dans Stremio et sur ta TV (Nuvio).</p>
+        <details class="how">
+          <summary>Comment ça marche ?</summary>
+          <ol>
+            <li><b>Coche</b> les plateformes que tu veux suivre.</li>
+            <li>Pour chacune, choisis le <b>pays</b> du classement et le <b>contenu</b> (films, séries ou les deux).</li>
+            <li><b>Installe dans Stremio</b>, ou <b>copie l'URL</b> et colle-la dans ton appli TV (Nuvio).</li>
+          </ol>
+        </details>
       </header>
-      <div class="hint">
-        Coche les plateformes voulues, choisis le <b>pays</b> et le <b>contenu</b>. Le bouton <b>✏️</b> permet de
-        renommer la rangée. <b>Sur une TV (Nuvio)</b>, configure ici depuis un ordinateur/téléphone, puis colle
-        l'URL (en bas) dans l'app.
-      </div>
       <div id="form"><p style="color: var(--muted)">Chargement…</p></div>
     </div>
 
     <footer>
       <div class="panel">
         <div class="count" id="count"></div>
-        <div class="url" id="url"></div>
         <div class="btns">
-          <a class="btn primary" id="install" href="#">▶ Installer dans Stremio</a>
-          <button class="ghost cta" id="copy" type="button">📋 Copier l'URL</button>
+          <a class="btn primary" id="install" href="#">▶ Installer dans Stremio<small>ordinateur / mobile</small></a>
+          <button class="btn ghost" id="copy" type="button">📋 Copier l'URL<small>pour ta TV (Nuvio)</small></button>
         </div>
+        <details class="urlbox">
+          <summary>Voir / copier l'URL manuellement</summary>
+          <div class="url" id="url"></div>
+        </details>
       </div>
     </footer>
 
@@ -147,16 +204,34 @@
         return cfg;
       }
 
+      /** Compte les vraies rangées (source × type disponible), pour un compteur honnête. */
+      function countRows(cfg) {
+        let n = 0;
+        for (const s of cfg.sel) {
+          const avail = (AVAIL.combos[s.c] || {})[s.k] || [];
+          if (s.m && avail.includes("movie")) n++;
+          if (s.s && avail.includes("series")) n++;
+          if (cfg.kids && s.m && avail.includes("kids-movie")) n++;
+          if (cfg.kids && s.s && avail.includes("kids-series")) n++;
+        }
+        return n;
+      }
+
       function render() {
         const cfg = buildConfig();
         const encoded = encodeConfig(cfg);
         const httpsUrl = location.origin + "/" + encoded + "/manifest.json";
         $url.textContent = httpsUrl;
-        $install.href = cfg.sel.length ? "stremio://" + location.host + "/" + encoded + "/manifest.json" : "#";
+        const has = cfg.sel.length > 0;
+        $install.href = has ? "stremio://" + location.host + "/" + encoded + "/manifest.json" : "#";
+        $install.classList.toggle("disabled", !has);
         window._copyUrl = httpsUrl;
-        $count.textContent = cfg.sel.length
-          ? `${cfg.sel.length} rangée(s)${cfg.kids ? " + Jeunesse" : ""}`
-          : "Sélectionne au moins une plateforme.";
+        if (has) {
+          const rows = countRows(cfg);
+          $count.innerHTML = `<b>${cfg.sel.length}</b> plateforme(s) · <b>${rows}</b> rangée(s) sur ton accueil`;
+        } else {
+          $count.textContent = "Coche au moins une plateforme pour générer ton addon.";
+        }
       }
 
       function card(source, isGlobal) {
@@ -165,7 +240,7 @@
         const r = state.rows[source.key];
 
         const card = document.createElement("div");
-        card.className = "card" + (isGlobal ? " global" : "") + (r.on ? "" : " off");
+        card.className = "card" + (isGlobal ? " global" : "") + (r.on ? " on" : " off");
 
         // ── Ligne principale ──
         const row = document.createElement("div");
@@ -181,7 +256,11 @@
         name.textContent = source.name;
         main.append(cb, name);
 
+        const controls = document.createElement("div");
+        controls.className = "controls";
+
         const country = document.createElement("select");
+        country.title = "Pays du classement";
         for (const c of countries) {
           const o = document.createElement("option");
           o.value = c.slug;
@@ -191,37 +270,39 @@
         country.value = r.country;
 
         const media = document.createElement("select");
-        for (const [v, lab] of [["both", "Films + Séries"], ["movie", "Films"], ["series", "Séries"]]) {
+        media.title = "Contenu";
+        for (const [v, lab] of [["both", "Films + Séries"], ["movie", "Films seuls"], ["series", "Séries seules"]]) {
           const o = document.createElement("option");
           o.value = v;
           o.textContent = lab;
           media.appendChild(o);
         }
         media.value = r.media;
+        controls.append(country, media);
 
         const edit = document.createElement("button");
         edit.type = "button";
         edit.className = "edit" + (r.expanded ? " active" : "");
-        edit.textContent = "✏️";
-        edit.title = "Renommer la rangée";
+        edit.textContent = r.expanded ? "✕ Fermer" : "✎ Nom";
+        edit.title = "Personnaliser le nom de la rangée";
 
-        row.append(main, country, media, edit);
+        row.append(main, controls, edit);
 
         // ── Panneau de personnalisation du nom ──
         const panel = document.createElement("div");
         panel.className = "namepanel" + (r.expanded ? " open" : "");
 
         const labLbl = document.createElement("label");
-        labLbl.textContent = "Nom affiché (vide = automatique · {type} = films/séries)";
+        labLbl.innerHTML = 'Nom de la rangée <small>— laisse vide pour le nom automatique</small>';
         const labInput = document.createElement("input");
         labInput.type = "text";
         labInput.value = r.label;
         labInput.placeholder = defLabel(source.key, "movie", state.ts);
 
         const cmLbl = document.createElement("label");
-        cmLbl.textContent = "Affichage du pays";
+        cmLbl.textContent = "Affichage du pays à la fin du nom";
         const cmode = document.createElement("select");
-        for (const [v, lab] of [["full", "En toutes lettres"], ["flag", "Drapeau"], ["custom", "Personnalisé"]]) {
+        for (const [v, lab] of [["full", "En toutes lettres (en France)"], ["flag", "Drapeau (🇫🇷)"], ["custom", "Texte personnalisé"], ]) {
           const o = document.createElement("option");
           o.value = v;
           o.textContent = lab;
@@ -231,7 +312,7 @@
 
         const ctextWrap = document.createElement("div");
         const ctLbl = document.createElement("label");
-        ctLbl.textContent = "Texte du pays (personnalisé)";
+        ctLbl.textContent = "Ton texte pour le pays";
         const ctext = document.createElement("input");
         ctext.type = "text";
         ctext.value = r.ctext;
@@ -244,19 +325,15 @@
 
         const refreshPreview = () => {
           const rr = state.rows[source.key];
-          const rows = [];
-          if (rr.media !== "series") {
-            rows.push(["Aperçu pour les films : ", computeName(source.key, rr, "movie") + (state.ts ? " - Film" : "")]);
-          }
-          if (rr.media !== "movie") {
-            rows.push(["Aperçu pour les séries : ", computeName(source.key, rr, "series") + (state.ts ? " - Série" : "")]);
-          }
+          const lines = [];
+          if (rr.media !== "series") lines.push(["Pour les films : ", computeName(source.key, rr, "movie") + (state.ts ? " - Film" : "")]);
+          if (rr.media !== "movie") lines.push(["Pour les séries : ", computeName(source.key, rr, "series") + (state.ts ? " - Série" : "")]);
           preview.innerHTML = "";
-          for (const [lbl, nm] of rows) {
+          for (const [lbl, nm] of lines) {
             const d = document.createElement("div");
-            d.style.marginBottom = "8px";
+            d.className = "pv-line";
             const muted = document.createElement("span");
-            muted.style.color = "var(--muted)";
+            muted.className = "pv-lbl";
             muted.textContent = lbl;
             const strong = document.createElement("b");
             strong.textContent = nm;
@@ -265,21 +342,21 @@
           }
           if (state.ts) {
             const note = document.createElement("div");
-            note.style.cssText = "color:var(--muted);font-size:0.85em";
-            note.textContent = "Important : Stremio/Nuvio ajoute automatiquement « - Film » / « - Série » à la fin du titre.";
+            note.className = "pv-note";
+            note.textContent = "L'appli ajoute « - Film » / « - Série » automatiquement (réglage « Mention Film/Série » plus bas).";
             preview.appendChild(note);
           }
         };
 
         panel.append(labLbl, labInput, cmLbl, cmode, ctextWrap, preview);
 
-        // ── Logique ──
+        // ── Logique (inchangée) ──
         const syncMain = () => {
           r.on = cb.checked;
           r.country = country.value;
           r.media = media.value;
           ctext.placeholder = COUNTRY_LOC[r.country] || "";
-          card.className = "card" + (isGlobal ? " global" : "") + (r.on ? "" : " off");
+          card.className = "card" + (isGlobal ? " global" : "") + (r.on ? " on" : " off");
           refreshPreview();
           render();
         };
@@ -291,6 +368,7 @@
           r.expanded = !r.expanded;
           panel.classList.toggle("open", r.expanded);
           edit.classList.toggle("active", r.expanded);
+          edit.textContent = r.expanded ? "✕ Fermer" : "✎ Nom";
         });
         labInput.addEventListener("input", () => { r.label = labInput.value; refreshPreview(); render(); });
         cmode.addEventListener("change", () => {
@@ -307,57 +385,92 @@
         return card;
       }
 
+      /** Toggle générique (case + titre + sous-titre) pour les options. */
+      function optionToggle(checked, titleHtml, onChange) {
+        const wrap = document.createElement("label");
+        wrap.className = "opt";
+        const rowEl = document.createElement("div");
+        rowEl.className = "opt-row";
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = checked;
+        const nm = document.createElement("span");
+        nm.className = "name";
+        nm.innerHTML = titleHtml;
+        cb.addEventListener("change", () => onChange(cb.checked));
+        rowEl.append(cb, nm);
+        wrap.appendChild(rowEl);
+        return wrap;
+      }
+
       function buildForm() {
         $form.innerHTML = "";
 
-        // ── Réglage global : Nuvio ajoute-t-il lui-même le type (Film/Série) ? ──
-        const tsWrap = document.createElement("label");
-        tsWrap.className = "toggle";
+        const platforms = AVAIL.sources.filter((s) => s.key !== "global");
+        const global = AVAIL.sources.find((s) => s.key === "global");
+
+        // ── Section 1 : plateformes ──
+        const h2p = document.createElement("h2");
+        h2p.innerHTML = '<span class="num">1</span> Tes plateformes <span class="sub">— coche, choisis pays &amp; contenu</span>';
+        $form.appendChild(h2p);
+        for (const s of platforms) {
+          const c = card(s, false);
+          if (c) $form.appendChild(c);
+        }
+
+        // ── Section 2 : options ──
+        const h2o = document.createElement("h2");
+        h2o.innerHTML = '<span class="num">2</span> Options <span class="sub">— facultatif</span>';
+        $form.appendChild(h2o);
+
+        // 🌍 Toutes plateformes (source « global »)
+        if (global) {
+          const c = card(global, true);
+          if (c) $form.appendChild(c);
+        }
+
+        // 🧸 Jeunesse
+        $form.appendChild(
+          optionToggle(
+            state.kids,
+            "🧸 Rangées Jeunesse <small>Ajoute les Top 10 enfants (films &amp; séries) là où ils existent.</small>",
+            (v) => { state.kids = v; render(); },
+          ),
+        );
+
+        // ⚙️ Mention « Film / Série » dans le titre (ex-réglage « ts », reformulé)
+        const tsOpt = document.createElement("div");
+        tsOpt.className = "opt";
+        const tsRow = document.createElement("div");
+        tsRow.className = "opt-row";
         const tsName = document.createElement("span");
         tsName.className = "name";
-        tsName.innerHTML =
-          "Nuvio ajoute le type « - Film / - Série » ? <small>Si tu as désactivé cette option dans Nuvio, choisis « Non » : le type sera tissé dans les titres (« … des films/séries du jour »).</small>";
+        tsName.innerHTML = 'Mention « Film » / « Série » dans le titre';
         const tsSel = document.createElement("select");
-        for (const [v, lab] of [["oui", "Oui (défaut)"], ["non", "Non"]]) {
+        for (const [v, lab] of [["oui", "Automatique (recommandé)"], ["non", "Intégrée au titre"]]) {
           const o = document.createElement("option");
           o.value = v;
           o.textContent = lab;
           tsSel.appendChild(o);
         }
         tsSel.value = state.ts ? "oui" : "non";
+        tsSel.style.flex = "none";
+        tsRow.append(tsName, tsSel);
+        const tsHelp = document.createElement("p");
+        tsHelp.className = "opt-help";
+        tsHelp.innerHTML =
+          "Stremio — et Nuvio par défaut — ajoutent déjà « - Film » / « - Série » après chaque titre. Choisis <b>« Intégrée au titre »</b> uniquement si tu as <b>désactivé</b> cette option dans Nuvio.";
+        const tsEx = document.createElement("div");
+        tsEx.className = "opt-example";
+        const updateEx = () => {
+          tsEx.innerHTML = state.ts
+            ? '<div><span class="ex-tag">Automatique</span> <span class="ex">🔴 Netflix | Top 10 du jour</span> → l\'appli affiche « …du jour <b>- Film</b> »</div>'
+            : '<div><span class="ex-tag">Intégrée</span> <span class="ex">🔴 Netflix | Top 10 <b>des films</b> du jour</span> · <span class="ex">…<b>des séries</b> du jour</span></div>';
+        };
+        updateEx();
         tsSel.addEventListener("change", () => { state.ts = tsSel.value === "oui"; buildForm(); });
-        tsWrap.append(tsName, tsSel);
-        $form.appendChild(tsWrap);
-
-        const platforms = AVAIL.sources.filter((s) => s.key !== "global");
-        const global = AVAIL.sources.find((s) => s.key === "global");
-
-        const h2p = document.createElement("h2");
-        h2p.textContent = "Plateformes";
-        $form.appendChild(h2p);
-        for (const s of platforms) {
-          const c = card(s, false);
-          if (c) $form.appendChild(c);
-        }
-        if (global) {
-          const h2g = document.createElement("h2");
-          h2g.textContent = "Spécial";
-          $form.appendChild(h2g);
-          const c = card(global, true);
-          if (c) $form.appendChild(c);
-        }
-
-        const kids = document.createElement("label");
-        kids.className = "toggle";
-        const kcb = document.createElement("input");
-        kcb.type = "checkbox";
-        kcb.checked = state.kids;
-        const kname = document.createElement("span");
-        kname.className = "name";
-        kname.innerHTML = "🧸 Rangées Jeunesse <small>Ajoute les Top 10 enfants (films & séries) là où ils existent.</small>";
-        kcb.addEventListener("change", () => { state.kids = kcb.checked; render(); });
-        kids.append(kcb, kname);
-        $form.appendChild(kids);
+        tsOpt.append(tsRow, tsHelp, tsEx);
+        $form.appendChild(tsOpt);
 
         render();
       }
@@ -401,11 +514,12 @@
       }
 
       document.getElementById("copy").addEventListener("click", async () => {
+        const b = document.getElementById("copy");
         try {
           await navigator.clipboard.writeText(window._copyUrl);
-          const b = document.getElementById("copy");
-          b.textContent = "✅ Copié !";
-          setTimeout(() => (b.textContent = "📋 Copier l'URL"), 1500);
+          const prev = b.innerHTML;
+          b.innerHTML = "✅ URL copiée !";
+          setTimeout(() => (b.innerHTML = prev), 1500);
         } catch (e) {
           prompt("Copie cette URL :", window._copyUrl);
         }
