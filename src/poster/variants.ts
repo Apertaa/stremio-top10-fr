@@ -16,6 +16,7 @@ export type Variant = {
   numberFill: string; // gris très foncé (façon Netflix)
   numberStroke: string; // fin contour clair
   strokeWidth: number;
+  numberHeightRatio: number; // hauteur du chiffre en fraction de la hauteur de l'affiche (0.4 = 40 %)
   bg: string;
 };
 
@@ -31,6 +32,7 @@ const BASE = {
   numberFill: "rgba(0,0,0,0.37)", // remplissage noir SEMI-TRANSPARENT → on voit l'affiche derrière, assombrie
   numberStroke: "#9a9a9a", // contour gris clair opaque → dessine le chiffre même sur fond sombre
   strokeWidth: 6,
+  numberHeightRatio: 0.33, // chiffre ≈ 33 % de la hauteur → reste sous la bande du rendu paysage de Nuvio (≈52 %, biaisé haut)
   bg: "#000000",
 };
 

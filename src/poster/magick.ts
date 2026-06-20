@@ -96,7 +96,7 @@ function renderNumber(rank: number, v: Variant, h: number): string {
 export function compose(posterPath: string | null, rank: number, v: Variant, out: string): void {
   const { width: W, height: H } = v;
   const margin = Math.round(W * 0.035);
-  const numPath = renderNumber(rank, v, Math.round(H * 0.4)); // chiffre ≈ 40% de la hauteur
+  const numPath = renderNumber(rank, v, Math.round(H * v.numberHeightRatio)); // hauteur du chiffre = ratio réglable
 
   const args: string[] = ["-size", `${W}x${H}`, `canvas:${v.bg}`];
   if (posterPath) {

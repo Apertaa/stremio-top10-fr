@@ -20,7 +20,7 @@ import { join } from "node:path";
 import { buildAvailability, writeAvailability } from "./build/availability.ts";
 import { dataFileExists, scanDataFiles, writeDataFile } from "./build/data.ts";
 import {
-  BUILD_DAY,
+  BUILD_STAMP,
   COUNTRIES,
   DEFAULT_COUNTRY,
   LIST_KEYS,
@@ -107,7 +107,7 @@ async function build(): Promise<void> {
             if (dataFileExists(country.slug, source.key, list)) kept++;
             continue;
           }
-          if (!dry) writeDataFile(country.slug, source.key, list, BUILD_DAY, entries);
+          if (!dry) writeDataFile(country.slug, source.key, list, BUILD_STAMP, entries);
           fresh++;
         } catch (e) {
           if (dataFileExists(country.slug, source.key, list)) kept++;

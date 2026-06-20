@@ -59,8 +59,17 @@ export const BUILD_DATE = ((d = new Date()) => {
   const p = (n: number) => String(n).padStart(2, "0");
   return `${d.getUTCFullYear()}${p(d.getUTCMonth() + 1)}${p(d.getUTCDate())}`;
 })();
-/** Date AAAA-MM-JJ (UTC), stockée dans les fichiers `data/`. */
+/** Date AAAA-MM-JJ (UTC) — affichée dans `availability.json`. */
 export const BUILD_DAY = `${BUILD_DATE.slice(0, 4)}-${BUILD_DATE.slice(4, 6)}-${BUILD_DATE.slice(6, 8)}`;
+/**
+ * Tampon de build AAAAMMJJHHMM (UTC) — stocké dans les fichiers `data/` et utilisé comme `?v=` des affiches.
+ * Inclut l'heure : un re-build le MÊME jour change le tampon → casse le cache CDN/app (les corrections de
+ * la journée se propagent, sans attendre le changement de date).
+ */
+export const BUILD_STAMP = `${BUILD_DATE}${((d = new Date()) => {
+  const p = (n: number) => String(n).padStart(2, "0");
+  return `${p(d.getUTCHours())}${p(d.getUTCMinutes())}`;
+})()}`;
 
 // ─────────── Réglages ───────────
 /** Seuil de santé : en dessous de N entrées résolues, on garde la veille (filet de sécurité). */
