@@ -45,8 +45,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cache public
-          git commit -m "Top 10 FR — $(date -u +%F)" || echo "Rien à committer (déjà à jour)."
-          git push
+          git commit -m "Top 10 FR — $(date -u +%F)" || { echo "Rien à committer (déjà à jour)."; exit 0; }
+          # Intègre d'éventuels commits concurrents, puis pousse. Un push raté (course) ne doit PAS
+          # bloquer le déploiement : les données seront re-persistées au prochain run.
+          git pull --rebase origin main || true
+          git push || echo "⚠️ push échoué (course concurrente) — le déploiement continue."
 
       - name: Préparer l'artefact Pages
         uses: actions/upload-pages-artifact@v3
