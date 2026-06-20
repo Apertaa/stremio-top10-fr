@@ -22,13 +22,13 @@ En option : une rangée **« Toutes plateformes »** et des rangées **« Jeunes
 
 ## 📥 Installation
 
-Ouvre la **page de configuration**, choisis tes plateformes/pays (et, si tu veux, renomme tes rangées), puis
-installe l'URL générée :
+Ouvre la **page de configuration** ci-dessous, choisis tes plateformes, pays et films/séries (et, si tu veux,
+renomme tes rangées), puis **copie l'URL qu'elle génère** et ajoute-la dans Stremio ou Nuvio :
 
-> **https://stremio-top10-fr.apertaa-dev.workers.dev**
+> 🔧 **https://stremio-top10-fr.apertaa-dev.workers.dev**
 
-Sur une **TV (Nuvio)**, configure depuis ton ordinateur ou ton téléphone, puis colle l'URL obtenue dans
-l'app (les TV gèrent mal les formulaires).
+Sur une **TV (Nuvio)**, fais la configuration depuis ton ordinateur ou ton téléphone (les TV gèrent mal les
+formulaires), puis colle l'URL obtenue dans l'app.
 
 ---
 
@@ -123,8 +123,10 @@ bunx wrangler login
 bunx wrangler deploy
 ```
 
-Wrangler affiche l'URL de ton Worker (`https://stremio-top10-fr.<ton-sous-domaine>.workers.dev`) — c'est
-l'adresse de **ta** page de configuration.
+Au **tout premier déploiement**, Cloudflare demande de choisir un **sous-domaine `workers.dev`** (dans le
+dashboard *Workers & Pages*) ; choisis-en un puis relance `bunx wrangler deploy`. Wrangler affiche alors l'URL
+de ton Worker (`https://stremio-top10-fr.<ton-sous-domaine>.workers.dev`) — c'est l'adresse de **ta** page de
+configuration. (Pense à pointer `wrangler.toml → PAGES_BASE` vers ton propre GitHub Pages.)
 
 </details>
 
@@ -161,7 +163,7 @@ src/                générateur (l'« usine ») — Bun
 ├── scrape/          FlixPatrol (via r.jina.ai) → entrées
 ├── tmdb/            résolution des titres (fiche FR + IMDb) + cache
 ├── poster/          composition ImageMagick (affiche + gros chiffre)
-├── build/           écriture data/ · availability.json · manifest France
+├── build/           écriture data/ · availability.json
 └── generate.ts      orchestrateur + CLI
 
 worker/              Worker Cloudflare — sert l'addon configurable

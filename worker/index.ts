@@ -97,7 +97,7 @@ export default {
 function stubManifest(origin: string, pages: string) {
   return {
     id: "fr.apertaa.top10",
-    version: "1.0.0",
+    version: "2.0.0",
     name: ADDON_NAME,
     description: ADDON_DESC,
     logo: `${pages}/posters/_logo.png`,
@@ -134,7 +134,7 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
   const types = [...new Set(catalogs.map((c) => c.type))];
   return {
     id: "fr.apertaa.top10.custom",
-    version: `1.0.${String(avail.date || "").replace(/-/g, "")}`,
+    version: `2.0.${String(avail.date || "").replace(/-/g, "")}`,
     name: ADDON_NAME,
     description: ADDON_DESC,
     logo: `${pages}/posters/_logo.png`,

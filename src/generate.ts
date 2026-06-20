@@ -156,7 +156,7 @@ async function build(): Promise<void> {
   }
 }
 
-/** Valide l'arbre produit : availability + fichiers data référencés + manifest France. */
+/** Valide l'arbre produit : availability.json + tous les fichiers data qu'il référence. */
 async function verify(): Promise<void> {
   const availFile = join(PUBLIC_DIR, "availability.json");
   if (!existsSync(availFile)) throw new Error("public/availability.json absent — lance d'abord `build`.");

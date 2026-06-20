@@ -15,7 +15,7 @@ labels: bug
 <!-- Le Top 10 change chaque jour : précise la date. -->
 
 **Où ?**
-- [ ] Instance publique (apertaa.github.io)
+- [ ] Instance publique (le Worker `…workers.dev`)
 - [ ] Mon propre fork
 - [ ] En local (développement)
 

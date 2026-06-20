@@ -1,6 +1,6 @@
 {
   "name": "stremio-top10-fr",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "description": "Addon Stremio « Top 10 du jour » par plateforme et par pays — configurable, généré chaque jour depuis FlixPatrol, fiches TMDB FR, affiches « gros chiffre » façon Netflix. Données statiques (GitHub Pages) + Worker Cloudflare.",

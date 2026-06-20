@@ -24,8 +24,16 @@ cp .env.example .env        # renseigne TMDB_READ_TOKEN (et TMDB_API_KEY)
 
 bun run dry                 # scrape + résolution TMDB, SANS rien écrire (test rapide)
 bun run build               # génère réellement public/
-bun run verify              # valide les catalogues produits
+bun run verify              # valide les données produites
 bun run lint                # style (Biome)
+bun run typecheck           # types (tsc)
+```
+
+Le **Worker** (dossier `worker/`) se teste avec Wrangler, branché sur les données locales :
+
+```bash
+bun run serve                                                   # sert public/ sur :8088
+cd worker && bunx wrangler dev --var PAGES_BASE:http://localhost:8088
 ```
 
 ## Conventions de code
@@ -42,8 +50,9 @@ lance `bun run lint`. En résumé :
 ## Ajouter une plateforme
 
 1. Trouve le `slug` FlixPatrol de la plateforme (dans l'URL : `flixpatrol.com/top10/<slug>/france/`).
-2. Ajoute une entrée dans `PLATFORMS` (`src/config.ts`).
-3. Teste : `bun run src/generate.ts build --only=<slug>`.
+2. Ajoute une entrée `Source` dans `PLATFORMS` (`src/config.ts`) : `key` (identifiant court, ex. `netflix`),
+   `slug` (FlixPatrol), `name` (avec emoji) et `sections` (en-têtes des sections du Markdown FlixPatrol).
+3. Teste : `bun run src/generate.ts build --only=<key> --country=france`.
 
 ## Proposer une pull request
 
@@ -54,7 +63,7 @@ lance `bun run lint`. En résumé :
 
 ## Note sur les fichiers générés
 
-`public/` (manifest, catalogues, affiches) et `cache/tmdb-map.json` sont **régénérés par le robot**. Ne les
-modifie pas à la main dans une PR : concentre-toi sur le code de `src/`.
+`public/` (`data/`, `availability.json`, affiches) et `cache/tmdb-map.json` sont **régénérés par le robot**.
+Ne les modifie pas à la main dans une PR : concentre-toi sur le code de `src/` et `worker/`.
 
 Merci 🙏
