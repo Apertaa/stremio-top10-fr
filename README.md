@@ -12,7 +12,7 @@ Un addon **catalogue** pour [Stremio](https://www.stremio.com) (lu aussi par l'a
 [Nuvio](https://github.com/NuvioMedia)) qui ajoute, pour chaque grande plateforme, le **Top 10 du jour** —
 **films et séries** — avec le **numéro de classement incrusté sur l'affiche**, comme dans l'app Netflix.
 
-Tu choisis **tes plateformes**, **le pays** de chaque classement (🇫🇷 🇧🇪 🇨🇭 🇨🇦 🇺🇸 🇬🇧), et **films / séries**.
+Tu choisis **tes plateformes**, **un ou plusieurs pays** par classement (🇫🇷 🇧🇪 🇨🇭 🇨🇦 🇺🇸 🇬🇧), et **films / séries**.
 En option : une rangée **« Toutes plateformes »** et des rangées **« Jeunesse »**. Les données sont
 **régénérées chaque jour** automatiquement.
 
@@ -36,7 +36,7 @@ formulaires), puis colle l'URL obtenue dans l'app.
 
 - **Le vrai Top 10 du jour**, pas un catalogue de « disponibilité » : classements issus des audiences réelles
   ([FlixPatrol](https://flixpatrol.com)), films **et** séries.
-- **Configurable** : tes plateformes, le **pays** de chaque classement, et films / séries / les deux.
+- **Configurable** : tes plateformes, **un ou plusieurs pays** par classement, et films / séries / les deux.
 - **7 plateformes** : 🔴 Netflix · 🏰 Disney+ · 📦 Prime Video · 🍎 Apple TV+ · 🎭 HBO Max · 🗻 Paramount+ · 📡 Canal+
 - **6 pays** : France, Belgique, Suisse, Canada, États-Unis, Royaume-Uni.
 - **Rangée « 🌍 Toutes plateformes »** (le palmarès du jour tous services confondus) et **rangées « 🧸 Jeunesse »**
@@ -86,7 +86,7 @@ généraux ~11 h UTC, **Netflix pas avant 15 h UTC**) : on récupère ainsi le c
 | Réglage | Détail |
 |---|---|
 | **Plateformes** | Active/désactive chacune des 7 plateformes. |
-| **Pays** (par plateforme) | Le classement vient du pays choisi (parmi ceux où la plateforme existe). |
+| **Pays** (par plateforme) | **Un ou plusieurs pays** (menu à cocher). Chaque pays coché ajoute sa propre paire de rangées (« …en France », « …en Belgique »…). Seuls les pays où la plateforme est classée sont proposés. |
 | **Films / Séries / Les deux** | Par plateforme. |
 | **🌍 Toutes plateformes** | Ajoute le Top 10 du jour tous services confondus. |
 | **🧸 Jeunesse** | Ajoute les Top 10 enfants (films & séries) là où ils existent. |

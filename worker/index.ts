@@ -23,19 +23,27 @@ export interface Env {
 }
 
 /**
- * Une sélection : source `k` (netflix…/global), pays `c`, films `m`, séries `s`.
+ * Une sélection : source `k` (netflix…/global), pays, films `m`, séries `s`.
+ * Pays : `cs` (tableau, multi-pays) si présent, sinon `c` (un seul pays — format historique, compat).
  * Personnalisation du nom du catalogue (facultative) : `label` (partie libre), `cmode` (affichage du
  * pays : « full » en toutes lettres / « flag » drapeau / « custom » texte libre), `ctext` (texte custom).
+ * IDs de catalogue : `k` quand un seul pays (compat) ; `k_<pays>` quand plusieurs (évite les collisions).
  */
 type Sel = {
   k: string;
-  c: string;
+  c?: string;
+  cs?: string[];
   m?: boolean;
   s?: boolean;
   label?: string;
   cmode?: "full" | "flag" | "custom";
   ctext?: string;
 };
+
+/** Pays d'une sélection, normalisés : `cs` (multi) sinon `[c]` (mono), sinon `[]`. */
+function selCountries(sel: Sel): string[] {
+  return sel.cs && sel.cs.length ? sel.cs : sel.c ? [sel.c] : [];
+}
 /** Config encodée dans l'URL. `ts` = Nuvio ajoute lui-même le type « - Film/- Série » (défaut true). */
 type Config = { v: number; sel: Sel[]; kids?: boolean; ts?: boolean };
 
@@ -121,18 +129,23 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
   const catalogs: Array<{ type: string; id: string; name: string }> = [];
   for (const sel of cfg.sel) {
     const sn = sourceName(sel.k);
-    const fl = flag(sel.c);
-    if (sel.m && has(sel.c, sel.k, "movie")) {
-      catalogs.push({ type: "movie", id: sel.k, name: catalogName(sel, sn, fl, false, "movie", ts) });
-    }
-    if (sel.s && has(sel.c, sel.k, "series")) {
-      catalogs.push({ type: "series", id: sel.k, name: catalogName(sel, sn, fl, false, "series", ts) });
-    }
-    if (cfg.kids && sel.m && has(sel.c, sel.k, "kids-movie")) {
-      catalogs.push({ type: "movie", id: `${sel.k}-kids`, name: catalogName(sel, sn, fl, true, "movie", ts) });
-    }
-    if (cfg.kids && sel.s && has(sel.c, sel.k, "kids-series")) {
-      catalogs.push({ type: "series", id: `${sel.k}-kids`, name: catalogName(sel, sn, fl, true, "series", ts) });
+    const countries = selCountries(sel);
+    const multi = countries.length > 1; // IDs suffixés par pays seulement si plusieurs (sinon compat)
+    for (const c of countries) {
+      const fl = flag(c);
+      const id = multi ? `${sel.k}_${c}` : sel.k;
+      if (sel.m && has(c, sel.k, "movie")) {
+        catalogs.push({ type: "movie", id, name: catalogName(sel, sn, c, fl, false, "movie", ts) });
+      }
+      if (sel.s && has(c, sel.k, "series")) {
+        catalogs.push({ type: "series", id, name: catalogName(sel, sn, c, fl, false, "series", ts) });
+      }
+      if (cfg.kids && sel.m && has(c, sel.k, "kids-movie")) {
+        catalogs.push({ type: "movie", id: `${id}-kids`, name: catalogName(sel, sn, c, fl, true, "movie", ts) });
+      }
+      if (cfg.kids && sel.s && has(c, sel.k, "kids-series")) {
+        catalogs.push({ type: "series", id: `${id}-kids`, name: catalogName(sel, sn, c, fl, true, "series", ts) });
+      }
     }
   }
 
@@ -162,6 +175,7 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
 function catalogName(
   sel: Sel,
   srcName: string,
+  country: string,
   fl: string,
   kids: boolean,
   media: "movie" | "series",
@@ -171,7 +185,7 @@ function catalogName(
   const def = ts ? `${srcName} | Top 10 du jour` : `${srcName} | Top 10 des ${plural} du jour`;
   const label = ((sel.label || "").trim() || def).replace(/\{type\}/g, plural);
   const mode = sel.cmode || "full";
-  const suffix = mode === "flag" ? fl : mode === "custom" ? (sel.ctext || "").trim() : COUNTRY_LOC[sel.c] || "";
+  const suffix = mode === "flag" ? fl : mode === "custom" ? (sel.ctext || "").trim() : COUNTRY_LOC[country] || "";
   const main = kids ? `${label} · Jeunesse` : label;
   return suffix ? `${main} ${suffix}` : main;
 }
@@ -179,21 +193,28 @@ function catalogName(
 /** Contenu d'un catalogue : lit le bon fichier statique et construit les metas (affiches sur GitHub Pages). */
 async function buildCatalog(cfgSeg: string, pages: string, type: string, id: string) {
   const cfg = decodeConfig(cfgSeg);
-  const kids = id.endsWith("-kids");
-  const key = kids ? id.slice(0, -"-kids".length) : id;
-  const sel = cfg.sel.find((s) => s.k === key);
+  let base = id;
+  const kids = base.endsWith("-kids");
+  if (kids) base = base.slice(0, -"-kids".length);
+  // base = « <k> » (mono) ou « <k>_<pays> » (multi). Les clés source n'ont pas de « _ ».
+  const us = base.indexOf("_");
+  const k = us > 0 ? base.slice(0, us) : base;
+  const country = us > 0 ? base.slice(us + 1) : null;
+  const sel = cfg.sel.find((s) => s.k === k);
   if (!sel) return { metas: [] };
+  const c = country ?? selCountries(sel)[0];
+  if (!c) return { metas: [] };
 
   const media = type === "series" ? "series" : "movie";
   const list = (kids ? `kids-${media}` : media) as ListKey;
-  const data = await fetchJson(`${pages}/data/${sel.c}/${key}/${list}.json`).catch(() => null);
+  const data = await fetchJson(`${pages}/data/${c}/${k}/${list}.json`).catch(() => null);
   if (!data?.entries) return { metas: [] };
 
   const metas = data.entries.map((e: any) => ({
     id: e.id,
     type: media,
     name: e.name,
-    poster: `${pages}/posters/${sel.c}-${key}-${list}-${e.rank}.jpg?v=${data.date}`,
+    poster: `${pages}/posters/${c}-${k}-${list}-${e.rank}.jpg?v=${data.date}`,
     posterShape: "poster",
   }));
   return { metas };

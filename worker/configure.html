@@ -62,13 +62,26 @@
       /* Largeur fixe → tous les menus pays/contenu ont la même taille (sinon un <select> prend
          la largeur de sa plus longue option : Canal+ n'a qu'un pays et paraissait plus étroit). */
       .row .controls select { width: 9.5rem; min-width: 0; }
+      /* Sélecteur de pays multi : bouton compact (même gabarit qu'un menu) + panneau de cases. */
+      .cpick { display: flex; align-items: center; gap: 6px; width: 9.5rem; background: #0e0e0e; color: var(--text); border: 1px solid var(--line2); border-radius: 8px; padding: 8px 9px; font-size: 0.9rem; cursor: pointer; text-align: left; }
+      .cpick .cp-flag { flex: none; }
+      .cpick .cp-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .cpick .cp-more { color: var(--muted); flex: none; }
+      .cpick .cp-chev { margin-left: auto; opacity: 0.55; flex: none; }
+      .cpick.active { border-color: var(--accent); }
+      .countrypanel { display: none; padding: 12px 14px 14px; border-top: 1px solid var(--line); background: #121212; }
+      .countrypanel.open { display: block; }
+      .countrypanel .cp-ttl { color: var(--muted); font-size: 0.82rem; margin-bottom: 9px; }
+      .clist { display: flex; flex-wrap: wrap; gap: 9px 22px; }
+      .cc { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+      .cc input { width: 18px; height: 18px; accent-color: var(--accent); }
       .edit { background: #2a2a2a; color: var(--text); border: 1px solid var(--line2); border-radius: 8px; padding: 8px 11px; cursor: pointer; font-size: 0.88rem; white-space: nowrap; flex: none; }
       /* Mobile : la case + le bouton « Nom » restent en haut, les menus passent en pleine largeur dessous. */
       @media (max-width: 600px) {
         .main { order: 1; }
         .edit { order: 2; margin-left: auto; }
         .controls { order: 5; flex: 1 1 100%; }
-        .row .controls select { flex: 1 1 0; width: auto; }
+        .row .controls select, .row .controls .cpick { flex: 1 1 0; width: auto; }
       }
       .edit.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
@@ -165,7 +178,7 @@
       }
 
       const MEDIA = { both: { m: true, s: true }, movie: { m: true, s: false }, series: { m: false, s: true } };
-      const state = { rows: {}, kids: false, ts: true }; // ts = Nuvio ajoute le type ; rows[key] = {on,country,media,label,cmode,ctext,expanded}
+      const state = { rows: {}, kids: false, ts: true }; // rows[key] = {on, countries[], media, label, cmode, ctext, expanded, countriesOpen}
       let AVAIL = null;
 
       const $form = document.getElementById("form");
@@ -180,12 +193,13 @@
         return `${sourceName(key)} | Top 10 des ${media === "series" ? "séries" : "films"} du jour`;
       };
       const countriesFor = (key) => AVAIL.countries.filter((c) => AVAIL.combos[c.slug] && AVAIL.combos[c.slug][key]);
+      const countryName = (slug) => (AVAIL.countries.find((c) => c.slug === slug) || {}).name || slug;
 
-      /** Nom calculé pour un type (miroir exact de la logique du Worker). */
-      function computeName(key, r, media) {
+      /** Nom calculé pour un type ET un pays donné (miroir exact de la logique du Worker). */
+      function computeName(key, r, media, country) {
         const plural = media === "series" ? "séries" : "films";
         const label = ((r.label || "").trim() || defLabel(key, media, state.ts)).replace(/\{type\}/g, plural);
-        const suffix = r.cmode === "flag" ? flagOf(r.country) : r.cmode === "custom" ? (r.ctext || "").trim() : (COUNTRY_LOC[r.country] || "");
+        const suffix = r.cmode === "flag" ? flagOf(country) : r.cmode === "custom" ? (r.ctext || "").trim() : (COUNTRY_LOC[country] || "");
         return suffix ? `${label} ${suffix}` : label;
       }
 
@@ -193,8 +207,12 @@
         const sel = [];
         for (const s of AVAIL.sources) {
           const r = state.rows[s.key];
-          if (!r || !r.on) continue;
-          const e = { k: s.key, c: r.country, ...MEDIA[r.media] };
+          if (!r || !r.on || !r.countries.length) continue;
+          // Ordre des clés conservé { k, c|cs, m, s, … } pour que les URLs mono restent identiques à l'historique.
+          const e = { k: s.key };
+          if (r.countries.length > 1) e.cs = r.countries.slice();
+          else e.c = r.countries[0];
+          Object.assign(e, MEDIA[r.media]);
           const lab = (r.label || "").trim();
           if (lab) e.label = lab;
           if (r.cmode && r.cmode !== "full") e.cmode = r.cmode;
@@ -210,11 +228,14 @@
       function countRows(cfg) {
         let n = 0;
         for (const s of cfg.sel) {
-          const avail = (AVAIL.combos[s.c] || {})[s.k] || [];
-          if (s.m && avail.includes("movie")) n++;
-          if (s.s && avail.includes("series")) n++;
-          if (cfg.kids && s.m && avail.includes("kids-movie")) n++;
-          if (cfg.kids && s.s && avail.includes("kids-series")) n++;
+          const cs = s.cs && s.cs.length ? s.cs : s.c ? [s.c] : [];
+          for (const c of cs) {
+            const avail = (AVAIL.combos[c] || {})[s.k] || [];
+            if (s.m && avail.includes("movie")) n++;
+            if (s.s && avail.includes("series")) n++;
+            if (cfg.kids && s.m && avail.includes("kids-movie")) n++;
+            if (cfg.kids && s.s && avail.includes("kids-series")) n++;
+          }
         }
         return n;
       }
@@ -261,15 +282,17 @@
         const controls = document.createElement("div");
         controls.className = "controls";
 
-        const country = document.createElement("select");
-        country.title = "Pays du classement";
-        for (const c of countries) {
-          const o = document.createElement("option");
-          o.value = c.slug;
-          o.textContent = c.flag + " " + c.name;
-          country.appendChild(o);
-        }
-        country.value = r.country;
+        // Bouton « pays » (multi) : affiche le résumé, ouvre un panneau de cases.
+        const cpick = document.createElement("button");
+        cpick.type = "button";
+        cpick.className = "cpick" + (r.countriesOpen ? " active" : "");
+        cpick.title = "Pays du classement (plusieurs possibles)";
+        const updateCpick = () => {
+          const cs = r.countries;
+          const extra = cs.length > 1 ? `<span class="cp-more">+${cs.length - 1}</span>` : "";
+          cpick.innerHTML = `<span class="cp-flag">${flagOf(cs[0]) || ""}</span><span class="cp-name">${countryName(cs[0]) || "—"}</span>${extra}<span class="cp-chev">⌄</span>`;
+        };
+        updateCpick();
 
         const media = document.createElement("select");
         media.title = "Contenu";
@@ -280,7 +303,7 @@
           media.appendChild(o);
         }
         media.value = r.media;
-        controls.append(country, media);
+        controls.append(cpick, media);
 
         const edit = document.createElement("button");
         edit.type = "button";
@@ -289,6 +312,44 @@
         edit.title = "Personnaliser le nom de la rangée";
 
         row.append(main, controls, edit);
+
+        // ── Panneau « pays » (cases à cocher, multi) ──
+        const cpanel = document.createElement("div");
+        cpanel.className = "countrypanel" + (r.countriesOpen ? " open" : "");
+        const cpTtl = document.createElement("div");
+        cpTtl.className = "cp-ttl";
+        cpTtl.textContent = "Pays du classement (coche un ou plusieurs)";
+        const clist = document.createElement("div");
+        clist.className = "clist";
+        for (const c of countries) {
+          const lab = document.createElement("label");
+          lab.className = "cc";
+          const cbx = document.createElement("input");
+          cbx.type = "checkbox";
+          cbx.checked = r.countries.includes(c.slug);
+          cbx.addEventListener("change", () => {
+            if (cbx.checked) {
+              if (!r.countries.includes(c.slug)) r.countries.push(c.slug);
+            } else if (r.countries.length <= 1) {
+              cbx.checked = true; // garder au moins un pays
+              return;
+            } else {
+              r.countries = r.countries.filter((x) => x !== c.slug);
+            }
+            // ordre stable (selon la disponibilité)
+            r.countries = countries.map((cc) => cc.slug).filter((s) => r.countries.includes(s));
+            updateCpick();
+            refreshPreview();
+            render();
+          });
+          const fl = document.createElement("span");
+          fl.textContent = c.flag;
+          const nm = document.createElement("span");
+          nm.textContent = c.name;
+          lab.append(cbx, fl, nm);
+          clist.appendChild(lab);
+        }
+        cpanel.append(cpTtl, clist);
 
         // ── Panneau de personnalisation du nom ──
         const panel = document.createElement("div");
@@ -318,7 +379,7 @@
         const ctext = document.createElement("input");
         ctext.type = "text";
         ctext.value = r.ctext;
-        ctext.placeholder = COUNTRY_LOC[r.country] || "";
+        ctext.placeholder = COUNTRY_LOC[r.countries[0]] || "";
         ctextWrap.append(ctLbl, ctext);
         ctextWrap.style.display = r.cmode === "custom" ? "block" : "none";
 
@@ -327,20 +388,31 @@
 
         const refreshPreview = () => {
           const rr = state.rows[source.key];
-          const lines = [];
-          if (rr.media !== "series") lines.push(["Pour les films : ", computeName(source.key, rr, "movie") + (state.ts ? " - Film" : "")]);
-          if (rr.media !== "movie") lines.push(["Pour les séries : ", computeName(source.key, rr, "series") + (state.ts ? " - Série" : "")]);
           preview.innerHTML = "";
-          for (const [lbl, nm] of lines) {
-            const d = document.createElement("div");
-            d.className = "pv-line";
-            const muted = document.createElement("span");
-            muted.className = "pv-lbl";
-            muted.textContent = lbl;
-            const strong = document.createElement("b");
-            strong.textContent = nm;
-            d.append(muted, strong);
-            preview.appendChild(d);
+          for (const c of rr.countries) {
+            const block = document.createElement("div");
+            block.className = "pv-block";
+            if (rr.countries.length > 1) {
+              const head = document.createElement("div");
+              head.className = "pv-country";
+              head.textContent = `${flagOf(c)} ${countryName(c)}`;
+              block.appendChild(head);
+            }
+            const lines = [];
+            if (rr.media !== "series") lines.push(["Films : ", computeName(source.key, rr, "movie", c) + (state.ts ? " - Film" : "")]);
+            if (rr.media !== "movie") lines.push(["Séries : ", computeName(source.key, rr, "series", c) + (state.ts ? " - Série" : "")]);
+            for (const [lbl, nm] of lines) {
+              const d = document.createElement("div");
+              d.className = "pv-line";
+              const muted = document.createElement("span");
+              muted.className = "pv-lbl";
+              muted.textContent = lbl;
+              const strong = document.createElement("b");
+              strong.textContent = nm;
+              d.append(muted, strong);
+              block.appendChild(d);
+            }
+            preview.appendChild(block);
           }
           if (state.ts) {
             const note = document.createElement("div");
@@ -355,16 +427,19 @@
         // ── Logique (inchangée) ──
         const syncMain = () => {
           r.on = cb.checked;
-          r.country = country.value;
           r.media = media.value;
-          ctext.placeholder = COUNTRY_LOC[r.country] || "";
+          ctext.placeholder = COUNTRY_LOC[r.countries[0]] || "";
           card.className = "card" + (isGlobal ? " global" : "") + (r.on ? " on" : " off");
           refreshPreview();
           render();
         };
         cb.addEventListener("change", syncMain);
-        country.addEventListener("change", syncMain);
         media.addEventListener("change", syncMain);
+        cpick.addEventListener("click", () => {
+          r.countriesOpen = !r.countriesOpen;
+          cpanel.classList.toggle("open", r.countriesOpen);
+          cpick.classList.toggle("active", r.countriesOpen);
+        });
 
         edit.addEventListener("click", () => {
           r.expanded = !r.expanded;
@@ -376,14 +451,14 @@
         cmode.addEventListener("change", () => {
           r.cmode = cmode.value;
           ctextWrap.style.display = r.cmode === "custom" ? "block" : "none";
-          if (r.cmode === "custom" && !r.ctext) { r.ctext = COUNTRY_LOC[r.country] || ""; ctext.value = r.ctext; }
+          if (r.cmode === "custom" && !r.ctext) { r.ctext = COUNTRY_LOC[r.countries[0]] || ""; ctext.value = r.ctext; }
           refreshPreview();
           render();
         });
         ctext.addEventListener("input", () => { r.ctext = ctext.value; refreshPreview(); render(); });
 
         refreshPreview();
-        card.append(row, panel);
+        card.append(row, cpanel, panel);
         return card;
       }
 
@@ -484,12 +559,13 @@
           const hasFr = cs.some((c) => c.slug === "france");
           state.rows[s.key] = {
             on: s.key !== "global" && hasFr,
-            country: hasFr ? "france" : cs[0].slug,
+            countries: [hasFr ? "france" : cs[0].slug],
             media: "both",
             label: "",
             cmode: "full",
             ctext: "",
             expanded: false,
+            countriesOpen: false,
           };
         }
         const hash = location.hash.replace(/^#/, "");
@@ -501,7 +577,7 @@
               const row = state.rows[sel.k];
               if (!row) continue;
               row.on = true;
-              row.country = sel.c;
+              row.countries = sel.cs && sel.cs.length ? sel.cs.slice() : sel.c ? [sel.c] : row.countries;
               row.media = sel.m && sel.s ? "both" : sel.s ? "series" : "movie";
               if (sel.label) row.label = sel.label;
               if (sel.cmode) row.cmode = sel.cmode;
