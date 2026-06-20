@@ -13,7 +13,6 @@
         --text: #ededed;
         --muted: #9a9a9a;
         --accent: #e50914;
-        --ok: #2ecc71;
       }
       * { box-sizing: border-box; }
       body {
@@ -23,61 +22,59 @@
         font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
         line-height: 1.5;
       }
-      .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 140px; }
+      .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 150px; }
       header h1 { font-size: 1.6rem; margin: 0 0 4px; }
       header p { color: var(--muted); margin: 0 0 20px; }
       .hint { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; color: var(--muted); font-size: 0.92rem; margin-bottom: 20px; }
       .hint b { color: var(--text); }
       h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 24px 0 10px; }
-      .row {
-        display: flex; align-items: center; gap: 12px;
-        background: var(--card); border: 1px solid var(--line); border-radius: 12px;
-        padding: 10px 14px; margin-bottom: 8px;
-      }
-      .row.global { border-color: #3a3a3a; background: var(--card2); }
-      .row .name { flex: 1; font-weight: 600; min-width: 0; }
-      .row input[type="checkbox"] { width: 20px; height: 20px; accent-color: var(--accent); cursor: pointer; flex: none; }
-      select {
+      .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 8px; overflow: hidden; }
+      .card.global { background: var(--card2); }
+      .card.off { opacity: 0.5; }
+      .row { display: flex; align-items: center; gap: 10px; padding: 10px 14px; }
+      .main { display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0; cursor: pointer; }
+      .main .name { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      input[type="checkbox"] { width: 20px; height: 20px; accent-color: var(--accent); cursor: pointer; flex: none; }
+      select, input[type="text"] {
         background: #0e0e0e; color: var(--text); border: 1px solid var(--line);
-        border-radius: 8px; padding: 7px 8px; font-size: 0.9rem; cursor: pointer; max-width: 42vw;
+        border-radius: 8px; padding: 7px 8px; font-size: 0.9rem;
       }
-      .row.off { opacity: 0.45; }
-      .row.off select { pointer-events: none; }
+      select { cursor: pointer; max-width: 38vw; }
+      .edit { background: #2a2a2a; color: var(--text); border: 0; border-radius: 8px; padding: 7px 9px; cursor: pointer; font-size: 0.95rem; flex: none; }
+      .edit.active { background: var(--accent); }
+      .namepanel { display: none; padding: 0 14px 14px; border-top: 1px solid var(--line); margin-top: 2px; }
+      .namepanel.open { display: block; }
+      .namepanel label { display: block; color: var(--muted); font-size: 0.82rem; margin: 12px 0 4px; }
+      .namepanel input[type="text"], .namepanel select { width: 100%; max-width: none; }
+      .preview { margin-top: 12px; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 10px; font-size: 0.92rem; }
+      .preview .pv { font-weight: 600; }
+      .preview small { color: var(--muted); }
       .toggle { display: flex; align-items: center; gap: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-bottom: 8px; }
       .toggle .name { flex: 1; }
       .toggle .name small { display: block; color: var(--muted); font-weight: 400; }
-      footer {
-        position: fixed; left: 0; right: 0; bottom: 0;
-        background: linear-gradient(180deg, transparent, #000 22%);
-        padding: 14px 16px 18px;
-      }
+      footer { position: fixed; left: 0; right: 0; bottom: 0; background: linear-gradient(180deg, transparent, #000 22%); padding: 14px 16px 18px; }
       .panel { max-width: 760px; margin: 0 auto; background: var(--card2); border: 1px solid var(--line); border-radius: 14px; padding: 14px; }
-      .url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.8rem; color: var(--muted); word-break: break-all; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin-bottom: 10px; max-height: 64px; overflow: auto; }
+      .url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.78rem; color: var(--muted); word-break: break-all; background: #0e0e0e; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin-bottom: 10px; max-height: 60px; overflow: auto; }
       .btns { display: flex; gap: 10px; flex-wrap: wrap; }
-      button, a.btn {
-        flex: 1; min-width: 140px; text-align: center; text-decoration: none;
-        border: 0; border-radius: 10px; padding: 12px 14px; font-size: 0.95rem; font-weight: 600; cursor: pointer;
-      }
+      a.btn, button.cta { flex: 1; min-width: 140px; text-align: center; text-decoration: none; border: 0; border-radius: 10px; padding: 12px 14px; font-size: 0.95rem; font-weight: 600; cursor: pointer; }
       .primary { background: var(--accent); color: #fff; }
       .ghost { background: #2a2a2a; color: var(--text); }
       .count { color: var(--muted); font-size: 0.85rem; margin-bottom: 8px; }
       .err { color: var(--accent); }
-      .footnote { color: var(--muted); font-size: 0.8rem; margin-top: 8px; }
     </style>
   </head>
   <body>
     <div class="wrap">
       <header>
         <h1>Top 10 FR 🔟</h1>
-        <p>Compose ton addon : choisis tes plateformes, le pays du classement, et films/séries.</p>
+        <p>Compose ton addon : plateformes, pays, films/séries — et personnalise le nom de chaque rangée.</p>
       </header>
       <div class="hint">
-        Coche les plateformes voulues. Pour chacune, choisis le <b>pays</b> du Top 10 et le <b>contenu</b>.
-        En bas, copie l'URL ou installe directement. <b>Sur une TV (Nuvio)</b>, configure ici depuis ton
-        ordinateur ou ton téléphone, puis colle l'URL dans l'app.
+        Coche les plateformes voulues, choisis le <b>pays</b> et le <b>contenu</b>. Le bouton <b>✏️</b> permet de
+        renommer la rangée. <b>Sur une TV (Nuvio)</b>, configure ici depuis un ordinateur/téléphone, puis colle
+        l'URL (en bas) dans l'app.
       </div>
-
-      <div id="form"><p class="muted">Chargement…</p></div>
+      <div id="form"><p style="color: var(--muted)">Chargement…</p></div>
     </div>
 
     <footer>
@@ -86,14 +83,18 @@
         <div class="url" id="url"></div>
         <div class="btns">
           <a class="btn primary" id="install" href="#">▶ Installer dans Stremio</a>
-          <button class="ghost" id="copy" type="button">📋 Copier l'URL</button>
+          <button class="ghost cta" id="copy" type="button">📋 Copier l'URL</button>
         </div>
-        <div class="footnote">Astuce : l'URL copiée fonctionne aussi bien dans Stremio que dans Nuvio.</div>
       </div>
     </footer>
 
     <script>
-      // ─── Encodage de la config (base64url, miroir du Worker) ───
+      // ─── Pays : forme « en toutes lettres » (miroir du Worker) ───
+      const COUNTRY_LOC = {
+        france: "en France", belgium: "en Belgique", switzerland: "en Suisse",
+        canada: "au Canada", "united-states": "aux États-Unis", "united-kingdom": "au Royaume-Uni",
+      };
+      // ─── Encodage config (base64url, miroir du Worker) ───
       function encodeConfig(cfg) {
         const b64 = btoa(unescape(encodeURIComponent(JSON.stringify(cfg))));
         return b64.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
@@ -105,7 +106,7 @@
       }
 
       const MEDIA = { both: { m: true, s: true }, movie: { m: true, s: false }, series: { m: false, s: true } };
-      const state = { rows: {}, kids: false }; // rows[key] = { on, country, media }
+      const state = { rows: {}, kids: false }; // rows[key] = {on,country,media,label,cmode,ctext,expanded}
       let AVAIL = null;
 
       const $form = document.getElementById("form");
@@ -113,9 +114,16 @@
       const $install = document.getElementById("install");
       const $count = document.getElementById("count");
 
-      /** Pays où une source a au moins une liste. */
-      function countriesFor(key) {
-        return AVAIL.countries.filter((c) => AVAIL.combos[c.slug] && AVAIL.combos[c.slug][key]);
+      const sourceName = (key) => (AVAIL.sources.find((s) => s.key === key) || {}).name || key;
+      const flagOf = (slug) => (AVAIL.countries.find((c) => c.slug === slug) || {}).flag || "";
+      const defLabel = (key) => `${sourceName(key)} | Top 10 du jour`;
+      const countriesFor = (key) => AVAIL.countries.filter((c) => AVAIL.combos[c.slug] && AVAIL.combos[c.slug][key]);
+
+      /** Nom calculé (miroir exact de la logique du Worker). */
+      function computeName(key, r) {
+        const label = (r.label || "").trim() || defLabel(key);
+        const suffix = r.cmode === "flag" ? flagOf(r.country) : r.cmode === "custom" ? (r.ctext || "").trim() : (COUNTRY_LOC[r.country] || "");
+        return suffix ? `${label} ${suffix}` : label;
       }
 
       function buildConfig() {
@@ -123,7 +131,12 @@
         for (const s of AVAIL.sources) {
           const r = state.rows[s.key];
           if (!r || !r.on) continue;
-          sel.push({ k: s.key, c: r.country, ...MEDIA[r.media] });
+          const e = { k: s.key, c: r.country, ...MEDIA[r.media] };
+          const lab = (r.label || "").trim();
+          if (lab && lab !== defLabel(s.key)) e.label = lab;
+          if (r.cmode && r.cmode !== "full") e.cmode = r.cmode;
+          if (r.cmode === "custom" && (r.ctext || "").trim()) e.ctext = r.ctext.trim();
+          sel.push(e);
         }
         return { v: 1, sel, kids: state.kids };
       }
@@ -131,32 +144,36 @@
       function render() {
         const cfg = buildConfig();
         const encoded = encodeConfig(cfg);
-        const base = location.origin;
-        const httpsUrl = base + "/" + encoded + "/manifest.json";
-        const stremioUrl = "stremio://" + location.host + "/" + encoded + "/manifest.json";
+        const httpsUrl = location.origin + "/" + encoded + "/manifest.json";
         $url.textContent = httpsUrl;
-        $install.href = cfg.sel.length ? stremioUrl : "#";
+        $install.href = cfg.sel.length ? "stremio://" + location.host + "/" + encoded + "/manifest.json" : "#";
         window._copyUrl = httpsUrl;
-        const rows = cfg.sel.length;
-        $count.textContent = rows
-          ? `${rows} plateforme(s) sélectionnée(s)${cfg.kids ? " · rangées Jeunesse incluses" : ""}`
+        $count.textContent = cfg.sel.length
+          ? `${cfg.sel.length} rangée(s)${cfg.kids ? " + Jeunesse" : ""}`
           : "Sélectionne au moins une plateforme.";
       }
 
-      function row(source, isGlobal) {
+      function card(source, isGlobal) {
         const countries = countriesFor(source.key);
         if (!countries.length) return null;
-        const def = state.rows[source.key];
-        const wrap = document.createElement("label");
-        wrap.className = "row" + (isGlobal ? " global" : "") + (def && def.on ? "" : " off");
+        const r = state.rows[source.key];
 
+        const card = document.createElement("div");
+        card.className = "card" + (isGlobal ? " global" : "") + (r.on ? "" : " off");
+
+        // ── Ligne principale ──
+        const row = document.createElement("div");
+        row.className = "row";
+
+        const main = document.createElement("label");
+        main.className = "main";
         const cb = document.createElement("input");
         cb.type = "checkbox";
-        cb.checked = !!(def && def.on);
-
+        cb.checked = r.on;
         const name = document.createElement("span");
         name.className = "name";
         name.textContent = source.name;
+        main.append(cb, name);
 
         const country = document.createElement("select");
         for (const c of countries) {
@@ -165,28 +182,98 @@
           o.textContent = c.flag + " " + c.name;
           country.appendChild(o);
         }
-        country.value = (def && def.country) || (countries[0] && countries[0].slug);
+        country.value = r.country;
 
         const media = document.createElement("select");
-        for (const [v, label] of [["both", "Films + Séries"], ["movie", "Films"], ["series", "Séries"]]) {
+        for (const [v, lab] of [["both", "Films + Séries"], ["movie", "Films"], ["series", "Séries"]]) {
           const o = document.createElement("option");
           o.value = v;
-          o.textContent = label;
+          o.textContent = lab;
           media.appendChild(o);
         }
-        media.value = (def && def.media) || "both";
+        media.value = r.media;
 
-        const sync = () => {
-          state.rows[source.key] = { on: cb.checked, country: country.value, media: media.value };
-          wrap.className = "row" + (isGlobal ? " global" : "") + (cb.checked ? "" : " off");
+        const edit = document.createElement("button");
+        edit.type = "button";
+        edit.className = "edit" + (r.expanded ? " active" : "");
+        edit.textContent = "✏️";
+        edit.title = "Renommer la rangée";
+
+        row.append(main, country, media, edit);
+
+        // ── Panneau de personnalisation du nom ──
+        const panel = document.createElement("div");
+        panel.className = "namepanel" + (r.expanded ? " open" : "");
+
+        const labLbl = document.createElement("label");
+        labLbl.textContent = "Nom affiché";
+        const labInput = document.createElement("input");
+        labInput.type = "text";
+        labInput.value = r.label;
+
+        const cmLbl = document.createElement("label");
+        cmLbl.textContent = "Affichage du pays";
+        const cmode = document.createElement("select");
+        for (const [v, lab] of [["full", "En toutes lettres"], ["flag", "Drapeau"], ["custom", "Personnalisé"]]) {
+          const o = document.createElement("option");
+          o.value = v;
+          o.textContent = lab;
+          cmode.appendChild(o);
+        }
+        cmode.value = r.cmode;
+
+        const ctextWrap = document.createElement("div");
+        const ctLbl = document.createElement("label");
+        ctLbl.textContent = "Texte du pays (personnalisé)";
+        const ctext = document.createElement("input");
+        ctext.type = "text";
+        ctext.value = r.ctext;
+        ctext.placeholder = COUNTRY_LOC[r.country] || "";
+        ctextWrap.append(ctLbl, ctext);
+        ctextWrap.style.display = r.cmode === "custom" ? "block" : "none";
+
+        const preview = document.createElement("div");
+        preview.className = "preview";
+
+        const refreshPreview = () => {
+          preview.innerHTML = `Aperçu : <span class="pv"></span> <small>· (Nuvio ajoute « - Film » / « - Série »)</small>`;
+          preview.querySelector(".pv").textContent = computeName(source.key, state.rows[source.key]);
+        };
+
+        panel.append(labLbl, labInput, cmLbl, cmode, ctextWrap, preview);
+
+        // ── Logique ──
+        const syncMain = () => {
+          r.on = cb.checked;
+          r.country = country.value;
+          r.media = media.value;
+          ctext.placeholder = COUNTRY_LOC[r.country] || "";
+          card.className = "card" + (isGlobal ? " global" : "") + (r.on ? "" : " off");
+          refreshPreview();
           render();
         };
-        cb.addEventListener("change", sync);
-        country.addEventListener("change", sync);
-        media.addEventListener("change", sync);
+        cb.addEventListener("change", syncMain);
+        country.addEventListener("change", syncMain);
+        media.addEventListener("change", syncMain);
 
-        wrap.append(cb, name, country, media);
-        return wrap;
+        edit.addEventListener("click", () => {
+          r.expanded = !r.expanded;
+          panel.classList.toggle("open", r.expanded);
+          edit.classList.toggle("active", r.expanded);
+        });
+        labInput.addEventListener("input", () => { r.label = labInput.value; refreshPreview(); render(); });
+        cmode.addEventListener("change", () => {
+          r.cmode = cmode.value;
+          ctextWrap.style.display = r.cmode === "custom" ? "block" : "none";
+          if (r.cmode === "custom" && !r.ctext) { r.ctext = COUNTRY_LOC[r.country] || ""; ctext.value = r.ctext; }
+          refreshPreview();
+          render();
+        });
+        ctext.addEventListener("input", () => { r.ctext = ctext.value; refreshPreview(); render(); });
+
+        refreshPreview();
+        card.append(row, panel);
+        return card;
       }
 
       function buildForm() {
@@ -198,49 +285,45 @@
         h2p.textContent = "Plateformes";
         $form.appendChild(h2p);
         for (const s of platforms) {
-          const r = row(s, false);
-          if (r) $form.appendChild(r);
+          const c = card(s, false);
+          if (c) $form.appendChild(c);
         }
-
         if (global) {
           const h2g = document.createElement("h2");
           h2g.textContent = "Spécial";
           $form.appendChild(h2g);
-          const r = row(global, true);
-          if (r) $form.appendChild(r);
+          const c = card(global, true);
+          if (c) $form.appendChild(c);
         }
 
-        // Toggle Jeunesse
         const kids = document.createElement("label");
         kids.className = "toggle";
         const kcb = document.createElement("input");
         kcb.type = "checkbox";
         kcb.checked = state.kids;
-        kcb.style.cssText = "width:20px;height:20px;accent-color:var(--accent);cursor:pointer";
         const kname = document.createElement("span");
         kname.className = "name";
         kname.innerHTML = "🧸 Rangées Jeunesse <small>Ajoute les Top 10 enfants (films & séries) là où ils existent.</small>";
-        kcb.addEventListener("change", () => {
-          state.kids = kcb.checked;
-          render();
-        });
+        kcb.addEventListener("change", () => { state.kids = kcb.checked; render(); });
         kids.append(kcb, kname);
         $form.appendChild(kids);
 
         render();
       }
 
-      /** Initialise l'état (défaut = toutes les plateformes, France, Films+Séries) puis applique le hash éventuel. */
       function initState() {
         for (const s of AVAIL.sources) {
           const cs = countriesFor(s.key);
           if (!cs.length) continue;
           const hasFr = cs.some((c) => c.slug === "france");
-          // Par défaut : plateformes activées en France ; « global » désactivé.
           state.rows[s.key] = {
             on: s.key !== "global" && hasFr,
             country: hasFr ? "france" : cs[0].slug,
             media: "both",
+            label: defLabel(s.key),
+            cmode: "full",
+            ctext: "",
+            expanded: false,
           };
         }
         const hash = location.hash.replace(/^#/, "");
@@ -249,8 +332,14 @@
             const cfg = decodeConfig(hash);
             for (const s of AVAIL.sources) if (state.rows[s.key]) state.rows[s.key].on = false;
             for (const sel of cfg.sel || []) {
-              const media = sel.m && sel.s ? "both" : sel.s ? "series" : "movie";
-              state.rows[sel.k] = { on: true, country: sel.c, media };
+              const row = state.rows[sel.k];
+              if (!row) continue;
+              row.on = true;
+              row.country = sel.c;
+              row.media = sel.m && sel.s ? "both" : sel.s ? "series" : "movie";
+              if (sel.label) row.label = sel.label;
+              if (sel.cmode) row.cmode = sel.cmode;
+              if (sel.ctext) row.ctext = sel.ctext;
             }
             state.kids = !!cfg.kids;
           } catch (e) {

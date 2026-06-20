@@ -22,23 +22,13 @@ En option : une rangée **« Toutes plateformes »** et des rangées **« Jeunes
 
 ## 📥 Installation
 
-### Option 1 — Personnalisée (recommandée)
-
-Ouvre la **page de configuration**, choisis tes plateformes/pays, et installe l'URL générée :
+Ouvre la **page de configuration**, choisis tes plateformes/pays (et, si tu veux, renomme tes rangées), puis
+installe l'URL générée :
 
 > **https://stremio-top10-fr.apertaa-dev.workers.dev**
 
 Sur une **TV (Nuvio)**, configure depuis ton ordinateur ou ton téléphone, puis colle l'URL obtenue dans
 l'app (les TV gèrent mal les formulaires).
-
-### Option 2 — Rapide (France, tout)
-
-Tu veux juste les 7 plateformes en France (films + séries), sans rien régler ? Ajoute directement cette URL
-dans Stremio ou Nuvio :
-
-```
-https://apertaa.github.io/stremio-top10-fr/manifest.json
-```
 
 ---
 
@@ -100,6 +90,7 @@ généraux ~11 h UTC, **Netflix pas avant 15 h UTC**) : on récupère ainsi le c
 | **Films / Séries / Les deux** | Par plateforme. |
 | **🌍 Toutes plateformes** | Ajoute le Top 10 du jour tous services confondus. |
 | **🧸 Jeunesse** | Ajoute les Top 10 enfants (films & séries) là où ils existent. |
+| **✏️ Nom de la rangée** | Par plateforme : un libellé libre (défaut « 🔴 Netflix \| Top 10 du jour ») + l'affichage du pays au choix — en toutes lettres (« en France »), en drapeau (🇫🇷) ou personnalisé. |
 
 Seuls les combinaisons réellement disponibles sont proposées (la page lit `availability.json`).
 
@@ -181,8 +172,7 @@ worker/              Worker Cloudflare — sert l'addon configurable
 public/   ← publié par GitHub Pages
 ├── data/<pays>/<source>/<liste>.json   données (source de vérité)
 ├── availability.json                   combos disponibles
-├── posters/*.jpg                        affiches (régénérées, non versionnées)
-└── manifest.json + catalog/             « France par défaut » (install rapide)
+└── posters/*.jpg                        affiches (régénérées, non versionnées)
 ```
 
 ---

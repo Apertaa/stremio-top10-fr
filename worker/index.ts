@@ -22,8 +22,20 @@ export interface Env {
   PAGES_BASE?: string;
 }
 
-/** Une sélection : source `k` (netflix…/global), pays `c`, films `m`, séries `s`. */
-type Sel = { k: string; c: string; m?: boolean; s?: boolean };
+/**
+ * Une sélection : source `k` (netflix…/global), pays `c`, films `m`, séries `s`.
+ * Personnalisation du nom du catalogue (facultative) : `label` (partie libre), `cmode` (affichage du
+ * pays : « full » en toutes lettres / « flag » drapeau / « custom » texte libre), `ctext` (texte custom).
+ */
+type Sel = {
+  k: string;
+  c: string;
+  m?: boolean;
+  s?: boolean;
+  label?: string;
+  cmode?: "full" | "flag" | "custom";
+  ctext?: string;
+};
 /** Config encodée dans l'URL. */
 type Config = { v: number; sel: Sel[]; kids?: boolean };
 
@@ -31,6 +43,15 @@ type ListKey = "movie" | "series" | "kids-movie" | "kids-series";
 
 const DEFAULT_PAGES = "https://apertaa.github.io/stremio-top10-fr";
 const ADDON_NAME = "Top 10 FR 🔟";
+/** Forme « en toutes lettres » du pays (préposition correcte) — pour le mode d'affichage « full ». */
+const COUNTRY_LOC: Record<string, string> = {
+  france: "en France",
+  belgium: "en Belgique",
+  switzerland: "en Suisse",
+  canada: "au Canada",
+  "united-states": "aux États-Unis",
+  "united-kingdom": "au Royaume-Uni",
+};
 const ADDON_DESC =
   "Les vrais Top 10 du jour par plateforme et par pays (films & séries), avec les affiches « gros chiffre ».";
 
@@ -98,15 +119,15 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
 
   const catalogs: Array<{ type: string; id: string; name: string }> = [];
   for (const sel of cfg.sel) {
-    const name = sourceName(sel.k);
-    const f = flag(sel.c);
-    if (sel.m && has(sel.c, sel.k, "movie")) catalogs.push({ type: "movie", id: sel.k, name: `${name} ${f}` });
-    if (sel.s && has(sel.c, sel.k, "series")) catalogs.push({ type: "series", id: sel.k, name: `${name} ${f}` });
+    const nm = catalogName(sel, sourceName(sel.k), flag(sel.c), false);
+    const nmKids = catalogName(sel, sourceName(sel.k), flag(sel.c), true);
+    if (sel.m && has(sel.c, sel.k, "movie")) catalogs.push({ type: "movie", id: sel.k, name: nm });
+    if (sel.s && has(sel.c, sel.k, "series")) catalogs.push({ type: "series", id: sel.k, name: nm });
     if (cfg.kids && sel.m && has(sel.c, sel.k, "kids-movie")) {
-      catalogs.push({ type: "movie", id: `${sel.k}-kids`, name: `${name} Jeunesse ${f}` });
+      catalogs.push({ type: "movie", id: `${sel.k}-kids`, name: nmKids });
     }
     if (cfg.kids && sel.s && has(sel.c, sel.k, "kids-series")) {
-      catalogs.push({ type: "series", id: `${sel.k}-kids`, name: `${name} Jeunesse ${f}` });
+      catalogs.push({ type: "series", id: `${sel.k}-kids`, name: nmKids });
     }
   }
 
@@ -124,6 +145,20 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
     // Pré-remplit la page de configuration avec la config actuelle (via le hash).
     behaviorHints: { configurable: true, configurationURL: `${origin}/configure#${cfgSeg}` },
   };
+}
+
+/**
+ * Nom d'un catalogue : « <label> <suffixe pays> ».
+ *   label  = `sel.label` ou, par défaut, « <plateforme> | Top 10 du jour » ;
+ *   suffixe = selon `sel.cmode` : « full » → en toutes lettres (en France) · « flag » → 🇫🇷 · « custom » → `sel.ctext`.
+ * (Nuvio/Stremio ajoutent ensuite « - Film » / « - Série » d'après le type.)
+ */
+function catalogName(sel: Sel, srcName: string, fl: string, kids: boolean): string {
+  const label = (sel.label || "").trim() || `${srcName} | Top 10 du jour`;
+  const mode = sel.cmode || "full";
+  const suffix = mode === "flag" ? fl : mode === "custom" ? (sel.ctext || "").trim() : COUNTRY_LOC[sel.c] || "";
+  const main = kids ? `${label} · Jeunesse` : label;
+  return suffix ? `${main} ${suffix}` : main;
 }
 
 /** Contenu d'un catalogue : lit le bon fichier statique et construit les metas (affiches sur GitHub Pages). */

@@ -19,7 +19,6 @@ import { existsSync, mkdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { buildAvailability, writeAvailability } from "./build/availability.ts";
 import { dataFileExists, scanDataFiles, writeDataFile } from "./build/data.ts";
-import { writeLegacyFrance } from "./build/legacy.ts";
 import {
   BUILD_DAY,
   COUNTRIES,
@@ -145,9 +144,8 @@ async function build(): Promise<void> {
     }
     console.error(`🖼️ ${posters} affiches générées${posterFail ? `, ${posterFail} échecs` : ""}.`);
 
-    // ─── 3. CARTE + compat France ───
+    // ─── 3. CARTE (combos disponibles, lue par le Worker et la page de config) ───
     writeAvailability(buildAvailability(files));
-    writeLegacyFrance();
   }
 
   console.error(`\n✅ ${fresh} listes fraîches, ${kept} conservées de la veille.`);
