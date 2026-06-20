@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "series",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
       "rating": 8.287,
       "year": 2019,
-      "days": 68,
+      "days": 69,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sCZuSi7SKUt3RCVRGY7BT9Yhynb.jpg",
       "rating": 7.755,
       "year": 2022,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,77 +45,77 @@
     },
     {
       "rank": 4,
-      "id": "tt4998350",
-      "name": "The Deuce",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kldCgodZdDV5ntiULKOjOadz0R9.jpg",
-      "rating": 7.569,
-      "year": 2017,
-      "days": 11,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt41050785",
-      "name": "Proud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-      "rating": 4.7,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 57,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt38876090",
       "name": "Gomorra - Le Origini",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 35,
+      "days": 36,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt14681924",
+      "name": "My Adventures with Superman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt4998350",
+      "name": "The Deuce",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kldCgodZdDV5ntiULKOjOadz0R9.jpg",
+      "rating": 7.569,
+      "year": 2017,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt32767294",
+      "name": "Half Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jl24C9NkgCxbQk9T0GZkpq6dsf4.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 56,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt14681924",
-      "name": "My Adventures with Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt32767294",
-      "name": "Half Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jl24C9NkgCxbQk9T0GZkpq6dsf4.jpg",
-      "rating": 8.2,
+      "id": "tt42835175",
+      "name": "Bring Me the Beauties: A Model Cult",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+      "rating": 8.5,
       "year": 2026,
-      "days": 55,
+      "days": 5,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt42835175",
-      "name": "Bring Me the Beauties: A Model Cult",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 4,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 58,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 4
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "apple",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 188,
+      "days": 189,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt27052633",
-      "name": "Echo Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
-      "rating": 6.414,
-      "year": 2025,
-      "days": 109,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt23724682",
       "name": "Chantage",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 69,
+      "days": 70,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27052633",
+      "name": "Echo Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
+      "rating": 6.414,
+      "year": 2025,
+      "days": 110,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkdGVqhvvPZhPeMGdPywdHg3QXk.jpg",
       "rating": 5.498,
       "year": 2025,
-      "days": 237,
+      "days": 238,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt30852384",
-      "name": "All of You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/upDrcB20OUcCaOLSPZYuICYVltL.jpg",
-      "rating": 6.368,
+      "id": "tt13654226",
+      "name": "The Gorge",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
+      "rating": 7.65,
       "year": 2025,
-      "days": 74,
+      "days": 470,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt13654226",
-      "name": "The Gorge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
-      "rating": 7.65,
+      "id": "tt30852384",
+      "name": "All of You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/upDrcB20OUcCaOLSPZYuICYVltL.jpg",
+      "rating": 6.368,
       "year": 2025,
-      "days": 469,
+      "days": 75,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
       "rating": 7.715,
       "year": 2022,
-      "days": 479,
+      "days": 480,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
       "rating": 6.542,
       "year": 2024,
-      "days": 555,
+      "days": 556,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 208,
+      "days": 209,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt41367695",
-      "name": "Vol de nuit pour Los Angeles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zoizilI4sXe6xycONzAwZnfhT2v.jpg",
-      "rating": 6.7,
-      "year": 2026,
-      "days": 20,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 528,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

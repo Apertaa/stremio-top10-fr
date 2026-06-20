@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hEG17xmDYBvazhjBzgMkghrmaYm.jpg",
       "rating": 6.397,
       "year": 1997,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt0142342",
+      "name": "Big Daddy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/agJtp5DwfAycEYiMrLZ2fQvkBYl.jpg",
+      "rating": 6.495,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt11466222",
       "name": "Jackass Forever",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
       "rating": 6.786,
       "year": 2022,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt32801387",
       "name": "Thieves Highway",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "rating": 7.684,
       "year": 2026,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0302886",
-      "name": "Retour à la Fac",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JWznocBZZ6uLnodAEER1rlxcEf.jpg",
-      "rating": 6.634,
-      "year": 2003,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
       "rating": 6.15,
       "year": 2025,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
+      "id": "tt29567915",
+      "name": "Nuremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "rating": 7.56,
       "year": 2025,
-      "days": 171,
+      "days": 44,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt0493430",
-      "name": "Jackass deux, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
-      "rating": 6.583,
-      "year": 2006,
-      "days": 7,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 172,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uml28AiPAA6aMLTg0CDzFaji9p.jpg",
       "rating": 7.7,
       "year": 1996,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

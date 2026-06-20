@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg",
       "rating": 5.726,
       "year": 2025,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzHohlKAZ8qG0WbkctJq02ZB3lJ.jpg",
       "rating": 6.907,
       "year": 2025,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJO8l0eyOmRlBfVuC9fGoXCGcXk.jpg",
       "rating": null,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tyswzNTNLWG1WKNVHHH3E8jZpNs.jpg",
       "rating": null,
       "year": 2018,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
       "rating": 8,
       "year": 1989,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "up",
+        "delta": 1
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

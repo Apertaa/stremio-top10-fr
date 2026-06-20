@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "apple",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 189,
+      "days": 190,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt27052633",
-      "name": "Echo Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
-      "rating": 6.414,
-      "year": 2025,
-      "days": 111,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt23724682",
       "name": "Chantage",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 70,
+      "days": 71,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27052633",
+      "name": "Echo Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
+      "rating": 6.414,
+      "year": 2025,
+      "days": 112,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
       "rating": 7.421,
       "year": 2020,
-      "days": 794,
+      "days": 795,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 463,
+      "days": 464,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkdGVqhvvPZhPeMGdPywdHg3QXk.jpg",
       "rating": 5.498,
       "year": 2025,
-      "days": 287,
+      "days": 288,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,41 +84,41 @@
     },
     {
       "rank": 7,
-      "id": "tt14257582",
-      "name": "Wolfs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
-      "rating": 6.542,
-      "year": 2024,
-      "days": 528,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt15009428",
-      "name": "Argylle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVAk2YliqInQfH4B4vzZ75rwcNB.jpg",
-      "rating": 6,
-      "year": 2024,
-      "days": 562,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt24950660",
       "name": "Pour l'éternité",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
       "rating": 7.078,
       "year": 2025,
-      "days": 126,
+      "days": 127,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt14257582",
+      "name": "Wolfs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "rating": 6.542,
+      "year": 2024,
+      "days": 529,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt15009428",
+      "name": "Argylle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVAk2YliqInQfH4B4vzZ75rwcNB.jpg",
+      "rating": 6,
+      "year": 2024,
+      "days": 563,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zoizilI4sXe6xycONzAwZnfhT2v.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0

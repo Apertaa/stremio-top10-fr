@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "global",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -26,8 +26,8 @@
       "year": 2026,
       "days": 14,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -39,8 +39,8 @@
       "year": 2010,
       "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -52,8 +52,8 @@
       "year": 2024,
       "days": 7,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -65,8 +65,8 @@
       "year": 2022,
       "days": 14,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -78,8 +78,8 @@
       "year": 2026,
       "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62DPuJy63ZAK62NxWB04bKCXrye.jpg",
       "rating": 6.8,
       "year": 1992,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -104,8 +104,8 @@
       "year": 2026,
       "days": 30,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -117,8 +117,8 @@
       "year": 2026,
       "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 41,
+      "days": 42,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

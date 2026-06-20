@@ -2,32 +2,32 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
-      "id": "tt19838566",
-      "name": "Kraken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
-      "rating": 6.287,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt32093575",
       "name": "Scary Movie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt19838566",
+      "name": "Kraken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
+      "rating": 6.287,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
       "rating": 5.355,
       "year": 2014,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 66,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt29343289",
-      "name": "The Bayou",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg",
-      "rating": 5.491,
-      "year": 2025,
-      "days": 98,
+      "id": "tt5090568",
+      "name": "Transformers : Rise of the Beasts",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
+      "rating": 7.17,
+      "year": 2023,
+      "days": 97,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 422,
+      "days": 423,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt5090568",
-      "name": "Transformers : Rise of the Beasts",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
-      "rating": 7.17,
-      "year": 2023,
-      "days": 96,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt11656220",
       "name": "La Proie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2enoRjXkyI2LPy6HLZ837zVisQ.jpg",
       "rating": 5.803,
       "year": 2021,
-      "days": 10,
+      "days": 11,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt29343289",
+      "name": "The Bayou",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg",
+      "rating": 5.491,
+      "year": 2025,
+      "days": 99,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     }
   ]

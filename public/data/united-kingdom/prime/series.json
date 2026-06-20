@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 36,
+      "days": 37,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 71,
+      "days": 72,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
       "rating": 8.196,
       "year": 2022,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5MbNy94ia4ZLf8OGtSfSjjlxxWN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cPvIgIgysI3S067aA670pMYAjI4.jpg",
       "rating": 7.3,
       "year": 2026,
-      "days": 48,
+      "days": 49,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt9794044",
+      "name": "Citadel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
+      "rating": 6.89,
+      "year": 2023,
+      "days": 44,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "top10:did-you-kill-emma",
       "name": "Did you kill Emma?",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt9794044",
-      "name": "Citadel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
-      "rating": 6.89,
-      "year": 2023,
-      "days": 43,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 1
       }
     }
   ]

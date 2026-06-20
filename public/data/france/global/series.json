@@ -2,7 +2,7 @@
   "country": "france",
   "key": "global",
   "list": "series",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -26,8 +26,8 @@
       "year": 2026,
       "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -39,8 +39,8 @@
       "year": 2026,
       "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -52,8 +52,8 @@
       "year": 2025,
       "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -65,8 +65,8 @@
       "year": 2020,
       "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -78,8 +78,8 @@
       "year": 2026,
       "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -104,8 +104,8 @@
       "year": 2023,
       "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -130,8 +130,8 @@
       "year": 2026,
       "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

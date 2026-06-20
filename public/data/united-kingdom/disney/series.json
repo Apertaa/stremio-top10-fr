@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "series",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tmdb:288403",
-      "name": "The Basement: A Vanishing In Apple Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/87tNuRbktnhNgCIIyvR4dKSpAyM.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 44,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt21906238",
       "name": "Rivals",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
       "rating": 7.4,
       "year": 2024,
-      "days": 43,
+      "days": 44,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt43138820",
+      "name": "Million Dollar Nannies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tmdb:288403",
+      "name": "The Basement: A Vanishing In Apple Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/87tNuRbktnhNgCIIyvR4dKSpAyM.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 45,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt22091076",
       "name": "High Potential",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 41,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt42670541",
-      "name": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ijUqXJ8SpOyZo3BvfXqooHyQb7S.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 1,
+      "days": 42,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt28698590",
-      "name": "Protection",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/plKvTWv4lczZUsKcVvxnPAn3had.jpg",
-      "rating": 7.7,
-      "year": 2024,
-      "days": 7,
+      "id": "tt39635096",
+      "name": "Friends Like These: The Murder of Skylar Neese",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lEgIuAeU6eUaLSBtYLewE73gZaI.jpg",
+      "rating": 7.333,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt23731346",
-      "name": "Princesse Sofia : Apprentie magicienne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
-      "rating": 9.4,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt36594331",
       "name": "Star Wars : Maul - Seigneur de l'ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 61,
+      "days": 62,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt35466672",
+      "name": "Malcolm : Rien n’a changé",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
+      "rating": 8.072,
+      "year": 2026,
+      "days": 53,
       "trend": {
         "dir": "new",
         "delta": null

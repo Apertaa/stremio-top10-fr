@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "global",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -52,8 +52,8 @@
       "year": 2026,
       "days": 14,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -65,8 +65,8 @@
       "year": 2024,
       "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -78,8 +78,8 @@
       "year": 2026,
       "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -91,8 +91,8 @@
       "year": 2013,
       "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -104,8 +104,8 @@
       "year": 2010,
       "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -117,8 +117,8 @@
       "year": 2026,
       "days": 28,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -130,8 +130,8 @@
       "year": 2026,
       "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]
