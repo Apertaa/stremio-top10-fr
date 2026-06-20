@@ -90,9 +90,10 @@ généraux ~11 h UTC, **Netflix pas avant 15 h UTC**) : on récupère ainsi le c
 | **Films / Séries / Les deux** | Par plateforme. |
 | **🌍 Toutes plateformes** | Ajoute le Top 10 du jour tous services confondus. |
 | **🧸 Jeunesse** | Ajoute les Top 10 enfants (films & séries) là où ils existent. |
-| **✏️ Nom de la rangée** | Par plateforme : un libellé libre (défaut « 🔴 Netflix \| Top 10 du jour ») + l'affichage du pays au choix — en toutes lettres (« en France »), en drapeau (🇫🇷) ou personnalisé. |
+| **✎ Nom de la rangée** | Par plateforme : un libellé libre (vide = nom automatique) + l'affichage du pays au choix — en toutes lettres (« en France »), en drapeau (🇫🇷) ou personnalisé. Aperçu en direct. |
+| **Mention « Film » / « Série »** | Par défaut, Stremio (et Nuvio) ajoutent eux-mêmes « - Film » / « - Série » à la fin du titre (*Automatique*). Si tu as désactivé cette option dans Nuvio, choisis *Intégrée au titre* : le type est alors tissé dans le nom (« … des films / séries du jour »). |
 
-Seuls les combinaisons réellement disponibles sont proposées (la page lit `availability.json`).
+Seules les combinaisons réellement disponibles sont proposées (la page lit `availability.json`).
 
 ---
 
