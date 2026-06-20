@@ -32,7 +32,7 @@ const BASE = {
   numberFill: "rgba(0,0,0,0.37)", // remplissage noir SEMI-TRANSPARENT → on voit l'affiche derrière, assombrie
   numberStroke: "#9a9a9a", // contour gris clair opaque → dessine le chiffre même sur fond sombre
   strokeWidth: 6,
-  numberHeightRatio: 0.33, // chiffre ≈ 33 % de la hauteur → reste sous la bande du rendu paysage de Nuvio (≈52 %, biaisé haut)
+  numberHeightRatio: 0.24, // chiffre = 24 % de la hauteur → sommet à ~74 %, sous la bande du rendu paysage Nuvio (mesurée à y≈634/900, soit ~70 %) avec marge ; le chiffre disparaît en vue horizontale
   bg: "#000000",
 };
 
