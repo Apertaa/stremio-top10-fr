@@ -13,3 +13,4 @@ PAGES_BASE = "https://apertaa.github.io/stremio-top10-fr"
 [[rules]]
 type = "Text"
 globs = ["**/*.html"]
+fallthrough = true
