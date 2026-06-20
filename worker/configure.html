@@ -59,14 +59,16 @@
         border-radius: 8px; padding: 8px 9px; font-size: 0.9rem;
       }
       select { cursor: pointer; }
-      .row .controls select { min-width: 0; }
+      /* Largeur fixe → tous les menus pays/contenu ont la même taille (sinon un <select> prend
+         la largeur de sa plus longue option : Canal+ n'a qu'un pays et paraissait plus étroit). */
+      .row .controls select { width: 9.5rem; min-width: 0; }
       .edit { background: #2a2a2a; color: var(--text); border: 1px solid var(--line2); border-radius: 8px; padding: 8px 11px; cursor: pointer; font-size: 0.88rem; white-space: nowrap; flex: none; }
       /* Mobile : la case + le bouton « Nom » restent en haut, les menus passent en pleine largeur dessous. */
       @media (max-width: 600px) {
         .main { order: 1; }
         .edit { order: 2; margin-left: auto; }
         .controls { order: 5; flex: 1 1 100%; }
-        .row .controls select { flex: 1 1 0; }
+        .row .controls select { flex: 1 1 0; width: auto; }
       }
       .edit.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
