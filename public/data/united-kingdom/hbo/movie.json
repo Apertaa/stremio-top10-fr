@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
       "rating": 6.457,
       "year": 2018,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,33 +50,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
       "rating": 6.171,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt7126948",
-      "name": "Wonder Woman 1984",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdEorjrPno4Cn7HYVN2DA0f3ocr.jpg",
-      "rating": 6.365,
-      "year": 2020,
-      "days": 3,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt6442978",
       "name": "Pourquoi j'ai tué maman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/XJJkNkyWGbT5Hz0bnvkxI61ZsE.jpg",
       "rating": 7.357,
       "year": 2017,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt7126948",
+      "name": "Wonder Woman 1984",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdEorjrPno4Cn7HYVN2DA0f3ocr.jpg",
+      "rating": 6.365,
+      "year": 2020,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iVz57ATy07cxHiNOVknY6qdGl26.jpg",
       "rating": 7.108,
       "year": 1998,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,19 +102,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apdfKuF32HpbQxmhbPQa6gxSo1Q.jpg",
       "rating": 7.265,
       "year": 2024,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt1278469",
-      "name": "Temple Grandin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
-      "rating": 7.858,
-      "year": 2010,
+      "id": "tt14140740",
+      "name": "Maradona : les coulisses d'une addiction",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zRMN91ogV3991PJQLjfLI4DJyJc.jpg",
+      "rating": 7.8,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "new",

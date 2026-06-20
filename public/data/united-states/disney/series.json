@@ -2,42 +2,42 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
-      "id": "tt43268848",
-      "name": "Locker Diaries: Phineas And Ferb",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "top10:gracies-corner",
-      "name": "Gracie's Corner",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
       "id": "top10:toy-story-30-years-and-beyond-a-special-edition-of-2020",
       "name": "Toy Story 30 Years and Beyond -- A Special Edition of 20/20",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": 2020,
-      "days": 4,
+      "days": 5,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt43268848",
+      "name": "Locker Diaries: Phineas And Ferb",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "top10:gracies-corner",
+      "name": "Gracie's Corner",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 3,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt21056976",
-      "name": "Dragon Striker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-      "rating": 7.545,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
       "year": 2026,
-      "days": 7,
+      "days": 63,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,41 +58,41 @@
     },
     {
       "rank": 5,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
+      "id": "tt21056976",
+      "name": "Dragon Striker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+      "rating": 7.545,
       "year": 2026,
-      "days": 62,
+      "days": 8,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 6,
+      "id": "top10:impact-x-nightline-last-voyage-the-disappearance-of-lynette-hooker",
+      "name": "IMPACT x Nightline: Last Voyage: The Disappearance of Lynette Hooker",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt8111088",
       "name": "The Mandalorian",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg",
       "rating": 8.409,
       "year": 2019,
-      "days": 52,
+      "days": 53,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt10862280",
-      "name": "Spidey et ses amis extraordinaires",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3GAktESDOCOWUgxBdaWGUcyNgtf.jpg",
-      "rating": 7.1,
-      "year": 2021,
-      "days": 8,
-      "trend": {
-        "dir": "up",
-        "delta": 3
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mAX4KE8ewwuDAIzwv3WTpqE3yh7.jpg",
       "rating": 7.285,
       "year": 2023,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt23731346",
-      "name": "Princesse Sofia : Apprentie magicienne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
-      "rating": 9.4,
-      "year": 2026,
-      "days": 1,
+      "id": "tt10862280",
+      "name": "Spidey et ses amis extraordinaires",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3GAktESDOCOWUgxBdaWGUcyNgtf.jpg",
+      "rating": 7.1,
+      "year": 2021,
+      "days": 9,
       "trend": {
         "dir": "down",
-        "delta": 5
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
       "rating": 8.183,
       "year": 2025,
-      "days": 57,
+      "days": 58,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

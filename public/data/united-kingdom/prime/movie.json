@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "movie",
-  "date": "2026-06-20",
+  "date": "202606201151",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,20 +50,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt1586752",
-      "name": "Machine Gun",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p50jY9EUosRjcNiymYNBST2Z9Jm.jpg",
-      "rating": 6.726,
-      "year": 2011,
-      "days": 4,
+      "id": "tt12037194",
+      "name": "Furiosa — Une saga Mad Max",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
+      "rating": 7.454,
+      "year": 2024,
+      "days": 14,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt12037194",
-      "name": "Furiosa — Une saga Mad Max",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
-      "rating": 7.454,
-      "year": 2024,
-      "days": 13,
+      "id": "tt1586752",
+      "name": "Machine Gun",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p50jY9EUosRjcNiymYNBST2Z9Jm.jpg",
+      "rating": 6.726,
+      "year": 2011,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt26736843",
-      "name": "Les Guetteurs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
-      "rating": 6.346,
-      "year": 2024,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt1464335",
       "name": "Uncharted",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
       "rating": 6.886,
       "year": 2022,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt15682498",
-      "name": "The Last Stand of Ellen Cole",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
-      "rating": 7.844,
-      "year": 2024,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 10,
-      "id": "tt32537226",
-      "name": "Hunting Season",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
-      "rating": 6.953,
-      "year": 2025,
-      "days": 32,
+      "rank": 8,
+      "id": "tt26736843",
+      "name": "Les Guetteurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
+      "rating": 6.346,
+      "year": 2024,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1596343",
+      "name": "Fast & Furious 5",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7STjb7RLFODxHc9ZcskgQTOGdG5.jpg",
+      "rating": 7.242,
+      "year": 2011,
+      "days": 6,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt10872600",
+      "name": "Spider-Man : No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
+      "rating": 7.933,
+      "year": 2021,
+      "days": 16,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

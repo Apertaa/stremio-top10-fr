@@ -9,6 +9,16 @@
     "rating": 7.2,
     "ts": "2026-06-20"
   },
+  "21-jump-street": {
+    "tmdbId": 64688,
+    "tmdbType": "movie",
+    "imdbId": "tt1232829",
+    "titleFr": "21 Jump Street",
+    "year": 2012,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zEoQ0hyZqZymGNNcjajstYelFx2.jpg",
+    "rating": 6.887,
+    "ts": "2026-06-20"
+  },
   "47-ronin": {
     "tmdbId": 64686,
     "tmdbType": "movie",
@@ -287,6 +297,16 @@
     "year": 2026,
     "posterUrl": "https://image.tmdb.org/t/p/w780/nDZdP9NBxvbIabDQflfhKXVTjnz.jpg",
     "rating": 5.3,
+    "ts": "2026-06-20"
+  },
+  "big-daddy": {
+    "tmdbId": 9032,
+    "tmdbType": "movie",
+    "imdbId": "tt0142342",
+    "titleFr": "Big Daddy",
+    "year": 1999,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/agJtp5DwfAycEYiMrLZ2fQvkBYl.jpg",
+    "rating": 6.495,
     "ts": "2026-06-20"
   },
   "big-girls-wanted-escaping-pearadise": {
@@ -699,6 +719,16 @@
     "rating": 6.414,
     "ts": "2026-06-19"
   },
+  "emancipation": {
+    "tmdbId": 715931,
+    "tmdbType": "movie",
+    "imdbId": "tt12530246",
+    "titleFr": "Emancipation",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/47Ui47ZX0myRy05F4pm7HCFoDRJ.jpg",
+    "rating": 7.759,
+    "ts": "2026-06-20"
+  },
   "enemy-at-the-gates": {
     "tmdbId": 853,
     "tmdbType": "movie",
@@ -819,6 +849,16 @@
     "rating": 7.797,
     "ts": "2026-06-20"
   },
+  "fast-five": {
+    "tmdbId": 51497,
+    "tmdbType": "movie",
+    "imdbId": "tt1596343",
+    "titleFr": "Fast & Furious 5",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7STjb7RLFODxHc9ZcskgQTOGdG5.jpg",
+    "rating": 7.242,
+    "ts": "2026-06-20"
+  },
   "finding-forrester": {
     "tmdbId": 711,
     "tmdbType": "movie",
@@ -888,6 +928,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/kdDTFlLFjfT3V34HHIVk9E7yT0C.jpg",
     "rating": 6.742,
     "ts": "2026-06-19"
+  },
+  "friends-like-these-the-murder-of-skylar-neese": {
+    "tmdbId": 315213,
+    "tmdbType": "tv",
+    "imdbId": "tt39635096",
+    "titleFr": "Friends Like These: The Murder of Skylar Neese",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lEgIuAeU6eUaLSBtYLewE73gZaI.jpg",
+    "rating": 7.333,
+    "ts": "2026-06-20"
   },
   "from": {
     "tmdbId": 124364,
@@ -967,6 +1017,16 @@
     "year": 2023,
     "posterUrl": "https://image.tmdb.org/t/p/w780/tds2CSzH5tPAc9CbeUDRtSVzFhs.jpg",
     "rating": 6.88,
+    "ts": "2026-06-20"
+  },
+  "ghosts-2021": {
+    "tmdbId": 126027,
+    "tmdbType": "tv",
+    "imdbId": "tt11379026",
+    "titleFr": "Ghosts : Fantômes à la maison",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eeQxQnvX8RjvNLWzeaHXgLjjQsk.jpg",
+    "rating": 8,
     "ts": "2026-06-20"
   },
   "gia": {
@@ -1689,6 +1749,16 @@
     "rating": 5.803,
     "ts": "2026-06-19"
   },
+  "million-dollar-nannies": {
+    "tmdbId": 322928,
+    "tmdbType": "tv",
+    "imdbId": "tt43138820",
+    "titleFr": "Million Dollar Nannies",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
+    "rating": null,
+    "ts": "2026-06-20"
+  },
   "minions-more-volume-1": {
     "tmdbId": 1029119,
     "tmdbType": "movie",
@@ -1867,6 +1937,26 @@
     "year": 2025,
     "posterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
     "rating": 6.15,
+    "ts": "2026-06-20"
+  },
+  "novocaine-2025": {
+    "tmdbId": 1195506,
+    "tmdbType": "movie",
+    "imdbId": "tt29603959",
+    "titleFr": "Novocaïne",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9ZMCpsZMB5PgJ2p585e4JFN5dTX.jpg",
+    "rating": 6.785,
+    "ts": "2026-06-20"
+  },
+  "nuremberg-2025": {
+    "tmdbId": 1214931,
+    "tmdbType": "movie",
+    "imdbId": "tt29567915",
+    "titleFr": "Nuremberg",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+    "rating": 7.56,
     "ts": "2026-06-20"
   },
   "off-campus": {
@@ -2049,6 +2139,16 @@
     "rating": 7.826,
     "ts": "2026-06-19"
   },
+  "plane": {
+    "tmdbId": 646389,
+    "tmdbType": "movie",
+    "imdbId": "tt5884796",
+    "titleFr": "Mayday",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/brEs4KRNOpwkVByb4xfxKvQYKlD.jpg",
+    "rating": 6.897,
+    "ts": "2026-06-20"
+  },
   "ponies": {
     "tmdbId": 262793,
     "tmdbType": "tv",
@@ -2157,6 +2257,16 @@
     "year": 2025,
     "posterUrl": "https://image.tmdb.org/t/p/w780/rmoaCJYM2qVYL2LfJmQCkiEwMl.jpg",
     "rating": 5.682,
+    "ts": "2026-06-20"
+  },
+  "regular-show-the-lost-tapes": {
+    "tmdbId": 256695,
+    "tmdbType": "tv",
+    "imdbId": "tt32604054",
+    "titleFr": "Regular Show: The Lost Tapes",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
+    "rating": 9.646,
     "ts": "2026-06-20"
   },
   "richard-jewell": {
@@ -2859,6 +2969,16 @@
     "rating": 8.7,
     "ts": "2026-06-20"
   },
+  "the-glass-house-2026": {
+    "tmdbId": 292686,
+    "tmdbType": "tv",
+    "imdbId": "tt37091702",
+    "titleFr": "Vitrerie Joyal",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5iCpCZAr4v7zh4krX5yWLmoU10M.jpg",
+    "rating": 8,
+    "ts": "2026-06-20"
+  },
   "the-gorge": {
     "tmdbId": 950396,
     "tmdbType": "movie",
@@ -2887,6 +3007,16 @@
     "year": 2017,
     "posterUrl": "https://image.tmdb.org/t/p/w780/46a087NxApCdEWWJxqflmvHDTzt.jpg",
     "rating": 8.149,
+    "ts": "2026-06-20"
+  },
+  "the-handmaids-tale-1990": {
+    "tmdbId": 20815,
+    "tmdbType": "movie",
+    "imdbId": "tt0099731",
+    "titleFr": "La Servante écarlate",
+    "year": 1990,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pFgapvMgJWJhlCBuPFQcZgIQGBk.jpg",
+    "rating": 6.1,
     "ts": "2026-06-20"
   },
   "the-hunt-2020": {
@@ -3009,6 +3139,16 @@
     "rating": 5.559,
     "ts": "2026-06-20"
   },
+  "the-meg": {
+    "tmdbId": 345940,
+    "tmdbType": "movie",
+    "imdbId": "tt4779682",
+    "titleFr": "En eaux troubles",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
+    "rating": 6.248,
+    "ts": "2026-06-20"
+  },
   "the-middle": {
     "tmdbId": 1422,
     "tmdbType": "tv",
@@ -3027,6 +3167,16 @@
     "year": 2026,
     "posterUrl": "https://image.tmdb.org/t/p/w780/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg",
     "rating": 6.167,
+    "ts": "2026-06-20"
+  },
+  "the-naked-gun": {
+    "tmdbId": 1035259,
+    "tmdbType": "movie",
+    "imdbId": "tt3402138",
+    "titleFr": "Y a-t-il un flic pour sauver le monde ?",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dIOzuzx0CLYpNLx1Yf44cykyYX5.jpg",
+    "rating": 6.372,
     "ts": "2026-06-20"
   },
   "the-nightmare-upstairs-what-happened-to-ty-and-bryn-2026": {
@@ -3469,6 +3619,16 @@
     "rating": 7.3,
     "ts": "2026-06-20"
   },
+  "what-killed-maradona": {
+    "tmdbId": 825031,
+    "tmdbType": "movie",
+    "imdbId": "tt14140740",
+    "titleFr": "Maradona : les coulisses d'une addiction",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zRMN91ogV3991PJQLjfLI4DJyJc.jpg",
+    "rating": 7.8,
+    "ts": "2026-06-20"
+  },
   "what-you-wish-for": {
     "tmdbId": 1126934,
     "tmdbType": "movie",
@@ -3537,6 +3697,16 @@
     "year": 2023,
     "posterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
     "rating": 7.037,
+    "ts": "2026-06-20"
+  },
+  "worldbreaker": {
+    "tmdbId": 1196067,
+    "tmdbType": "movie",
+    "imdbId": "tt14264694",
+    "titleFr": "Worldbreaker",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+    "rating": 6.1,
     "ts": "2026-06-20"
   },
   "yellowstone": {
