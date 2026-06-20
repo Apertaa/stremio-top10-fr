@@ -106,7 +106,7 @@
       }
 
       const MEDIA = { both: { m: true, s: true }, movie: { m: true, s: false }, series: { m: false, s: true } };
-      const state = { rows: {}, kids: false }; // rows[key] = {on,country,media,label,cmode,ctext,expanded}
+      const state = { rows: {}, kids: false, ts: true }; // ts = Nuvio ajoute le type ; rows[key] = {on,country,media,label,cmode,ctext,expanded}
       let AVAIL = null;
 
       const $form = document.getElementById("form");
@@ -116,12 +116,16 @@
 
       const sourceName = (key) => (AVAIL.sources.find((s) => s.key === key) || {}).name || key;
       const flagOf = (slug) => (AVAIL.countries.find((c) => c.slug === slug) || {}).flag || "";
-      const defLabel = (key) => `${sourceName(key)} | Top 10 du jour`;
+      const defLabel = (key, media, ts) => {
+        if (ts) return `${sourceName(key)} | Top 10 du jour`;
+        return `${sourceName(key)} | Top 10 des ${media === "series" ? "séries" : "films"} du jour`;
+      };
       const countriesFor = (key) => AVAIL.countries.filter((c) => AVAIL.combos[c.slug] && AVAIL.combos[c.slug][key]);
 
-      /** Nom calculé (miroir exact de la logique du Worker). */
-      function computeName(key, r) {
-        const label = (r.label || "").trim() || defLabel(key);
+      /** Nom calculé pour un type (miroir exact de la logique du Worker). */
+      function computeName(key, r, media) {
+        const plural = media === "series" ? "séries" : "films";
+        const label = ((r.label || "").trim() || defLabel(key, media, state.ts)).replace(/\{type\}/g, plural);
         const suffix = r.cmode === "flag" ? flagOf(r.country) : r.cmode === "custom" ? (r.ctext || "").trim() : (COUNTRY_LOC[r.country] || "");
         return suffix ? `${label} ${suffix}` : label;
       }
@@ -133,12 +137,14 @@
           if (!r || !r.on) continue;
           const e = { k: s.key, c: r.country, ...MEDIA[r.media] };
           const lab = (r.label || "").trim();
-          if (lab && lab !== defLabel(s.key)) e.label = lab;
+          if (lab) e.label = lab;
           if (r.cmode && r.cmode !== "full") e.cmode = r.cmode;
           if (r.cmode === "custom" && (r.ctext || "").trim()) e.ctext = r.ctext.trim();
           sel.push(e);
         }
-        return { v: 1, sel, kids: state.kids };
+        const cfg = { v: 1, sel, kids: state.kids };
+        if (!state.ts) cfg.ts = false; // par défaut Nuvio ajoute le type → on n'encode que le cas « Non »
+        return cfg;
       }
 
       function render() {
@@ -206,10 +212,11 @@
         panel.className = "namepanel" + (r.expanded ? " open" : "");
 
         const labLbl = document.createElement("label");
-        labLbl.textContent = "Nom affiché";
+        labLbl.textContent = "Nom affiché (vide = automatique · {type} = films/séries)";
         const labInput = document.createElement("input");
         labInput.type = "text";
         labInput.value = r.label;
+        labInput.placeholder = defLabel(source.key, "movie", state.ts);
 
         const cmLbl = document.createElement("label");
         cmLbl.textContent = "Affichage du pays";
@@ -236,8 +243,12 @@
         preview.className = "preview";
 
         const refreshPreview = () => {
-          preview.innerHTML = `Aperçu : <span class="pv"></span> <small>· (Nuvio ajoute « - Film » / « - Série »)</small>`;
-          preview.querySelector(".pv").textContent = computeName(source.key, state.rows[source.key]);
+          const rr = state.rows[source.key];
+          const lines = [];
+          if (rr.media !== "series") lines.push("🎬 " + computeName(source.key, rr, "movie"));
+          if (rr.media !== "movie") lines.push("📺 " + computeName(source.key, rr, "series"));
+          const note = state.ts ? "    · (Nuvio ajoute « - Film » / « - Série »)" : "";
+          preview.textContent = "Aperçu : " + lines.join("    ") + note;
         };
 
         panel.append(labLbl, labInput, cmLbl, cmode, ctextWrap, preview);
@@ -278,6 +289,26 @@
 
       function buildForm() {
         $form.innerHTML = "";
+
+        // ── Réglage global : Nuvio ajoute-t-il lui-même le type (Film/Série) ? ──
+        const tsWrap = document.createElement("label");
+        tsWrap.className = "toggle";
+        const tsName = document.createElement("span");
+        tsName.className = "name";
+        tsName.innerHTML =
+          "Nuvio ajoute le type « - Film / - Série » ? <small>Si tu as désactivé cette option dans Nuvio, choisis « Non » : le type sera tissé dans les titres (« … des films/séries du jour »).</small>";
+        const tsSel = document.createElement("select");
+        for (const [v, lab] of [["oui", "Oui (défaut)"], ["non", "Non"]]) {
+          const o = document.createElement("option");
+          o.value = v;
+          o.textContent = lab;
+          tsSel.appendChild(o);
+        }
+        tsSel.value = state.ts ? "oui" : "non";
+        tsSel.addEventListener("change", () => { state.ts = tsSel.value === "oui"; buildForm(); });
+        tsWrap.append(tsName, tsSel);
+        $form.appendChild(tsWrap);
+
         const platforms = AVAIL.sources.filter((s) => s.key !== "global");
         const global = AVAIL.sources.find((s) => s.key === "global");
 
@@ -320,7 +351,7 @@
             on: s.key !== "global" && hasFr,
             country: hasFr ? "france" : cs[0].slug,
             media: "both",
-            label: defLabel(s.key),
+            label: "",
             cmode: "full",
             ctext: "",
             expanded: false,
@@ -342,6 +373,7 @@
               if (sel.ctext) row.ctext = sel.ctext;
             }
             state.kids = !!cfg.kids;
+            state.ts = cfg.ts !== false;
           } catch (e) {
             /* hash invalide → on garde le défaut */
           }

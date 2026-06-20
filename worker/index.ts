@@ -13,7 +13,7 @@
  *   GET /<config>/manifest.json              → manifest selon la config (catalogues activés)
  *   GET /<config>/catalog/<type>/<id>.json   → contenu d'un catalogue
  *
- * <config> = base64url(JSON.stringify(Config)). Config = { v, sel: [{k,c,m,s}], kids? }.
+ * <config> = base64url(JSON.stringify(Config)). Config = { v, sel: [{k,c,m,s,label?,cmode?,ctext?}], kids?, ts? }.
  */
 import CONFIGURE_HTML from "./configure.html";
 
@@ -36,8 +36,8 @@ type Sel = {
   cmode?: "full" | "flag" | "custom";
   ctext?: string;
 };
-/** Config encodée dans l'URL. */
-type Config = { v: number; sel: Sel[]; kids?: boolean };
+/** Config encodée dans l'URL. `ts` = Nuvio ajoute lui-même le type « - Film/- Série » (défaut true). */
+type Config = { v: number; sel: Sel[]; kids?: boolean; ts?: boolean };
 
 type ListKey = "movie" | "series" | "kids-movie" | "kids-series";
 
@@ -116,18 +116,23 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
   const flag = (c: string): string => avail.countries.find((x: any) => x.slug === c)?.flag ?? "";
   const sourceName = (k: string): string => avail.sources.find((x: any) => x.key === k)?.name ?? k;
   const has = (c: string, k: string, list: ListKey): boolean => !!avail.combos?.[c]?.[k]?.includes(list);
+  const ts = cfg.ts !== false; // défaut true : Nuvio ajoute lui-même « - Film » / « - Série »
 
   const catalogs: Array<{ type: string; id: string; name: string }> = [];
   for (const sel of cfg.sel) {
-    const nm = catalogName(sel, sourceName(sel.k), flag(sel.c), false);
-    const nmKids = catalogName(sel, sourceName(sel.k), flag(sel.c), true);
-    if (sel.m && has(sel.c, sel.k, "movie")) catalogs.push({ type: "movie", id: sel.k, name: nm });
-    if (sel.s && has(sel.c, sel.k, "series")) catalogs.push({ type: "series", id: sel.k, name: nm });
+    const sn = sourceName(sel.k);
+    const fl = flag(sel.c);
+    if (sel.m && has(sel.c, sel.k, "movie")) {
+      catalogs.push({ type: "movie", id: sel.k, name: catalogName(sel, sn, fl, false, "movie", ts) });
+    }
+    if (sel.s && has(sel.c, sel.k, "series")) {
+      catalogs.push({ type: "series", id: sel.k, name: catalogName(sel, sn, fl, false, "series", ts) });
+    }
     if (cfg.kids && sel.m && has(sel.c, sel.k, "kids-movie")) {
-      catalogs.push({ type: "movie", id: `${sel.k}-kids`, name: nmKids });
+      catalogs.push({ type: "movie", id: `${sel.k}-kids`, name: catalogName(sel, sn, fl, true, "movie", ts) });
     }
     if (cfg.kids && sel.s && has(sel.c, sel.k, "kids-series")) {
-      catalogs.push({ type: "series", id: `${sel.k}-kids`, name: nmKids });
+      catalogs.push({ type: "series", id: `${sel.k}-kids`, name: catalogName(sel, sn, fl, true, "series", ts) });
     }
   }
 
@@ -148,13 +153,23 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
 }
 
 /**
- * Nom d'un catalogue : « <label> <suffixe pays> ».
- *   label  = `sel.label` ou, par défaut, « <plateforme> | Top 10 du jour » ;
- *   suffixe = selon `sel.cmode` : « full » → en toutes lettres (en France) · « flag » → 🇫🇷 · « custom » → `sel.ctext`.
- * (Nuvio/Stremio ajoutent ensuite « - Film » / « - Série » d'après le type.)
+ * Nom d'un catalogue, calculé PAR type (movie/series).
+ *   label par défaut : si `ts` (Nuvio ajoute le type) → « <plateforme> | Top 10 du jour » (type-agnostique) ;
+ *   sinon on tisse le type → « <plateforme> | Top 10 des films/séries du jour ».
+ *   `sel.label` (custom) remplace le défaut ; le token `{type}` y devient « films »/« séries ».
+ *   suffixe pays selon `sel.cmode` ; « · Jeunesse » pour les listes enfants.
  */
-function catalogName(sel: Sel, srcName: string, fl: string, kids: boolean): string {
-  const label = (sel.label || "").trim() || `${srcName} | Top 10 du jour`;
+function catalogName(
+  sel: Sel,
+  srcName: string,
+  fl: string,
+  kids: boolean,
+  media: "movie" | "series",
+  ts: boolean,
+): string {
+  const plural = media === "series" ? "séries" : "films";
+  const def = ts ? `${srcName} | Top 10 du jour` : `${srcName} | Top 10 des ${plural} du jour`;
+  const label = ((sel.label || "").trim() || def).replace(/\{type\}/g, plural);
   const mode = sel.cmode || "full";
   const suffix = mode === "flag" ? fl : mode === "custom" ? (sel.ctext || "").trim() : COUNTRY_LOC[sel.c] || "";
   const main = kids ? `${label} · Jeunesse` : label;
