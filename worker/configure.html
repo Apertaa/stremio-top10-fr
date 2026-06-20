@@ -244,11 +244,31 @@
 
         const refreshPreview = () => {
           const rr = state.rows[source.key];
-          const lines = [];
-          if (rr.media !== "series") lines.push("🎬 " + computeName(source.key, rr, "movie"));
-          if (rr.media !== "movie") lines.push("📺 " + computeName(source.key, rr, "series"));
-          const note = state.ts ? "    · (Nuvio ajoute « - Film » / « - Série »)" : "";
-          preview.textContent = "Aperçu : " + lines.join("    ") + note;
+          const rows = [];
+          if (rr.media !== "series") {
+            rows.push(["Aperçu pour les films : ", computeName(source.key, rr, "movie") + (state.ts ? " - Film" : "")]);
+          }
+          if (rr.media !== "movie") {
+            rows.push(["Aperçu pour les séries : ", computeName(source.key, rr, "series") + (state.ts ? " - Série" : "")]);
+          }
+          preview.innerHTML = "";
+          for (const [lbl, nm] of rows) {
+            const d = document.createElement("div");
+            d.style.marginBottom = "8px";
+            const muted = document.createElement("span");
+            muted.style.color = "var(--muted)";
+            muted.textContent = lbl;
+            const strong = document.createElement("b");
+            strong.textContent = nm;
+            d.append(muted, strong);
+            preview.appendChild(d);
+          }
+          if (state.ts) {
+            const note = document.createElement("div");
+            note.style.cssText = "color:var(--muted);font-size:0.85em";
+            note.textContent = "Important : Stremio/Nuvio ajoute automatiquement « - Film » / « - Série » à la fin du titre.";
+            preview.appendChild(note);
+          }
         };
 
         panel.append(labLbl, labInput, cmLbl, cmode, ctextWrap, preview);
