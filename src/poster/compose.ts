@@ -28,8 +28,3 @@ export async function buildPoster(opts: {
   }
   compose(posterPath, opts.rank, opts.variant, join(POSTERS_DIR, `${opts.key}.jpg`));
 }
-
-/** Clé d'affiche stable : `<id-plateforme>-<type>-<rang>` (l'URL ne change pas, le contenu oui). */
-export function posterKey(platformId: string, type: string, rank: number): string {
-  return `${platformId}-${type}-${rank}`;
-}

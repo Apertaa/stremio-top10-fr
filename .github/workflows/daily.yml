@@ -38,6 +38,9 @@ jobs:
         run: bun run src/generate.ts verify
 
       - name: Committer l'état régénéré
+        # On versionne le cache TMDB + les DONNÉES (public/data, availability, manifest, catalog).
+        # Les affiches (public/posters/) sont gitignorées : régénérées à chaque run, publiées via
+        # l'artefact ci-dessous, jamais committées (sinon le dépôt gonflerait de ~930 images/jour).
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

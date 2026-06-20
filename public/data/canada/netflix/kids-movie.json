@@ -1,0 +1,138 @@
+{
+  "country": "canada",
+  "key": "netflix",
+  "list": "kids-movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 49,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 48,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 354,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt6095472",
+      "name": "Angry Birds : Copains comme cochons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9YYRD0el7wa9kiZC4RsfxGpTrtX.jpg",
+      "rating": 7.054,
+      "year": 2019,
+      "days": 43,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt6673612",
+      "name": "Le voyage du Dr Dolittle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dSFLgSQffeAgJWhVlH3HBTWVPYe.jpg",
+      "rating": 6.581,
+      "year": 2020,
+      "days": 12,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt2296777",
+      "name": "Sherlock Gnomes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/15e02jluBoyTH5zhVuckzM0xEZA.jpg",
+      "rating": 5.749,
+      "year": 2018,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt18259086",
+      "name": "Sonic 3, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
+      "rating": 7.617,
+      "year": 2024,
+      "days": 103,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0126029",
+      "name": "Shrek",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
+      "rating": 7.765,
+      "year": 2001,
+      "days": 317,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0312528",
+      "name": "Le chat chapeauté",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
+      "rating": 5.314,
+      "year": 2003,
+      "days": 31,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt15678738",
+      "name": "David",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+      "rating": 8.1,
+      "year": 2025,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "country": "united-states",
+  "key": "netflix",
+  "list": "kids-movie",
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tt0814255",
+      "name": "Percy Jackson : Le Voleur de foudre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7VytSOVN8JsMugBY3Y4KfmQF2QN.jpg",
+      "rating": 6.212,
+      "year": 2010,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt1854564",
+      "name": "Percy Jackson : La Mer des monstres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2FxxERFRIFhW4ubkeVAGHIDb6HT.jpg",
+      "rating": 6.028,
+      "year": 2013,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
+      "year": 2026,
+      "days": 35,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0472181",
+      "name": "Les Schtroumpfs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/boXGNZ3yocnX4fYIJTJkgLAi48U.jpg",
+      "rating": 5.755,
+      "year": 2011,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt2224026",
+      "name": "En route !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
+      "rating": 6.787,
+      "year": 2015,
+      "days": 251,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0389790",
+      "name": "Bee Movie : Drôle d'abeille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/29y7oQ75MNIhtQFd3KlwUTjyXh8.jpg",
+      "rating": 6.046,
+      "year": 2007,
+      "days": 73,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 357,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 48,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0164912",
+      "name": "Stuart Little",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fiqcKkjKwcbxeoVVKiEkxQnBSge.jpg",
+      "rating": 6.079,
+      "year": 1999,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt3469046",
+      "name": "Moi, moche et méchant 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
+      "rating": 6.468,
+      "year": 2017,
+      "days": 201,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    }
+  ]
+}
