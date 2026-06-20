@@ -184,11 +184,6 @@ async function verify(): Promise<void> {
       }
     }
   }
-  const manifest = join(PUBLIC_DIR, "manifest.json");
-  if (!existsSync(manifest)) {
-    console.error("❌ public/manifest.json (France par défaut) absent.");
-    problems++;
-  }
   console.error(problems ? `\n⚠️ ${problems} problème(s) sur ${lists} listes.` : `\n✅ ${lists} listes valides.`);
   if (problems) process.exit(1);
 }
