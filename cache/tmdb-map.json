@@ -349,6 +349,16 @@
     "rating": 6.364,
     "ts": "2026-06-19"
   },
+  "bluey-minisodes": {
+    "tmdbId": 256953,
+    "tmdbType": "tv",
+    "imdbId": "tt32328599",
+    "titleFr": "Les petites histoires de Bluey",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
+    "rating": 8.256,
+    "ts": "2026-06-20"
+  },
   "bobo-siebenschlafer": {
     "tmdbId": 69389,
     "tmdbType": "tv",
@@ -1697,6 +1707,16 @@
     "year": 2024,
     "posterUrl": "https://image.tmdb.org/t/p/w780/cuXGLSrJ4cwSGkO3PwlM1UYnDNK.jpg",
     "rating": 8.27,
+    "ts": "2026-06-20"
+  },
+  "memoir-of-a-snail": {
+    "tmdbId": 1064486,
+    "tmdbType": "movie",
+    "imdbId": "tt23770030",
+    "titleFr": "Mémoires d’un escargot",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oYpq6XFoubsezCt1o28TwnraD0a.jpg",
+    "rating": 8.034,
     "ts": "2026-06-20"
   },
   "memory-of-a-killer": {
@@ -3547,6 +3567,16 @@
     "year": 2022,
     "posterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
     "rating": 6.886,
+    "ts": "2026-06-20"
+  },
+  "unconditional-2026": {
+    "tmdbId": 314916,
+    "tmdbType": "tv",
+    "imdbId": "tt35668813",
+    "titleFr": "Unconditional",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2t7WpN80NkBulkZzpkEdjZy7slX.jpg",
+    "rating": 7.231,
     "ts": "2026-06-20"
   },
   "upstairs-downstairs": {
