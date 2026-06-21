@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202606201714",
+  "date": "202606211717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 39,
+      "days": 40,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
       "rating": 8.294,
       "year": 1994,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PmlGEkVrtuCPxRwRqMMx1bDlbx.jpg",
       "rating": 7.42,
       "year": 2001,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt0974015",
-      "name": "Justice League",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
-      "rating": 6.1,
-      "year": 2017,
-      "days": 4,
+      "id": "tt0073195",
+      "name": "Les Dents de la mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
+      "rating": 7.682,
+      "year": 1975,
+      "days": 17,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,24 +58,24 @@
     },
     {
       "rank": 5,
-      "id": "tt0073195",
-      "name": "Les Dents de la mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
-      "rating": 7.682,
-      "year": 1975,
-      "days": 16,
+      "id": "tt0974015",
+      "name": "Justice League",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
+      "rating": 6.1,
+      "year": 2017,
+      "days": 5,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt23770030",
-      "name": "Mémoires d’un escargot",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oYpq6XFoubsezCt1o28TwnraD0a.jpg",
-      "rating": 8.034,
-      "year": 2024,
+      "id": "tt0274117",
+      "name": "Sur mes lèvres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jeCaVrg9mmgRmJWRMDnch5X7tBy.jpg",
+      "rating": 7.056,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "new",
@@ -84,38 +84,38 @@
     },
     {
       "rank": 7,
+      "id": "tt23770030",
+      "name": "Mémoires d’un escargot",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oYpq6XFoubsezCt1o28TwnraD0a.jpg",
+      "rating": 8.034,
+      "year": 2024,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt12361974",
       "name": "Zack Snyder's Justice League",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EOp3YUSQgzOwVOKrejfKK27bK6.jpg",
       "rating": 8.089,
       "year": 2021,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt8781414",
       "name": "Freaks",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdDTFlLFjfT3V34HHIVk9E7yT0C.jpg",
       "rating": 6.742,
       "year": 2019,
-      "days": 16,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt4547194",
-      "name": "Chasseuse de géants",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bNHcO1fdZbyNDTakCiVduPPHt1n.jpg",
-      "rating": 6.176,
-      "year": 2017,
-      "days": 47,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hqpC2DoL2AA9QFhtcRw9pJx8YWk.jpg",
       "rating": 6.207,
       "year": 2013,
-      "days": 28,
+      "days": 29,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

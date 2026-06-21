@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202606201714",
+  "date": "202606211717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
       "rating": 8.294,
       "year": 1994,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,23 +37,23 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt30851137",
-      "name": "The Bride!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
-      "rating": 6.171,
-      "year": 2026,
-      "days": 28,
+      "id": "tt13560574",
+      "name": "X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
+      "rating": 6.7,
+      "year": 2022,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pFgapvMgJWJhlCBuPFQcZgIQGBk.jpg",
       "rating": 6.1,
       "year": 1990,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ua6xDVAQ58zasCEfbGPVqHJOP70.jpg",
       "rating": 6.335,
       "year": 2025,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,38 +84,51 @@
     },
     {
       "rank": 7,
+      "id": "tt7690016",
+      "name": "Never Goin' Back",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ytp5pmHFVvAesnL2SJecxgV8W2.jpg",
+      "rating": 6.1,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt30851137",
+      "name": "The Bride!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
+      "rating": 6.171,
+      "year": 2026,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt6443346",
       "name": "Black Adam",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYALH5NPM7xk2XQd2J8wrfmliIW.jpg",
       "rating": 6.8,
       "year": 2022,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 8,
-      "id": "tt0093058",
-      "name": "Full Metal Jacket",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cShwwkz4gBBIRj8yFy8TP2tEWZ4.jpg",
-      "rating": 8.118,
-      "year": 1987,
-      "days": 30,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt4779682",
-      "name": "En eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
-      "rating": 6.248,
-      "year": 2018,
-      "days": 19,
+      "rank": 10,
+      "id": "tt9224104",
+      "name": "En eaux très troubles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tPnya8bGupPR7dYxlh5w4z3P6pW.jpg",
+      "rating": 6.374,
+      "year": 2023,
+      "days": 27,
       "trend": {
         "dir": "new",
         "delta": null

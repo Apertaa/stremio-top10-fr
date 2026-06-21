@@ -2,16 +2,16 @@
   "country": "canada",
   "key": "global",
   "list": "movie",
-  "date": "202606201714",
+  "date": "202606211717",
   "entries": [
     {
       "rank": 1,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
       "year": 2026,
-      "days": 7,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,62 +19,10 @@
     },
     {
       "rank": 2,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt1294226",
-      "name": "La Dernière Chanson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
-      "year": 2010,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt9883398",
-      "name": "Long Distance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
-      "rating": 6.532,
-      "year": 2024,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt8323668",
-      "name": "Jerry & Marge Go Large",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
-      "rating": 7.379,
-      "year": 2022,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt38681832",
-      "name": "Les Couleurs du mal : Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
-      "rating": 6.703,
       "year": 2026,
       "days": 9,
       "trend": {
@@ -83,55 +31,107 @@
       }
     },
     {
+      "rank": 3,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0770806",
+      "name": "Contractor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
+      "rating": 5.508,
+      "year": 2007,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt5884052",
+      "name": "Pokémon Détective Pikachu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
+      "rating": 6.905,
+      "year": 2019,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt8323668",
+      "name": "Jerry & Marge Go Large",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
+      "rating": 7.379,
+      "year": 2022,
+      "days": 16,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
       "rank": 7,
+      "id": "tt1355683",
+      "name": "Strictly Criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBNcuMkb2E2ULaaONhinn4rkDNl.jpg",
+      "rating": 6.529,
+      "year": 2015,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1294226",
+      "name": "La Dernière Chanson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
+      "rating": 7.2,
+      "year": 2010,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt0104070",
       "name": "La mort vous va si bien",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62DPuJy63ZAK62NxWB04bKCXrye.jpg",
       "rating": 6.8,
       "year": 1992,
-      "days": 1,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt40792117",
-      "name": "L'Accident",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCJTvf7xZpqoEXF9PFf9t5jttxl.jpg",
-      "rating": 6.935,
-      "year": 2026,
-      "days": 30,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt29540862",
-      "name": "Bhooth Bangla",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nDZdP9NBxvbIabDQflfhKXVTjnz.jpg",
-      "rating": 5.3,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 42,
+      "id": "tt36876775",
+      "name": "Mes hommes d'action",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]
