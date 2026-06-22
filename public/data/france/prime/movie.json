@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
       "rating": 5.257,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 153,
+      "days": 154,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,75 +63,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pbqGWYJ37v2xClKYZUROtxFj3px.jpg",
       "rating": 6.58,
       "year": 2025,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt14877816",
+      "name": "Petaouchnok",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7YcjQ2YVyg9m5P9lYIPLXDVZ3FN.jpg",
+      "rating": 4.892,
+      "year": 2022,
+      "days": 4,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt33311244",
       "name": "À contre-sens 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
       "rating": 7.374,
       "year": 2025,
-      "days": 97,
+      "days": 98,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
-      "year": 2025,
-      "days": 460,
+      "rank": 8,
+      "id": "tt30057084",
+      "name": "Babygirl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aVjWFfJHkFSLHjeKn0GuAyNBlpA.jpg",
+      "rating": 5.712,
+      "year": 2024,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 8,
-      "id": "tt36363971",
-      "name": "Mexicali",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/if89AFL35EqJIkZeXfSezwwngTo.jpg",
-      "rating": 7.561,
+      "rank": 9,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
       "year": 2026,
-      "days": 10,
+      "days": 32,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tmdb:1651369",
-      "name": "Your Fault",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 147,
+      "rank": 10,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 461,
       "trend": {
         "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 31,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 3
       }
     }
   ]

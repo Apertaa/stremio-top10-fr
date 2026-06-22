@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 70,
+      "days": 71,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 880,
+      "days": 881,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 838,
+      "days": 839,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 839,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
-      "id": "tt1884856",
-      "name": "Masha et Michka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
-      "rating": 6.843,
-      "year": 2009,
-      "days": 763,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 5,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 838,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt6581428",
       "name": "Booba",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e5s0wmwtxLaM8aFsDuk0fLO8Inj.jpg",
       "rating": 6.2,
       "year": 2014,
-      "days": 59,
+      "days": 60,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 764,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
       "rating": null,
       "year": 2022,
-      "days": 497,
+      "days": 498,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 135,
+      "days": 136,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 58,
+      "days": 59,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt20917538",
-      "name": "Terriblement dinos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f2WrO4EHOzDOnJOho6bAIGFu8Ls.jpg",
-      "rating": 10,
-      "year": 2024,
-      "days": 74,
+      "id": "tt15527326",
+      "name": "Les Enquêtes sauvages",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/prZU4fBYkrkKeavWkrESVH6oxqU.jpg",
+      "rating": 7.8,
+      "year": 2022,
+      "days": 218,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

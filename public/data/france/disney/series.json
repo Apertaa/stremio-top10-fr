@@ -2,7 +2,7 @@
   "country": "france",
   "key": "disney",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KUSPrM65y2AE9t3FOd0LAuvBCW.jpg",
       "rating": 7.625,
       "year": 2025,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
       "rating": 8.072,
       "year": 2026,
-      "days": 64,
+      "days": 65,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
       "rating": 7.9,
       "year": 2004,
-      "days": 53,
+      "days": 54,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 57,
+      "id": "tt33550053",
+      "name": "9-1-1: Nashville",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+      "rating": 8.181,
+      "year": 2025,
+      "days": 11,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt33550053",
-      "name": "9-1-1: Nashville",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
-      "rating": 8.181,
-      "year": 2025,
-      "days": 10,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 58,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z6on6DbEKpE9gOr8lvjj3xebGtd.jpg",
       "rating": 8.9,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt0413573",
-      "name": "Grey's Anatomy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
-      "rating": 8.209,
-      "year": 2005,
-      "days": null,
+      "id": "tt21056976",
+      "name": "Dragon Striker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+      "rating": 7.545,
+      "year": 2026,
+      "days": 4,
       "trend": {
         "dir": "new",
         "delta": null

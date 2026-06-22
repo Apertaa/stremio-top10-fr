@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 40,
+      "days": 41,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,80 +19,80 @@
     },
     {
       "rank": 2,
-      "id": "tt0110413",
-      "name": "Léon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
-      "rating": 8.294,
-      "year": 1994,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt0215750",
-      "name": "Stalingrad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PmlGEkVrtuCPxRwRqMMx1bDlbx.jpg",
-      "rating": 7.42,
-      "year": 2001,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt0073195",
       "name": "Les Dents de la mer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
       "rating": 7.682,
       "year": 1975,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
       }
     },
     {
-      "rank": 5,
-      "id": "tt0974015",
-      "name": "Justice League",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
-      "rating": 6.1,
-      "year": 2017,
-      "days": 5,
+      "rank": 3,
+      "id": "tt0110413",
+      "name": "Léon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
+      "rating": 8.294,
+      "year": 1994,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt0274117",
-      "name": "Sur mes lèvres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jeCaVrg9mmgRmJWRMDnch5X7tBy.jpg",
-      "rating": 7.056,
+      "rank": 4,
+      "id": "tt0215750",
+      "name": "Stalingrad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PmlGEkVrtuCPxRwRqMMx1bDlbx.jpg",
+      "rating": 7.42,
       "year": 2001,
-      "days": null,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt11315808",
+      "name": "Joker : Folie à deux",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cWJGZAozNQFKLCD8vv4ukw4nJP8.jpg",
+      "rating": 5.401,
+      "year": 2024,
+      "days": 30,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 7,
-      "id": "tt23770030",
-      "name": "Mémoires d’un escargot",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oYpq6XFoubsezCt1o28TwnraD0a.jpg",
-      "rating": 8.034,
-      "year": 2024,
-      "days": 1,
+      "rank": 6,
+      "id": "tt0974015",
+      "name": "Justice League",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
+      "rating": 6.1,
+      "year": 2017,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0083866",
+      "name": "E.T. l'extra-terrestre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jl5sfhTeAlp60rM9GxoDA2dmX9.jpg",
+      "rating": 7.5,
+      "year": 1982,
+      "days": 9,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EOp3YUSQgzOwVOKrejfKK27bK6.jpg",
       "rating": 8.089,
       "year": 2021,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt8781414",
-      "name": "Freaks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdDTFlLFjfT3V34HHIVk9E7yT0C.jpg",
-      "rating": 6.742,
-      "year": 2019,
-      "days": 17,
+      "id": "tt1727824",
+      "name": "Bohemian Rhapsody",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zpf6mrGZ0BbdsfzwUP0Nzp3hJEb.jpg",
+      "rating": 7.958,
+      "year": 2018,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt1335975",
-      "name": "47 Ronin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hqpC2DoL2AA9QFhtcRw9pJx8YWk.jpg",
-      "rating": 6.207,
-      "year": 2013,
-      "days": 29,
+      "id": "tt3783958",
+      "name": "La La Land",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg",
+      "rating": 7.898,
+      "year": 2016,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

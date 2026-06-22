@@ -2,58 +2,58 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
-      "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 31,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt5950044",
       "name": "Superman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
       "rating": 7.338,
       "year": 2025,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
+      "year": 2026,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 32,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
-      "year": 2025,
-      "days": 3,
+      "id": "tt9663764",
+      "name": "Aquaman et le Royaume perdu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
+      "rating": 6.523,
+      "year": 2023,
+      "days": 25,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
       "rating": 5.8,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,59 +76,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt9663764",
-      "name": "Aquaman et le Royaume perdu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
-      "rating": 6.523,
-      "year": 2023,
-      "days": 24,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt1440129",
       "name": "Battleship",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bCYuM18r8G8pOlHf6yYxnFU9IJ4.jpg",
       "rating": 5.903,
       "year": 2012,
-      "days": 35,
+      "days": 36,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 4,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 4
       }
     },
     {
       "rank": 9,
-      "id": "tt5884796",
-      "name": "Mayday",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/brEs4KRNOpwkVByb4xfxKvQYKlD.jpg",
-      "rating": 6.897,
-      "year": 2023,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt9150192",
       "name": "A Working Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 124,
+      "days": 125,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt5884796",
+      "name": "Mayday",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/brEs4KRNOpwkVByb4xfxKvQYKlD.jpg",
+      "rating": 6.897,
+      "year": 2023,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1

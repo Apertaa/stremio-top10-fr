@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
       "rating": 7.382,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
       "rating": 8.2,
       "year": 2024,
-      "days": 53,
+      "days": 54,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt9077540",
+      "name": "À l'ombre des magnolias",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
+      "rating": 7.7,
+      "year": 2020,
+      "days": 33,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt43507442",
+      "name": "Outlast : La jungle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 12,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 4,
-      "id": "tt43507442",
-      "name": "Outlast : La jungle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt9077540",
-      "name": "À l'ombre des magnolias",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
-      "rating": 7.7,
-      "year": 2020,
-      "days": 32,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 6,
-      "id": "tt27610198",
-      "name": "L'Incroyable Cirque Numérique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
-      "rating": 8.609,
-      "year": 2023,
-      "days": 8,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
       "rating": 4.4,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dwspHMJq4YyNBNB1heuKP9my70O.jpg",
       "rating": 6.719,
       "year": 2025,
-      "days": 60,
+      "days": 61,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": null,
+      "id": "tt27610198",
+      "name": "L'Incroyable Cirque Numérique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+      "rating": 8.609,
+      "year": 2023,
+      "days": 9,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

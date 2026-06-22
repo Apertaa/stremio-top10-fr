@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "disney",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
       "rating": 8.181,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
       "rating": 7.462,
       "year": 2019,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg",
       "rating": 7.977,
       "year": 1995,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,62 +63,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
       "rating": 7.6,
       "year": 1999,
-      "days": 10,
+      "days": 11,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0435761",
+      "name": "Toy Story 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
+      "rating": 7.8,
+      "year": 2010,
+      "days": 11,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "tt43140112",
       "name": "Extreme Makeover: Homer Edition",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vim76mMXig00YRxN2iGYJASoGkP.jpg",
       "rating": 6.9,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt0435761",
-      "name": "Toy Story 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
-      "rating": 7.8,
-      "year": 2010,
-      "days": 10,
+      "rank": 8,
+      "id": "top10:taylor-swift-i-knew-it-i-knew-you-toy-story-5-music-video",
+      "name": "Taylor Swift I Knew It, I Knew You | Toy Story 5 Music Video",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt8036976",
       "name": "Send Help",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "rating": 7.056,
       "year": 2026,
-      "days": 41,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt36042156",
-      "name": "The Punisher : One Last Kill",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/74VbBYHmpjgeES1zkRo1DwHkWnE.jpg",
-      "rating": 8.346,
-      "year": 2026,
-      "days": 36,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt2033372",
+      "name": "Mini Buzz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uWVizLIBkZ2CDUtGgnUoj50n9fz.jpg",
+      "rating": 6.9,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

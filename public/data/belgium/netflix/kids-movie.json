@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,33 +24,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 56,
+      "days": 57,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 27,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt1860353",
       "name": "Turbo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 60,
+      "days": 61,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
+      "year": 2026,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,20 +63,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 50,
+      "days": 51,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt32214143",
-      "name": "Gabby et la Maison Magique - Le Film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLakaMqkKCjDId3HM3uUvjNUDCf.jpg",
-      "rating": 6.88,
-      "year": 2025,
-      "days": 30,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 481,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
+      "id": "tt32214143",
+      "name": "Gabby et la Maison Magique - Le Film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLakaMqkKCjDId3HM3uUvjNUDCf.jpg",
+      "rating": 6.88,
+      "year": 2025,
+      "days": 31,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt4116284",
       "name": "Lego Batman, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6fs4BbybxTaZiX1ZqhKPQwR3BwC.jpg",
       "rating": 7.248,
       "year": 2017,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 480,
+      "days": 9,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aA1eZtISZ2rqUk2QIUgu1pXcHrm.jpg",
       "rating": 6.923,
       "year": 2005,
-      "days": 192,
+      "days": 193,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
       "rating": 6.968,
       "year": 2025,
-      "days": 191,
+      "days": 192,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

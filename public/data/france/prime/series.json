@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 73,
+      "days": 74,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,41 +58,41 @@
     },
     {
       "rank": 5,
-      "id": "tt10541088",
-      "name": "Clarkson à la ferme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
-      "rating": 8.5,
-      "year": 2021,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt35707374",
       "name": "Memory of a Killer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXpDNwci75WH21CAptGgWduBrXD.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt13696152",
       "name": "LOL : Qui rit, sort !",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ha9Nii4BB05xLLSQEAwZsdKIhZX.jpg",
       "rating": 6.5,
       "year": 2021,
-      "days": 57,
+      "days": 58,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt10541088",
+      "name": "Clarkson à la ferme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
+      "rating": 8.5,
+      "year": 2021,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
       "rating": 8.196,
       "year": 2022,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt29106483",
-      "name": "Fist of the North Star: HOKUTO NO KEN",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/83bn9z4RiwO4PObgzd28ZtPWBkW.jpg",
-      "rating": 8.625,
-      "year": 2026,
-      "days": 34,
+      "id": "tt9794044",
+      "name": "Citadel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
+      "rating": 6.89,
+      "year": 2023,
+      "days": 45,
       "trend": {
         "dir": "new",
         "delta": null
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 295,
+      "days": 296,
       "trend": {
         "dir": "same",
         "delta": 0

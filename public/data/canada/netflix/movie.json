@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt0770806",
       "name": "Contractor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
       "rating": 5.508,
       "year": 2007,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 17,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
       "rating": 6.905,
       "year": 2019,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt8323668",
-      "name": "Jerry & Marge Go Large",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
-      "rating": 7.379,
-      "year": 2022,
-      "days": 16,
+      "id": "tt1355683",
+      "name": "Strictly Criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBNcuMkb2E2ULaaONhinn4rkDNl.jpg",
+      "rating": 6.529,
+      "year": 2015,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt1355683",
-      "name": "Strictly Criminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBNcuMkb2E2ULaaONhinn4rkDNl.jpg",
-      "rating": 6.529,
-      "year": 2015,
-      "days": 2,
+      "id": "tt1966359",
+      "name": "Father Figures",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9sXlzsq5op0JU75KRcqIZ7OQEoV.jpg",
+      "rating": 5.803,
+      "year": 2017,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt1294226",
-      "name": "La Dernière Chanson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
-      "rating": 7.2,
-      "year": 2010,
-      "days": 9,
+      "id": "tt8323668",
+      "name": "Jerry & Marge Go Large",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
+      "rating": 7.379,
+      "year": 2022,
+      "days": 17,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tt0104070",
-      "name": "La mort vous va si bien",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62DPuJy63ZAK62NxWB04bKCXrye.jpg",
-      "rating": 6.8,
-      "year": 1992,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt36876775",
       "name": "Mes hommes d'action",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1294226",
+      "name": "La Dernière Chanson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
+      "rating": 7.2,
+      "year": 2010,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 93,
+      "days": 94,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
       "rating": 6,
       "year": 2003,
-      "days": 349,
+      "days": 350,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 66,
+      "days": 67,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
       "rating": 8.287,
       "year": 2019,
-      "days": 92,
+      "days": 93,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,75 +63,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
       "rating": 9.646,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 574,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt3469050",
       "name": "90 jours pour se marier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 167,
+      "days": 168,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 573,
+      "rank": 8,
+      "id": "tt0446809",
+      "name": "Péril en Haute Mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8gh7igLtJdzcbRGYIjRqTW55Ryc.jpg",
+      "rating": 7.185,
+      "year": 2005,
+      "days": 36,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt42835175",
       "name": "Bring Me the Beauties: A Model Cult",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
       "rating": 8.5,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt34881067",
       "name": "Baylen Out Loud",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 129,
+      "days": 130,
       "trend": {
         "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 82,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     }
   ]

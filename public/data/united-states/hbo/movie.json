@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,33 +24,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt1598778",
-      "name": "Contagion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hb4tWUWrRHU0xjVU5AX49bZPHB8.jpg",
-      "rating": 6.649,
-      "year": 2011,
-      "days": 17,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt1677720",
       "name": "Ready Player One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 38,
+      "days": 39,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1598778",
+      "name": "Contagion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hb4tWUWrRHU0xjVU5AX49bZPHB8.jpg",
+      "rating": 6.649,
+      "year": 2011,
+      "days": 18,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,75 +63,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg",
       "rating": 7.164,
       "year": 2005,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt33474152",
-      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
-      "rating": 2.8,
-      "year": 2026,
-      "days": 12,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt13841850",
       "name": "Men",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qqNfsJx4q66ECtGvffbN3F0TnY5.jpg",
       "rating": 6.081,
       "year": 2022,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt30851137",
       "name": "The Bride!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
       "rating": 6.171,
       "year": 2026,
-      "days": 23,
+      "days": 24,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt2231461",
       "name": "Rampage : Hors de contrôle",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
       "rating": 6.457,
       "year": 2018,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt0117500",
       "name": "Rock",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5TU2NRk8aP40o7IDck0RF24TCyj.jpg",
       "rating": 7.2,
       "year": 1996,
-      "days": 14,
+      "days": 15,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt33474152",
+      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
+      "rating": 2.8,
+      "year": 2026,
+      "days": 13,
       "trend": {
         "dir": "down",
-        "delta": 5
+        "delta": 4
       }
     }
   ]

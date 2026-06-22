@@ -2,7 +2,7 @@
   "country": "france",
   "key": "apple",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
       "rating": 6.414,
       "year": 2025,
-      "days": 97,
+      "days": 98,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 471,
+      "days": 472,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 71,
+      "days": 72,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 298,
+      "days": 299,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
       "rating": 7.715,
       "year": 2022,
-      "days": 819,
+      "days": 820,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 212,
+      "days": 213,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,20 +89,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 850,
+      "days": 851,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 563,
+      "id": "tt15009428",
+      "name": "Argylle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVAk2YliqInQfH4B4vzZ75rwcNB.jpg",
+      "rating": 6,
+      "year": 2024,
+      "days": 209,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yvt5DM98hQWgUl0uBIEj6wbqFXq.jpg",
       "rating": 6.8,
       "year": 2023,
-      "days": 474,
+      "days": 475,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt15009428",
-      "name": "Argylle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVAk2YliqInQfH4B4vzZ75rwcNB.jpg",
-      "rating": 6,
-      "year": 2024,
-      "days": 208,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 564,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 2
       }
     }
   ]

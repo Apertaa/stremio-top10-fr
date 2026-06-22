@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
       "rating": 8.196,
       "year": 2022,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 73,
+      "days": 74,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4hiOFff1XvM1Sy3XGN83DvPl44H.jpg",
       "rating": 8.5,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,28 +97,28 @@
     },
     {
       "rank": 8,
-      "id": "tt14016500",
-      "name": "L'Été où je suis devenue jolie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 252,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt9794044",
       "name": "Citadel",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
       "rating": 6.89,
       "year": 2023,
-      "days": 45,
+      "days": 46,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt14016500",
+      "name": "L'Été où je suis devenue jolie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
+      "rating": 8.1,
+      "year": 2022,
+      "days": 253,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
       "rating": 8.634,
       "year": 2021,
-      "days": 94,
+      "days": 95,
       "trend": {
         "dir": "same",
         "delta": 0

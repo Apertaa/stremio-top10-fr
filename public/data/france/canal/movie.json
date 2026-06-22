@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -19,80 +19,80 @@
     },
     {
       "rank": 2,
-      "id": "tt35455855",
-      "name": "Les enfants vont bien",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzHohlKAZ8qG0WbkctJq02ZB3lJ.jpg",
-      "rating": 6.907,
-      "year": 2025,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tmdb:1605730",
-      "name": "The Stranger",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJO8l0eyOmRlBfVuC9fGoXCGcXk.jpg",
-      "rating": null,
-      "year": 2025,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt6590982",
-      "name": "Case 137",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tyswzNTNLWG1WKNVHHH3E8jZpNs.jpg",
-      "rating": null,
-      "year": 2018,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0095907",
-      "name": "A Private Life",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
-      "rating": 8,
-      "year": 1989,
-      "days": 13,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt19838566",
-      "name": "Kraken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
-      "rating": 6.287,
-      "year": 2026,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt36987619",
-      "name": "Moi qui t'aimais",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IwLq57nfP1wqLH5s1uTaS7PBRY.jpg",
-      "rating": 6.646,
+      "id": "tt35518681",
+      "name": "Les Tourmentés",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
+      "rating": 5.379,
       "year": 2025,
       "days": null,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt36987619",
+      "name": "Moi qui t'aimais",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IwLq57nfP1wqLH5s1uTaS7PBRY.jpg",
+      "rating": 6.646,
+      "year": 2025,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt35455855",
+      "name": "Les enfants vont bien",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzHohlKAZ8qG0WbkctJq02ZB3lJ.jpg",
+      "rating": 6.907,
+      "year": 2025,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt6590982",
+      "name": "Case 137",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tyswzNTNLWG1WKNVHHH3E8jZpNs.jpg",
+      "rating": null,
+      "year": 2018,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt35363310",
+      "name": "Jean Valjean",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emZT249SgRN92eNuWgMWqaWqSTX.jpg",
+      "rating": 5.8,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt19838566",
+      "name": "Kraken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
+      "rating": 6.287,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

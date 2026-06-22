@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 15,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 68,
+      "days": 69,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,62 +76,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
       "rating": 5.355,
       "year": 2014,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt13098590",
-      "name": "Fear Below : Plongée sous pression",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uh8nwCFx9zFRJeiDUg4SxQ7Koug.jpg",
-      "rating": 6.099,
-      "year": 2025,
-      "days": 136,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt5090568",
       "name": "Transformers : Rise of the Beasts",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
       "rating": 7.17,
       "year": 2023,
-      "days": 98,
+      "days": 99,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 424,
+      "days": 425,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt29343289",
       "name": "The Bayou",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg",
       "rating": 5.491,
       "year": 2025,
-      "days": 100,
+      "days": 101,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt14199590",
+      "name": "One Shot",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vh3WhS0m7Dthfc6QGjiF4YS656.jpg",
+      "rating": 6.7,
+      "year": 2021,
+      "days": 13,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

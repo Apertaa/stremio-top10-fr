@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 36,
+      "days": 38,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 735,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 40,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -37,101 +37,101 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 727,
+      "days": 728,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 736,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33253070",
+      "name": "M.I.A.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EJOS3Px9ASawruHCKVeYGlAsol.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "days": 45,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 4,
-      "id": "tt33253070",
-      "name": "M.I.A.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EJOS3Px9ASawruHCKVeYGlAsol.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": 44,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt36849871",
-      "name": "Marshals: A Yellowstone Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
-      "rating": 7.956,
-      "year": 2026,
-      "days": 101,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 6,
-      "id": "tt14186672",
-      "name": "Landman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "rating": 8.157,
-      "year": 2024,
-      "days": 281,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "rating": 8.3,
-      "year": 2022,
-      "days": 570,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt1378167",
-      "name": "NCIS : Los Angeles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
-      "rating": 7.5,
-      "year": 2009,
-      "days": 248,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0364845",
-      "name": "NCIS : Enquêtes Spéciales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "rating": 7.619,
-      "year": 2003,
-      "days": 269,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0106004",
       "name": "Frasier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
       "rating": 7.685,
       "year": 1993,
-      "days": 728,
+      "days": 729,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 102,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt14186672",
+      "name": "Landman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "rating": 8.157,
+      "year": 2024,
+      "days": 282,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1378167",
+      "name": "NCIS : Los Angeles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+      "rating": 7.5,
+      "year": 2009,
+      "days": 249,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "rating": 8.3,
+      "year": 2022,
+      "days": 571,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

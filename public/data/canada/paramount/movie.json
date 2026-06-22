@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "rating": 6.178,
-      "year": 2026,
-      "days": 24,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt32801387",
       "name": "Thieves Highway",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "rating": 7.684,
       "year": 2026,
-      "days": 57,
+      "days": 58,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 25,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,33 +50,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hEG17xmDYBvazhjBzgMkghrmaYm.jpg",
       "rating": 6.397,
       "year": 1997,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
+      "id": "tt3331548",
+      "name": "Not Without Hope",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
+      "rating": 6.15,
+      "year": 2025,
+      "days": 30,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt0142342",
       "name": "Big Daddy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/agJtp5DwfAycEYiMrLZ2fQvkBYl.jpg",
       "rating": 6.495,
       "year": 1999,
-      "days": 1,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt11466222",
-      "name": "Jackass Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
-      "rating": 6.786,
-      "year": 2022,
-      "days": 8,
+      "days": 2,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,38 +84,38 @@
     },
     {
       "rank": 7,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
-      "year": 2025,
-      "days": 173,
+      "id": "tt11466222",
+      "name": "Jackass Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
+      "rating": 6.786,
+      "year": 2022,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 58,
       "trend": {
         "dir": "up",
         "delta": 2
       }
     },
     {
-      "rank": 8,
-      "id": "tt23939106",
-      "name": "Ponyboi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/abTQZvDcbpOcYgwNg7pNm8oOqVY.jpg",
-      "rating": 7,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt3331548",
-      "name": "Not Without Hope",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
-      "rating": 6.15,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
       "year": 2025,
-      "days": 29,
+      "days": 174,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 57,
+      "id": "tt29567915",
+      "name": "Nuremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "rating": 7.56,
+      "year": 2025,
+      "days": 45,
       "trend": {
         "dir": "new",
         "delta": null

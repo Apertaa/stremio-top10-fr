@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 36,
+      "days": 37,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,25 +19,25 @@
     },
     {
       "rank": 2,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 5,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt9813792",
       "name": "FROM",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 106,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt36849871",
-      "name": "Marshals: A Yellowstone Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
-      "rating": 7.956,
-      "year": 2026,
-      "days": 99,
+      "days": 107,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,64 +45,64 @@
     },
     {
       "rank": 4,
-      "id": "tt0098800",
-      "name": "Le Prince de Bel-Air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ppi9yoM9BlNhoYg0h3XCyrnG4lR.jpg",
-      "rating": 7.907,
-      "year": 1990,
-      "days": 19,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt1832979",
-      "name": "Hart of Dixie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg",
-      "rating": 7.3,
-      "year": 2011,
-      "days": 15,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 797,
+      "days": 798,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 100,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0098800",
+      "name": "Le Prince de Bel-Air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ppi9yoM9BlNhoYg0h3XCyrnG4lR.jpg",
+      "rating": 7.907,
+      "year": 1990,
+      "days": 20,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 7,
+      "id": "tt1832979",
+      "name": "Hart of Dixie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg",
+      "rating": 7.3,
+      "year": 2011,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt4236770",
       "name": "Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 661,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0239195",
-      "name": "Survivor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
-      "rating": 7.3,
-      "year": 2000,
-      "days": 485,
+      "days": 662,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt0239195",
+      "name": "Survivor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
+      "rating": 7.3,
+      "year": 2000,
+      "days": 486,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt0364845",
       "name": "NCIS : Enquêtes Spéciales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 807,
+      "days": 808,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt0115167",
-      "name": "Tout le monde aime Raymond",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
-      "rating": 6.813,
-      "year": 1996,
-      "days": 81,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

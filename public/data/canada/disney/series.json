@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "disney",
   "list": "series",
-  "date": "202606211717",
+  "date": "202606221917",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt43138820",
-      "name": "Million Dollar Nannies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt43349460",
       "name": "Squatters: Get the F*** Out of My House",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
       "rating": 6,
       "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt43138820",
+      "name": "Million Dollar Nannies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
+      "rating": null,
+      "year": 2026,
       "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c75V0bZ6iu17ypYYPgDwVICBTUj.jpg",
       "rating": null,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 64,
+      "days": 65,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt35466672",
-      "name": "Malcolm : Rien n’a changé",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
-      "rating": 8.072,
+      "id": "tt23731346",
+      "name": "Princesse Sofia : Apprentie magicienne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
+      "rating": 9.4,
       "year": 2026,
-      "days": 53,
+      "days": 2,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt41083418",
-      "name": "Betrayal: Secrets & Lies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
-      "rating": 7,
+      "id": "tt43268848",
+      "name": "Locker Diaries: Phineas And Ferb",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 9,
       "trend": {
         "dir": "new",
         "delta": null
