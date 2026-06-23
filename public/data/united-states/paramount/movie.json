@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202606221917",
+  "date": "202606231744",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ikZZjUENLBY2vR3UlecNVrWVoY.jpg",
       "rating": 6.9,
       "year": 2013,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yV2zy8n2ZNynfMHm9vm2II5rvjT.jpg",
       "rating": 6.8,
       "year": 2005,
-      "days": 56,
+      "days": 57,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 673,
+      "days": 674,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 172,
+      "days": 173,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt0936501",
-      "name": "Taken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg",
-      "rating": 7.407,
-      "year": 2008,
-      "days": 5,
+      "id": "tt33028778",
+      "name": "Primate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "rating": 6.526,
+      "year": 2026,
+      "days": 89,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt33028778",
-      "name": "Primate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
-      "rating": 6.526,
-      "year": 2026,
-      "days": 88,
+      "id": "tt0936501",
+      "name": "Taken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg",
+      "rating": 7.407,
+      "year": 2008,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zEoQ0hyZqZymGNNcjajstYelFx2.jpg",
       "rating": 6.887,
       "year": 2012,
-      "days": 42,
+      "days": 43,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt0364751",
-      "name": "Jusqu'au cou",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWA8rqK4eVDu6ACSKFGfaploHB.jpg",
-      "rating": 5.639,
+      "id": "tt0345950",
+      "name": "Bob l'éponge, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
+      "rating": 7.089,
       "year": 2004,
-      "days": 11,
+      "days": 102,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69tMHlxiCYlYKGZm1aPH1u7hY88.jpg",
       "rating": 6.016,
       "year": 2001,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

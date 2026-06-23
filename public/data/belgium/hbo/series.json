@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "series",
-  "date": "202606221917",
+  "date": "202606231744",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
       "rating": 8.287,
       "year": 2019,
-      "days": 87,
+      "days": 88,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,62 +45,36 @@
     },
     {
       "rank": 4,
-      "id": "tt41050785",
-      "name": "Proud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-      "rating": 4.7,
-      "year": 2026,
-      "days": 9,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 99,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 5,
-      "id": "tt33270420",
-      "name": "PONIES",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
-      "rating": 6.827,
+      "id": "tt27497448",
+      "name": "A Knight of the Seven Kingdoms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
+      "rating": 8.4,
       "year": 2026,
-      "days": 24,
+      "days": 70,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
-      "id": "tt42773167",
-      "name": "Gang War: Bandidos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f4TTbRGTqOLkWhB1Rk1PSHoM7nT.jpg",
-      "rating": 10,
-      "year": 2026,
-      "days": 37,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt12074628",
-      "name": "Smiling Friends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
-      "rating": 8.5,
-      "year": 2020,
-      "days": 56,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tmdb:325858",
-      "name": "Ultras. Pasión y Muerte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AjGfTHDoCMySQOrNhzZMC57k10v.jpg",
-      "rating": 6,
+      "id": "tt42907659",
+      "name": "Big Girls Wanted: Escaping Pearadise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
+      "rating": 1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -109,29 +83,55 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt32767294",
-      "name": "Half Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jl24C9NkgCxbQk9T0GZkpq6dsf4.jpg",
-      "rating": 8.2,
+      "rank": 7,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
       "year": 2026,
-      "days": 58,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt10466872",
+      "name": "Dune : Prophecy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
+      "rating": 7.3,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt12074628",
+      "name": "Smiling Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
+      "rating": 8.5,
+      "year": 2020,
+      "days": 57,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt5489746",
-      "name": "Un meurtrier sous mon toit",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q0R7c4J5DSjr7ecZmaH4f8C1dE6.jpg",
-      "rating": 8,
-      "year": 2016,
-      "days": 4,
+      "id": "tt33270420",
+      "name": "PONIES",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
+      "rating": 6.827,
+      "year": 2026,
+      "days": 25,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     }
   ]

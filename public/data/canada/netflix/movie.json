@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202606221917",
+  "date": "202606231744",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,45 +37,71 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
       "rating": 5.508,
       "year": 2007,
-      "days": 3,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 17,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt5884052",
-      "name": "Pokémon Détective Pikachu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
-      "rating": 6.905,
-      "year": 2019,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "id": "tt1966359",
+      "name": "Father Figures",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9sXlzsq5op0JU75KRcqIZ7OQEoV.jpg",
+      "rating": 5.803,
+      "year": 2017,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt1355683",
       "name": "Strictly Criminal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBNcuMkb2E2ULaaONhinn4rkDNl.jpg",
       "rating": 6.529,
       "year": 2015,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt5884052",
+      "name": "Pokémon Détective Pikachu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
+      "rating": 6.905,
+      "year": 2019,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt36876775",
+      "name": "Mes hommes d'action",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+      "rating": 6.6,
+      "year": 2026,
       "days": 3,
       "trend": {
         "dir": "up",
@@ -83,39 +109,13 @@
       }
     },
     {
-      "rank": 7,
-      "id": "tt1966359",
-      "name": "Father Figures",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9sXlzsq5op0JU75KRcqIZ7OQEoV.jpg",
-      "rating": 5.803,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt8323668",
-      "name": "Jerry & Marge Go Large",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
-      "rating": 7.379,
-      "year": 2022,
-      "days": 17,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt36876775",
-      "name": "Mes hommes d'action",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 2,
+      "id": "tt1294226",
+      "name": "La Dernière Chanson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
+      "rating": 7.2,
+      "year": 2010,
+      "days": 11,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt1294226",
-      "name": "La Dernière Chanson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kBHYVYT2d0jkz6cxbWfPtJWuv1Y.jpg",
-      "rating": 7.2,
-      "year": 2010,
-      "days": 10,
+      "id": "tt8323668",
+      "name": "Jerry & Marge Go Large",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHkaH8RTDh3K3StdeasjxHJ5ag.jpg",
+      "rating": 7.379,
+      "year": 2022,
+      "days": 18,
       "trend": {
         "dir": "down",
         "delta": 2

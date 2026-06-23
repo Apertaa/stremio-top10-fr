@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "series",
-  "date": "202606221917",
+  "date": "202606231744",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
       "rating": 8.746,
       "year": 2025,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt11198330",
       "name": "House of the Dragon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt2861424",
+      "name": "Rick et Morty",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "rating": 8.679,
+      "year": 2013,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,88 +50,88 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
       "rating": 8.287,
       "year": 2019,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
-      "rating": 8.746,
-      "year": 2025,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt42907659",
-      "name": "Big Girls Wanted: Escaping Pearadise",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt41050785",
       "name": "Proud",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 2
       }
     },
     {
-      "rank": 8,
-      "id": "tt3469050",
-      "name": "90 jours pour se marier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
-      "rating": 7.1,
-      "year": 2014,
-      "days": null,
+      "rank": 6,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
+      "rating": 8.746,
+      "year": 2025,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt14681924",
+      "name": "My Adventures with Superman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 9,
-      "id": "tt40444386",
-      "name": "Evil Lives Here: My Child the Killer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yRVjMeuY7E5lTtUPU9P7TNKA6mp.jpg",
-      "rating": 7.7,
+      "rank": 8,
+      "id": "tt42907659",
+      "name": "Big Girls Wanted: Escaping Pearadise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
+      "rating": 1,
       "year": 2026,
-      "days": 5,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tmdb:312384",
       "name": "Mock the Week",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFNTdzP3obJEE33dQ0v69uauCKF.jpg",
       "rating": 6,
       "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt40444386",
+      "name": "Evil Lives Here: My Child the Killer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yRVjMeuY7E5lTtUPU9P7TNKA6mp.jpg",
+      "rating": 7.7,
+      "year": 2026,
       "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 1
       }
     }
   ]
