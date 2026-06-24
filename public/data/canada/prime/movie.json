@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
       "rating": 6.1,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
       "rating": 5.8,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,51 +84,51 @@
     },
     {
       "rank": 7,
-      "id": "tt1345505",
-      "name": "The Pig Farm",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJmWhjXmneLSoqcEI259XpOaKRS.jpg",
-      "rating": 5.8,
-      "year": 2011,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt32434379",
       "name": "À contre-sens : Londres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 46,
+      "days": 47,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1345505",
+      "name": "The Pig Farm",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJmWhjXmneLSoqcEI259XpOaKRS.jpg",
+      "rating": 5.8,
+      "year": 2011,
+      "days": 17,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt0413099",
-      "name": "Evan tout-puissant",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pB7zVbXvyiHvwuIRBx4yiWDsrgR.jpg",
-      "rating": 5.588,
-      "year": 2007,
-      "days": 3,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "top10:anunnaki-chronicles-evolution-of-draconian-measures-on-earth",
       "name": "Anunnaki Chronicles: Evolution of Draconian Measures on Earth",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": null,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1277953",
+      "name": "Madagascar 3 : Bons baisers d'Europe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/trMyHbr9CfcNYWcNERp8RorfmoW.jpg",
+      "rating": 6.638,
+      "year": 2012,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null

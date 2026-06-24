@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
       "rating": 6.816,
       "year": 1993,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
       "rating": 8.2,
       "year": 2024,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vptpN27HqU7kwIfPE1E07ffnK9n.jpg",
       "rating": 7.806,
       "year": 1971,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,62 +76,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
       "rating": 6.119,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt42873612",
-      "name": "Michael Jackson : Le Verdict",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
-      "rating": 4.4,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
       "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt33265765",
-      "name": "Legends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
-      "rating": 7.7,
-      "year": 2026,
-      "days": 46,
+      "days": 2,
       "trend": {
         "dir": "up",
         "delta": 2
       }
     },
     {
-      "rank": 9,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
+      "rank": 8,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
       "year": 2026,
-      "days": null,
+      "days": 30,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt42543947",
       "name": "The Polygamist",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
       "rating": 7.382,
       "year": 2026,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt33265765",
+      "name": "Legends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
+      "rating": 7.7,
+      "year": 2026,
+      "days": 47,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 2
       }
     }
   ]

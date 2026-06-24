@@ -2,7 +2,7 @@
   "country": "france",
   "key": "global",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
       "rating": 7.382,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
       "rating": 9.478,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
       "rating": 8.609,
       "year": 2023,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybCkQBSy2PufXE06DUAEM75UZlN.jpg",
       "rating": 7.333,
       "year": 2025,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,28 +84,28 @@
     },
     {
       "rank": 7,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt9077540",
       "name": "À l'ombre des magnolias",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
       "rating": 7.7,
       "year": 2020,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt31631015",
-      "name": "Sous ses yeux",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
-      "rating": 6.119,
-      "year": 2026,
-      "days": 19,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
-      "days": null,
+      "id": "tt31631015",
+      "name": "Sous ses yeux",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
+      "rating": 6.119,
+      "year": 2026,
+      "days": 20,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

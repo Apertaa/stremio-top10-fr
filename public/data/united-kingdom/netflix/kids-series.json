@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 498,
+      "days": 499,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 75,
+      "days": 76,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 887,
+      "days": 888,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 667,
+      "days": 668,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
       "rating": null,
       "year": 2022,
-      "days": 163,
+      "days": 164,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 155,
+      "days": 156,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iITcfkv9wQzfAj1O5i6v5x5l41Y.jpg",
       "rating": null,
       "year": 2024,
-      "days": 140,
+      "days": 141,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 52,
+      "days": 53,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mwcC0yw9h5rVmRR3XiFUCZ2ggDK.jpg",
       "rating": null,
       "year": 2009,
-      "days": 444,
+      "days": 445,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

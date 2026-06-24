@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "global",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt0421073",
-      "name": "Au bout de la nuit",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
-      "rating": 6.646,
-      "year": 2008,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0770806",
       "name": "Contractor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
       "rating": 5.508,
       "year": 2007,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0421073",
+      "name": "Au bout de la nuit",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
+      "rating": 6.646,
+      "year": 2008,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,20 +102,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt36876775",
-      "name": "Mes hommes d'action",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 2,
+      "id": "tt0181536",
+      "name": "À la Rencontre de Forrester",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fX7RUuoV55YmdAVbtYK8IOew4Rm.jpg",
+      "rating": 7.12,
+      "year": 2000,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt0181536",
-      "name": "À la Rencontre de Forrester",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fX7RUuoV55YmdAVbtYK8IOew4Rm.jpg",
-      "rating": 7.12,
-      "year": 2000,
-      "days": 2,
+      "id": "tt36876775",
+      "name": "Mes hommes d'action",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 3,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

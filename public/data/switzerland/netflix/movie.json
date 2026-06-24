@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,62 +24,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt30972054",
-      "name": "Das Kanu des Manitu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
-      "rating": 6.688,
-      "year": 2025,
-      "days": 8,
+      "id": "tt26736843",
+      "name": "Les Guetteurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
+      "rating": 6.346,
+      "year": 2024,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1860353",
+      "name": "Turbo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
+      "rating": 6.271,
+      "year": 2013,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0421073",
+      "name": "Au bout de la nuit",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
+      "rating": 6.646,
+      "year": 2008,
+      "days": 9,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 4,
-      "id": "tt0421073",
-      "name": "Au bout de la nuit",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
-      "rating": 6.646,
-      "year": 2008,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt26736843",
-      "name": "Les Guetteurs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
-      "rating": 6.346,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 6,
-      "id": "tt1860353",
-      "name": "Turbo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
-      "rating": 6.271,
-      "year": 2013,
-      "days": 6,
+      "id": "tt30972054",
+      "name": "Das Kanu des Manitu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
+      "rating": 6.688,
+      "year": 2025,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt38681832",
-      "name": "Les Couleurs du mal : Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
-      "rating": 6.703,
-      "year": 2026,
-      "days": 13,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 9,
+      "id": "tt1230414",
+      "name": "Pas si simple",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/14UQyjdnMdECTXyGpjMdpVqHPaM.jpg",
+      "rating": 6.503,
+      "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt15552142",
-      "name": "Caddo Lake",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r1h1YltM7bwzlWE330izIgQSwkj.jpg",
-      "rating": 7.211,
-      "year": 2024,
-      "days": 10,
+      "id": "tt38681832",
+      "name": "Les Couleurs du mal : Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
+      "rating": 6.703,
+      "year": 2026,
+      "days": 14,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     }
   ]

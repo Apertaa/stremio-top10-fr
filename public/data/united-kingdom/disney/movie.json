@@ -2,45 +2,45 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
-      "id": "tt1979376",
-      "name": "Toy Story 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
-      "rating": 7.462,
-      "year": 2019,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt26443616",
-      "name": "Jumpers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
-      "rating": 8.181,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt0114709",
       "name": "Toy Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg",
       "rating": 7.977,
       "year": 1995,
-      "days": 77,
+      "days": 78,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0120363",
+      "name": "Toy Story 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
+      "rating": 7.6,
+      "year": 1999,
+      "days": 13,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0435761",
+      "name": "Toy Story 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
+      "rating": 7.8,
+      "year": 2010,
+      "days": 13,
+      "trend": {
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -50,36 +50,36 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt0120363",
-      "name": "Toy Story 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
-      "rating": 7.6,
-      "year": 1999,
-      "days": 12,
+      "id": "tt26443616",
+      "name": "Jumpers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
+      "rating": 8.181,
+      "year": 2026,
+      "days": 19,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt0435761",
-      "name": "Toy Story 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
-      "rating": 7.8,
-      "year": 2010,
-      "days": 12,
+      "id": "tt1979376",
+      "name": "Toy Story 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
+      "rating": 7.462,
+      "year": 2019,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vim76mMXig00YRxN2iGYJASoGkP.jpg",
       "rating": 6.9,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "rating": 7.056,
       "year": 2026,
-      "days": 46,
+      "days": 47,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt2446040",
-      "name": "Toy Story : Angoisse au motel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oqBz38G5JEsmYXPT2B5pOp3Bhr8.jpg",
-      "rating": 7.2,
-      "year": 2013,
-      "days": 1,
+      "id": "tt36884302",
+      "name": "The Idaho Student Murders",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DRi4YtSWzXwfkBcevmZPhQ6xD5.jpg",
+      "rating": 5.75,
+      "year": 2025,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/74VbBYHmpjgeES1zkRo1DwHkWnE.jpg",
       "rating": 8.346,
       "year": 2026,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

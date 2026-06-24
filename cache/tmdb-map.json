@@ -59,6 +59,16 @@
     "rating": 8.181,
     "ts": "2026-06-19"
   },
+  "90-day-diaries": {
+    "tmdbId": 114659,
+    "tmdbType": "tv",
+    "imdbId": "tt13787288",
+    "titleFr": "90 Day Diaries",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jargHc08uT0s159kS9r9497QcFB.jpg",
+    "rating": 6.5,
+    "ts": "2026-06-24"
+  },
   "90-day-fiance": {
     "tmdbId": 61575,
     "tmdbType": "tv",
@@ -1519,6 +1529,16 @@
     "rating": 6.9,
     "ts": "2026-06-20"
   },
+  "homeless-the-motel-kids-of-orange-county": {
+    "tmdbId": 166119,
+    "tmdbType": "movie",
+    "imdbId": "tt1706603",
+    "titleFr": "Homeless: The Motel Kids of Orange County",
+    "year": 2010,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oqAyfoKjnBjokBK6Uefr2efxoSw.jpg",
+    "rating": 4.3,
+    "ts": "2026-06-24"
+  },
   "hoppers": {
     "tmdbId": 1327819,
     "tmdbType": "movie",
@@ -1599,6 +1619,16 @@
     "rating": 6.335,
     "ts": "2026-06-20"
   },
+  "in-the-eye-of-the-storm-chasers": {
+    "tmdbId": 321456,
+    "tmdbType": "tv",
+    "imdbId": "tt40906144",
+    "titleFr": "In the Eye of the Storm: Chasers",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3TXfT52hKDXbGdDlhCGjif0yh1.jpg",
+    "rating": 9.3,
+    "ts": "2026-06-24"
+  },
   "in-your-dreams-2025": {
     "tmdbId": 1117857,
     "tmdbType": "movie",
@@ -1638,6 +1668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
     "rating": 8.634,
     "ts": "2026-06-20"
+  },
+  "its-complicated": {
+    "tmdbId": 22897,
+    "tmdbType": "movie",
+    "imdbId": "tt1230414",
+    "titleFr": "Pas si simple",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/14UQyjdnMdECTXyGpjMdpVqHPaM.jpg",
+    "rating": 6.503,
+    "ts": "2026-06-24"
   },
   "its-not-like-that": {
     "tmdbId": 308402,
@@ -1779,6 +1819,16 @@
     "rating": 6.287,
     "ts": "2026-06-19"
   },
+  "kung-fu-panda": {
+    "tmdbId": 9502,
+    "tmdbType": "movie",
+    "imdbId": "tt0441773",
+    "titleFr": "Kung Fu Panda",
+    "year": 2008,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pxZNY88UWH0uic83QHBSh2yFEYL.jpg",
+    "rating": 7.325,
+    "ts": "2026-06-24"
+  },
   "la-la-land": {
     "tmdbId": 313369,
     "tmdbType": "movie",
@@ -1908,6 +1958,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
     "rating": null,
     "ts": "2026-06-20"
+  },
+  "locker-diaries-zombies": {
+    "tmdbId": 313973,
+    "tmdbType": "tv",
+    "imdbId": "tt39931234",
+    "titleFr": "Locker Diaries: ZOMBIES",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ysK8HjNiZkkopYyLuFMiqCtQyse.jpg",
+    "rating": 6.3,
+    "ts": "2026-06-24"
   },
   "lol-last-one-laughing": {
     "tmdbId": 122241,
@@ -2059,6 +2119,26 @@
     "rating": 9,
     "ts": "2026-06-20"
   },
+  "major-payne": {
+    "tmdbId": 11008,
+    "tmdbType": "movie",
+    "imdbId": "tt0110443",
+    "titleFr": "Major Payne",
+    "year": 1995,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+    "rating": 6.486,
+    "ts": "2026-06-24"
+  },
+  "malcolm-in-the-middle": {
+    "tmdbId": 2004,
+    "tmdbType": "tv",
+    "imdbId": "tt0212671",
+    "titleFr": "Malcolm",
+    "year": 2000,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aRd5NJafhAAPXupmTamJGBXonSq.jpg",
+    "rating": 8.469,
+    "ts": "2026-06-24"
+  },
   "malcolm-in-the-middle-lifes-still-unfair": {
     "tmdbId": 279471,
     "tmdbType": "tv",
@@ -2068,6 +2148,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
     "rating": 8.072,
     "ts": "2026-06-19"
+  },
+  "mama-2013": {
+    "tmdbId": 132232,
+    "tmdbType": "movie",
+    "imdbId": "tt2023587",
+    "titleFr": "Mama",
+    "year": 2013,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
+    "rating": 6.297,
+    "ts": "2026-06-24"
   },
   "manitous-canoe": {
     "tmdbId": 1233066,
@@ -2759,6 +2849,16 @@
     "rating": 7,
     "ts": "2026-06-21"
   },
+  "predator-badlands": {
+    "tmdbId": 1242898,
+    "tmdbType": "movie",
+    "imdbId": "tt31227572",
+    "titleFr": "Predator: Badlands",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+    "rating": 7.8,
+    "ts": "2026-06-24"
+  },
   "predator-wastelands": {
     "tmdbId": 1574042,
     "tmdbType": "movie",
@@ -3349,6 +3449,16 @@
     "rating": 8.62,
     "ts": "2026-06-20"
   },
+  "stolen-children": {
+    "tmdbId": 1583382,
+    "tmdbType": "movie",
+    "imdbId": "tt39177948",
+    "titleFr": "Enfants volés",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sqpvAEd0e358G6U7GDJq1g5PsTX.jpg",
+    "rating": 8,
+    "ts": "2026-06-24"
+  },
   "storks": {
     "tmdbId": 332210,
     "tmdbType": "movie",
@@ -3398,6 +3508,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
     "rating": 7.338,
     "ts": "2026-06-21"
+  },
+  "sur-la-route-de-papa": {
+    "tmdbId": 1389410,
+    "tmdbType": "movie",
+    "imdbId": "tt35518655",
+    "titleFr": "Sur la route de papa",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qsmAVEEWeDjKi791szxi1r3LG5s.jpg",
+    "rating": 5.192,
+    "ts": "2026-06-24"
   },
   "survivor-2000": {
     "tmdbId": 14658,
@@ -3889,6 +4009,16 @@
     "rating": 7.248,
     "ts": "2026-06-20"
   },
+  "the-lion-king-3-hakuna-matata": {
+    "tmdbId": 11430,
+    "tmdbType": "movie",
+    "imdbId": "tt0318403",
+    "titleFr": "Le Roi lion 3 : Hakuna matata",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9Dn0gTnPoNgI4DBrVkwNklWF5XD.jpg",
+    "rating": 6.58,
+    "ts": "2026-06-24"
+  },
   "the-madison": {
     "tmdbId": 225891,
     "tmdbType": "tv",
@@ -4029,6 +4159,16 @@
     "rating": 8.208,
     "ts": "2026-06-22"
   },
+  "the-princess-diaries": {
+    "tmdbId": 9880,
+    "tmdbType": "movie",
+    "imdbId": "tt0247638",
+    "titleFr": "Princesse malgré elle",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yFsZglny2MbSTtwbSueUZU2Vzwb.jpg",
+    "rating": 6.962,
+    "ts": "2026-06-24"
+  },
   "the-punisher-one-last-kill": {
     "tmdbId": 1439930,
     "tmdbType": "movie",
@@ -4128,6 +4268,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
     "rating": 8.227,
     "ts": "2026-06-19"
+  },
+  "the-vault": {
+    "tmdbId": 416160,
+    "tmdbType": "movie",
+    "imdbId": "tt1785635",
+    "titleFr": "The Vault",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/46aFAarpJSGP5r9aJ8BboPcISvl.jpg",
+    "rating": 4.884,
+    "ts": "2026-06-24"
   },
   "the-watchers": {
     "tmdbId": 1086747,
@@ -4318,6 +4468,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
     "rating": 7.17,
     "ts": "2026-06-19"
+  },
+  "trolls": {
+    "tmdbId": 136799,
+    "tmdbType": "movie",
+    "imdbId": "tt1679335",
+    "titleFr": "Les Trolls",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ddKk98obuNGy9CQbQ9LXv0llEZ3.jpg",
+    "rating": 6.626,
+    "ts": "2026-06-24"
   },
   "trotro": {
     "tmdbId": 63775,
@@ -4618,6 +4778,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
     "rating": 6.663,
     "ts": "2026-06-22"
+  },
+  "wwe-nxt": {
+    "tmdbId": 31991,
+    "tmdbType": "tv",
+    "imdbId": "tt1601141",
+    "titleFr": "WWE NXT",
+    "year": 2010,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+    "rating": 6.7,
+    "ts": "2026-06-24"
   },
   "wwe-smackdown": {
     "tmdbId": 1549,

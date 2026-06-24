@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 729,
+      "days": 730,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 737,
+      "days": 738,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt33253070",
-      "name": "M.I.A.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EJOS3Px9ASawruHCKVeYGlAsol.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": 46,
+      "id": "tt0106004",
+      "name": "Frasier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+      "rating": 7.685,
+      "year": 1993,
+      "days": 731,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
       "rating": 7.956,
       "year": 2026,
-      "days": 103,
+      "days": 104,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0106004",
-      "name": "Frasier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-      "rating": 7.685,
-      "year": 1993,
-      "days": 730,
+      "id": "tt1378167",
+      "name": "NCIS : Los Angeles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+      "rating": 7.5,
+      "year": 2009,
+      "days": 251,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
       "rating": 8.157,
       "year": 2024,
-      "days": 283,
+      "days": 284,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt1378167",
-      "name": "NCIS : Los Angeles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
-      "rating": 7.5,
-      "year": 2009,
-      "days": 250,
+      "id": "tt0364845",
+      "name": "NCIS : Enquêtes Spéciales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
+      "rating": 7.619,
+      "year": 2003,
+      "days": 270,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "rating": 8.3,
-      "year": 2022,
-      "days": 572,
+      "id": "tt33253070",
+      "name": "M.I.A.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EJOS3Px9ASawruHCKVeYGlAsol.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "days": 47,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     }
   ]

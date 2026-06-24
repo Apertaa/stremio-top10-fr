@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 42,
+      "days": 43,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
       "rating": 7.682,
       "year": 1975,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
       "rating": 8.294,
       "year": 1994,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PmlGEkVrtuCPxRwRqMMx1bDlbx.jpg",
       "rating": 7.42,
       "year": 2001,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt11315808",
-      "name": "Joker : Folie à deux",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cWJGZAozNQFKLCD8vv4ukw4nJP8.jpg",
-      "rating": 5.401,
-      "year": 2024,
-      "days": 31,
+      "id": "tt0083866",
+      "name": "E.T. l'extra-terrestre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jl5sfhTeAlp60rM9GxoDA2dmX9.jpg",
+      "rating": 7.5,
+      "year": 1982,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
       "rating": 6.1,
       "year": 2017,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt0083866",
-      "name": "E.T. l'extra-terrestre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jl5sfhTeAlp60rM9GxoDA2dmX9.jpg",
-      "rating": 7.5,
-      "year": 1982,
-      "days": 10,
+      "id": "tt0274117",
+      "name": "Sur mes lèvres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jeCaVrg9mmgRmJWRMDnch5X7tBy.jpg",
+      "rating": 7.056,
+      "year": 2001,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
+      "id": "tt11315808",
+      "name": "Joker : Folie à deux",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cWJGZAozNQFKLCD8vv4ukw4nJP8.jpg",
+      "rating": 5.401,
+      "year": 2024,
+      "days": 32,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt12361974",
       "name": "Zack Snyder's Justice League",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EOp3YUSQgzOwVOKrejfKK27bK6.jpg",
       "rating": 8.089,
       "year": 2021,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1727824",
-      "name": "Bohemian Rhapsody",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zpf6mrGZ0BbdsfzwUP0Nzp3hJEb.jpg",
-      "rating": 7.958,
-      "year": 2018,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt3783958",
-      "name": "La La Land",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg",
-      "rating": 7.898,
-      "year": 2016,
-      "days": 22,
+      "id": "tt23770030",
+      "name": "Mémoires d’un escargot",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oYpq6XFoubsezCt1o28TwnraD0a.jpg",
+      "rating": 8.034,
+      "year": 2024,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

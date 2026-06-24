@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
-      "days": null,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -37,23 +37,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
       "rating": 8.2,
       "year": 2024,
-      "days": 58,
+      "days": 59,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 3,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
       "rating": 8.5,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt33094114",
-      "name": "India's Got Latent",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8jcdd5HqW4nhF2upVGFS0KJ6hdY.jpg",
-      "rating": 8.6,
-      "year": 2024,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt9077540",
       "name": "À l'ombre des magnolias",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
       "rating": 7.7,
       "year": 2020,
-      "days": 31,
+      "days": 32,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt33094114",
+      "name": "India's Got Latent",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8jcdd5HqW4nhF2upVGFS0KJ6hdY.jpg",
+      "rating": 8.6,
+      "year": 2024,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,25 +97,25 @@
     },
     {
       "rank": 8,
+      "id": "tt1601141",
+      "name": "WWE NXT",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+      "rating": 6.7,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt42543947",
       "name": "The Polygamist",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
       "rating": 7.382,
       "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt42873612",
-      "name": "Michael Jackson : Le Verdict",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
-      "rating": 4.4,
-      "year": 2026,
-      "days": 20,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt34809853",
-      "name": "Que ça vous serve de leçon !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
-      "rating": 9.478,
+      "id": "tt42873612",
+      "name": "Michael Jackson : Le Verdict",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
+      "rating": 4.4,
       "year": 2026,
-      "days": 17,
+      "days": 21,
       "trend": {
         "dir": "down",
         "delta": 1

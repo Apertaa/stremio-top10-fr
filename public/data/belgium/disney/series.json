@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "disney",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt33550053",
-      "name": "9-1-1: Nashville",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
-      "rating": 8.181,
-      "year": 2025,
-      "days": 27,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt22091076",
       "name": "High Potential",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 66,
+      "days": 67,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33550053",
+      "name": "9-1-1: Nashville",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+      "rating": 8.181,
+      "year": 2025,
+      "days": 28,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KUSPrM65y2AE9t3FOd0LAuvBCW.jpg",
       "rating": 7.625,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
       "rating": 7.9,
       "year": 2004,
-      "days": 24,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt28689687",
-      "name": "La Maison de Mickey+",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8jOZjiktLVJxeNuha3MQc5MfhUb.jpg",
-      "rating": 8.1,
-      "year": 2025,
-      "days": 1,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt0413573",
       "name": "Grey's Anatomy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
       "rating": 8.209,
       "year": 2005,
-      "days": 23,
+      "days": 24,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 62,
       "trend": {
         "dir": "new",
         "delta": null

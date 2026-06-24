@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 324,
+      "days": 325,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
       "rating": 7.374,
       "year": 2025,
-      "days": 194,
+      "days": 195,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 806,
+      "days": 807,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 33,
+      "id": "tt9663764",
+      "name": "Aquaman et le Royaume perdu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
+      "rating": 6.523,
+      "year": 2023,
+      "days": 8,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt9663764",
-      "name": "Aquaman et le Royaume perdu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
-      "rating": 6.523,
-      "year": 2023,
-      "days": 7,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tmdb:1651369",
       "name": "Your Fault",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 340,
+      "days": 341,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 34,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rmoaCJYM2qVYL2LfJmQCkiEwMl.jpg",
       "rating": 5.682,
       "year": 2025,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nov36BA6BxCSpDMMos7KW7pF6Em.jpg",
       "rating": 6.217,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0

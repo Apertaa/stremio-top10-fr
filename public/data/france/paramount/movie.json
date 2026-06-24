@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt14260836",
-      "name": "Better Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/slEGDV2thDJwAYOGrfTEhy1AWl6.jpg",
-      "rating": 7.6,
-      "year": 2024,
-      "days": null,
+      "id": "tt5090568",
+      "name": "Transformers : Rise of the Beasts",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
+      "rating": 7.17,
+      "year": 2023,
+      "days": 101,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 70,
+      "days": 71,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt5090568",
-      "name": "Transformers : Rise of the Beasts",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
-      "rating": 7.17,
-      "year": 2023,
-      "days": 100,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 427,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
       "rating": 5.355,
       "year": 2014,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 426,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt29343289",
       "name": "The Bayou",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg",
       "rating": 5.491,
       "year": 2025,
-      "days": 102,
+      "days": 103,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt11656220",
+      "name": "La Proie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2enoRjXkyI2LPy6HLZ837zVisQ.jpg",
+      "rating": 5.803,
+      "year": 2021,
+      "days": 12,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

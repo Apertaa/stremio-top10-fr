@@ -2,45 +2,45 @@
   "country": "canada",
   "key": "disney",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
-      "id": "tt35823838",
-      "name": "Not Suitable for Work",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 19,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt43349460",
       "name": "Squatters: Get the F*** Out of My House",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "tt43138820",
       "name": "Million Dollar Nannies",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 20,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt39151104",
-      "name": "Les plus belles destinations avec Antoni Porowski",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c75V0bZ6iu17ypYYPgDwVICBTUj.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 11,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 34,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 66,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,28 +97,28 @@
     },
     {
       "rank": 8,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 33,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt41083418",
+      "name": "Betrayal: Secrets & Lies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
       "rating": 7.008,
       "year": 2005,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
       "rating": 6.7,
       "year": 2022,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt0110413",
-      "name": "Léon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
-      "rating": 8.294,
-      "year": 1994,
-      "days": 6,
+      "id": "tt0116996",
+      "name": "Mars Attacks!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljW8CVhjhoJNrMor6pIQLM3Mhqr.jpg",
+      "rating": 6.423,
+      "year": 1996,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
       "rating": 8.208,
       "year": 2006,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 6
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,49 +63,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
       "rating": 8.4,
       "year": 2010,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt0110413",
+      "name": "Léon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
+      "rating": 8.294,
+      "year": 1994,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
       "id": "top10:ach-diese-lucke-diese-entsetzliche-lucke",
       "name": "Ach, diese Lücke, diese entsetzliche Lücke",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0116996",
-      "name": "Mars Attacks!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljW8CVhjhoJNrMor6pIQLM3Mhqr.jpg",
-      "rating": 6.423,
-      "year": 1996,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt0099731",
-      "name": "La Servante écarlate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pFgapvMgJWJhlCBuPFQcZgIQGBk.jpg",
+      "id": "tt7690016",
+      "name": "Never Goin' Back",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ytp5pmHFVvAesnL2SJecxgV8W2.jpg",
       "rating": 6.1,
-      "year": 1990,
-      "days": 3,
+      "year": 2018,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
       "rating": 6.171,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt18382850",
-      "name": "Si j'en avais la force",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ua6xDVAQ58zasCEfbGPVqHJOP70.jpg",
-      "rating": 6.335,
-      "year": 2025,
-      "days": 24,
+      "id": "tt0099731",
+      "name": "La Servante écarlate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pFgapvMgJWJhlCBuPFQcZgIQGBk.jpg",
+      "rating": 6.1,
+      "year": 1990,
+      "days": 4,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     }
   ]

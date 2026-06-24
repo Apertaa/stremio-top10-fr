@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,38 +19,38 @@
     },
     {
       "rank": 2,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt2402207",
       "name": "The Last Ship",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
       "rating": 6.858,
       "year": 2014,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt42543947",
       "name": "The Polygamist",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
       "rating": 7.382,
       "year": 2026,
-      "days": 9,
+      "days": 10,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": 2,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
       "rating": 8.2,
       "year": 2024,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt9077540",
-      "name": "À l'ombre des magnolias",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
-      "rating": 7.7,
-      "year": 2020,
-      "days": 34,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt38734636",
       "name": "Oasis",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt9077540",
+      "name": "À l'ombre des magnolias",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
+      "rating": 7.7,
+      "year": 2020,
+      "days": 35,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt43507442",
-      "name": "Outlast : La jungle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt41672842",
       "name": "Salish & Jordan Matter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 23,
+      "days": 24,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt43507442",
+      "name": "Outlast : La jungle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt27610198",
-      "name": "L'Incroyable Cirque Numérique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
-      "rating": 8.609,
-      "year": 2023,
-      "days": 10,
+      "id": "top10:ryan-hamilton-this-just-hit-me",
+      "name": "Ryan Hamilton: This Just Hit Me",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,32 +2,32 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
-      "id": "tt6166392",
-      "name": "Wonka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
-      "rating": 7.037,
-      "year": 2023,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt7510222",
       "name": "Moi, moche et méchant 4",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt6166392",
+      "name": "Wonka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
+      "rating": 7.037,
+      "year": 2023,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
       "rating": 7.765,
       "year": 2001,
-      "days": 208,
+      "days": 209,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 360,
+      "days": 361,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 196,
+      "days": 197,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,20 +89,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 111,
+      "days": 112,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt0351283",
-      "name": "Madagascar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aA1eZtISZ2rqUk2QIUgu1pXcHrm.jpg",
-      "rating": 6.923,
-      "year": 2005,
-      "days": 400,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 53,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt29552248",
-      "name": "Aventures croisées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "rating": 8.971,
-      "year": 2026,
-      "days": 52,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0892791",
       "name": "Shrek 4 : Il était une fin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jEFprRvwPaothEMIivuAlRAj2K6.jpg",
       "rating": 6.404,
       "year": 2010,
-      "days": 32,
+      "days": 33,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1679335",
+      "name": "Les Trolls",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddKk98obuNGy9CQbQ9LXv0llEZ3.jpg",
+      "rating": 6.626,
+      "year": 2016,
+      "days": 176,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

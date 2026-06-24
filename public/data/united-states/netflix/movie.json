@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,48 +37,48 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3T8LGcTIXttCqGpMCdCA1NI109s.jpg",
       "rating": 5.924,
       "year": 2024,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0814255",
-      "name": "Percy Jackson : Le Voleur de foudre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7VytSOVN8JsMugBY3Y4KfmQF2QN.jpg",
-      "rating": 6.212,
-      "year": 2010,
-      "days": 7,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt3074694",
-      "name": "Les Enfants du péché",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eo2bWd6pA9xxWe9M7VnbNJNhYuD.jpg",
-      "rating": 6.721,
-      "year": 2014,
-      "days": 7,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
       "id": "tt27613895",
       "name": "GOAT : Rêver plus haut",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "rating": 8.122,
       "year": 2026,
-      "days": 40,
+      "days": 41,
       "trend": {
         "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0814255",
+      "name": "Percy Jackson : Le Voleur de foudre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7VytSOVN8JsMugBY3Y4KfmQF2QN.jpg",
+      "rating": 6.212,
+      "year": 2010,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt3074694",
+      "name": "Les Enfants du péché",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eo2bWd6pA9xxWe9M7VnbNJNhYuD.jpg",
+      "rating": 6.721,
+      "year": 2014,
+      "days": 8,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -89,22 +89,22 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/boXGNZ3yocnX4fYIJTJkgLAi48U.jpg",
       "rating": 5.755,
       "year": 2011,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt1854564",
-      "name": "Percy Jackson : La Mer des monstres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2FxxERFRIFhW4ubkeVAGHIDb6HT.jpg",
-      "rating": 6.028,
-      "year": 2013,
-      "days": 7,
+      "id": "tt2224026",
+      "name": "En route !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
+      "rating": 6.787,
+      "year": 2015,
+      "days": 102,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 2
       }
     },
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt2224026",
-      "name": "En route !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
-      "rating": 6.787,
-      "year": 2015,
-      "days": 100,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 296,
       "trend": {
         "dir": "new",
         "delta": null

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 40,
+      "days": 41,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hb4tWUWrRHU0xjVU5AX49bZPHB8.jpg",
       "rating": 6.649,
       "year": 2011,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg",
       "rating": 7.164,
       "year": 2005,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qqNfsJx4q66ECtGvffbN3F0TnY5.jpg",
       "rating": 6.081,
       "year": 2022,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
       "rating": 6.457,
       "year": 2018,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5TU2NRk8aP40o7IDck0RF24TCyj.jpg",
       "rating": 7.2,
       "year": 1996,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
       "rating": 2.8,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jOlXXiS5lWsdeko4reLf5PCA1T.jpg",
       "rating": 6.846,
       "year": 2014,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

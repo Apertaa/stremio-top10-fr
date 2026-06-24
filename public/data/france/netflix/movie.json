@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n59B3omT4VnKGeOkBLAGe7wfGXH.jpg",
       "rating": 5.789,
       "year": 2022,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 11,
+      "id": "tt11701774",
+      "name": "Lucky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cOWAuejsbqbzQ1AVb46mtglHOR.jpg",
+      "rating": 5.401,
+      "year": 2020,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -50,23 +50,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt11701774",
-      "name": "Lucky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cOWAuejsbqbzQ1AVb46mtglHOR.jpg",
-      "rating": 5.401,
-      "year": 2020,
-      "days": 2,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 12,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
       "rating": 6.646,
       "year": 2008,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3QsSKLq6yewtII9wx3yWVU92rxs.jpg",
       "rating": 6.943,
       "year": 2016,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt38681832",
-      "name": "Les Couleurs du mal : Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
-      "rating": 6.703,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 266,
+      "days": 268,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt38681832",
+      "name": "Les Couleurs du mal : Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
+      "rating": 6.703,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

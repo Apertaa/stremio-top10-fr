@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 26,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 7,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 8,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
       }
     },
     {
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt15665274",
-      "name": "The Channel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": 20,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 8,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -58,50 +58,24 @@
     },
     {
       "rank": 5,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt12335692",
-      "name": "Last Man Down",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
-      "rating": 6.165,
-      "year": 2021,
-      "days": 166,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1399103",
-      "name": "Transformers 3 : La Face cachée de la Lune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30ARa1BLnID8t7O4tPzTDXTa6pZ.jpg",
-      "rating": 6.234,
-      "year": 2011,
-      "days": 17,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt31898445",
       "name": "Escape",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
       "rating": 7.3,
       "year": 2024,
+      "days": 22,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt15665274",
+      "name": "The Channel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
+      "rating": 6.2,
+      "year": 2023,
       "days": 21,
       "trend": {
         "dir": "down",
@@ -109,13 +83,39 @@
       }
     },
     {
+      "rank": 7,
+      "id": "tt12335692",
+      "name": "Last Man Down",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+      "rating": 6.165,
+      "year": 2021,
+      "days": 167,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt9603208",
+      "name": "Mission : Impossible - The Final Reckoning",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
+      "rating": 7.169,
+      "year": 2025,
+      "days": 186,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 9,
-      "id": "tt1753968",
-      "name": "Jackass 3.5, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xVKk2zEEeU5KOM7K9ZYRXncbaMn.jpg",
-      "rating": 6.362,
-      "year": 2011,
-      "days": null,
+      "id": "tt29603959",
+      "name": "Novocaïne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZMCpsZMB5PgJ2p585e4JFN5dTX.jpg",
+      "rating": 6.785,
+      "year": 2025,
+      "days": 249,
       "trend": {
         "dir": "new",
         "delta": null
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
       "rating": 5.356,
       "year": 2024,
-      "days": 103,
+      "days": 104,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
       "rating": 7.338,
       "year": 2025,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,54 +45,54 @@
     },
     {
       "rank": 4,
-      "id": "tmdb:1714046",
-      "name": "Eli Manning Presents: The Undercovers - Ryan Blaney",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wnPlLj6nBn8NHyN0H74OW8KIcSC.jpg",
-      "rating": null,
-      "year": null,
-      "days": 3,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt9663764",
       "name": "Aquaman et le Royaume perdu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
       "rating": 6.523,
       "year": 2023,
-      "days": 26,
+      "days": 27,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt12824390",
       "name": "The Pout-Pout Fish",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
       "rating": 5.8,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt7510222",
       "name": "Moi, moche et méchant 4",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 6,
+      "trend": {
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bCYuM18r8G8pOlHf6yYxnFU9IJ4.jpg",
       "rating": 5.903,
       "year": 2012,
-      "days": 37,
+      "days": 38,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
+      "id": "tt9150192",
+      "name": "A Working Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
+      "rating": 6.694,
       "year": 2025,
-      "days": 5,
+      "days": 126,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt41022199",
-      "name": "Jerry West: The Logo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9XrJM5tJKjAUtpmwhU0o5EihZuC.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 2,
+      "id": "tt0110443",
+      "name": "Major Payne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+      "rating": 6.486,
+      "year": 1995,
+      "days": 24,
       "trend": {
         "dir": "new",
         "delta": null

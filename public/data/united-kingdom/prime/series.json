@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 40,
+      "days": 41,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 26,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 75,
+      "days": 76,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5MbNy94ia4ZLf8OGtSfSjjlxxWN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
       "rating": 8.196,
       "year": 2022,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt9794044",
-      "name": "Citadel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
-      "rating": 6.89,
-      "year": 2023,
-      "days": 47,
+      "id": "top10:did-you-kill-emma",
+      "name": "Did you kill Emma?",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 7,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt42206913",
-      "name": "The Grand-ish Tour",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cPvIgIgysI3S067aA670pMYAjI4.jpg",
-      "rating": 7.3,
-      "year": 2026,
-      "days": 52,
+      "id": "tt9794044",
+      "name": "Citadel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
+      "rating": 6.89,
+      "year": 2023,
+      "days": 48,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "top10:did-you-kill-emma",
-      "name": "Did you kill Emma?",
+      "id": "top10:tiktok-the-mother-daughter-killers",
+      "name": "TikTok: The Mother & Daughter Killers",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 6,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

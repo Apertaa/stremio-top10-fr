@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
       "rating": 8.202,
       "year": 2026,
-      "days": 55,
+      "days": 56,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 122,
+      "days": 123,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt34675596",
-      "name": "Cape Fear - Les Nerfs à vif",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt30459041",
       "name": "Vrais voisins, faux amis",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
       "rating": 7.719,
       "year": 2025,
-      "days": 216,
+      "days": 217,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt34675596",
+      "name": "Cape Fear - Les Nerfs à vif",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
       "rating": 8.34,
       "year": 2020,
-      "days": 878,
+      "days": 879,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,38 +71,38 @@
     },
     {
       "rank": 6,
-      "id": "tt15677150",
-      "name": "Shrinking",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOn72IFPhA6B8d0hsEl1riECOES.jpg",
-      "rating": 7.842,
-      "year": 2023,
-      "days": 731,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt7772588",
-      "name": "For All Mankind",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
-      "rating": 7.743,
-      "year": 2019,
-      "days": 549,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt35946742",
       "name": "Plaisir maximum garanti",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 34,
+      "days": 35,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt15677150",
+      "name": "Shrinking",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOn72IFPhA6B8d0hsEl1riECOES.jpg",
+      "rating": 7.842,
+      "year": 2023,
+      "days": 732,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt7772588",
+      "name": "For All Mankind",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
+      "rating": 7.743,
+      "year": 2019,
+      "days": 550,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vnxkopX2BRNlUbE5xtb6S62eSN6.jpg",
       "rating": 7.928,
       "year": 2026,
-      "days": 69,
+      "days": 70,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt32140872",
-      "name": "Star City",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
-      "rating": 6.8,
-      "year": 2026,
-      "days": 25,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 480,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

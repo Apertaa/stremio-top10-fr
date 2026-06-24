@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "series",
-  "date": "202606231744",
+  "date": "202606241746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 108,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 7,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt26656917",
-      "name": "The Agency",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
-      "rating": 7.1,
-      "year": 2024,
-      "days": 6,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 109,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 799,
+      "days": 800,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ppi9yoM9BlNhoYg0h3XCyrnG4lR.jpg",
       "rating": 7.907,
       "year": 1990,
-      "days": 21,
+      "days": 22,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,49 +76,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg",
       "rating": 7.3,
       "year": 2011,
-      "days": 17,
+      "days": 18,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 664,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt36849871",
-      "name": "Marshals: A Yellowstone Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
-      "rating": 7.956,
-      "year": 2026,
-      "days": 101,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
       "rank": 8,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 663,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0239195",
       "name": "Survivor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
       "rating": 7.3,
       "year": 2000,
-      "days": 487,
+      "days": 488,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 102,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 809,
+      "days": 810,
       "trend": {
         "dir": "same",
         "delta": 0
