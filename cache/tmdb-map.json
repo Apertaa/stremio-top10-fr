@@ -149,6 +149,16 @@
     "rating": 6.694,
     "ts": "2026-06-20"
   },
+  "adults": {
+    "tmdbId": 260458,
+    "tmdbType": "tv",
+    "imdbId": "tt33049767",
+    "titleFr": "Adults",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+    "rating": 5.9,
+    "ts": "2026-06-25"
+  },
   "after": {
     "tmdbId": 537915,
     "tmdbType": "movie",
@@ -178,6 +188,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/6Qv61YlJqnUJyuSnzxir6mfVIF5.jpg",
     "rating": 7.152,
     "ts": "2026-06-21"
+  },
+  "after-we-fell": {
+    "tmdbId": 744275,
+    "tmdbType": "movie",
+    "imdbId": "tt13069986",
+    "titleFr": "After - Chapitre 3",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wAEQvm2W9BUx5ggag4ALtSAhIe6.jpg",
+    "rating": 7.004,
+    "ts": "2026-06-25"
   },
   "alice-and-steve": {
     "tmdbId": 318203,
@@ -259,6 +279,16 @@
     "rating": 6.8,
     "ts": "2026-06-20"
   },
+  "another-self-2022": {
+    "tmdbId": 206180,
+    "tmdbType": "tv",
+    "imdbId": "tt14899624",
+    "titleFr": "Le Chemin de l'olivier",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yHJaIqamNT2iHBI67fnpbHnmmfV.jpg",
+    "rating": 7.8,
+    "ts": "2026-06-25"
+  },
   "aquaman-and-the-lost-kingdom": {
     "tmdbId": 572802,
     "tmdbType": "movie",
@@ -298,6 +328,36 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
     "rating": 7.78,
     "ts": "2026-06-21"
+  },
+  "avatar": {
+    "tmdbId": 19995,
+    "tmdbType": "movie",
+    "imdbId": "tt0499549",
+    "titleFr": "Avatar",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7N8L80OaG8EBTDdRBjGqT8PBzCM.jpg",
+    "rating": 7.607,
+    "ts": "2026-06-25"
+  },
+  "avatar-fire-and-ash": {
+    "tmdbId": 83533,
+    "tmdbType": "movie",
+    "imdbId": "tt1757678",
+    "titleFr": "Avatar : De feu et de cendres",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+    "rating": 7.604,
+    "ts": "2026-06-25"
+  },
+  "avatar-the-way-of-water": {
+    "tmdbId": 76600,
+    "tmdbType": "movie",
+    "imdbId": "tt1630029",
+    "titleFr": "Avatar : La Voie de l'eau",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7TOaaKbSYfilIpZsRCS1AyFCxaJ.jpg",
+    "rating": 7.6,
+    "ts": "2026-06-25"
   },
   "avengers-endgame": {
     "tmdbId": 299534,
@@ -398,6 +458,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/29y7oQ75MNIhtQFd3KlwUTjyXh8.jpg",
     "rating": 6.046,
     "ts": "2026-06-20"
+  },
+  "behind-the-attraction": {
+    "tmdbId": 95738,
+    "tmdbType": "tv",
+    "imdbId": "tt11069436",
+    "titleFr": "Les Coulisses des attractions",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kguBw1q2cmmqSTtjwrt9RFrEJPs.jpg",
+    "rating": 7.313,
+    "ts": "2026-06-25"
   },
   "ben-and-hollys-little-kingdom": {
     "tmdbId": 322920,
@@ -768,6 +838,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/8gh7igLtJdzcbRGYIjRqTW55Ryc.jpg",
     "rating": 7.185,
     "ts": "2026-06-22"
+  },
+  "deadly-influence-the-social-media-murders": {
+    "tmdbId": 255805,
+    "tmdbType": "tv",
+    "imdbId": "tt32333081",
+    "titleFr": "Influence mortelle : Réseaux assassins",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
+    "rating": 6.5,
+    "ts": "2026-06-25"
   },
   "death-becomes-her": {
     "tmdbId": 9374,
@@ -1409,6 +1489,16 @@
     "rating": 7.625,
     "ts": "2026-06-19"
   },
+  "gram-chikitsalay": {
+    "tmdbId": 290138,
+    "tmdbType": "tv",
+    "imdbId": "tt34773311",
+    "titleFr": "ग्राम चिकित्सालय",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/peRHZYhvuA6MLTJkpf5nIjgsWx5.jpg",
+    "rating": 6.4,
+    "ts": "2026-06-25"
+  },
   "greyhound": {
     "tmdbId": 516486,
     "tmdbType": "movie",
@@ -1468,6 +1558,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
     "rating": 5.379,
     "ts": "2026-06-22"
+  },
+  "hawaii-five-o": {
+    "tmdbId": 2303,
+    "tmdbType": "tv",
+    "imdbId": "tt0062568",
+    "titleFr": "Hawaï police d'État",
+    "year": 1968,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wil51KinEc1bNL2qkXONfJzgTzo.jpg",
+    "rating": 7.172,
+    "ts": "2026-06-25"
   },
   "hell-or-high-water": {
     "tmdbId": 338766,
@@ -2039,6 +2139,16 @@
     "rating": 7.333,
     "ts": "2026-06-19"
   },
+  "love-me-love-me": {
+    "tmdbId": 1317672,
+    "tmdbType": "movie",
+    "imdbId": "tt36331860",
+    "titleFr": "Love Me Love Me",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+    "rating": 5.978,
+    "ts": "2026-06-25"
+  },
   "luck-2022": {
     "tmdbId": 585511,
     "tmdbType": "movie",
@@ -2118,6 +2228,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/zAWOvPc6gdA9WvssVrxaOkuSHOx.jpg",
     "rating": 9,
     "ts": "2026-06-20"
+  },
+  "madeas-witness-protection": {
+    "tmdbId": 103370,
+    "tmdbType": "movie",
+    "imdbId": "tt2215285",
+    "titleFr": "Madea : Protection de témoins",
+    "year": 2012,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dRlwjdYnXXZaPXUfEP2mOE3T4YH.jpg",
+    "rating": 6.1,
+    "ts": "2026-06-25"
   },
   "major-payne": {
     "tmdbId": 11008,
@@ -2539,6 +2659,16 @@
     "rating": 6.1,
     "ts": "2026-06-21"
   },
+  "no-country-for-old-men": {
+    "tmdbId": 6977,
+    "tmdbType": "movie",
+    "imdbId": "tt0477348",
+    "titleFr": "No Country for Old Men",
+    "year": 2007,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/TIIk6p8BziUM5dh8DD048PmcHX.jpg",
+    "rating": 7.951,
+    "ts": "2026-06-25"
+  },
   "norbit": {
     "tmdbId": 9757,
     "tmdbType": "movie",
@@ -2719,6 +2849,16 @@
     "rating": 6.6,
     "ts": "2026-06-20"
   },
+  "paddington": {
+    "tmdbId": 116149,
+    "tmdbType": "movie",
+    "imdbId": "tt1109624",
+    "titleFr": "Paddington",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mkW28gYGYdVzQJDUuYo5jww1cB8.jpg",
+    "rating": 7.121,
+    "ts": "2026-06-25"
+  },
   "paddington-2": {
     "tmdbId": 346648,
     "tmdbType": "movie",
@@ -2738,6 +2878,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
     "rating": 7,
     "ts": "2026-06-20"
+  },
+  "paw-patrol-the-movie": {
+    "tmdbId": 675445,
+    "tmdbType": "movie",
+    "imdbId": "tt11832046",
+    "titleFr": "La Pat' Patrouille : Le Film",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kESkVKLffIHnzVLojI8rzcv9rfZ.jpg",
+    "rating": 7.332,
+    "ts": "2026-06-25"
   },
   "peppa-pig": {
     "tmdbId": 12225,
@@ -2818,6 +2968,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/brEs4KRNOpwkVByb4xfxKvQYKlD.jpg",
     "rating": 6.897,
     "ts": "2026-06-20"
+  },
+  "platform-7": {
+    "tmdbId": 237232,
+    "tmdbType": "tv",
+    "imdbId": "tt21266652",
+    "titleFr": "Platform 7",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/uSz5nrTrHBsbdVJJgYMB1tJ5nkv.jpg",
+    "rating": 6.095,
+    "ts": "2026-06-25"
   },
   "pokemon-detective-pikachu": {
     "tmdbId": 447404,
@@ -3279,6 +3439,16 @@
     "rating": 7.9,
     "ts": "2026-06-20"
   },
+  "skymed": {
+    "tmdbId": 133908,
+    "tmdbType": "tv",
+    "imdbId": "tt15437862",
+    "titleFr": "SkyMed",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+    "rating": 6.799,
+    "ts": "2026-06-25"
+  },
   "slow-horses": {
     "tmdbId": 95480,
     "tmdbType": "tv",
@@ -3348,6 +3518,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
     "rating": 8.3,
     "ts": "2026-06-19"
+  },
+  "speak-no-evil-2024": {
+    "tmdbId": 1114513,
+    "tmdbType": "movie",
+    "imdbId": "tt27534307",
+    "titleFr": "Speak No Evil",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
+    "rating": 7.118,
+    "ts": "2026-06-25"
   },
   "spider-man-across-the-spider-verse": {
     "tmdbId": 569094,
@@ -3839,6 +4019,16 @@
     "rating": 7.907,
     "ts": "2026-06-20"
   },
+  "the-garfield-movie": {
+    "tmdbId": 748783,
+    "tmdbType": "movie",
+    "imdbId": "tt5779228",
+    "titleFr": "Garfield : Héros malgré lui",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zSQM2Zud5G5nrdEA4t0CtFZQF22.jpg",
+    "rating": 7,
+    "ts": "2026-06-25"
+  },
   "the-girl-who-escaped-the-kara-robinson-story": {
     "tmdbId": 1075334,
     "tmdbType": "movie",
@@ -3908,6 +4098,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/pFgapvMgJWJhlCBuPFQcZgIQGBk.jpg",
     "rating": 6.1,
     "ts": "2026-06-20"
+  },
+  "the-house-that-dragons-built-2022": {
+    "tmdbId": 325709,
+    "tmdbType": "tv",
+    "imdbId": "tt26761151",
+    "titleFr": "The House That Dragons Built",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
+    "rating": null,
+    "ts": "2026-06-25"
   },
   "the-hunt-2020": {
     "tmdbId": 514847,
@@ -4219,6 +4419,16 @@
     "rating": 6.78,
     "ts": "2026-06-20"
   },
+  "the-sheep-detectives": {
+    "tmdbId": 1301421,
+    "tmdbType": "movie",
+    "imdbId": "tt32565993",
+    "titleFr": "Les moutons détectives",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+    "rating": 7.521,
+    "ts": "2026-06-25"
+  },
   "the-smurfs-2011": {
     "tmdbId": 41513,
     "tmdbType": "movie",
@@ -4289,6 +4499,16 @@
     "rating": 6.346,
     "ts": "2026-06-20"
   },
+  "the-welcome-table": {
+    "tmdbId": 1699970,
+    "tmdbType": "movie",
+    "imdbId": "tt42907611",
+    "titleFr": "The Welcome Table",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8cOEREMN6WF4Vf6IgBLU3AqmbeN.jpg",
+    "rating": 1,
+    "ts": "2026-06-25"
+  },
   "the-witness-2026": {
     "tmdbId": 280511,
     "tmdbType": "tv",
@@ -4348,6 +4568,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bnyAgpU8pMEZGdgjl3x9it1C0KS.jpg",
     "rating": null,
     "ts": "2026-06-20"
+  },
+  "titanic-sinks-tonight": {
+    "tmdbId": 262967,
+    "tmdbType": "tv",
+    "imdbId": "tt38639981",
+    "titleFr": "Le Titanic coule ce soir",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
+    "rating": 7.3,
+    "ts": "2026-06-25"
   },
   "tom-clancys-jack-ryan-ghost-war": {
     "tmdbId": 1380291,

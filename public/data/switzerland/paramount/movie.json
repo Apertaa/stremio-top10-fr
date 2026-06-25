@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202606241746",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,38 +19,38 @@
     },
     {
       "rank": 2,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt0257106",
       "name": "Scary Movie 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt0306047",
       "name": "Scary Movie 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 9,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -58,38 +58,38 @@
     },
     {
       "rank": 5,
-      "id": "tt31898445",
-      "name": "Escape",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": 22,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt15665274",
-      "name": "The Channel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt12335692",
       "name": "Last Man Down",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
       "rating": 6.165,
       "year": 2021,
-      "days": 167,
+      "days": 168,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt31898445",
+      "name": "Escape",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
+      "rating": 7.3,
+      "year": 2024,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt15665274",
+      "name": "The Channel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
+      "rating": 6.2,
+      "year": 2023,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
       "rating": 7.169,
       "year": 2025,
-      "days": 186,
+      "days": 187,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt29603959",
-      "name": "Novocaïne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZMCpsZMB5PgJ2p585e4JFN5dTX.jpg",
-      "rating": 6.785,
-      "year": 2025,
-      "days": 249,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt6001846",
       "name": "Long Gone Heroes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
       "rating": 5.356,
       "year": 2024,
-      "days": 104,
+      "days": 105,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt3402138",
+      "name": "Y a-t-il un flic pour sauver le monde ?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dIOzuzx0CLYpNLx1Yf44cykyYX5.jpg",
+      "rating": 6.372,
+      "year": 2025,
+      "days": 116,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

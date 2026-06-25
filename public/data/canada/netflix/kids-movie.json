@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202606231744",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
       "rating": 6.905,
       "year": 2019,
-      "days": 2,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 53,
+      "days": 55,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 52,
+      "days": 54,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 358,
+      "days": 360,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,59 +63,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
       "rating": 7.765,
       "year": 2001,
-      "days": 321,
+      "days": 323,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt0298148",
-      "name": "Shrek 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
-      "rating": 7.319,
-      "year": 2004,
-      "days": 80,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0312528",
       "name": "Le chat chapeauté",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
       "rating": 5.314,
       "year": 2003,
-      "days": 35,
+      "days": 37,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0298148",
+      "name": "Shrek 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
+      "rating": 7.319,
+      "year": 2004,
+      "days": 82,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt0351283",
-      "name": "Madagascar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aA1eZtISZ2rqUk2QIUgu1pXcHrm.jpg",
-      "rating": 6.923,
-      "year": 2005,
-      "days": 132,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt18259086",
       "name": "Sonic 3, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 107,
+      "days": 109,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt5779228",
+      "name": "Garfield : Héros malgré lui",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zSQM2Zud5G5nrdEA4t0CtFZQF22.jpg",
+      "rating": 7,
+      "year": 2024,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt2296777",
-      "name": "Sherlock Gnomes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/15e02jluBoyTH5zhVuckzM0xEZA.jpg",
-      "rating": 5.749,
-      "year": 2018,
-      "days": 6,
+      "id": "tt27604215",
+      "name": "Dans tes rêves",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
+      "rating": 6.968,
+      "year": 2025,
+      "days": 87,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

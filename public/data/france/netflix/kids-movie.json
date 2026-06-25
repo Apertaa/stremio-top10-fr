@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202606231744",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 44,
+      "days": 46,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 363,
+      "days": 365,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 52,
+      "days": 54,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
+      "id": "tt22184976",
+      "name": "Minions et compagnie - La compil' n° 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
+      "rating": 7.028,
+      "year": 2022,
+      "days": 71,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt3874544",
       "name": "Baby Boss",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 498,
+      "days": 500,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0351283",
-      "name": "Madagascar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aA1eZtISZ2rqUk2QIUgu1pXcHrm.jpg",
-      "rating": 6.923,
-      "year": 2005,
-      "days": 93,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,20 +76,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
       "rating": 6.968,
       "year": 2025,
-      "days": 178,
+      "days": 180,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt22184976",
-      "name": "Minions et compagnie - La compil' n° 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
-      "rating": 7.028,
-      "year": 2022,
-      "days": 69,
+      "id": "tt0164912",
+      "name": "Stuart Little",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fiqcKkjKwcbxeoVVKiEkxQnBSge.jpg",
+      "rating": 6.079,
+      "year": 1999,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt10600398",
-      "name": "C'est nous les héros",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dh4Yn148qvKGFFrRh0E6dzT4pVa.jpg",
-      "rating": 5.949,
-      "year": 2020,
-      "days": 23,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt9362722",
-      "name": "Spider-Man : Across the Spider-Verse",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hvfwCeSTgsExmz9l31dKkfR83DH.jpg",
-      "rating": 8.336,
-      "year": 2023,
-      "days": 26,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt23382644",
       "name": "Minions et compagnie - La compil' n° 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZHVqleUuh8sUXRzKumLLAmwybj.jpg",
       "rating": 7.381,
       "year": 2022,
-      "days": 96,
+      "days": 98,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt10600398",
+      "name": "C'est nous les héros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dh4Yn148qvKGFFrRh0E6dzT4pVa.jpg",
+      "rating": 5.949,
+      "year": 2020,
+      "days": 25,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt9362722",
+      "name": "Spider-Man : Across the Spider-Verse",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hvfwCeSTgsExmz9l31dKkfR83DH.jpg",
+      "rating": 8.336,
+      "year": 2023,
+      "days": 28,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

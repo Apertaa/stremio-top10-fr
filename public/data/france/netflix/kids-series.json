@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606231744",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 72,
+      "days": 74,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
       "rating": null,
       "year": 2022,
-      "days": 771,
+      "days": 773,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcoDTpylduKBQMkwCUwybXUyILc.jpg",
       "rating": 7.9,
       "year": 2016,
-      "days": 837,
+      "days": 839,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt12363714",
-      "name": "Les Sisters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
-      "rating": 6,
-      "year": 2017,
-      "days": 887,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 79,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 77,
+      "id": "tt12363714",
+      "name": "Les Sisters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
+      "rating": 6,
+      "year": 2017,
+      "days": 889,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 756,
+      "days": 758,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 871,
+      "days": 873,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt1074443",
-      "name": "Trotro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9LFlpS1Ei9AJEPr1RmLirkv1yS.jpg",
-      "rating": 6.4,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
       "year": 2004,
-      "days": 712,
+      "days": 796,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt0426769",
-      "name": "Peppa Pig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "rating": 6.6,
-      "year": 2004,
-      "days": 794,
+      "id": "tt14164922",
+      "name": "Astérix & Obélix : Le Combat des chefs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
+      "rating": 7.78,
+      "year": 2025,
+      "days": 231,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt14164922",
-      "name": "Astérix & Obélix : Le Combat des chefs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
-      "rating": 7.78,
-      "year": 2025,
-      "days": 229,
+      "id": "tt1074443",
+      "name": "Trotro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9LFlpS1Ei9AJEPr1RmLirkv1yS.jpg",
+      "rating": 6.4,
+      "year": 2004,
+      "days": 714,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 2
       }
     }
   ]

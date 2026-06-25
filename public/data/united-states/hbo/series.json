@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202606241746",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 96,
+      "days": 97,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 576,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt2861424",
       "name": "Rick et Morty",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 69,
+      "days": 70,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 84,
+      "trend": {
+        "dir": "up",
+        "delta": 7
       }
     },
     {
@@ -50,85 +50,85 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 170,
+      "days": 171,
       "trend": {
-        "dir": "up",
-        "delta": 6
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 577,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32333081",
+      "name": "Influence mortelle : Réseaux assassins",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
+      "rating": 6.5,
+      "year": 2024,
+      "days": 24,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt27497448",
       "name": "A Knight of the Seven Kingdoms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": 58,
+      "days": 59,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 6,
-      "id": "tt10466872",
-      "name": "Dune : Prophecy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": 59,
+      "rank": 8,
+      "id": "tt32604054",
+      "name": "Regular Show: The Lost Tapes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
+      "rating": 9.646,
+      "year": 2026,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt32604054",
-      "name": "Regular Show: The Lost Tapes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
-      "rating": 9.646,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt40906144",
-      "name": "In the Eye of the Storm: Chasers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3TXfT52hKDXbGdDlhCGjif0yh1.jpg",
-      "rating": 9.3,
-      "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt13787288",
-      "name": "90 Day Diaries",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jargHc08uT0s159kS9r9497QcFB.jpg",
-      "rating": 6.5,
-      "year": 2021,
-      "days": 20,
+      "id": "tt10466872",
+      "name": "Dune : Prophecy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
+      "rating": 7.3,
+      "year": 2024,
+      "days": 60,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 10,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 83,
+      "id": "tt8772296",
+      "name": "Euphoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "rating": 8.287,
+      "year": 2019,
+      "days": 95,
       "trend": {
         "dir": "new",
         "delta": null

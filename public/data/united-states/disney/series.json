@@ -2,45 +2,45 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202606241746",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
+      "id": "tt38639981",
+      "name": "Le Titanic coule ce soir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt43268848",
       "name": "Locker Diaries: Phineas And Ferb",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
       "rating": null,
       "year": 2026,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "top10:gracies-corner",
-      "name": "Gracie's Corner",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 67,
+      "days": 68,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "top10:toy-story-30-years-and-beyond-a-special-edition-of-2020",
-      "name": "Toy Story 30 Years and Beyond -- A Special Edition of 20/20",
+      "id": "top10:gracies-corner",
+      "name": "Gracie's Corner",
       "tmdbPosterUrl": null,
       "rating": null,
-      "year": 2020,
-      "days": 9,
+      "year": null,
+      "days": 8,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -71,38 +71,38 @@
     },
     {
       "rank": 6,
-      "id": "tt12324366",
-      "name": "Percy Jackson et les Olympiens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mAX4KE8ewwuDAIzwv3WTpqE3yh7.jpg",
-      "rating": 7.285,
-      "year": 2023,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt8111088",
       "name": "The Mandalorian",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg",
       "rating": 8.409,
       "year": 2019,
-      "days": 57,
+      "days": 58,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt12324366",
+      "name": "Percy Jackson et les Olympiens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mAX4KE8ewwuDAIzwv3WTpqE3yh7.jpg",
+      "rating": 7.285,
+      "year": 2023,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt21056976",
-      "name": "Dragon Striker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-      "rating": 7.545,
-      "year": 2026,
-      "days": 12,
+      "id": "tt18923754",
+      "name": "Daredevil : Born Again",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
+      "rating": 8.183,
+      "year": 2025,
+      "days": 63,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,25 +110,25 @@
     },
     {
       "rank": 9,
-      "id": "tt18923754",
-      "name": "Daredevil : Born Again",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
-      "rating": 8.183,
-      "year": 2025,
-      "days": 62,
+      "id": "tt11069436",
+      "name": "Les Coulisses des attractions",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kguBw1q2cmmqSTtjwrt9RFrEJPs.jpg",
+      "rating": 7.313,
+      "year": 2021,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt39931234",
-      "name": "Locker Diaries: ZOMBIES",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ysK8HjNiZkkopYyLuFMiqCtQyse.jpg",
-      "rating": 6.3,
-      "year": 2026,
-      "days": null,
+      "id": "tt13622956",
+      "name": "Zootopie+",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
+      "rating": 7.1,
+      "year": 2022,
+      "days": 30,
       "trend": {
         "dir": "new",
         "delta": null

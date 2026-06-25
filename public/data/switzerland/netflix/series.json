@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "series",
-  "date": "202606241746",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt9077540",
-      "name": "À l'ombre des magnolias",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
-      "rating": 7.7,
-      "year": 2020,
-      "days": 24,
+      "id": "tt14899624",
+      "name": "Le Chemin de l'olivier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yHJaIqamNT2iHBI67fnpbHnmmfV.jpg",
+      "rating": 7.8,
+      "year": 2022,
+      "days": 22,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -50,58 +50,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
       "rating": 9.478,
       "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt32146518",
-      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
-      "rating": 8.2,
-      "year": 2024,
-      "days": 31,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt42543947",
-      "name": "The Polygamist",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
-      "rating": 7.382,
-      "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt42873612",
-      "name": "Michael Jackson : Le Verdict",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
-      "rating": 4.4,
-      "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt31631015",
-      "name": "Sous ses yeux",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
-      "rating": 6.119,
-      "year": 2026,
       "days": 19,
       "trend": {
         "dir": "same",
@@ -109,16 +57,68 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt30217222",
-      "name": "Les Meurtres zen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yrXBnFF4nGYj8o2VFdFCSXzdTVW.jpg",
-      "rating": 7.631,
-      "year": 2024,
-      "days": 57,
+      "rank": 5,
+      "id": "tt9077540",
+      "name": "À l'ombre des magnolias",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
+      "rating": 7.7,
+      "year": 2020,
+      "days": 25,
       "trend": {
-        "dir": "up",
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32146518",
+      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
+      "rating": 8.2,
+      "year": 2024,
+      "days": 32,
+      "trend": {
+        "dir": "down",
         "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt42543947",
+      "name": "The Polygamist",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
+      "rating": 7.382,
+      "year": 2026,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt42873612",
+      "name": "Michael Jackson : Le Verdict",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
+      "rating": 4.4,
+      "year": 2026,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46a087NxApCdEWWJxqflmvHDTzt.jpg",
       "rating": 8.149,
       "year": 2017,
-      "days": 35,
+      "days": 37,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

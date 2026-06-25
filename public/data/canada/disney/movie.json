@@ -2,32 +2,32 @@
   "country": "canada",
   "key": "disney",
   "list": "movie",
-  "date": "202606241746",
+  "date": "202606251802",
   "entries": [
     {
       "rank": 1,
+      "id": "tt1757678",
+      "name": "Avatar : De feu et de cendres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+      "rating": 7.604,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt0114709",
       "name": "Toy Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg",
       "rating": 7.977,
       "year": 1995,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt43140112",
-      "name": "Extreme Makeover: Homer Edition",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-      "rating": 6.9,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,81 +37,55 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
       "rating": 7.8,
       "year": 2010,
-      "days": 13,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt1979376",
-      "name": "Toy Story 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
-      "rating": 7.462,
-      "year": 2019,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0120363",
-      "name": "Toy Story 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
-      "rating": 7.6,
-      "year": 1999,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 6,
-      "id": "top10:toy-story-5-a-special-look",
-      "name": "Toy Story 5 | A Special Look",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 13,
-      "trend": {
-        "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt26443616",
-      "name": "Jumpers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
-      "rating": 8.181,
-      "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt8036976",
-      "name": "Send Help",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
-      "rating": 7.056,
-      "year": 2026,
-      "days": 44,
+      "rank": 4,
+      "id": "tt0120363",
+      "name": "Toy Story 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
+      "rating": 7.6,
+      "year": 1999,
+      "days": 14,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "top10:hoppers-nature-ambiance",
-      "name": "Hoppers Nature Ambiance",
+      "rank": 5,
+      "id": "tt1979376",
+      "name": "Toy Story 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
+      "rating": 7.462,
+      "year": 2019,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt26443616",
+      "name": "Jumpers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
+      "rating": 8.181,
+      "year": 2026,
+      "days": 21,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "top10:stitch-angels-perfect-summer-day",
+      "name": "Stitch & Angel&#39;s Perfect Summer Day",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
@@ -122,16 +96,42 @@
       }
     },
     {
-      "rank": 10,
-      "id": "tt2033372",
-      "name": "Mini Buzz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uWVizLIBkZ2CDUtGgnUoj50n9fz.jpg",
+      "rank": 8,
+      "id": "tt43140112",
+      "name": "Extreme Makeover: Homer Edition",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vim76mMXig00YRxN2iGYJASoGkP.jpg",
       "rating": 6.9,
-      "year": 2011,
-      "days": 1,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0499549",
+      "name": "Avatar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N8L80OaG8EBTDdRBjGqT8PBzCM.jpg",
+      "rating": 7.607,
+      "year": 2009,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt8036976",
+      "name": "Send Help",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
+      "rating": 7.056,
+      "year": 2026,
+      "days": 45,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]
