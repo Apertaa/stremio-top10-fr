@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202606251802",
+  "date": "202606261728",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 7,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -37,36 +37,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 326,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 4,
-      "id": "tt33311244",
-      "name": "À contre-sens 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
-      "rating": 7.374,
-      "year": 2025,
-      "days": 196,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt9663764",
       "name": "Aquaman et le Royaume perdu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
       "rating": 6.523,
       "year": 2023,
-      "days": 9,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33311244",
+      "name": "À contre-sens 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
+      "rating": 7.374,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 808,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 342,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -102,20 +102,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 35,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt36331860",
-      "name": "Love Me Love Me",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
-      "rating": 5.978,
-      "year": 2026,
-      "days": 121,
+      "id": "tt20048582",
+      "name": "Canary Black",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nov36BA6BxCSpDMMos7KW7pF6Em.jpg",
+      "rating": 6.217,
+      "year": 2024,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt0800175",
-      "name": "Red Sonja",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rmoaCJYM2qVYL2LfJmQCkiEwMl.jpg",
-      "rating": 5.682,
-      "year": 2025,
-      "days": 7,
+      "id": "tt36331860",
+      "name": "Love Me Love Me",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "rating": 5.978,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

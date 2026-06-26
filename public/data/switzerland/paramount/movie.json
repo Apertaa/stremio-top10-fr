@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202606251802",
+  "date": "202606261728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 28,
+      "days": 29,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,116 +19,116 @@
     },
     {
       "rank": 2,
-      "id": "tt0257106",
-      "name": "Scary Movie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
-      "rating": 5.835,
-      "year": 2001,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt12335692",
-      "name": "Last Man Down",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
-      "rating": 6.165,
-      "year": 2021,
-      "days": 168,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt31898445",
       "name": "Escape",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 23,
+      "days": 24,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0257106",
+      "name": "Scary Movie 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
+      "rating": 5.835,
+      "year": 2001,
+      "days": 10,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt15665274",
-      "name": "The Channel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": 22,
+      "rank": 4,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 10,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt9603208",
-      "name": "Mission : Impossible - The Final Reckoning",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-      "rating": 7.169,
-      "year": 2025,
-      "days": 187,
+      "rank": 5,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 6,
       "id": "tt6001846",
       "name": "Long Gone Heroes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
       "rating": 5.356,
       "year": 2024,
-      "days": 105,
+      "days": 106,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt12335692",
+      "name": "Last Man Down",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+      "rating": 6.165,
+      "year": 2021,
+      "days": 169,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt6889128",
+      "name": "La Pat' Patrouille : La Super Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rmDugxAGeMbrGL4NJRS3H2A0cDr.jpg",
+      "rating": 7.5,
+      "year": 2018,
+      "days": 184,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt39565775",
+      "name": "Les Chat-ventures de Rocky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+      "rating": 8.1,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt3402138",
-      "name": "Y a-t-il un flic pour sauver le monde ?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dIOzuzx0CLYpNLx1Yf44cykyYX5.jpg",
-      "rating": 6.372,
-      "year": 2025,
-      "days": 116,
+      "id": "tt8452202",
+      "name": "La Pat' Patrouille : La Grande Course",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rAM9znaTZfL7B3eZAP8uAMMowOc.jpg",
+      "rating": 7.1,
+      "year": 2019,
+      "days": 175,
       "trend": {
         "dir": "new",
         "delta": null

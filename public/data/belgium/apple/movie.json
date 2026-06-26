@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "apple",
   "list": "movie",
-  "date": "202606251802",
+  "date": "202606261728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 194,
+      "days": 195,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt13654226",
-      "name": "The Gorge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
-      "rating": 7.65,
+      "id": "tt24950660",
+      "name": "Pour l'éternité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
+      "rating": 7.078,
       "year": 2025,
-      "days": 475,
+      "days": 50,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 75,
+      "days": 76,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,15 +45,15 @@
     },
     {
       "rank": 4,
-      "id": "tt24950660",
-      "name": "Pour l'éternité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
-      "rating": 7.078,
-      "year": 2025,
-      "days": 49,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 836,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 843,
+      "days": 844,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 835,
+      "id": "tt13654226",
+      "name": "The Gorge",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
+      "rating": 7.65,
+      "year": 2025,
+      "days": 476,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 7,
-      "id": "tt15326988",
-      "name": "Ghosted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tds2CSzH5tPAc9CbeUDRtSVzFhs.jpg",
-      "rating": 6.88,
-      "year": 2023,
-      "days": 676,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt12573454",
-      "name": "Sharper",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yvt5DM98hQWgUl0uBIEj6wbqFXq.jpg",
-      "rating": 6.8,
-      "year": 2023,
-      "days": 472,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt27052633",
-      "name": "Echo Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
-      "rating": 6.414,
-      "year": 2025,
-      "days": 175,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt16431870",
       "name": "The Family Plan",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 746,
+      "days": 747,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt27052633",
+      "name": "Echo Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
+      "rating": 6.414,
+      "year": 2025,
+      "days": 176,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt3420504",
+      "name": "Finch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+      "rating": 7.808,
+      "year": 2021,
+      "days": 559,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt12573454",
+      "name": "Sharper",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yvt5DM98hQWgUl0uBIEj6wbqFXq.jpg",
+      "rating": 6.8,
+      "year": 2023,
+      "days": 473,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

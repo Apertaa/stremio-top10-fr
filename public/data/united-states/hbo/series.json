@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202606251802",
+  "date": "202606261728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 97,
+      "days": 98,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 131,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt2861424",
       "name": "Rick et Morty",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 70,
+      "days": 71,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 84,
-      "trend": {
-        "dir": "up",
-        "delta": 7
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 171,
+      "days": 172,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,41 +58,41 @@
     },
     {
       "rank": 5,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 85,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt3530232",
       "name": "Last Week Tonight with John Oliver",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
       "rating": 7.796,
       "year": 2014,
-      "days": 577,
+      "days": 578,
       "trend": {
         "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt32333081",
-      "name": "Influence mortelle : Réseaux assassins",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
-      "rating": 6.5,
-      "year": 2024,
-      "days": 24,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt27497448",
-      "name": "A Knight of the Seven Kingdoms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": 59,
+      "id": "tt36503976",
+      "name": "Castle Impossible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/263iMFN62eTC7lkrNnWo8V0XtP8.jpg",
+      "rating": 6,
+      "year": 2025,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
       "rating": 9.646,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt10466872",
-      "name": "Dune : Prophecy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
+      "id": "tt32283804",
+      "name": "Crimes à la une : j'ai survécu à un tueur en série",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDChtZhrlxvEMIbQco5ocKRUB3g.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 60,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt8772296",
-      "name": "Euphoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
-      "rating": 8.287,
-      "year": 2019,
-      "days": 95,
+      "id": "tt32333081",
+      "name": "Influence mortelle : Réseaux assassins",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
+      "rating": 6.5,
+      "year": 2024,
+      "days": 25,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

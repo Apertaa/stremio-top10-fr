@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "series",
-  "date": "202606251802",
+  "date": "202606261728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 123,
+      "days": 124,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt27497448",
-      "name": "A Knight of the Seven Kingdoms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": 72,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt8772296",
-      "name": "Euphoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
-      "rating": 8.287,
-      "year": 2019,
-      "days": 88,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt34885250",
       "name": "The Lady : A Royal Murder Scandal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lMveq4zyLX4dAZgO0xXMf4vYqf6.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt27497448",
+      "name": "A Knight of the Seven Kingdoms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "days": 73,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt8772296",
+      "name": "Euphoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "rating": 8.287,
+      "year": 2019,
+      "days": 89,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 73,
+      "days": 74,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
       "rating": 6.827,
       "year": 2026,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt26761151",
-      "name": "The House That Dragons Built",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
-      "rating": null,
+      "id": "tt11444366",
+      "name": "Becoming Elizabeth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/JknFZxvJDfR2SBZTPAuv7p648C.jpg",
+      "rating": 6.648,
       "year": 2022,
-      "days": null,
+      "days": 13,
       "trend": {
         "dir": "new",
         "delta": null

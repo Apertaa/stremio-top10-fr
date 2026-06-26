@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202606251802",
+  "date": "202606261728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 72,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt5090568",
-      "name": "Transformers : Rise of the Beasts",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
-      "rating": 7.17,
-      "year": 2023,
-      "days": 102,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 428,
+      "days": 73,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 8,
+      "rank": 6,
       "id": "tt2806878",
       "name": "De guerre lasse",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
       "rating": 5.355,
       "year": 2014,
-      "days": 21,
+      "days": 22,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 9,
-      "id": "tt13098590",
-      "name": "Fear Below : Plongée sous pression",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uh8nwCFx9zFRJeiDUg4SxQ7Koug.jpg",
-      "rating": 6.099,
-      "year": 2025,
-      "days": 137,
+      "rank": 7,
+      "id": "tt14260836",
+      "name": "Better Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/slEGDV2thDJwAYOGrfTEhy1AWl6.jpg",
+      "rating": 7.6,
+      "year": 2024,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
+      "rank": 8,
+      "id": "tt5090568",
+      "name": "Transformers : Rise of the Beasts",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
+      "rating": 7.17,
+      "year": 2023,
+      "days": 103,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 429,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt27534307",
-      "name": "Speak No Evil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
-      "rating": 7.118,
-      "year": 2024,
-      "days": null,
+      "id": "tt14199590",
+      "name": "One Shot",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vh3WhS0m7Dthfc6QGjiF4YS656.jpg",
+      "rating": 6.7,
+      "year": 2021,
+      "days": 14,
       "trend": {
         "dir": "new",
         "delta": null
