@@ -629,6 +629,16 @@
     "rating": 6.2,
     "ts": "2026-06-20"
   },
+  "borderlands": {
+    "tmdbId": 365177,
+    "tmdbType": "movie",
+    "imdbId": "tt4978420",
+    "titleFr": "Borderlands",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tmg3ilwFTxU0V8Kcm2No1rmHf3W.jpg",
+    "rating": 5.59,
+    "ts": "2026-06-27"
+  },
   "bring-me-the-beauties-a-model-cult": {
     "tmdbId": 322974,
     "tmdbType": "tv",
@@ -2159,6 +2169,16 @@
     "rating": null,
     "ts": "2026-06-20"
   },
+  "little-brother": {
+    "tmdbId": 1397385,
+    "tmdbType": "movie",
+    "imdbId": "tt34888871",
+    "titleFr": "Little Brother",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "rating": 6.2,
+    "ts": "2026-06-27"
+  },
   "locker-diaries-phineas-and-ferb": {
     "tmdbId": 317375,
     "tmdbType": "tv",
@@ -2768,6 +2788,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/3ytp5pmHFVvAesnL2SJecxgV8W2.jpg",
     "rating": 6.1,
     "ts": "2026-06-21"
+  },
+  "night-at-the-museum": {
+    "tmdbId": 1593,
+    "tmdbType": "movie",
+    "imdbId": "tt0477347",
+    "titleFr": "La Nuit au musée",
+    "year": 2006,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+    "rating": 6.6,
+    "ts": "2026-06-27"
   },
   "no-country-for-old-men": {
     "tmdbId": 6977,
@@ -5038,6 +5068,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/9uW1W9q0zKPzPdRwIcL3eCDJsfw.jpg",
     "rating": 7.1,
     "ts": "2026-06-20"
+  },
+  "wander": {
+    "tmdbId": 646593,
+    "tmdbType": "movie",
+    "imdbId": "tt9689696",
+    "titleFr": "Wander",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2AwPvNHphpZBJDqjZKVuMAbvS0v.jpg",
+    "rating": 5.314,
+    "ts": "2026-06-27"
   },
   "war-dogs": {
     "tmdbId": 308266,

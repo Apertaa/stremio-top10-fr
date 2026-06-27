@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202606261728",
+  "date": "202606271655",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 43,
+      "days": 44,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hb4tWUWrRHU0xjVU5AX49bZPHB8.jpg",
       "rating": 6.649,
       "year": 2011,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg",
       "rating": 7.164,
       "year": 2005,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,59 +76,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5TU2NRk8aP40o7IDck0RF24TCyj.jpg",
       "rating": 7.2,
       "year": 1996,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt2231461",
-      "name": "Rampage : Hors de contrôle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
-      "rating": 6.457,
-      "year": 2018,
-      "days": 27,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt2215285",
       "name": "Madea : Protection de témoins",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dRlwjdYnXXZaPXUfEP2mOE3T4YH.jpg",
       "rating": 6.1,
       "year": 2012,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt33474152",
-      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
-      "rating": 2.8,
-      "year": 2026,
-      "days": 17,
+      "rank": 8,
+      "id": "tt2231461",
+      "name": "Rampage : Hors de contrôle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
+      "rating": 6.457,
+      "year": 2018,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt1365519",
       "name": "Tomb Raider",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ltOkXWOYZoYstuKrMq44yogotHp.jpg",
       "rating": 6.366,
       "year": 2018,
-      "days": 26,
+      "days": 27,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt33474152",
+      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
+      "rating": 2.8,
+      "year": 2026,
+      "days": 18,
       "trend": {
         "dir": "down",
         "delta": 1

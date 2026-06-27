@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202606261728",
+  "date": "202606271655",
   "entries": [
     {
       "rank": 1,
-      "id": "tt2312718",
-      "name": "Homefront",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ikZZjUENLBY2vR3UlecNVrWVoY.jpg",
-      "rating": 6.9,
-      "year": 2013,
-      "days": 21,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 29,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "rating": 6.178,
-      "year": 2026,
-      "days": 28,
+      "id": "tt2312718",
+      "name": "Homefront",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ikZZjUENLBY2vR3UlecNVrWVoY.jpg",
+      "rating": 6.9,
+      "year": 2013,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt0345950",
-      "name": "Bob l'éponge, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
-      "rating": 7.089,
-      "year": 2004,
-      "days": 105,
+      "id": "tt0350261",
+      "name": "Une Vie Inachevée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yV2zy8n2ZNynfMHm9vm2II5rvjT.jpg",
+      "rating": 6.8,
+      "year": 2005,
+      "days": 61,
       "trend": {
         "dir": "up",
-        "delta": 6
+        "delta": 5
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 677,
+      "days": 678,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt0822854",
-      "name": "Shooter, tireur d'élite",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ESmsY38eOBcmAkym3hJqOBm7vP.jpg",
-      "rating": 7.126,
-      "year": 2007,
-      "days": 170,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 176,
       "trend": {
         "dir": "new",
         "delta": null
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt0936501",
-      "name": "Taken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg",
-      "rating": 7.407,
-      "year": 2008,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0430105",
-      "name": "Quatre frères",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Cs5qIYJ6rQQugHVrZ8cS9qzbZD.jpg",
-      "rating": 6.815,
-      "year": 2005,
-      "days": 44,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0350261",
-      "name": "Une Vie Inachevée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yV2zy8n2ZNynfMHm9vm2II5rvjT.jpg",
-      "rating": 6.8,
-      "year": 2005,
-      "days": 60,
-      "trend": {
-        "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0790724",
-      "name": "Jack Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yx9jmcMWMfO0gJfpmmKR0u016VQ.jpg",
-      "rating": 6.668,
-      "year": 2012,
-      "days": 195,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt33028778",
       "name": "Primate",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
       "rating": 6.526,
       "year": 2026,
-      "days": 92,
+      "days": 93,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0936501",
+      "name": "Taken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg",
+      "rating": 7.407,
+      "year": 2008,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 5
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0193560",
+      "name": "Texas Rangers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69tMHlxiCYlYKGZm1aPH1u7hY88.jpg",
+      "rating": 6.016,
+      "year": 2001,
+      "days": 22,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0345950",
+      "name": "Bob l'éponge, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
+      "rating": 7.089,
+      "year": 2004,
+      "days": 106,
+      "trend": {
+        "dir": "down",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0364751",
+      "name": "Jusqu'au cou",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWA8rqK4eVDu6ACSKFGfaploHB.jpg",
+      "rating": 5.639,
+      "year": 2004,
+      "days": 14,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]
