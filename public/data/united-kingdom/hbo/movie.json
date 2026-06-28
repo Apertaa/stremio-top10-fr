@@ -2,94 +2,94 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202606261728",
+  "date": "202606281657",
   "entries": [
     {
       "rank": 1,
+      "id": "tt0120611",
+      "name": "Blade",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
+      "rating": 6.84,
+      "year": 1998,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt1677720",
       "name": "Ready Player One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 10,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt31728330",
       "name": "They Will Kill You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 10,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "tt0083658",
+      "name": "Blade Runner",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zHKWxyG4j404HVeSYHNH4niUpkW.jpg",
+      "rating": 7.936,
+      "year": 1982,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt2231461",
       "name": "Rampage : Hors de contrôle",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
       "rating": 6.457,
       "year": 2018,
-      "days": 10,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
-      "id": "tt42907611",
-      "name": "The Welcome Table",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8cOEREMN6WF4Vf6IgBLU3AqmbeN.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 1,
+      "rank": 6,
+      "id": "tt8294204",
+      "name": "A Dangerous Son",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8pkfH7vAE9rt85w9fBl5rnRJGZy.jpg",
+      "rating": 6.8,
+      "year": 2018,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "tt7126948",
       "name": "Wonder Woman 1984",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdEorjrPno4Cn7HYVN2DA0f3ocr.jpg",
       "rating": 6.365,
       "year": 2020,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt30851137",
-      "name": "The Bride!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
-      "rating": 6.171,
-      "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt14140740",
-      "name": "Maradona : les coulisses d'une addiction",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zRMN91ogV3991PJQLjfLI4DJyJc.jpg",
-      "rating": 7.8,
-      "year": 2021,
-      "days": 6,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt39177948",
-      "name": "Enfants volés",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqpvAEd0e358G6U7GDJq1g5PsTX.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 2,
+      "id": "tt30851137",
+      "name": "The Bride!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
+      "rating": 6.171,
+      "year": 2026,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt7737224",
-      "name": "Turtles All the Way Down",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apdfKuF32HpbQxmhbPQa6gxSo1Q.jpg",
-      "rating": 7.265,
-      "year": 2024,
-      "days": 7,
+      "id": "tt39177948",
+      "name": "Enfants volés",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqpvAEd0e358G6U7GDJq1g5PsTX.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt1706603",
-      "name": "Homeless: The Motel Kids of Orange County",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oqAyfoKjnBjokBK6Uefr2efxoSw.jpg",
-      "rating": 4.3,
-      "year": 2010,
-      "days": 2,
+      "id": "tt42907611",
+      "name": "The Welcome Table",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8cOEREMN6WF4Vf6IgBLU3AqmbeN.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     }
   ]

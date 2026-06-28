@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202606261728",
+  "date": "202606281657",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 12,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
+      "id": "tt11182994",
+      "name": "Zillion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
+      "rating": 7.014,
+      "year": 2022,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt15334488",
       "name": "After - Chapitre 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dTokNCdBjiXMsNW84Lsj6JsmjRX.jpg",
       "rating": 6.879,
       "year": 2023,
-      "days": 10,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt0073195",
-      "name": "Les Dents de la mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
-      "rating": 7.682,
-      "year": 1975,
-      "days": 20,
-      "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
       "rating": 7.933,
       "year": 2021,
-      "days": 28,
+      "days": 30,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,20 +63,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qYDYA3jkSagHKjeKFmBPveBvGvn.jpg",
       "rating": 7.106,
       "year": 2019,
-      "days": 12,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt10362466",
-      "name": "After - Chapitre 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Qv61YlJqnUJyuSnzxir6mfVIF5.jpg",
-      "rating": 7.152,
-      "year": 2020,
-      "days": 5,
+      "id": "tt0073195",
+      "name": "Les Dents de la mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
+      "rating": 7.682,
+      "year": 1975,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,51 +84,51 @@
     },
     {
       "rank": 7,
-      "id": "tt13069986",
-      "name": "After - Chapitre 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wAEQvm2W9BUx5ggag4ALtSAhIe6.jpg",
-      "rating": 7.004,
-      "year": 2021,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt30851137",
       "name": "The Bride!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
       "rating": 6.171,
       "year": 2026,
-      "days": 34,
+      "days": 36,
       "trend": {
-        "dir": "down",
-        "delta": 5
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt12593682",
-      "name": "Bullet Train",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
-      "rating": 7.413,
-      "year": 2022,
-      "days": 42,
+      "rank": 8,
+      "id": "tt10362466",
+      "name": "After - Chapitre 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Qv61YlJqnUJyuSnzxir6mfVIF5.jpg",
+      "rating": 7.152,
+      "year": 2020,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
+      "rank": 9,
+      "id": "tt6320628",
+      "name": "Spider-Man : Far From Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
+      "rating": 7.4,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt1282140",
-      "name": "Easy Girl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLdSvAisVDItlHHg1u667iaHZTj.jpg",
-      "rating": 6.805,
-      "year": 2010,
-      "days": 31,
+      "id": "tt12593682",
+      "name": "Bullet Train",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
+      "rating": 7.413,
+      "year": 2022,
+      "days": 44,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,16 +2,16 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202606261728",
+  "date": "202606281657",
   "entries": [
     {
       "rank": 1,
-      "id": "tt4357198",
-      "name": "L'Ultime Héritier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 15,
+      "id": "tt32537226",
+      "name": "Hunting Season",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "rating": 6.953,
+      "year": 2025,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,103 +19,103 @@
     },
     {
       "rank": 2,
+      "id": "tt4357198",
+      "name": "L'Ultime Héritier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 17,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt27047903",
       "name": "Scream 7",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 29,
+      "days": 31,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt2023587",
-      "name": "Mama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
-      "rating": 6.297,
-      "year": 2013,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt0119395",
-      "name": "Le Chacal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hEG17xmDYBvazhjBzgMkghrmaYm.jpg",
-      "rating": 6.397,
-      "year": 1997,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt32801387",
       "name": "Thieves Highway",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "rating": 7.684,
       "year": 2026,
-      "days": 62,
+      "days": 64,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt3331548",
+      "name": "Not Without Hope",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
+      "rating": 6.15,
+      "year": 2025,
+      "days": 34,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
-      "id": "tt0142342",
-      "name": "Big Daddy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/agJtp5DwfAycEYiMrLZ2fQvkBYl.jpg",
-      "rating": 6.495,
-      "year": 1999,
-      "days": 5,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt24131288",
-      "name": "Cash Out",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3youHDLigrtIis1NqTjlY8Sk38.jpg",
-      "rating": 6.184,
-      "year": 2024,
-      "days": 38,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt4627382",
       "name": "Roofman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 178,
+      "days": 180,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 62,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt11466222",
+      "name": "Jackass Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
+      "rating": 6.786,
+      "year": 2022,
+      "days": 13,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt3063516",
-      "name": "Bad Grandpa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4X6J75T5zs5rPnE2vEC3u8l77kV.jpg",
-      "rating": 6.2,
-      "year": 2013,
-      "days": 4,
+      "id": "tt29567915",
+      "name": "Nuremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "rating": 7.56,
+      "year": 2025,
+      "days": 48,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt27829510",
-      "name": "Cash Out 2: High Rollers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AwFpie51ZWRN7y8e7KReKFMxnT9.jpg",
-      "rating": 6.5,
-      "year": 2025,
-      "days": 19,
+      "id": "tt0493430",
+      "name": "Jackass deux, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
+      "rating": 6.583,
+      "year": 2006,
+      "days": 10,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

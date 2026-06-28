@@ -2,32 +2,32 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606251802",
+  "date": "202606281657",
   "entries": [
     {
       "rank": 1,
-      "id": "tt35406274",
-      "name": "Ms. Rachel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
-      "rating": 7.286,
-      "year": 2025,
-      "days": 498,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt41672842",
       "name": "Salish & Jordan Matter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 74,
+      "days": 77,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt35406274",
+      "name": "Ms. Rachel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
+      "rating": 7.286,
+      "year": 2025,
+      "days": 501,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 79,
+      "days": 82,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 728,
+      "days": 731,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 348,
+      "days": 351,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,40 +71,40 @@
     },
     {
       "rank": 6,
+      "id": "tt26692417",
+      "name": "Pokémon : Les horizons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuegnXaSNR8VSoATc5bXQjyoUIj.jpg",
+      "rating": 8.7,
+      "year": 2023,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt0063951",
       "name": "1 Rue Sesame",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
       "rating": 7.1,
       "year": 1969,
-      "days": 222,
+      "days": 225,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tmdb:219799",
       "name": "安全警长啦咘啦哆",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 143,
+      "days": 146,
       "trend": {
         "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "top10:camp-crunchlabs",
-      "name": "Camp CrunchLabs",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 15,
-      "trend": {
-        "dir": "down",
         "delta": 1
       }
     },
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 166,
+      "days": 169,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt1604099",
-      "name": "Victorious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
-      "rating": 8.216,
-      "year": 2010,
-      "days": 253,
+      "id": "top10:camp-crunchlabs",
+      "name": "Camp CrunchLabs",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 18,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]
