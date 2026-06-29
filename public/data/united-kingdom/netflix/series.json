@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "series",
-  "date": "202606281657",
+  "date": "202606291802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "top10:wwe-night-of-champions",
-      "name": "WWE Night of Champions",
-      "tmdbPosterUrl": null,
+      "id": "tt43491766",
+      "name": "The Rest Is Football",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
       "rating": null,
-      "year": null,
-      "days": 3,
+      "year": 2026,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -37,23 +37,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt0227972",
-      "name": "WWE SmackDown Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
-      "rating": 7.5,
-      "year": 1999,
-      "days": 2,
+      "id": "top10:wwe-night-of-champions",
+      "name": "WWE Night of Champions",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 5,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -63,23 +63,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "top10:%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%84%E1%9E%85%E1%9E%96%E1%9F%84%E1%9F%87%E1%9E%92%E1%9F%86%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%93",
-      "name": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": null,
+      "id": "tt33265765",
+      "name": "Legends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
+      "rating": 7.7,
+      "year": 2026,
+      "days": 52,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
       "rating": 8.2,
       "year": 2024,
-      "days": 60,
+      "days": 61,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
       "rating": 6.119,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt33265765",
-      "name": "Legends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
-      "rating": 7.7,
-      "year": 2026,
-      "days": 51,
+      "id": "tt17736900",
+      "name": "Lock Upp",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
+      "rating": 9.25,
+      "year": 2022,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

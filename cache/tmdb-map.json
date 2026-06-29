@@ -479,6 +479,16 @@
     "rating": 8.7,
     "ts": "2026-06-20"
   },
+  "beauty-from-pain": {
+    "tmdbId": 1495694,
+    "tmdbType": "movie",
+    "imdbId": "tt36585628",
+    "titleFr": "Beauty from Pain",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mJtBKvHQaFzgp0N6JFskSvjbTar.jpg",
+    "rating": 6.974,
+    "ts": "2026-06-29"
+  },
   "beaux-parents": {
     "tmdbId": 593475,
     "tmdbType": "movie",
@@ -709,6 +719,16 @@
     "rating": 5.59,
     "ts": "2026-06-27"
   },
+  "boudica": {
+    "tmdbId": 975902,
+    "tmdbType": "movie",
+    "imdbId": "tt22688572",
+    "titleFr": "Boudica",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
+    "rating": 5.815,
+    "ts": "2026-06-29"
+  },
   "bring-me-the-beauties-a-model-cult": {
     "tmdbId": 322974,
     "tmdbType": "tv",
@@ -829,6 +849,16 @@
     "rating": 8.715,
     "ts": "2026-06-23"
   },
+  "chris-martina-the-final-set": {
+    "tmdbId": 1675177,
+    "tmdbType": "movie",
+    "imdbId": "tt42037166",
+    "titleFr": "Chris et Martina : Dernier set",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg",
+    "rating": 7,
+    "ts": "2026-06-29"
+  },
   "citadel-2023": {
     "tmdbId": 114922,
     "tmdbType": "tv",
@@ -918,6 +948,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1vTUmvdV0BEfxy4A8l8s0h0cSlp.jpg",
     "rating": 6.587,
     "ts": "2026-06-19"
+  },
+  "curb-your-enthusiasm": {
+    "tmdbId": 4546,
+    "tmdbType": "tv",
+    "imdbId": "tt0264235",
+    "titleFr": "Larry et son nombril",
+    "year": 2000,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/e6GwI9ddoYaw1JyeRvcwg4awp4z.jpg",
+    "rating": 8,
+    "ts": "2026-06-29"
   },
   "danny-go": {
     "tmdbId": 258124,
@@ -1389,6 +1429,16 @@
     "rating": 7.797,
     "ts": "2026-06-20"
   },
+  "fallen-2024": {
+    "tmdbId": 214945,
+    "tmdbType": "tv",
+    "imdbId": "tt22776032",
+    "titleFr": "Damnés",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/e6ZxhNNvdwfide5XiwSVGXsqGQ9.jpg",
+    "rating": 6.568,
+    "ts": "2026-06-29"
+  },
   "fallout": {
     "tmdbId": 106379,
     "tmdbType": "tv",
@@ -1478,6 +1528,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/eo2bWd6pA9xxWe9M7VnbNJNhYuD.jpg",
     "rating": 6.721,
     "ts": "2026-06-20"
+  },
+  "footloose-2011": {
+    "tmdbId": 68817,
+    "tmdbType": "movie",
+    "imdbId": "tt1068242",
+    "titleFr": "Footloose",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5hx70YOCODwBk2KKYrc3vmJ1Ml0.jpg",
+    "rating": 6.577,
+    "ts": "2026-06-29"
   },
   "for-all-mankind-2019": {
     "tmdbId": 87917,
@@ -1628,6 +1688,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/8ZNcl3dkxGrkjQcZhRifBkPK1h3.jpg",
     "rating": 6.05,
     "ts": "2026-06-26"
+  },
+  "geordie-shore": {
+    "tmdbId": 39416,
+    "tmdbType": "tv",
+    "imdbId": "tt1960255",
+    "titleFr": "Geordie Shore",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/skMmpVTap7QWMddtN5zKzMRIC1u.jpg",
+    "rating": 6,
+    "ts": "2026-06-29"
   },
   "georgie-mandys-first-marriage": {
     "tmdbId": 243875,
@@ -1939,6 +2009,16 @@
     "rating": 6.6,
     "ts": "2026-06-21"
   },
+  "i-am-legend": {
+    "tmdbId": 6479,
+    "tmdbType": "movie",
+    "imdbId": "tt0480249",
+    "titleFr": "Je suis une légende",
+    "year": 2007,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dSkSEcVXUEBvOkyYAF00zvRdKrO.jpg",
+    "rating": 7.217,
+    "ts": "2026-06-29"
+  },
   "i-kill-giants": {
     "tmdbId": 419831,
     "tmdbType": "movie",
@@ -2218,6 +2298,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg",
     "rating": 7.898,
     "ts": "2026-06-22"
+  },
+  "la-revanche-des-crevettes-pailletees": {
+    "tmdbId": 741674,
+    "tmdbType": "movie",
+    "imdbId": "tt17049112",
+    "titleFr": "La Revanche des Crevettes Pailletées",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sGFbehBmBzac1ZOIJDwb544qBPL.jpg",
+    "rating": 6.4,
+    "ts": "2026-06-29"
   },
   "ladies-first-2026": {
     "tmdbId": 1368881,
@@ -2508,6 +2598,26 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/p50jY9EUosRjcNiymYNBST2Z9Jm.jpg",
     "rating": 6.726,
     "ts": "2026-06-20"
+  },
+  "mad-max": {
+    "tmdbId": 9659,
+    "tmdbType": "movie",
+    "imdbId": "tt0079501",
+    "titleFr": "Mad Max",
+    "year": 1979,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nv5DtpzgjrILNusr3JiTE3O4tlL.jpg",
+    "rating": 6.684,
+    "ts": "2026-06-29"
+  },
+  "mad-max-fury-road": {
+    "tmdbId": 76341,
+    "tmdbType": "movie",
+    "imdbId": "tt1392190",
+    "titleFr": "Mad Max : Fury Road",
+    "year": 2015,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
+    "rating": 7.634,
+    "ts": "2026-06-29"
   },
   "mad-men": {
     "tmdbId": 1104,
@@ -3138,6 +3248,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg",
     "rating": 5.726,
     "ts": "2026-06-19"
+  },
+  "opus": {
+    "tmdbId": 1202479,
+    "tmdbType": "movie",
+    "imdbId": "tt29929565",
+    "titleFr": "Opus",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1h7I0E9Bcqj2x033ud608kKrryI.jpg",
+    "rating": 5.707,
+    "ts": "2026-06-29"
   },
   "our-fault": {
     "tmdbId": 1156594,
@@ -4279,6 +4399,16 @@
     "rating": 5.679,
     "ts": "2026-06-28"
   },
+  "the-accountant-2016": {
+    "tmdbId": 302946,
+    "tmdbType": "movie",
+    "imdbId": "tt2140479",
+    "titleFr": "Mr Wolff",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/o7073AlEoBqltpsRBRDI6b5CyM6.jpg",
+    "rating": 7.138,
+    "ts": "2026-06-29"
+  },
   "the-agency-2024": {
     "tmdbId": 219971,
     "tmdbType": "tv",
@@ -4438,6 +4568,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
     "rating": 5.508,
     "ts": "2026-06-21"
+  },
+  "the-contractor-2022": {
+    "tmdbId": 628900,
+    "tmdbType": "movie",
+    "imdbId": "tt10323676",
+    "titleFr": "Le Contracteur",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
+    "rating": 6.351,
+    "ts": "2026-06-29"
   },
   "the-crash": {
     "tmdbId": 1662317,

@@ -2,32 +2,32 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202606281657",
+  "date": "202606291802",
   "entries": [
     {
       "rank": 1,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt34888871",
       "name": "Little Brother",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
       "rating": 6.105,
       "year": 2025,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,20 +50,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt30972054",
-      "name": "Das Kanu des Manitu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
-      "rating": 6.688,
-      "year": 2025,
-      "days": 13,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 24,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
+      "id": "tt30972054",
+      "name": "Das Kanu des Manitu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
+      "rating": 6.688,
+      "year": 2025,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt1860353",
       "name": "Turbo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 23,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
       "rating": 6.346,
       "year": 2024,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt0421073",
-      "name": "Au bout de la nuit",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
-      "rating": 6.646,
-      "year": 2008,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0477347",
       "name": "La Nuit au musée",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0421073",
+      "name": "Au bout de la nuit",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFPqFjOMhOFMOEYaQAe7a1HxKkG.jpg",
+      "rating": 6.646,
+      "year": 2008,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

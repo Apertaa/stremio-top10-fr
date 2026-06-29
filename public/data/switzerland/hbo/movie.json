@@ -2,79 +2,14 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202606281657",
+  "date": "202606291802",
   "entries": [
     {
       "rank": 1,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt13560574",
-      "name": "X",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
-      "rating": 6.7,
-      "year": 2022,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt0116996",
-      "name": "Mars Attacks!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljW8CVhjhoJNrMor6pIQLM3Mhqr.jpg",
-      "rating": 6.423,
-      "year": 1996,
-      "days": 5,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0482571",
-      "name": "Le Prestige",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
-      "rating": 8.208,
-      "year": 2006,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0110413",
-      "name": "Léon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
-      "rating": 8.294,
-      "year": 1994,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt26736843",
-      "name": "Les Guetteurs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
-      "rating": 6.346,
+      "id": "tt12037194",
+      "name": "Furiosa — Une saga Mad Max",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
+      "rating": 7.454,
       "year": 2024,
       "days": null,
       "trend": {
@@ -83,12 +18,77 @@
       }
     },
     {
+      "rank": 2,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 17,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt26736843",
+      "name": "Les Guetteurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
+      "rating": 6.346,
+      "year": 2024,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 4,
+      "id": "top10:ach-diese-lucke-diese-entsetzliche-lucke",
+      "name": "Ach, diese Lücke, diese entsetzliche Lücke",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 22,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt1392190",
+      "name": "Mad Max : Fury Road",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
+      "rating": 7.634,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0110413",
+      "name": "Léon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
+      "rating": 8.294,
+      "year": 1994,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 7,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
+      "id": "tt0116996",
+      "name": "Mars Attacks!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljW8CVhjhoJNrMor6pIQLM3Mhqr.jpg",
+      "rating": 6.423,
+      "year": 1996,
       "days": 6,
       "trend": {
         "dir": "down",
@@ -97,37 +97,37 @@
     },
     {
       "rank": 8,
-      "id": "tt9356952",
-      "name": "The Death of Dick Long",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg",
-      "rating": 6.139,
-      "year": 2019,
-      "days": null,
+      "id": "tt13560574",
+      "name": "X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
+      "rating": 6.7,
+      "year": 2022,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 6
       }
     },
     {
       "rank": 9,
-      "id": "tt0099731",
-      "name": "La Servante écarlate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pFgapvMgJWJhlCBuPFQcZgIQGBk.jpg",
-      "rating": 6.1,
-      "year": 1990,
-      "days": 8,
+      "id": "tt0482571",
+      "name": "Le Prestige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
+      "rating": 8.208,
+      "year": 2006,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     },
     {
       "rank": 10,
-      "id": "tt14005338",
-      "name": "Der Nachname",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fc7CeY8kc0YQ3jBCD0rlmSerxM3.jpg",
-      "rating": 6.663,
-      "year": 2022,
+      "id": "tt0079501",
+      "name": "Mad Max",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nv5DtpzgjrILNusr3JiTE3O4tlL.jpg",
+      "rating": 6.684,
+      "year": 1979,
       "days": null,
       "trend": {
         "dir": "new",

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606281657",
+  "date": "202606291802",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 77,
+      "days": 78,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 501,
+      "days": 502,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 82,
+      "days": 83,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 731,
+      "days": 732,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,22 +63,22 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 351,
+      "days": 352,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt26692417",
-      "name": "Pokémon : Les horizons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuegnXaSNR8VSoATc5bXQjyoUIj.jpg",
-      "rating": 8.7,
-      "year": 2023,
-      "days": 9,
+      "id": "tmdb:219799",
+      "name": "安全警长啦咘啦哆",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
+      "rating": 9,
+      "year": 2022,
+      "days": 147,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 2
       }
     },
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
       "rating": 7.1,
       "year": 1969,
-      "days": 225,
+      "days": 226,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,15 +97,15 @@
     },
     {
       "rank": 8,
-      "id": "tmdb:219799",
-      "name": "安全警长啦咘啦哆",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
-      "rating": 9,
-      "year": 2022,
-      "days": 146,
+      "id": "top10:camp-crunchlabs",
+      "name": "Camp CrunchLabs",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 19,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 169,
+      "days": 170,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "top10:camp-crunchlabs",
-      "name": "Camp CrunchLabs",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 18,
+      "id": "tt26692417",
+      "name": "Pokémon : Les horizons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuegnXaSNR8VSoATc5bXQjyoUIj.jpg",
+      "rating": 8.7,
+      "year": 2023,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 4
       }
     }
   ]

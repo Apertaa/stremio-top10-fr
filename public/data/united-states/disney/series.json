@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202606281657",
+  "date": "202606291802",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,64 +19,64 @@
     },
     {
       "rank": 2,
-      "id": "tt26685570",
-      "name": "How Not to Draw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": 21,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt26685570",
+      "name": "How Not to Draw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt38639981",
-      "name": "Le Titanic coule ce soir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
-      "year": 2026,
-      "days": 71,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt43268848",
       "name": "Locker Diaries: Phineas And Ferb",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
       "rating": null,
       "year": 2026,
-      "days": 20,
+      "days": 21,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt21057046",
+      "name": "The Doomies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+      "rating": 10,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt38639981",
+      "name": "Le Titanic coule ce soir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -84,41 +84,41 @@
     },
     {
       "rank": 7,
-      "id": "tt21057046",
-      "name": "The Doomies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
-      "rating": 10,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
       "year": 2026,
-      "days": null,
+      "days": 72,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 8,
-      "id": "top10:toy-story-30-years-and-beyond-a-special-edition-of-2020",
-      "name": "Toy Story 30 Years and Beyond -- A Special Edition of 20/20",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": 2020,
-      "days": 10,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt13622956",
       "name": "Zootopie+",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 32,
+      "days": 33,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "top10:toy-story-30-years-and-beyond-a-special-edition-of-2020",
+      "name": "Toy Story 30 Years and Beyond -- A Special Edition of 20/20",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": 2020,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg",
       "rating": 8.409,
       "year": 2019,
-      "days": 61,
+      "days": 62,
       "trend": {
         "dir": "same",
         "delta": 0
