@@ -389,6 +389,16 @@
     "rating": 7.604,
     "ts": "2026-06-25"
   },
+  "avatar-the-last-airbender": {
+    "tmdbId": 82452,
+    "tmdbType": "tv",
+    "imdbId": "tt9018736",
+    "titleFr": "Avatar : Le dernier maître de l'air",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+    "rating": 7.813,
+    "ts": "2026-06-30"
+  },
   "avatar-the-last-airbender-2024": {
     "tmdbId": 82452,
     "tmdbType": "tv",
@@ -418,6 +428,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg",
     "rating": 8.238,
     "ts": "2026-06-20"
+  },
+  "babe": {
+    "tmdbId": 9598,
+    "tmdbType": "movie",
+    "imdbId": "tt0112431",
+    "titleFr": "Babe, le cochon devenu berger",
+    "year": 1995,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3Q31RlmSGt4ThzPRWOXPAFq6aP6.jpg",
+    "rating": 6.3,
+    "ts": "2026-06-30"
   },
   "babygirl-2024": {
     "tmdbId": 1097549,
@@ -729,6 +749,16 @@
     "rating": 5.815,
     "ts": "2026-06-29"
   },
+  "bride-hard": {
+    "tmdbId": 1124619,
+    "tmdbType": "movie",
+    "imdbId": "tt21317634",
+    "titleFr": "Bride Hard",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
+    "rating": 5.574,
+    "ts": "2026-06-30"
+  },
   "bring-me-the-beauties-a-model-cult": {
     "tmdbId": 322974,
     "tmdbType": "tv",
@@ -848,6 +878,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
     "rating": 8.715,
     "ts": "2026-06-23"
+  },
+  "chernobyl-inside-the-meltdown": {
+    "tmdbId": 313406,
+    "tmdbType": "tv",
+    "imdbId": "tt39694103",
+    "titleFr": "Tchernobyl, anatomie d'une catastrophe",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/h6pIX1Q7TgqoKt4Gg4APDJtc8D1.jpg",
+    "rating": 8.7,
+    "ts": "2026-06-30"
   },
   "chris-martina-the-final-set": {
     "tmdbId": 1675177,
@@ -1409,6 +1449,26 @@
     "rating": 7.7,
     "ts": "2026-06-20"
   },
+  "exit-protocol": {
+    "tmdbId": 1293167,
+    "tmdbType": "movie",
+    "imdbId": "tt32421438",
+    "titleFr": "Exit Protocol",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aQTqVMJkYUbhrRtTzAjZKhX9Jj6.jpg",
+    "rating": 7.1,
+    "ts": "2026-06-30"
+  },
+  "exposed-2024": {
+    "tmdbId": 1442976,
+    "tmdbType": "movie",
+    "imdbId": null,
+    "titleFr": "Exposed",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dyYIvyYDfkv2GpYG3RHMIATPCDv.jpg",
+    "rating": null,
+    "ts": "2026-06-30"
+  },
   "extreme-makeover-homer-edition": {
     "tmdbId": 1716513,
     "tmdbType": "movie",
@@ -1668,6 +1728,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/oLakaMqkKCjDId3HM3uUvjNUDCf.jpg",
     "rating": 6.88,
     "ts": "2026-06-20"
+  },
+  "game-of-thrones": {
+    "tmdbId": 1399,
+    "tmdbType": "tv",
+    "imdbId": "tt0944947",
+    "titleFr": "Game of Thrones",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
+    "rating": 8.5,
+    "ts": "2026-06-30"
   },
   "gang-war-bandidos-2026": {
     "tmdbId": 321211,
@@ -1969,6 +2039,16 @@
     "rating": 6.663,
     "ts": "2026-06-28"
   },
+  "how-i-met-your-mother": {
+    "tmdbId": 1100,
+    "tmdbType": "tv",
+    "imdbId": "tt0460649",
+    "titleFr": "How I Met Your Mother",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
+    "rating": 8.129,
+    "ts": "2026-06-30"
+  },
   "how-not-to-draw": {
     "tmdbId": 225852,
     "tmdbType": "tv",
@@ -2138,6 +2218,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/xVKk2zEEeU5KOM7K9ZYRXncbaMn.jpg",
     "rating": 6.362,
     "ts": "2026-06-23"
+  },
+  "jackass-3d": {
+    "tmdbId": 16290,
+    "tmdbType": "movie",
+    "imdbId": "tt1116184",
+    "titleFr": "Jackass 3D",
+    "year": 2010,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+    "rating": 6.6,
+    "ts": "2026-06-30"
   },
   "jackass-forever": {
     "tmdbId": 656663,
@@ -2349,6 +2439,16 @@
     "rating": 7.796,
     "ts": "2026-06-20"
   },
+  "legally-blonde": {
+    "tmdbId": 8835,
+    "tmdbType": "movie",
+    "imdbId": "tt0250494",
+    "titleFr": "La Revanche d'une blonde",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
+    "rating": 6.817,
+    "ts": "2026-06-30"
+  },
   "legends-2026": {
     "tmdbId": 262280,
     "tmdbType": "tv",
@@ -2499,6 +2599,16 @@
     "rating": 6.5,
     "ts": "2026-06-19"
   },
+  "london-calling": {
+    "tmdbId": 1217602,
+    "tmdbType": "movie",
+    "imdbId": "tt30425872",
+    "titleFr": "Very Bad Job",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
+    "rating": 6.593,
+    "ts": "2026-06-30"
+  },
   "long-distance": {
     "tmdbId": 605722,
     "tmdbType": "movie",
@@ -2608,6 +2718,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/nv5DtpzgjrILNusr3JiTE3O4tlL.jpg",
     "rating": 6.684,
     "ts": "2026-06-29"
+  },
+  "mad-max-2-the-road-warrior": {
+    "tmdbId": 8810,
+    "tmdbType": "movie",
+    "imdbId": "tt0082694",
+    "titleFr": "Mad Max 2 : Le Défi",
+    "year": 1981,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
+    "rating": 7.393,
+    "ts": "2026-06-30"
   },
   "mad-max-fury-road": {
     "tmdbId": 76341,
@@ -2869,6 +2989,16 @@
     "rating": 8.4,
     "ts": "2026-06-20"
   },
+  "miami-vice-2006": {
+    "tmdbId": 82,
+    "tmdbType": "movie",
+    "imdbId": "tt0430357",
+    "titleFr": "Miami Vice : Deux Flics à Miami",
+    "year": 2006,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pdp3PA8XUxKdXJEJTXM3BQKpRZp.jpg",
+    "rating": 6.032,
+    "ts": "2026-06-30"
+  },
   "michael-jackson-the-verdict": {
     "tmdbId": 323111,
     "tmdbType": "tv",
@@ -2938,6 +3068,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
     "rating": 7.3,
     "ts": "2026-06-21"
+  },
+  "miss-congeniality-2-armed-and-fabulous": {
+    "tmdbId": 10040,
+    "tmdbType": "movie",
+    "imdbId": "tt0385307",
+    "titleFr": "Miss FBI : Divinement armée",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
+    "rating": 5.741,
+    "ts": "2026-06-30"
   },
   "miss-you-love-you": {
     "tmdbId": 1232667,
@@ -3749,6 +3889,16 @@
     "rating": 8.1,
     "ts": "2026-06-26"
   },
+  "rolf-harris-primetime-predator": {
+    "tmdbId": 324089,
+    "tmdbType": "tv",
+    "imdbId": "tt43394409",
+    "titleFr": "Rolf Harris: Primetime Predator",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ezsIKj94YztMbfa1QCWiBS6beol.jpg",
+    "rating": 9,
+    "ts": "2026-06-30"
+  },
   "roofman": {
     "tmdbId": 1242419,
     "tmdbType": "movie",
@@ -3858,6 +4008,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
     "rating": 8.031,
     "ts": "2026-06-21"
+  },
+  "secrets-of-the-bees": {
+    "tmdbId": 218274,
+    "tmdbType": "tv",
+    "imdbId": "tt26351133",
+    "titleFr": "Les Secrets des abeilles",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/883xSbd4YzmmbNcussNPgSmeMS7.jpg",
+    "rating": 8.9,
+    "ts": "2026-06-30"
   },
   "send-help": {
     "tmdbId": 1198994,
@@ -4279,6 +4439,16 @@
     "rating": 7.2,
     "ts": "2026-06-20"
   },
+  "superkitties-su-purr-adventures-shorts": {
+    "tmdbId": 261557,
+    "tmdbType": "tv",
+    "imdbId": "tt32598989",
+    "titleFr": "SuperKitties: Su-Purr Adventures (Shorts)",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
+    "rating": null,
+    "ts": "2026-06-30"
+  },
   "superman-2025": {
     "tmdbId": 1061474,
     "tmdbType": "movie",
@@ -4338,6 +4508,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg",
     "rating": 7.407,
     "ts": "2026-06-20"
+  },
+  "taking-lives": {
+    "tmdbId": 11081,
+    "tmdbType": "movie",
+    "imdbId": "tt0364045",
+    "titleFr": "Taking Lives, destins violés",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ayNAHe6fOGJ92LTo0zCcB69EtTh.jpg",
+    "rating": 6.375,
+    "ts": "2026-06-30"
   },
   "teach-you-a-lesson": {
     "tmdbId": 276161,
@@ -4488,6 +4668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
     "rating": 8.139,
     "ts": "2026-06-28"
+  },
+  "the-benchwarmers": {
+    "tmdbId": 9957,
+    "tmdbType": "movie",
+    "imdbId": "tt0437863",
+    "titleFr": "La revanche des Losers",
+    "year": 2006,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kmNwou9WfkTZq7UyQV4quB1bHBo.jpg",
+    "rating": 5.853,
+    "ts": "2026-06-30"
   },
   "the-boroughs": {
     "tmdbId": 224941,
@@ -5169,6 +5359,16 @@
     "rating": 6.78,
     "ts": "2026-06-20"
   },
+  "the-secret-life-of-the-zoo": {
+    "tmdbId": 65686,
+    "tmdbType": "tv",
+    "imdbId": "tt8343762",
+    "titleFr": "The Secret Life of the Zoo",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8iy9sFWx9WBXHTVffr9TuaYHbxf.jpg",
+    "rating": 6.3,
+    "ts": "2026-06-30"
+  },
   "the-sheep-detectives": {
     "tmdbId": 1301421,
     "tmdbType": "movie",
@@ -5438,6 +5638,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/flKid0CGSxJbvO2BDfDeKX7nkGC.jpg",
     "rating": 6.3,
     "ts": "2026-06-20"
+  },
+  "transformers-age-of-extinction": {
+    "tmdbId": 91314,
+    "tmdbType": "movie",
+    "imdbId": "tt2109248",
+    "titleFr": "Transformers : L’Âge de l’extinction",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jX44v2Czbgg87DNnkB0efx0RtFs.jpg",
+    "rating": 5.968,
+    "ts": "2026-06-30"
   },
   "transformers-dark-of-the-moon": {
     "tmdbId": 38356,

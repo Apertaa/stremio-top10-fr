@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202606291802",
+  "date": "202606301746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
       "rating": 5.379,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg",
       "rating": 5.726,
       "year": 2025,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s5SdVUKrCCyqg2yCcscudSw8jUE.jpg",
       "rating": 4.226,
       "year": 2025,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,41 +45,41 @@
     },
     {
       "rank": 4,
-      "id": "tt36987619",
-      "name": "Moi qui t'aimais",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IwLq57nfP1wqLH5s1uTaS7PBRY.jpg",
-      "rating": 6.646,
-      "year": 2025,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0217979",
       "name": "Tempête de feu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rTfVd7wpboqhY9XvgmpX5sVr78d.jpg",
       "rating": 4,
       "year": 2002,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt35518655",
+      "name": "Sur la route de papa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qsmAVEEWeDjKi791szxi1r3LG5s.jpg",
+      "rating": 5.192,
+      "year": 2025,
+      "days": 3,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
-      "id": "tt35363310",
-      "name": "Jean Valjean",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emZT249SgRN92eNuWgMWqaWqSTX.jpg",
-      "rating": 5.8,
+      "id": "tt36987619",
+      "name": "Moi qui t'aimais",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IwLq57nfP1wqLH5s1uTaS7PBRY.jpg",
+      "rating": 6.646,
       "year": 2025,
-      "days": 7,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

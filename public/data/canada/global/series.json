@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "global",
   "list": "series",
-  "date": "202606291802",
+  "date": "202606301746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,67 +19,67 @@
     },
     {
       "rank": 2,
+      "id": "top10:%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%84%E1%9E%85%E1%9E%96%E1%9F%84%E1%9F%87%E1%9E%92%E1%9F%86%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%93",
+      "name": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt9018736",
       "name": "Avatar : Le dernier maître de l'air",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 17,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
       "year": 2026,
-      "days": 3,
+      "days": 18,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt17736900",
-      "name": "Lock Upp",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
-      "rating": 9.25,
-      "year": 2022,
-      "days": 2,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 4,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "top10:wwe-night-of-champions",
-      "name": "WWE Night of Champions",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 5,
+      "id": "tt17736900",
+      "name": "Lock Upp",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
+      "rating": 9.25,
+      "year": 2022,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 1
       }
     },
     {
@@ -89,23 +89,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt1601141",
-      "name": "WWE NXT",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-      "rating": 6.7,
-      "year": 2010,
-      "days": null,
+      "id": "tt32146518",
+      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
+      "rating": 8.2,
+      "year": 2024,
+      "days": 65,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
       "rating": 8.5,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt32146518",
-      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
-      "rating": 8.2,
-      "year": 2024,
-      "days": 64,
+      "id": "tt9077540",
+      "name": "À l'ombre des magnolias",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
+      "rating": 7.7,
+      "year": 2020,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

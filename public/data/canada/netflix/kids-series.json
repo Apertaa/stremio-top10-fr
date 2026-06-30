@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606271655",
+  "date": "202606301746",
   "entries": [
     {
       "rank": 1,
@@ -11,88 +11,88 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 75,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 81,
+      "days": 78,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "tt35406274",
       "name": "Ms. Rachel",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 495,
+      "days": 498,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 84,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt1442464",
-      "name": "The Middle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
-      "rating": 7.564,
-      "year": 2009,
-      "days": 126,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0426769",
-      "name": "Peppa Pig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "rating": 6.6,
-      "year": 2004,
-      "days": 843,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt30797164",
       "name": "Bebefinn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 511,
+      "days": 514,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt1442464",
+      "name": "The Middle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
+      "rating": 7.564,
+      "year": 2009,
+      "days": 129,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 157,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 7,
-      "id": "tt9165438",
-      "name": "Gabby et la maison magique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
-      "rating": 7.9,
-      "year": 2021,
-      "days": 865,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 846,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kzAREjuo07QJ44QPlYC7RzVmWuB.jpg",
       "rating": 9.7,
       "year": 2025,
-      "days": 192,
+      "days": 195,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 156,
+      "id": "tt9165438",
+      "name": "Gabby et la maison magique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "rating": 7.9,
+      "year": 2021,
+      "days": 868,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 125,
+      "days": 128,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     }
   ]

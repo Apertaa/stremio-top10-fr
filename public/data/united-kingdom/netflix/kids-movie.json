@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202606281657",
+  "date": "202606301746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 30,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt6166392",
-      "name": "Wonka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
-      "rating": 7.037,
-      "year": 2023,
-      "days": 11,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt0126029",
       "name": "Shrek",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
       "rating": 7.765,
       "year": 2001,
-      "days": 213,
+      "days": 215,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1078912",
+      "name": "La Nuit au musée 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "rating": 6.157,
+      "year": 2009,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,25 +58,25 @@
     },
     {
       "rank": 5,
-      "id": "tt1860353",
-      "name": "Turbo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
-      "rating": 6.271,
-      "year": 2013,
-      "days": 24,
+      "id": "tt0298148",
+      "name": "Shrek 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
+      "rating": 7.319,
+      "year": 2004,
+      "days": 203,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt1078912",
-      "name": "La Nuit au musée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
-      "rating": 6.157,
-      "year": 2009,
-      "days": 1,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 367,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt14205554",
-      "name": "KPop Demon Hunters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 365,
+      "id": "tt1860353",
+      "name": "Turbo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
+      "rating": 6.271,
+      "year": 2013,
+      "days": 26,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt0298148",
-      "name": "Shrek 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
-      "rating": 7.319,
-      "year": 2004,
-      "days": 201,
+      "id": "tt6166392",
+      "name": "Wonka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
+      "rating": 7.037,
+      "year": 2023,
+      "days": 13,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 9,
-      "id": "tt29552248",
-      "name": "Aventures croisées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "rating": 8.971,
-      "year": 2026,
-      "days": 57,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt3874544",
       "name": "Baby Boss",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 116,
+      "days": 118,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0892791",
+      "name": "Shrek 4 : Il était une fin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jEFprRvwPaothEMIivuAlRAj2K6.jpg",
+      "rating": 6.404,
+      "year": 2010,
+      "days": 36,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]
