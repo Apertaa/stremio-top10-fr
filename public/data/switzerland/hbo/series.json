@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 8,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 35,
+      "days": 37,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,54 +32,54 @@
     },
     {
       "rank": 3,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 66,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt1119644",
       "name": "Fringe",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
       "rating": 8.125,
       "year": 2008,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt10405370",
       "name": "Rogue Heroes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sCZuSi7SKUt3RCVRGY7BT9Yhynb.jpg",
       "rating": 7.755,
       "year": 2022,
-      "days": 18,
+      "days": 19,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 68,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 2
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
       "rating": 8.287,
       "year": 2019,
-      "days": 79,
+      "days": 80,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt26761151",
-      "name": "The House That Dragons Built",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 4,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt14681924",
       "name": "My Adventures with Superman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 14,
+      "days": 15,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt26761151",
+      "name": "The House That Dragons Built",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "rating": 7.684,
       "year": 2026,
-      "days": 66,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
-      "id": "tt0322802",
-      "name": "Jackass, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Mbop5DzeWOz5sKdjnOD6Q82PIS.jpg",
-      "rating": 6.3,
-      "year": 2002,
-      "days": 10,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt0493430",
       "name": "Jackass deux, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
       "rating": 6.583,
       "year": 2006,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "up",
-        "delta": 4
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt0119395",
       "name": "Le Chacal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hEG17xmDYBvazhjBzgMkghrmaYm.jpg",
       "rating": 6.397,
       "year": 1997,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt1116184",
-      "name": "Jackass 3D",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
-      "rating": 6.6,
-      "year": 2010,
-      "days": 7,
+      "rank": 7,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 182,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 9,
-      "id": "tt3331548",
-      "name": "Not Without Hope",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
-      "rating": 6.15,
-      "year": 2025,
-      "days": 36,
+      "rank": 8,
+      "id": "tt0322802",
+      "name": "Jackass, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Mbop5DzeWOz5sKdjnOD6Q82PIS.jpg",
+      "rating": 6.3,
+      "year": 2002,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 3
       }
     },
     {
-      "rank": 10,
-      "id": "tt11466222",
-      "name": "Jackass Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
-      "rating": 6.786,
-      "year": 2022,
-      "days": 14,
+      "rank": 9,
+      "id": "tt29567915",
+      "name": "Nuremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "rating": 7.56,
+      "year": 2025,
+      "days": 49,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1116184",
+      "name": "Jackass 3D",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

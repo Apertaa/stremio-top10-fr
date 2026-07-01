@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
       "rating": 6.84,
       "year": 1998,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,36 +24,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 14,
+      "days": 15,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0083658",
+      "name": "Blade Runner",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zHKWxyG4j404HVeSYHNH4niUpkW.jpg",
+      "rating": 7.936,
+      "year": 1982,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt1677720",
       "name": "Ready Player One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0083658",
-      "name": "Blade Runner",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zHKWxyG4j404HVeSYHNH4niUpkW.jpg",
-      "rating": 7.936,
-      "year": 1982,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
       "rating": 6.457,
       "year": 2018,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt8294204",
-      "name": "A Dangerous Son",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8pkfH7vAE9rt85w9fBl5rnRJGZy.jpg",
-      "rating": 6.8,
-      "year": 2018,
-      "days": 2,
+      "id": "tt0385307",
+      "name": "Miss FBI : Divinement armée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
+      "rating": 5.741,
+      "year": 2005,
+      "days": 1,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 4
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdEorjrPno4Cn7HYVN2DA0f3ocr.jpg",
       "rating": 6.365,
       "year": 2020,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
+      "id": "tt8294204",
+      "name": "A Dangerous Son",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8pkfH7vAE9rt85w9fBl5rnRJGZy.jpg",
+      "rating": 6.8,
+      "year": 2018,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt30851137",
       "name": "The Bride!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
       "rating": 6.171,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt7737224",
       "name": "Turtles All the Way Down",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apdfKuF32HpbQxmhbPQa6gxSo1Q.jpg",
       "rating": 7.265,
       "year": 2024,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt0385307",
-      "name": "Miss FBI : Divinement armée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
-      "rating": 5.741,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

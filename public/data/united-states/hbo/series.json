@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 102,
+      "days": 103,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 2,
+      "id": "tt2861424",
+      "name": "Rick et Morty",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "rating": 8.679,
+      "year": 2013,
+      "days": 76,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
       "rating": 7.796,
       "year": 2014,
-      "days": 582,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0350448",
-      "name": "Real Time with Bill Maher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "rating": 6,
-      "year": 2003,
-      "days": 354,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0264235",
-      "name": "Larry et son nombril",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6GwI9ddoYaw1JyeRvcwg4awp4z.jpg",
-      "rating": 8,
-      "year": 2000,
-      "days": 79,
+      "days": 583,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 6,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": 75,
+      "rank": 4,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
+      "year": 2026,
+      "days": 3,
       "trend": {
         "dir": "down",
         "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt3469050",
+      "name": "90 jours pour se marier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
+      "rating": 7.1,
+      "year": 2014,
+      "days": 177,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0264235",
+      "name": "Larry et son nombril",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6GwI9ddoYaw1JyeRvcwg4awp4z.jpg",
+      "rating": 8,
+      "year": 2000,
+      "days": 80,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": 61,
+      "days": 62,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,20 +102,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 61,
+      "days": 62,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt14681924",
-      "name": "My Adventures with Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 21,
+      "id": "tt32604054",
+      "name": "Regular Show: The Lost Tapes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
+      "rating": 9.646,
+      "year": 2026,
+      "days": 10,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt3469050",
-      "name": "90 jours pour se marier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
-      "rating": 7.1,
-      "year": 2014,
-      "days": 176,
+      "id": "tt42834589",
+      "name": "Le tournoi des 100 chefs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n1AMcuCgGgXSokKOmYJ5cv1k8n6.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

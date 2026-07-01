@@ -2,7 +2,7 @@
   "country": "france",
   "key": "apple",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
       "rating": 8.202,
       "year": 2026,
-      "days": 61,
+      "days": 62,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 200,
+      "days": 201,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
       "rating": 7.743,
       "year": 2019,
-      "days": 579,
+      "days": 580,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
       "rating": 7.719,
       "year": 2025,
-      "days": 192,
+      "days": 193,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 800,
+      "days": 801,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,35 +89,35 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 31,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "rating": 8.34,
-      "year": 2020,
-      "days": 608,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt35946742",
       "name": "Plaisir maximum garanti",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "rating": 8.34,
+      "year": 2020,
+      "days": 609,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gD06JrUVAVQIE0eRUfkxCKY1RZF.jpg",
       "rating": 7.752,
       "year": 2023,
-      "days": 529,
+      "days": 530,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

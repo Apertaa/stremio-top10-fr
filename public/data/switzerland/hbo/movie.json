@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,32 +11,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
       "rating": 7.454,
       "year": 2024,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt26736843",
-      "name": "Les Guetteurs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
-      "rating": 6.346,
-      "year": 2024,
       "days": 2,
       "trend": {
         "dir": "same",
@@ -44,94 +18,120 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
       "id": "tt1392190",
       "name": "Mad Max : Fury Road",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
       "rating": 7.634,
       "year": 2015,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt26736843",
+      "name": "Les Guetteurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
+      "rating": 6.346,
+      "year": 2024,
+      "days": 3,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt0079501",
-      "name": "Mad Max",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nv5DtpzgjrILNusr3JiTE3O4tlL.jpg",
-      "rating": 6.684,
-      "year": 1979,
+      "id": "tt9356952",
+      "name": "The Death of Dick Long",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg",
+      "rating": 6.139,
+      "year": 2019,
       "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0110413",
-      "name": "Léon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
-      "rating": 8.294,
-      "year": 1994,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0082694",
-      "name": "Mad Max 2 : Le Défi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
-      "rating": 7.393,
-      "year": 1981,
-      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "id": "tt0079501",
+      "name": "Mad Max",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nv5DtpzgjrILNusr3JiTE3O4tlL.jpg",
+      "rating": 6.684,
+      "year": 1979,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt13560574",
       "name": "X",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
       "rating": 6.7,
       "year": 2022,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt0116996",
-      "name": "Mars Attacks!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljW8CVhjhoJNrMor6pIQLM3Mhqr.jpg",
-      "rating": 6.423,
-      "year": 1996,
-      "days": 7,
+      "rank": 8,
+      "id": "tt0110413",
+      "name": "Léon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
+      "rating": 8.294,
+      "year": 1994,
+      "days": 14,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt0482571",
       "name": "Le Prestige",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
       "rating": 8.208,
       "year": 2006,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0082694",
+      "name": "Mad Max 2 : Le Défi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
+      "rating": 7.393,
+      "year": 1981,
+      "days": 1,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     }
   ]

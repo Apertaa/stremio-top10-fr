@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "global",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
       "rating": 6.105,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,41 +45,41 @@
     },
     {
       "rank": 4,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt21317634",
       "name": "Bride Hard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
       "rating": 5.574,
       "year": 2025,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 26,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt30972054",
-      "name": "Das Kanu des Manitu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
-      "rating": 6.688,
-      "year": 2025,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt1860353",
       "name": "Turbo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 13,
+      "days": 14,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt30972054",
+      "name": "Das Kanu des Manitu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
+      "rating": 6.688,
+      "year": 2025,
+      "days": 16,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt26736843",
-      "name": "Les Guetteurs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1oBPaDtQwdqLy1gImjEMARmzWme.jpg",
-      "rating": 6.346,
-      "year": 2024,
-      "days": 8,
+      "id": "tt6654210",
+      "name": "Infinite",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bElBmTJSE1XGnLbSByThQAFzDWq.jpg",
+      "rating": 6.561,
+      "year": 2021,
+      "days": 22,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

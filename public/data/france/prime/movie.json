@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt32357218",
       "name": "Shelter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt36963493",
       "name": "Une famille de bâtards",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
       "rating": 5.257,
       "year": 2026,
-      "days": 17,
+      "days": 18,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -63,23 +63,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
       "rating": 6.593,
       "year": 2025,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt37506041",
-      "name": "Predator: Wastelands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
-      "rating": 5.294,
+      "id": "tt32421438",
+      "name": "Exit Protocol",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aQTqVMJkYUbhrRtTzAjZKhX9Jj6.jpg",
+      "rating": 7.1,
       "year": 2025,
-      "days": 7,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -89,36 +89,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 162,
+      "days": 163,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt32421438",
-      "name": "Exit Protocol",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aQTqVMJkYUbhrRtTzAjZKhX9Jj6.jpg",
-      "rating": 7.1,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt8008948",
       "name": "Criminal Squad : Pantera",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pbqGWYJ37v2xClKYZUROtxFj3px.jpg",
       "rating": 6.58,
       "year": 2025,
-      "days": 21,
+      "days": 22,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt7288408",
+      "name": "Radioflash",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
+      "rating": 5.1,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
       "rating": 7.374,
       "year": 2025,
-      "days": 106,
+      "days": 107,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

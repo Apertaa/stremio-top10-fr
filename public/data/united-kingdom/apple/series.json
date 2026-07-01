@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "apple",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
       "rating": 8.202,
       "year": 2026,
-      "days": 61,
+      "days": 62,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
       "rating": 8.34,
       "year": 2020,
-      "days": 885,
+      "days": 886,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 177,
+      "days": 178,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
       "rating": 7.719,
       "year": 2025,
-      "days": 219,
+      "days": 220,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,49 +76,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
       "rating": 7.743,
       "year": 2019,
-      "days": 551,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt32140872",
-      "name": "Star City",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
-      "rating": 6.8,
-      "year": 2026,
-      "days": 30,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Edj9sccDf1lXQkkJHFedsDdTiS.jpg",
-      "rating": 8.006,
-      "year": 2022,
-      "days": 885,
+      "days": 552,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Edj9sccDf1lXQkkJHFedsDdTiS.jpg",
+      "rating": 8.006,
+      "year": 2022,
+      "days": 886,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 520,
+      "days": 521,
       "trend": {
         "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt32140872",
+      "name": "Star City",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
+      "rating": 6.8,
+      "year": 2026,
+      "days": 31,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1vTUmvdV0BEfxy4A8l8s0h0cSlp.jpg",
       "rating": 6.587,
       "year": 2024,
-      "days": 323,
+      "days": 324,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

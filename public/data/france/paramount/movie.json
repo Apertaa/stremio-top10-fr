@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,49 +63,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 77,
+      "days": 78,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt2806878",
-      "name": "De guerre lasse",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
-      "rating": 5.355,
-      "year": 2014,
-      "days": 26,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt5090568",
       "name": "Transformers : Rise of the Beasts",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
       "rating": 7.17,
       "year": 2023,
-      "days": 107,
+      "days": 108,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 433,
+      "days": 434,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt2806878",
+      "name": "De guerre lasse",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
+      "rating": 5.355,
+      "year": 2014,
+      "days": 27,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg",
       "rating": 5.491,
       "year": 2025,
-      "days": 107,
+      "days": 108,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt13098590",
-      "name": "Fear Below : Plongée sous pression",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uh8nwCFx9zFRJeiDUg4SxQ7Koug.jpg",
-      "rating": 6.099,
+      "id": "tt13964560",
+      "name": "L'Astronaute",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47iUmE2rZX2bzqeEm17iPWKaF2V.jpg",
+      "rating": 6.112,
       "year": 2025,
-      "days": 140,
+      "days": 145,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

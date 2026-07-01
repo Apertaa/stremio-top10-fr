@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
-      "year": 2026,
-      "days": 24,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt14264694",
-      "name": "Worldbreaker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
-      "rating": 6.1,
-      "year": 2025,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt9308022",
       "name": "Permis de Conduire",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "up",
-        "delta": 4
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt32357218",
+      "name": "Shelter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
+      "rating": 7.669,
+      "year": 2026,
+      "days": 25,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt14264694",
+      "name": "Worldbreaker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+      "rating": 6.1,
+      "year": 2025,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
       "rating": 5.8,
       "year": 2026,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 40,
+      "days": 41,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/trMyHbr9CfcNYWcNERp8RorfmoW.jpg",
       "rating": 6.638,
       "year": 2012,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dyYIvyYDfkv2GpYG3RHMIATPCDv.jpg",
       "rating": null,
       "year": 2024,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

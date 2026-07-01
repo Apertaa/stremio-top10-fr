@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "disney",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,67 +19,67 @@
     },
     {
       "rank": 2,
-      "id": "tt35466672",
-      "name": "Malcolm : Rien n’a changé",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
-      "rating": 8.072,
-      "year": 2026,
-      "days": 72,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt10970762",
       "name": "The Testaments",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt35466672",
+      "name": "Malcolm : Rien n’a changé",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
+      "rating": 8.072,
+      "year": 2026,
+      "days": 73,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 5,
-      "id": "tt40197357",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "rating": 7.863,
-      "year": 2026,
-      "days": 72,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt22091076",
       "name": "High Potential",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 72,
+      "days": 73,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt40197357",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "rating": 7.863,
+      "year": 2026,
+      "days": 73,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
       "rating": 8.181,
       "year": 2025,
-      "days": 37,
+      "days": 38,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt0410975",
+      "name": "Desperate Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": 18,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt36594331",
       "name": "Star Wars : Maul - Seigneur de l'ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 72,
+      "days": 73,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt9074360",
-      "name": "Trackers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/flKid0CGSxJbvO2BDfDeKX7nkGC.jpg",
-      "rating": 6.3,
-      "year": 2019,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

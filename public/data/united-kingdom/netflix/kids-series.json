@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 72,
+      "days": 73,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 505,
+      "days": 506,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 82,
+      "days": 83,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8iy9sFWx9WBXHTVffr9TuaYHbxf.jpg",
       "rating": 6.3,
       "year": 2016,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 894,
+      "days": 895,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 170,
+      "id": "tt1660055",
+      "name": "Scooby-Doo - Mystères associés",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zV8J9oicZDE2SpS0cpDNYuAvJB8.jpg",
+      "rating": 8.227,
+      "year": 2010,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 674,
+      "days": 675,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt3596174",
-      "name": "Henry Danger",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
-      "rating": 8.279,
-      "year": 2014,
-      "days": 59,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 171,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tmdb:219799",
-      "name": "安全警长啦咘啦哆",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
-      "rating": 9,
-      "year": 2022,
-      "days": 162,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tmdb:275908",
       "name": "핑크퐁 공룡 유치원",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iITcfkv9wQzfAj1O5i6v5x5l41Y.jpg",
       "rating": null,
       "year": 2024,
-      "days": 147,
+      "days": 148,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt3596174",
+      "name": "Henry Danger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+      "rating": 8.279,
+      "year": 2014,
+      "days": 60,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

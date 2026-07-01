@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "apple",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 199,
+      "days": 200,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
       "rating": 7.078,
       "year": 2025,
-      "days": 54,
+      "days": 55,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 80,
+      "days": 81,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt14257582",
-      "name": "Wolfs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
-      "rating": 6.542,
-      "year": 2024,
-      "days": 596,
+      "id": "tt13287846",
+      "name": "Napoléon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
+      "rating": 6.304,
+      "year": 2023,
+      "days": 849,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,67 +58,67 @@
     },
     {
       "rank": 5,
-      "id": "tt13287846",
-      "name": "Napoléon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
-      "rating": 6.304,
-      "year": 2023,
-      "days": 848,
+      "id": "tt14257582",
+      "name": "Wolfs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "rating": 6.542,
+      "year": 2024,
+      "days": 597,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 841,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "id": "tt27052633",
+      "name": "Echo Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
+      "rating": 6.414,
+      "year": 2025,
+      "days": 181,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt13654226",
       "name": "The Gorge",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 480,
+      "days": 481,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 7,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 840,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt12573454",
-      "name": "Sharper",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yvt5DM98hQWgUl0uBIEj6wbqFXq.jpg",
-      "rating": 6.8,
-      "year": 2023,
-      "days": 477,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt27052633",
-      "name": "Echo Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
-      "rating": 6.414,
-      "year": 2025,
-      "days": 180,
+      "id": "tt16431870",
+      "name": "The Family Plan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
+      "rating": 7.211,
+      "year": 2023,
+      "days": 748,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
       "rating": 7.808,
       "year": 2021,
-      "days": 563,
+      "days": 564,
       "trend": {
         "dir": "same",
         "delta": 0

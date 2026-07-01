@@ -2,42 +2,42 @@
   "country": "france",
   "key": "disney",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt32598989",
-      "name": "SuperKitties: Su-Purr Adventures (Shorts)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
-      "rating": null,
-      "year": 2024,
-      "days": null,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 12,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 3,
-      "id": "tt26351133",
-      "name": "Les Secrets des abeilles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/883xSbd4YzmmbNcussNPgSmeMS7.jpg",
-      "rating": 8.9,
+      "rank": 2,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
       "year": 2026,
-      "days": 2,
+      "days": 28,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt35466672",
+      "name": "Malcolm : Rien n’a changé",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
+      "rating": 8.072,
+      "year": 2026,
+      "days": 73,
       "trend": {
         "dir": "new",
         "delta": null
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
-      "id": "tt35823838",
-      "name": "Not Suitable for Work",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 27,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
+      "year": 2022,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     },
     {
       "rank": 5,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
-      "year": 2026,
-      "days": 58,
+      "id": "tt21441010",
+      "name": "Good American Family",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KUSPrM65y2AE9t3FOd0LAuvBCW.jpg",
+      "rating": 7.625,
+      "year": 2025,
+      "days": 15,
       "trend": {
         "dir": "new",
         "delta": null
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt39694103",
-      "name": "Tchernobyl, anatomie d'une catastrophe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h6pIX1Q7TgqoKt4Gg4APDJtc8D1.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": null,
+      "id": "tt0410975",
+      "name": "Desperate Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": 62,
       "trend": {
         "dir": "new",
         "delta": null
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
-      "id": "tt21056976",
-      "name": "Dragon Striker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-      "rating": 7.545,
-      "year": 2026,
-      "days": 11,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 66,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt8111088",
-      "name": "The Mandalorian",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg",
-      "rating": 8.409,
-      "year": 2019,
-      "days": 34,
+      "id": "tt39333617",
+      "name": "Perfect Crown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z6on6DbEKpE9gOr8lvjj3xebGtd.jpg",
+      "rating": 8.9,
+      "year": 2026,
+      "days": 17,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt32328599",
-      "name": "Les petites histoires de Bluey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
-      "rating": 8.256,
-      "year": 2024,
-      "days": 11,
+      "id": "tt33550053",
+      "name": "9-1-1: Nashville",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+      "rating": 8.181,
+      "year": 2025,
+      "days": 18,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt0460649",
-      "name": "How I Met Your Mother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
-      "rating": 8.129,
+      "id": "tt0413573",
+      "name": "Grey's Anatomy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
+      "rating": 8.209,
       "year": 2005,
-      "days": null,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null

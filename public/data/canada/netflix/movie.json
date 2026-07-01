@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46aFAarpJSGP5r9aJ8BboPcISvl.jpg",
       "rating": 4.884,
       "year": 2017,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
       "rating": 6.392,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tmg3ilwFTxU0V8Kcm2No1rmHf3W.jpg",
       "rating": 5.59,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt1078912",
-      "name": "La Nuit au musée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
-      "rating": 6.157,
-      "year": 2009,
-      "days": 2,
+      "id": "tt0119116",
+      "name": "Le Cinquième Élément",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8nx8sttha1Zidt73SbNncVfSwqk.jpg",
+      "rating": 7.584,
+      "year": 1997,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt9689696",
-      "name": "Wander",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AwPvNHphpZBJDqjZKVuMAbvS0v.jpg",
-      "rating": 5.314,
-      "year": 2020,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt33397980",
       "name": "Office Romance",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 25,
+      "days": 26,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1078912",
+      "name": "La Nuit au musée 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "rating": 6.157,
+      "year": 2009,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     }
   ]

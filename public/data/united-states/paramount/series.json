@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 45,
+      "days": 46,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,36 +24,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 804,
+      "days": 805,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": 342,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt26656917",
       "name": "The Agency",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
-      "rating": 8.3,
-      "year": 1997,
-      "days": 341,
-      "trend": {
-        "dir": "same",
-        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 854,
+      "days": 855,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,36 +76,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
       "rating": 6.813,
       "year": 1996,
-      "days": 711,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt6294706",
-      "name": "The Chi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
-      "rating": 7.897,
-      "year": 2018,
-      "days": 189,
+      "days": 712,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 8,
-      "id": "tt36849871",
-      "name": "Marshals: A Yellowstone Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
-      "rating": 7.956,
-      "year": 2026,
-      "days": 119,
+      "rank": 7,
+      "id": "tt16373480",
+      "name": "Tyler Perry's Zatima",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/umB3MJQ79ZRvgO9uqpo6bsWl6vk.jpg",
+      "rating": 8.102,
+      "year": 2022,
+      "days": 21,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt11306366",
+      "name": "Tyler Perry's Ruthless",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qYgAnS5tMXMtckAjaj2xemzol4m.jpg",
+      "rating": 8.3,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
       "rating": 8.39,
       "year": 2021,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt0206512",
-      "name": "Bob l'éponge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
-      "rating": 7.7,
-      "year": 1999,
-      "days": 819,
+      "id": "tt6294706",
+      "name": "The Chi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+      "rating": 7.897,
+      "year": 2018,
+      "days": 190,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

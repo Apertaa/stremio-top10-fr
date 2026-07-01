@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,6 +19,97 @@
     },
     {
       "rank": 2,
+      "id": "tt9018736",
+      "name": "Avatar : Le dernier maître de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "rating": 7.79,
+      "year": 2024,
+      "days": 38,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 19,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "top10:louis-ck-ridiculous",
+      "name": "Louis C.K.: Ridiculous",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "top10:%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%84%E1%9E%85%E1%9E%96%E1%9F%84%E1%9F%87%E1%9E%92%E1%9F%86%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%93",
+      "name": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt17736900",
+      "name": "Lock Upp",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
+      "rating": 9.25,
+      "year": 2022,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
       "id": "top10:%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%84%E1%9E%85%E1%9E%96%E1%9F%84%E1%9F%87%E1%9E%92%E1%9F%86%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%93",
       "name": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
       "tmdbPosterUrl": null,
@@ -31,107 +122,16 @@
       }
     },
     {
-      "rank": 3,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.79,
-      "year": 2024,
-      "days": 37,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt17736900",
-      "name": "Lock Upp",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
-      "rating": 9.25,
-      "year": 2022,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "id": "tt32146518",
       "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
       "rating": 8.2,
       "year": 2024,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt43507442",
-      "name": "Outlast : La jungle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt9077540",
-      "name": "À l'ombre des magnolias",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqCQy3OXLusD4wJ2XWqCagfGzQp.jpg",
-      "rating": 7.7,
-      "year": 2020,
-      "days": 35,
-      "trend": {
-        "dir": "new",
-        "delta": null
       }
     }
   ]

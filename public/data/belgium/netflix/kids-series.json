@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 79,
+      "days": 80,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt26692417",
-      "name": "Pokémon : Les horizons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuegnXaSNR8VSoATc5bXQjyoUIj.jpg",
-      "rating": 8.7,
-      "year": 2023,
-      "days": 27,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 890,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt0426769",
-      "name": "Peppa Pig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "rating": 6.6,
-      "year": 2004,
-      "days": 889,
+      "id": "tt26692417",
+      "name": "Pokémon : Les horizons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuegnXaSNR8VSoATc5bXQjyoUIj.jpg",
+      "rating": 8.7,
+      "year": 2023,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,54 +45,54 @@
     },
     {
       "rank": 4,
+      "id": "tt30797164",
+      "name": "Bebefinn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
+      "rating": null,
+      "year": 2023,
+      "days": 5,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt3596174",
       "name": "Henry Danger",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 144,
+      "days": 145,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
-      "id": "tt1884856",
-      "name": "Masha et Michka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
-      "rating": 6.843,
-      "year": 2009,
-      "days": 772,
+      "rank": 6,
+      "id": "tt9165438",
+      "name": "Gabby et la maison magique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "rating": 7.9,
+      "year": 2021,
+      "days": 848,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 506,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
       "rank": 7,
-      "id": "tt9165438",
-      "name": "Gabby et la maison magique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
-      "rating": 7.9,
-      "year": 2021,
-      "days": 847,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 773,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 2
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 847,
+      "days": 848,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 507,
       "trend": {
         "dir": "down",
         "delta": 3
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt6581428",
       "name": "Booba",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e5s0wmwtxLaM8aFsDuk0fLO8Inj.jpg",
       "rating": 6.2,
       "year": 2014,
-      "days": 68,
+      "days": 69,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt1442464",
-      "name": "The Middle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
-      "rating": 7.564,
-      "year": 2009,
-      "days": 88,
-      "trend": {
-        "dir": "new",
-        "delta": null
       }
     }
   ]

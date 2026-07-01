@@ -2,45 +2,45 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "series",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
+      "id": "tt32598408",
+      "name": "En chute libre : un complot meurtrier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N9hGrDMo8MKD0CRYTeyKbJwjAj.jpg",
+      "rating": 7.7,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt34771210",
       "name": "Sur tes traces",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 37,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.79,
-      "year": 2024,
-      "days": 27,
+      "id": "top10:%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%84%E1%9E%85%E1%9E%96%E1%9F%84%E1%9F%87%E1%9E%92%E1%9F%86%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%93",
+      "name": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 1,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 6
       }
     },
     {
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
-      "id": "tt32146518",
-      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
-      "rating": 8.2,
-      "year": 2024,
-      "days": 62,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 38,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt33265765",
-      "name": "Legends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
-      "rating": 7.7,
-      "year": 2026,
-      "days": 53,
+      "id": "tt9018736",
+      "name": "Avatar : Le dernier maître de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "rating": 7.79,
+      "year": 2024,
+      "days": 28,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 7,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt31631015",
-      "name": "Sous ses yeux",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
-      "rating": 6.119,
-      "year": 2026,
-      "days": 26,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
-      "days": null,
+      "id": "tt21064598",
+      "name": "Retour à Sullivan's Crossing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIRFRHTsCQxhJJtn5TPYOqryjdW.jpg",
+      "rating": 8.143,
+      "year": 2023,
+      "days": 18,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 10,
-      "id": "top10:wwe-night-of-champions",
-      "name": "WWE Night of Champions",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 6,
+      "rank": 8,
+      "id": "tt32146518",
+      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
+      "rating": 8.2,
+      "year": 2024,
+      "days": 63,
       "trend": {
         "dir": "down",
-        "delta": 6
+        "delta": 3
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt33265765",
+      "name": "Legends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4zldz96sQyb94Zu7a3n2PCVK3X.jpg",
+      "rating": 7.7,
+      "year": 2026,
+      "days": 54,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt31631015",
+      "name": "Sous ses yeux",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
+      "rating": 6.119,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

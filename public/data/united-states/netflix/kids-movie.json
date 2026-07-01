@@ -2,32 +2,32 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 46,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt5113044",
       "name": "Les Minions 2 : Il était une fois Gru",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 93,
+      "days": 94,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
+      "year": 2026,
+      "days": 47,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
       "rating": 6.468,
       "year": 2017,
-      "days": 212,
+      "days": 213,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
       "rating": 6.787,
       "year": 2015,
-      "days": 262,
+      "days": 263,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 368,
+      "days": 369,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 59,
+      "days": 60,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt0164912",
-      "name": "Stuart Little",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fiqcKkjKwcbxeoVVKiEkxQnBSge.jpg",
-      "rating": 6.079,
-      "year": 1999,
-      "days": 13,
+      "id": "tt2709768",
+      "name": "Comme des bêtes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cn7mFB0sCeQJO8MAyl15yFp0rpc.jpg",
+      "rating": 6.322,
+      "year": 2016,
+      "days": 483,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt11832046",
-      "name": "La Pat' Patrouille : Le Film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kESkVKLffIHnzVLojI8rzcv9rfZ.jpg",
-      "rating": 7.332,
-      "year": 2021,
-      "days": 228,
+      "id": "tt3470600",
+      "name": "Tous en scène",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6igG1J3T6uavROpQAhKfptm4KA4.jpg",
+      "rating": 7.125,
+      "year": 2016,
+      "days": 415,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt0814255",
-      "name": "Percy Jackson : Le Voleur de foudre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7VytSOVN8JsMugBY3Y4KfmQF2QN.jpg",
-      "rating": 6.212,
-      "year": 2010,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0389790",
       "name": "Bee Movie : Drôle d'abeille",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/29y7oQ75MNIhtQFd3KlwUTjyXh8.jpg",
       "rating": 6.046,
       "year": 2007,
-      "days": 76,
+      "days": 77,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt5220122",
+      "name": "Hôtel Transylvanie 3 : Des vacances monstrueuses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1LxO3gfe1YCXWD8zHEQXuPlOBye.jpg",
+      "rating": 6.851,
+      "year": 2018,
+      "days": 106,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

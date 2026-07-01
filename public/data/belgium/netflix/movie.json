@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0430357",
       "name": "Miami Vice : Deux Flics à Miami",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pdp3PA8XUxKdXJEJTXM3BQKpRZp.jpg",
       "rating": 6.032,
       "year": 2006,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 26,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
       "rating": 6.157,
       "year": 2009,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "rating": 8.122,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt0770806",
-      "name": "Contractor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
-      "rating": 5.508,
-      "year": 2007,
-      "days": 11,
+      "id": "tt0113481",
+      "name": "Johnny Mnemonic",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
+      "rating": 5.765,
+      "year": 1995,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

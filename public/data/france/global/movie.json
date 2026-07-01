@@ -2,7 +2,7 @@
   "country": "france",
   "key": "global",
   "list": "movie",
-  "date": "202606301746",
+  "date": "202607011746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qt9zPUPjLJwNsBipzcLaddXYys1.jpg",
       "rating": 4.132,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,50 +58,11 @@
     },
     {
       "rank": 5,
-      "id": "tt11701774",
-      "name": "Lucky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cOWAuejsbqbzQ1AVb46mtglHOR.jpg",
-      "rating": 5.401,
-      "year": 2020,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1068242",
-      "name": "Footloose",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hx70YOCODwBk2KKYrc3vmJ1Ml0.jpg",
-      "rating": 6.577,
-      "year": 2011,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0364045",
-      "name": "Taking Lives, destins violés",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ayNAHe6fOGJ92LTo0zCcB69EtTh.jpg",
-      "rating": 6.375,
-      "year": 2004,
+      "id": "tt0770828",
+      "name": "Man of Steel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3HGq0BI0ukKr53oPiTAgOXQprzc.jpg",
+      "rating": 6.651,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "new",
@@ -109,13 +70,52 @@
       }
     },
     {
+      "rank": 6,
+      "id": "tt0364045",
+      "name": "Taking Lives, destins violés",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ayNAHe6fOGJ92LTo0zCcB69EtTh.jpg",
+      "rating": 6.375,
+      "year": 2004,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt11701774",
+      "name": "Lucky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cOWAuejsbqbzQ1AVb46mtglHOR.jpg",
+      "rating": 5.401,
+      "year": 2020,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1068242",
+      "name": "Footloose",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hx70YOCODwBk2KKYrc3vmJ1Ml0.jpg",
+      "rating": 6.577,
+      "year": 2011,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 9,
-      "id": "tt14793714",
-      "name": "Les Folies fermières",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n59B3omT4VnKGeOkBLAGe7wfGXH.jpg",
-      "rating": 5.789,
-      "year": 2022,
-      "days": 12,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 19,
       "trend": {
         "dir": "down",
         "delta": 3
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
       "rating": 6.157,
       "year": 2009,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]
