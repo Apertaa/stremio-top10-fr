@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "series",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 48,
+      "days": 49,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
+      "id": "tt32020831",
+      "name": "Elle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
+      "rating": 10,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt1190634",
       "name": "The Boys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 83,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt30460310",
-      "name": "Spider-Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "rating": 8.528,
-      "year": 2026,
-      "days": 34,
+      "days": 84,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
+      "id": "tt30460310",
+      "name": "Spider-Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "rating": 8.528,
+      "year": 2026,
+      "days": 35,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt32386301",
       "name": "Atomic",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iVpapvAdSQEE5OZOxOvjVlFZhYx.jpg",
       "rating": 5.853,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "tt35707374",
       "name": "Memory of a Killer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXpDNwci75WH21CAptGgWduBrXD.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt13696152",
-      "name": "LOL : Qui rit, sort !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ha9Nii4BB05xLLSQEAwZsdKIhZX.jpg",
-      "rating": 6.5,
-      "year": 2021,
-      "days": 67,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt14016500",
-      "name": "L'Été où je suis devenue jolie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 304,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt7550774",
       "name": "Le prix de la passion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO6C0NFLDpdnKnltEhKvkvUjIpk.jpg",
       "rating": 7.912,
       "year": 2017,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 9,
+      "id": "tt38960812",
+      "name": "À demain au bureau !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
+      "rating": 8.769,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt11247158",
-      "name": "La légende de Vox Machina",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
-      "rating": 8.196,
-      "year": 2022,
-      "days": 25,
+      "id": "tt13696152",
+      "name": "LOL : Qui rit, sort !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ha9Nii4BB05xLLSQEAwZsdKIhZX.jpg",
+      "rating": 6.5,
+      "year": 2021,
+      "days": 68,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     }
   ]

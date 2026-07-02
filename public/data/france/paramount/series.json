@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "series",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 754,
+      "days": 755,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 810,
+      "days": 811,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 824,
+      "days": 825,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 46,
+      "days": 47,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt16098700",
-      "name": "Fire Country : Pompiers sur Appel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 352,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 676,
       "trend": {
         "dir": "up",
         "delta": 4
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
+      "id": "tt16098700",
+      "name": "Fire Country : Pompiers sur Appel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
+      "rating": 8.1,
+      "year": 2022,
+      "days": 353,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 817,
+      "days": 818,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0206512",
-      "name": "Bob l'éponge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
-      "rating": 7.7,
-      "year": 1999,
-      "days": 802,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "rating": 8.3,
       "year": 2022,
-      "days": 736,
+      "days": 737,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 675,
-      "trend": {
-        "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt36849871",
       "name": "Marshals: A Yellowstone Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
       "rating": 7.956,
       "year": 2026,
-      "days": 74,
+      "days": 75,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0206512",
+      "name": "Bob l'éponge",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
+      "rating": 7.7,
+      "year": 1999,
+      "days": 803,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     }
   ]

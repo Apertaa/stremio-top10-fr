@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
       "rating": 6.991,
       "year": 2020,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 33,
+      "days": 34,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,23 +50,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
       "rating": 7.765,
       "year": 2001,
-      "days": 216,
+      "days": 217,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt1078912",
-      "name": "La Nuit au musée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
-      "rating": 6.157,
-      "year": 2009,
-      "days": 4,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 369,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 204,
+      "days": 205,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt14205554",
-      "name": "KPop Demon Hunters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 368,
+      "id": "tt1078912",
+      "name": "La Nuit au musée 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "rating": 6.157,
+      "year": 2009,
+      "days": 5,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 119,
+      "days": 120,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
       "rating": 6.271,
       "year": 2013,
-      "days": 27,
+      "days": 28,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
       "rating": 7.037,
       "year": 2023,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

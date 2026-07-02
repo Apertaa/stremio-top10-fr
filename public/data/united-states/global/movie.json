@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 37,
+      "days": 38,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ofLGHOHFEOr3bS8dYFbaWgnZESa.jpg",
       "rating": 5.679,
       "year": 2020,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kmNwou9WfkTZq7UyQV4quB1bHBo.jpg",
       "rating": 5.853,
       "year": 2006,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "rating": 8.122,
       "year": 2026,
-      "days": 48,
+      "days": 49,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
       "rating": 6.468,
       "year": 2017,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
       "rating": 6.787,
       "year": 2015,
-      "days": 109,
+      "days": 110,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 302,
+      "days": 303,
       "trend": {
         "dir": "same",
         "delta": 0

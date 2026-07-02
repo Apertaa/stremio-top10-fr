@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
-      "id": "tt9308022",
-      "name": "Permis de Conduire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt32357218",
       "name": "Shelter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt14264694",
       "name": "Worldbreaker",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
       "rating": 6.1,
       "year": 2025,
-      "days": 11,
+      "days": 12,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt9308022",
+      "name": "Permis de Conduire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
+      "rating": 6.5,
+      "year": 2026,
+      "days": 4,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
       "rating": 5.8,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt1277953",
-      "name": "Madagascar 3 : Bons baisers d'Europe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/trMyHbr9CfcNYWcNERp8RorfmoW.jpg",
-      "rating": 6.638,
-      "year": 2012,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tmdb:1442976",
       "name": "Exposed",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dyYIvyYDfkv2GpYG3RHMIATPCDv.jpg",
       "rating": null,
       "year": 2024,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0250494",
+      "name": "La Revanche d'une blonde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
+      "rating": 6.817,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

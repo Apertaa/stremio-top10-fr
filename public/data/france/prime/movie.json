@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
       "rating": 5.257,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
       "rating": 6.593,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt32421438",
-      "name": "Exit Protocol",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aQTqVMJkYUbhrRtTzAjZKhX9Jj6.jpg",
-      "rating": 7.1,
-      "year": 2025,
+      "id": "tt7288408",
+      "name": "Radioflash",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
+      "rating": 5.1,
+      "year": 2019,
       "days": 1,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 3
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 163,
+      "days": 164,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt8008948",
-      "name": "Criminal Squad : Pantera",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pbqGWYJ37v2xClKYZUROtxFj3px.jpg",
-      "rating": 6.58,
+      "id": "tt32421438",
+      "name": "Exit Protocol",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aQTqVMJkYUbhrRtTzAjZKhX9Jj6.jpg",
+      "rating": 7.1,
       "year": 2025,
-      "days": 22,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt33311244",
+      "name": "À contre-sens 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
+      "rating": 7.374,
+      "year": 2025,
+      "days": 108,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt7288408",
-      "name": "Radioflash",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
-      "rating": 5.1,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt33311244",
-      "name": "À contre-sens 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
-      "rating": 7.374,
+      "id": "tt8008948",
+      "name": "Criminal Squad : Pantera",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pbqGWYJ37v2xClKYZUROtxFj3px.jpg",
+      "rating": 6.58,
       "year": 2025,
-      "days": 107,
+      "days": 23,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

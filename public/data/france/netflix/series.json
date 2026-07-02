@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "series",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,88 +24,88 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 32,
+      "days": 33,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt38734636",
       "name": "Oasis",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "id": "tt43476716",
+      "name": "Les Voisins de l'enfer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt42127457",
       "name": "Agent Kim Reactivated",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 5,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "id": "tt14899624",
       "name": "Le Chemin de l'olivier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yHJaIqamNT2iHBI67fnpbHnmmfV.jpg",
       "rating": 7.8,
       "year": 2022,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt34809853",
       "name": "Que ça vous serve de leçon !",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
       "rating": 9.478,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "top10:%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%84%E1%9E%85%E1%9E%96%E1%9F%84%E1%9F%87%E1%9E%92%E1%9F%86%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%93",
-      "name": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
       "rating": 7.382,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybCkQBSy2PufXE06DUAEM75UZlN.jpg",
       "rating": 7.333,
       "year": 2025,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

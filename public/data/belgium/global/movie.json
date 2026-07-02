@@ -2,32 +2,32 @@
   "country": "belgium",
   "key": "global",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt34888871",
-      "name": "Little Brother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,93 +45,93 @@
     },
     {
       "rank": 4,
+      "id": "tt34888871",
+      "name": "Little Brother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt0477347",
       "name": "La Nuit au musée",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 19,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0430357",
-      "name": "Miami Vice : Deux Flics à Miami",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pdp3PA8XUxKdXJEJTXM3BQKpRZp.jpg",
-      "rating": 6.032,
-      "year": 2006,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 26,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt1078912",
-      "name": "La Nuit au musée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
-      "rating": 6.157,
-      "year": 2009,
-      "days": 3,
+      "rank": 6,
+      "id": "top10:mobland",
+      "name": "MobLand",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 20,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt27613895",
       "name": "GOAT : Rêver plus haut",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "rating": 8.122,
       "year": 2026,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
-      "id": "tt0113481",
-      "name": "Johnny Mnemonic",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
-      "rating": 5.765,
-      "year": 1995,
+      "rank": 9,
+      "id": "tt7846844",
+      "name": "Enola Holmes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
+      "rating": 7.222,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt33397980",
+      "name": "Office Romance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "rating": 6.539,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

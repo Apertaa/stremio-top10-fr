@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
       "rating": 7.338,
       "year": 2025,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
       "rating": 6.523,
       "year": 2023,
-      "days": 34,
+      "days": 35,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 44,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt14670094",
       "name": "Impitoyable",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
       "rating": 6.439,
       "year": 2023,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bCYuM18r8G8pOlHf6yYxnFU9IJ4.jpg",
       "rating": 5.903,
       "year": 2012,
-      "days": 45,
+      "days": 46,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt12824390",
-      "name": "The Pout-Pout Fish",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
-      "rating": 5.8,
+      "id": "tmdb:1722965",
+      "name": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z0EuNGOWIisSufZQL8OgAlWTJyk.jpg",
+      "rating": 1,
       "year": 2026,
-      "days": 25,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 133,
+      "days": 134,
       "trend": {
         "dir": "same",
         "delta": 0

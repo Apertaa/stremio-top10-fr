@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,27 +58,27 @@
     },
     {
       "rank": 5,
-      "id": "tt9218128",
-      "name": "Gladiator II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
-      "rating": 6.609,
-      "year": 2024,
-      "days": 78,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt5090568",
       "name": "Transformers : Rise of the Beasts",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
       "rating": 7.17,
       "year": 2023,
-      "days": 108,
+      "days": 109,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt9218128",
+      "name": "Gladiator II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
+      "rating": 6.609,
+      "year": 2024,
+      "days": 79,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 434,
+      "days": 435,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
       "rating": 5.355,
       "year": 2014,
-      "days": 27,
+      "days": 28,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg",
       "rating": 5.491,
       "year": 2025,
-      "days": 108,
+      "days": 109,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47iUmE2rZX2bzqeEm17iPWKaF2V.jpg",
       "rating": 6.112,
       "year": 2025,
-      "days": 145,
+      "days": 146,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

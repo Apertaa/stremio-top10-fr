@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "series",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 129,
+      "days": 130,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt27497448",
       "name": "A Knight of the Seven Kingdoms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": 78,
+      "days": 79,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt10466872",
       "name": "Dune : Prophecy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 79,
+      "days": 80,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lMveq4zyLX4dAZgO0xXMf4vYqf6.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
       "rating": 8.287,
       "year": 2019,
-      "days": 94,
+      "days": 95,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 115,
+      "id": "tt0264235",
+      "name": "Larry et son nombril",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6GwI9ddoYaw1JyeRvcwg4awp4z.jpg",
+      "rating": 8,
+      "year": 2000,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null

@@ -329,6 +329,16 @@
     "rating": 6.8,
     "ts": "2026-06-20"
   },
+  "angel-eyes": {
+    "tmdbId": 5852,
+    "tmdbType": "movie",
+    "imdbId": "tt0225071",
+    "titleFr": "Angel Eyes",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9NmwtFgS1IsPotRqlUUCwguIwka.jpg",
+    "rating": 6,
+    "ts": "2026-07-02"
+  },
   "another-self-2022": {
     "tmdbId": 206180,
     "tmdbType": "tv",
@@ -498,6 +508,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
     "rating": 5.511,
     "ts": "2026-06-20"
+  },
+  "bang-my-box-the-robin-byrd-story": {
+    "tmdbId": 1674087,
+    "tmdbType": "movie",
+    "imdbId": "tt41702551",
+    "titleFr": "Bang My Box: The Robin Byrd Story",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+    "rating": 1,
+    "ts": "2026-07-02"
   },
   "battleship": {
     "tmdbId": 44833,
@@ -969,6 +989,26 @@
     "rating": 6.703,
     "ts": "2026-06-19"
   },
+  "companion-2025": {
+    "tmdbId": 1084199,
+    "tmdbType": "movie",
+    "imdbId": "tt26584495",
+    "titleFr": "Companion",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
+    "rating": 7.015,
+    "ts": "2026-07-02"
+  },
+  "constantine-2005": {
+    "tmdbId": 561,
+    "tmdbType": "movie",
+    "imdbId": "tt0360486",
+    "titleFr": "Constantine",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
+    "rating": 7.179,
+    "ts": "2026-07-02"
+  },
   "contagion": {
     "tmdbId": 39538,
     "tmdbType": "movie",
@@ -1319,6 +1359,16 @@
     "rating": null,
     "ts": "2026-06-23"
   },
+  "eli-manning-presents-the-undercovers-sabrina-ionescu": {
+    "tmdbId": 1722965,
+    "tmdbType": "movie",
+    "imdbId": null,
+    "titleFr": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/z0EuNGOWIisSufZQL8OgAlWTJyk.jpg",
+    "rating": 1,
+    "ts": "2026-07-02"
+  },
   "elio": {
     "tmdbId": 1022787,
     "tmdbType": "movie",
@@ -1328,6 +1378,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/omj3uHYX60hX6IBCjJCDPi7kwYC.jpg",
     "rating": 6.906,
     "ts": "2026-06-28"
+  },
+  "elle-2026": {
+    "tmdbId": 254420,
+    "tmdbType": "tv",
+    "imdbId": "tt32020831",
+    "titleFr": "Elle",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
+    "rating": 10,
+    "ts": "2026-07-02"
   },
   "emancipation": {
     "tmdbId": 715931,
@@ -1358,6 +1418,26 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/6PmlGEkVrtuCPxRwRqMMx1bDlbx.jpg",
     "rating": 7.42,
     "ts": "2026-06-19"
+  },
+  "enola-holmes": {
+    "tmdbId": 497582,
+    "tmdbType": "movie",
+    "imdbId": "tt7846844",
+    "titleFr": "Enola Holmes",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
+    "rating": 7.222,
+    "ts": "2026-07-02"
+  },
+  "enola-holmes-3": {
+    "tmdbId": 1202033,
+    "tmdbType": "movie",
+    "imdbId": "tt32278481",
+    "titleFr": "Enola Holmes 3",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+    "rating": 7.6,
+    "ts": "2026-07-02"
   },
   "epic-elvis-presley-in-concert": {
     "tmdbId": 1445363,
@@ -1489,6 +1569,16 @@
     "rating": 7.1,
     "ts": "2026-06-30"
   },
+  "expedition-x": {
+    "tmdbId": 99363,
+    "tmdbType": "tv",
+    "imdbId": "tt11774420",
+    "titleFr": "Josh Gates aux frontières du réel",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/llmsnkzbjJnacKa3LtK69XoI6Ev.jpg",
+    "rating": 8.222,
+    "ts": "2026-07-02"
+  },
   "exposed-2024": {
     "tmdbId": 1442976,
     "tmdbType": "movie",
@@ -1498,6 +1588,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/dyYIvyYDfkv2GpYG3RHMIATPCDv.jpg",
     "rating": null,
     "ts": "2026-06-30"
+  },
+  "extract": {
+    "tmdbId": 12569,
+    "tmdbType": "movie",
+    "imdbId": "tt1225822",
+    "titleFr": "Extract",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+    "rating": 5.847,
+    "ts": "2026-07-02"
   },
   "extreme-makeover-homer-edition": {
     "tmdbId": 1716513,
@@ -2219,6 +2319,16 @@
     "rating": 6.561,
     "ts": "2026-07-01"
   },
+  "inside-man": {
+    "tmdbId": 388,
+    "tmdbType": "movie",
+    "imdbId": "tt0454848",
+    "titleFr": "Inside Man : L'Homme de l'intérieur",
+    "year": 2006,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/FFmOisKfYgCDzuWC5tf8m98U78.jpg",
+    "rating": 7.407,
+    "ts": "2026-07-02"
+  },
   "invincible-2021": {
     "tmdbId": 95557,
     "tmdbType": "tv",
@@ -2628,6 +2738,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
     "rating": 6.2,
     "ts": "2026-06-27"
+  },
+  "little-singles": {
+    "tmdbId": 323041,
+    "tmdbType": "tv",
+    "imdbId": "tt42815500",
+    "titleFr": "Little Singles",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
+    "rating": 8,
+    "ts": "2026-07-02"
   },
   "lock-upp": {
     "tmdbId": 158282,
@@ -3979,6 +4099,16 @@
     "rating": 9.646,
     "ts": "2026-06-20"
   },
+  "resident-alien": {
+    "tmdbId": 96580,
+    "tmdbType": "tv",
+    "imdbId": "tt8690918",
+    "titleFr": "Resident Alien",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1kkOG8aiNkJgHNBviVHvgXoG8HR.jpg",
+    "rating": 7.797,
+    "ts": "2026-07-02"
+  },
   "richard-jewell": {
     "tmdbId": 292011,
     "tmdbType": "movie",
@@ -4008,6 +4138,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
     "rating": 7.4,
     "ts": "2026-06-20"
+  },
+  "robin-hood-2018": {
+    "tmdbId": 375588,
+    "tmdbType": "movie",
+    "imdbId": "tt4532826",
+    "titleFr": "Robin des Bois",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tSls6dSMuXz7AHjDuuFvRaNbxHx.jpg",
+    "rating": 5.91,
+    "ts": "2026-07-02"
   },
   "rockys-cat-astrophe": {
     "tmdbId": 1627824,
@@ -4589,6 +4729,16 @@
     "rating": 6.646,
     "ts": "2026-06-19"
   },
+  "striking-distance": {
+    "tmdbId": 11074,
+    "tmdbType": "movie",
+    "imdbId": "tt0108238",
+    "titleFr": "Piège en eaux troubles",
+    "year": 1993,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aHoo1A3NBwsYjvKQF2zFBz1RGkz.jpg",
+    "rating": 5.912,
+    "ts": "2026-07-02"
+  },
   "stuart-little": {
     "tmdbId": 10137,
     "tmdbType": "movie",
@@ -4699,6 +4849,16 @@
     "rating": 6.375,
     "ts": "2026-06-30"
   },
+  "tangled-the-series-short-cuts": {
+    "tmdbId": 70047,
+    "tmdbType": "tv",
+    "imdbId": "tt4902964",
+    "titleFr": "Raiponce : La série",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tg9bjUH0ee9saRTABxObcXFsoIe.jpg",
+    "rating": 7.3,
+    "ts": "2026-07-02"
+  },
   "teach-you-a-lesson": {
     "tmdbId": 276161,
     "tmdbType": "tv",
@@ -4708,6 +4868,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
     "rating": 9.478,
     "ts": "2026-06-19"
+  },
+  "ted-2024": {
+    "tmdbId": 201834,
+    "tmdbType": "tv",
+    "imdbId": "tt14824792",
+    "titleFr": "ted",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+    "rating": 7.956,
+    "ts": "2026-07-02"
   },
   "ted-lasso": {
     "tmdbId": 97546,
@@ -4808,6 +4978,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/9YYRD0el7wa9kiZC4RsfxGpTrtX.jpg",
     "rating": 7.054,
     "ts": "2026-06-20"
+  },
+  "the-art-of-war-ii-betrayal": {
+    "tmdbId": 13988,
+    "tmdbType": "movie",
+    "imdbId": "tt1233571",
+    "titleFr": "L'art de la guerre II : Trahison",
+    "year": 2008,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/638qKUIgQ3F0ERANFmHwgHSXOkz.jpg",
+    "rating": 4.714,
+    "ts": "2026-07-02"
   },
   "the-astronaut-2025": {
     "tmdbId": 1086260,
@@ -5039,6 +5219,16 @@
     "rating": 10,
     "ts": "2026-06-28"
   },
+  "the-dutchman": {
+    "tmdbId": 1180417,
+    "tmdbType": "movie",
+    "imdbId": "tt29214162",
+    "titleFr": "The Dutchman",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg",
+    "rating": 4.815,
+    "ts": "2026-07-02"
+  },
   "the-fall-skydive-murder-plot": {
     "tmdbId": 255972,
     "tmdbType": "tv",
@@ -5068,6 +5258,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
     "rating": 6.539,
     "ts": "2026-06-19"
+  },
+  "the-fast-and-the-furious-2001": {
+    "tmdbId": 9799,
+    "tmdbType": "movie",
+    "imdbId": "tt0232500",
+    "titleFr": "Fast and Furious",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gsW9S3K6oBLKVMMLuSvKwEPOKHc.jpg",
+    "rating": 7.008,
+    "ts": "2026-07-02"
   },
   "the-fifth-element": {
     "tmdbId": 18,
@@ -5359,6 +5559,16 @@
     "rating": 6.58,
     "ts": "2026-06-24"
   },
+  "the-longest-yard-2005": {
+    "tmdbId": 9291,
+    "tmdbType": "movie",
+    "imdbId": "tt0398165",
+    "titleFr": "Mi-temps au mitard",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kKwcB3FjCabJSwfLBU6dU70aRFs.jpg",
+    "rating": 6.68,
+    "ts": "2026-07-02"
+  },
   "the-madison": {
     "tmdbId": 225891,
     "tmdbType": "tv",
@@ -5458,6 +5668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/9IwLq57nfP1wqLH5s1uTaS7PBRY.jpg",
     "rating": 6.646,
     "ts": "2026-06-21"
+  },
+  "the-perfect-gamble": {
+    "tmdbId": 1297458,
+    "tmdbType": "movie",
+    "imdbId": "tt32482844",
+    "titleFr": "The Perfect Gamble",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/iWCYMqAAzvuARrkOsE1qLavOWOs.jpg",
+    "rating": 6,
+    "ts": "2026-07-02"
   },
   "the-physician-ii": {
     "tmdbId": 1219548,
@@ -5569,6 +5789,16 @@
     "rating": 7.2,
     "ts": "2026-06-20"
   },
+  "the-rookie-2018": {
+    "tmdbId": 79744,
+    "tmdbType": "tv",
+    "imdbId": "tt7587890",
+    "titleFr": "The Rookie : Le Flic de Los Angeles",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
+    "rating": 8.552,
+    "ts": "2026-07-02"
+  },
   "the-running-man-2025": {
     "tmdbId": 798645,
     "tmdbType": "movie",
@@ -5609,6 +5839,16 @@
     "rating": 7.521,
     "ts": "2026-06-25"
   },
+  "the-simpsons": {
+    "tmdbId": 456,
+    "tmdbType": "tv",
+    "imdbId": "tt0096697",
+    "titleFr": "Les Simpson",
+    "year": 1989,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
+    "rating": 8.019,
+    "ts": "2026-07-02"
+  },
   "the-smurfs-2011": {
     "tmdbId": 41513,
     "tmdbType": "movie",
@@ -5638,6 +5878,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qJO8l0eyOmRlBfVuC9fGoXCGcXk.jpg",
     "rating": null,
     "ts": "2026-06-19"
+  },
+  "the-suicide-squad": {
+    "tmdbId": 436969,
+    "tmdbType": "movie",
+    "imdbId": "tt6334354",
+    "titleFr": "The Suicide Squad",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
+    "rating": 7.458,
+    "ts": "2026-07-02"
   },
   "the-summer-i-turned-pretty": {
     "tmdbId": 194766,
@@ -5698,6 +5948,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
     "rating": 6.119,
     "ts": "2026-06-19"
+  },
+  "the-wizard-of-the-kremlin": {
+    "tmdbId": 1291659,
+    "tmdbType": "movie",
+    "imdbId": "tt32386654",
+    "titleFr": "Le Mage du Kremlin",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/efxlwMqMiZzDF2DABswC5VWptRC.jpg",
+    "rating": 6.5,
+    "ts": "2026-07-02"
   },
   "they-will-kill-you": {
     "tmdbId": 1292695,
@@ -5948,6 +6208,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/apdfKuF32HpbQxmhbPQa6gxSo1Q.jpg",
     "rating": 7.265,
     "ts": "2026-06-20"
+  },
+  "twisters": {
+    "tmdbId": 718821,
+    "tmdbType": "movie",
+    "imdbId": "tt12584954",
+    "titleFr": "Twisters",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/bgyrB7OmVBmqdVxFXjCmh4Q30Ju.jpg",
+    "rating": 6.773,
+    "ts": "2026-07-02"
   },
   "tyler-perrys-ruthless": {
     "tmdbId": 100575,
@@ -6259,6 +6529,16 @@
     "rating": 6.1,
     "ts": "2026-06-20"
   },
+  "worst-neighbor-ever": {
+    "tmdbId": 325188,
+    "tmdbType": "tv",
+    "imdbId": "tt43476716",
+    "titleFr": "Les Voisins de l'enfer",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
+    "rating": 8,
+    "ts": "2026-07-02"
+  },
   "wuthering-heights-2026": {
     "tmdbId": 1316092,
     "tmdbType": "movie",
@@ -6298,6 +6578,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
     "rating": 6.7,
     "ts": "2026-06-21"
+  },
+  "x-men-97": {
+    "tmdbId": 138502,
+    "tmdbType": "tv",
+    "imdbId": "tt16026746",
+    "titleFr": "X-Men '97",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+    "rating": 8.5,
+    "ts": "2026-07-02"
   },
   "yellowstone": {
     "tmdbId": 73586,

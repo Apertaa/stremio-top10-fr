@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 34,
+      "days": 35,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,119 +19,119 @@
     },
     {
       "rank": 2,
-      "id": "tt31898445",
-      "name": "Escape",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": 29,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt12335692",
-      "name": "Last Man Down",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
-      "rating": 6.165,
-      "year": 2021,
-      "days": 174,
+      "id": "tt0257106",
+      "name": "Scary Movie 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
+      "rating": 5.835,
+      "year": 2001,
+      "days": 16,
       "trend": {
         "dir": "up",
         "delta": 3
       }
     },
     {
-      "rank": 4,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0257106",
-      "name": "Scary Movie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
-      "rating": 5.835,
-      "year": 2001,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt9603208",
-      "name": "Mission : Impossible - The Final Reckoning",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-      "rating": 7.169,
-      "year": 2025,
-      "days": 192,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt15665274",
-      "name": "The Channel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": 27,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 3,
       "id": "tt37150957",
       "name": "Dann passiert das Leben",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
       "rating": 7.7,
       "year": 2025,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt31898445",
+      "name": "Escape",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
+      "rating": 7.3,
+      "year": 2024,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt12335692",
+      "name": "Last Man Down",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+      "rating": 6.165,
+      "year": 2021,
+      "days": 175,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 10,
-      "id": "tt29603959",
-      "name": "Novocaïne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZMCpsZMB5PgJ2p585e4JFN5dTX.jpg",
-      "rating": 6.785,
+      "rank": 8,
+      "id": "tt9603208",
+      "name": "Mission : Impossible - The Final Reckoning",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
+      "rating": 7.169,
       "year": 2025,
-      "days": 250,
+      "days": 193,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt11466222",
+      "name": "Jackass Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
+      "rating": 6.786,
+      "year": 2022,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt15665274",
+      "name": "The Channel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
+      "rating": 6.2,
+      "year": 2023,
+      "days": 28,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

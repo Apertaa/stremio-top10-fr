@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
       "rating": 6.238,
       "year": 2010,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
+      "id": "tt26584495",
+      "name": "Companion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
+      "rating": 7.015,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt0198386",
       "name": "The Crew",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdQOz5enVVz113zZQcuoqh3oACy.jpg",
       "rating": 5.378,
       "year": 2000,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt22688572",
-      "name": "Boudica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
-      "rating": 5.815,
-      "year": 2023,
-      "days": 30,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 50,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt10872600",
-      "name": "Spider-Man : No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
-      "rating": 7.933,
-      "year": 2021,
-      "days": 20,
+      "id": "tt22688572",
+      "name": "Boudica",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
+      "rating": 5.815,
+      "year": 2023,
+      "days": 31,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5xOl7o51eAzptABsaDXXoyLiqUp.jpg",
       "rating": 7.021,
       "year": 2022,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt17049112",
-      "name": "La Revanche des Crevettes Pailletées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sGFbehBmBzac1ZOIJDwb544qBPL.jpg",
-      "rating": 6.4,
-      "year": 2022,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0110413",
-      "name": "Léon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
-      "rating": 8.294,
-      "year": 1994,
-      "days": 26,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0073195",
       "name": "Les Dents de la mer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
       "rating": 7.682,
       "year": 1975,
+      "days": 28,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt10872600",
+      "name": "Spider-Man : No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
+      "rating": 7.933,
+      "year": 2021,
+      "days": 21,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0110413",
+      "name": "Léon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efqJtlo5J1hBNFmbwyjyAR9Mpr2.jpg",
+      "rating": 8.294,
+      "year": 1994,
       "days": 27,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt0215750",
-      "name": "Stalingrad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PmlGEkVrtuCPxRwRqMMx1bDlbx.jpg",
-      "rating": 7.42,
-      "year": 2001,
-      "days": 24,
+      "id": "tt12584954",
+      "name": "Twisters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bgyrB7OmVBmqdVxFXjCmh4Q30Ju.jpg",
+      "rating": 6.773,
+      "year": 2024,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

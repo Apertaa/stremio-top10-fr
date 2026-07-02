@@ -2,7 +2,7 @@
   "country": "france",
   "key": "apple",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 481,
+      "days": 482,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
       "rating": 6.414,
       "year": 2025,
-      "days": 107,
+      "days": 108,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j5KjgXMuFPyLsZmFb6Fs76G593G.jpg",
       "rating": 7.615,
       "year": 2020,
-      "days": 457,
+      "days": 458,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 81,
+      "days": 82,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
       "rating": 6.542,
       "year": 2024,
-      "days": 504,
+      "days": 505,
       "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 860,
+      "days": 861,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt13287846",
-      "name": "Napoléon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
-      "rating": 6.304,
-      "year": 2023,
-      "days": 308,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt15009428",
-      "name": "Argylle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVAk2YliqInQfH4B4vzZ75rwcNB.jpg",
-      "rating": 6,
-      "year": 2024,
-      "days": 217,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt34276058",
       "name": "The Family Plan 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 222,
+      "days": 223,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt13287846",
+      "name": "Napoléon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
+      "rating": 6.304,
+      "year": 2023,
+      "days": 309,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt7214954",
       "name": "Luck",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
       "rating": 7.715,
       "year": 2022,
-      "days": 828,
+      "days": 829,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt15009428",
+      "name": "Argylle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVAk2YliqInQfH4B4vzZ75rwcNB.jpg",
+      "rating": 6,
+      "year": 2024,
+      "days": 218,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

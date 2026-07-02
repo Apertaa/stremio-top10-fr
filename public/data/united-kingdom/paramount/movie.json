@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,106 +19,106 @@
     },
     {
       "rank": 2,
-      "id": "tt29101725",
-      "name": "Killing Faith",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "rating": 5.821,
-      "year": 2025,
-      "days": 18,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt37577501",
-      "name": "The Girl Who Survived: The Alina Thompson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 32,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt30057173",
-      "name": "Bad Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
-      "rating": 5.511,
-      "year": 2025,
-      "days": 45,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0322802",
       "name": "Jackass, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Mbop5DzeWOz5sKdjnOD6Q82PIS.jpg",
       "rating": 6.3,
       "year": 2002,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt1116184",
+      "name": "Jackass 3D",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0493430",
+      "name": "Jackass deux, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
+      "rating": 6.583,
+      "year": 2006,
+      "days": 6,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt29101725",
+      "name": "Killing Faith",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
+      "rating": 5.821,
+      "year": 2025,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 6,
+      "id": "tt37577501",
+      "name": "The Girl Who Survived: The Alina Thompson Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 33,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt1753968",
+      "name": "Jackass 3.5, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xVKk2zEEeU5KOM7K9ZYRXncbaMn.jpg",
+      "rating": 6.362,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt6902560",
       "name": "Violent Ends",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg",
       "rating": 6.17,
       "year": 2025,
-      "days": 43,
+      "days": 44,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 7,
-      "id": "tt1116184",
-      "name": "Jackass 3D",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
-      "rating": 6.6,
-      "year": 2010,
-      "days": 3,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0493430",
-      "name": "Jackass deux, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
-      "rating": 6.583,
-      "year": 2006,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt2582782",
-      "name": "Comancheria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
-      "rating": 7.302,
-      "year": 2016,
-      "days": 18,
+      "id": "tt7574556",
+      "name": "Dead of Winter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+      "rating": 6.4,
+      "year": 2025,
+      "days": 100,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 89,
+      "days": 90,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

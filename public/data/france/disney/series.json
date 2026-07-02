@@ -2,19 +2,19 @@
   "country": "france",
   "key": "disney",
   "list": "series",
-  "date": "202607011746",
+  "date": "202607021725",
   "entries": [
     {
       "rank": 1,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 12,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
+      "year": 2022,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -24,20 +24,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 28,
+      "days": 29,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt35466672",
-      "name": "Malcolm : Rien n’a changé",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
-      "rating": 8.072,
-      "year": 2026,
-      "days": 73,
+      "id": "tt32598989",
+      "name": "SuperKitties: Su-Purr Adventures (Shorts)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
+      "rating": null,
+      "year": 2024,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 3,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 59,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 5,
-      "id": "tt21441010",
-      "name": "Good American Family",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KUSPrM65y2AE9t3FOd0LAuvBCW.jpg",
-      "rating": 7.625,
-      "year": 2025,
-      "days": 15,
+      "id": "tt32328599",
+      "name": "Les petites histoires de Bluey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
+      "rating": 8.256,
+      "year": 2024,
+      "days": 12,
       "trend": {
         "dir": "new",
         "delta": null
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt0410975",
-      "name": "Desperate Housewives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
-      "rating": 7.9,
-      "year": 2004,
-      "days": 62,
+      "id": "tt13622956",
+      "name": "Zootopie+",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
+      "rating": 7.1,
+      "year": 2022,
+      "days": 4,
       "trend": {
         "dir": "new",
         "delta": null
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 66,
+      "id": "tt0460649",
+      "name": "How I Met Your Mother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
+      "rating": 8.129,
+      "year": 2005,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt39333617",
-      "name": "Perfect Crown",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z6on6DbEKpE9gOr8lvjj3xebGtd.jpg",
-      "rating": 8.9,
-      "year": 2026,
-      "days": 17,
+      "id": "tt0096697",
+      "name": "Les Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
+      "rating": 8.019,
+      "year": 1989,
+      "days": 117,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt33550053",
-      "name": "9-1-1: Nashville",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
-      "rating": 8.181,
-      "year": 2025,
-      "days": 18,
+      "id": "tt1442437",
+      "name": "Modern Family",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "rating": 7.913,
+      "year": 2009,
+      "days": 116,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt0413573",
-      "name": "Grey's Anatomy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
-      "rating": 8.209,
-      "year": 2005,
-      "days": 1,
+      "id": "tt4902964",
+      "name": "Raiponce : La série",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tg9bjUH0ee9saRTABxObcXFsoIe.jpg",
+      "rating": 7.3,
+      "year": 2017,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
