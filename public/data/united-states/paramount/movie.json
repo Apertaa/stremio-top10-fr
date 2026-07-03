@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
-      "id": "tt1225822",
-      "name": "Extract",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
-      "rating": 5.847,
-      "year": 2009,
-      "days": 91,
+      "id": "tt0100814",
+      "name": "Tremors",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
+      "rating": 6.938,
+      "year": 1990,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -19,37 +19,37 @@
     },
     {
       "rank": 2,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 683,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt27047903",
       "name": "Scream 7",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 3,
+      "id": "tt1225822",
+      "name": "Extract",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+      "rating": 5.847,
+      "year": 2009,
+      "days": 92,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
       "rank": 4,
-      "id": "tt29214162",
-      "name": "The Dutchman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg",
-      "rating": 4.815,
-      "year": 2026,
+      "id": "tt0093105",
+      "name": "Good Morning, Vietnam",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPszN5iNKr3MmFq0dMhAyvzW0kb.jpg",
+      "rating": 7.3,
+      "year": 1987,
       "days": null,
       "trend": {
         "dir": "new",
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt32482844",
-      "name": "The Perfect Gamble",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iWCYMqAAzvuARrkOsE1qLavOWOs.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": null,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 684,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 181,
+      "days": 182,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt0345950",
-      "name": "Bob l'éponge, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
-      "rating": 7.089,
-      "year": 2004,
-      "days": 110,
+      "id": "tt10323676",
+      "name": "Le Contracteur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
+      "rating": 6.351,
+      "year": 2022,
+      "days": 75,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
       "rating": 6.526,
       "year": 2026,
-      "days": 98,
+      "days": 99,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
+      "id": "tt0345950",
+      "name": "Bob l'éponge, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
+      "rating": 7.089,
+      "year": 2004,
+      "days": 111,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt0398165",
       "name": "Mi-temps au mitard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kKwcB3FjCabJSwfLBU6dU70aRFs.jpg",
       "rating": 6.68,
       "year": 2005,
-      "days": 23,
+      "days": 24,
       "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt0364751",
-      "name": "Jusqu'au cou",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWA8rqK4eVDu6ACSKFGfaploHB.jpg",
-      "rating": 5.639,
-      "year": 2004,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

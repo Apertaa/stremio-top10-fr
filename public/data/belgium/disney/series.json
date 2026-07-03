@@ -2,29 +2,29 @@
   "country": "belgium",
   "key": "disney",
   "list": "series",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt35823838",
-      "name": "Not Suitable for Work",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 29,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -37,33 +37,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
       "rating": null,
       "year": 2024,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
       "year": 2026,
-      "days": 65,
+      "days": 30,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 5,
-      "id": "tt32328599",
-      "name": "Les petites histoires de Bluey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
-      "rating": 8.256,
-      "year": 2024,
-      "days": 18,
+      "id": "tt35661293",
+      "name": "Murder in the Skies: Who Downed Mh17?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8TE8F6uwztvu84iiamAyiUNu8Bn.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt13622956",
-      "name": "Zootopie+",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
-      "rating": 7.1,
-      "year": 2022,
-      "days": 4,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 66,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 7,
+      "id": "tt32328599",
+      "name": "Les petites histoires de Bluey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
+      "rating": 8.256,
+      "year": 2024,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt0460649",
       "name": "How I Met Your Mother",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
       "rating": 8.129,
       "year": 2005,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "tt13622956",
+      "name": "Zootopie+",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
+      "rating": 7.1,
+      "year": 2022,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt0096697",
       "name": "Les Simpson",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
       "rating": 8.019,
       "year": 1989,
-      "days": 117,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1442437",
-      "name": "Modern Family",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "rating": 7.913,
-      "year": 2009,
       "days": 118,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt4902964",
-      "name": "Raiponce : La série",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tg9bjUH0ee9saRTABxObcXFsoIe.jpg",
-      "rating": 7.3,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

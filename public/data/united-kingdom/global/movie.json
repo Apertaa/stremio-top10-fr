@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,59 +37,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 20,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt3152592",
       "name": "Scooby !",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
       "rating": 6.991,
       "year": 2020,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0108238",
+      "name": "Piège en eaux troubles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aHoo1A3NBwsYjvKQF2zFBz1RGkz.jpg",
+      "rating": 5.912,
+      "year": 1993,
       "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
       "rank": 6,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 21,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt9663764",
       "name": "Aquaman et le Royaume perdu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
       "rating": 6.523,
       "year": 2023,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 35,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt1677720",
-      "name": "Ready Player One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
-      "rating": 7.588,
-      "year": 2018,
-      "days": 6,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 36,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt0108238",
-      "name": "Piège en eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aHoo1A3NBwsYjvKQF2zFBz1RGkz.jpg",
-      "rating": 5.912,
-      "year": 1993,
-      "days": null,
+      "id": "tt1677720",
+      "name": "Ready Player One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
+      "rating": 7.588,
+      "year": 2018,
+      "days": 7,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ayNAHe6fOGJ92LTo0zCcB69EtTh.jpg",
       "rating": 6.375,
       "year": 2004,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

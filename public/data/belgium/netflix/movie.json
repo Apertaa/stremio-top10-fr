@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,36 +24,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt3566834",
-      "name": "Minecraft, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
-      "rating": 6.255,
-      "year": 2025,
-      "days": 12,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt34888871",
       "name": "Little Brother",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 6,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt3566834",
+      "name": "Minecraft, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
+      "rating": 6.255,
+      "year": 2025,
+      "days": 13,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -63,58 +63,45 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "top10:mobland",
-      "name": "MobLand",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 37,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt7846844",
       "name": "Enola Holmes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
       "rating": 7.222,
       "year": 2020,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0073092",
+      "name": "Le Bagarreur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7mJCmDtBWHPqGbGYPQCEQ6OqCXh.jpg",
+      "rating": 6.808,
+      "year": 1975,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt29603959",
+      "name": "Novocaïne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZMCpsZMB5PgJ2p585e4JFN5dTX.jpg",
+      "rating": 6.785,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "new",
@@ -122,16 +109,29 @@
       }
     },
     {
-      "rank": 10,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
+      "rank": 9,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
       "year": 2026,
-      "days": 27,
+      "days": 38,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt14641788",
+      "name": "Enola Holmes 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n4MNnDDVm86AELe1fxbLvxHYeyh.jpg",
+      "rating": 7.404,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

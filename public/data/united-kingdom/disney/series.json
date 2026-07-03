@@ -2,32 +2,32 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "series",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt35728748",
       "name": "Alice et Steve",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt43138820",
-      "name": "Million Dollar Nannies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 12,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
       "rating": 7.4,
       "year": 2024,
-      "days": 56,
+      "days": 57,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
+      "id": "tt43138820",
+      "name": "Million Dollar Nannies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 13,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt35823838",
-      "name": "Not Suitable for Work",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 28,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,38 +71,38 @@
     },
     {
       "rank": 6,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt10970762",
       "name": "The Testaments",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 54,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt9074360",
-      "name": "Trackers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/flKid0CGSxJbvO2BDfDeKX7nkGC.jpg",
-      "rating": 6.3,
-      "year": 2019,
-      "days": 6,
+      "id": "tt42416598",
+      "name": "Abandoned",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,25 +110,25 @@
     },
     {
       "rank": 9,
-      "id": "tt21266652",
-      "name": "Platform 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uSz5nrTrHBsbdVJJgYMB1tJ5nkv.jpg",
-      "rating": 6.095,
-      "year": 2023,
-      "days": 7,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 55,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt35466672",
-      "name": "Malcolm : Rien n’a changé",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
-      "rating": 8.072,
-      "year": 2026,
-      "days": 65,
+      "id": "tt9074360",
+      "name": "Trackers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/flKid0CGSxJbvO2BDfDeKX7nkGC.jpg",
+      "rating": 6.3,
+      "year": 2019,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 2

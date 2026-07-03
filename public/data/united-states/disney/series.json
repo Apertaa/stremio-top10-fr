@@ -2,45 +2,45 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
-      "id": "top10:disney-celebrates-america-the-pursuit-of-happiness",
-      "name": "Disney Celebrates America: The Pursuit of Happiness",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": null,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 5
       }
     },
     {
       "rank": 2,
-      "id": "tt32603995",
-      "name": "Adventure Time: Side Quests",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tDAObAvUx2tw4ZM6ohqo06pqQyW.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt26685570",
       "name": "How Not to Draw",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
       "rating": 8,
       "year": 2022,
-      "days": 25,
+      "days": 26,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "top10:disney-celebrates-america-the-pursuit-of-happiness",
+      "name": "Disney Celebrates America: The Pursuit of Happiness",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 1,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,38 +58,38 @@
     },
     {
       "rank": 5,
-      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
-      "name": "IMPACT x Nightline: The Girl in the Trunk",
-      "tmdbPosterUrl": null,
+      "id": "tt32603995",
+      "name": "Adventure Time: Side Quests",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tDAObAvUx2tw4ZM6ohqo06pqQyW.jpg",
       "rating": null,
-      "year": null,
-      "days": 5,
+      "year": 2026,
+      "days": 2,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 10,
+      "days": 11,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
+      "name": "IMPACT x Nightline: The Girl in the Trunk",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
       "rating": null,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
+      "id": "tt42416598",
+      "name": "Abandoned",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt36594331",
       "name": "Star Wars : Maul - Seigneur de l'ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 75,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt38639981",
-      "name": "Le Titanic coule ce soir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": 7,
+      "days": 76,
       "trend": {
         "dir": "down",
         "delta": 1

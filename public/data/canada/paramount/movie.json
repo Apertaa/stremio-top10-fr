@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,11 +19,11 @@
     },
     {
       "rank": 2,
-      "id": "tt35892608",
-      "name": "undertone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
-      "rating": 6.1,
-      "year": 2026,
+      "id": "tt36861174",
+      "name": "The Real Adolescence: Our Killer Kids",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
+      "rating": 6,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "new",
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
+      "id": "tt37738006",
+      "name": "1000 Men and Me: The Bonnie Blue Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+      "rating": 5.2,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt4357198",
       "name": "L'Ultime Héritier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt32801387",
-      "name": "Thieves Highway",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
-      "rating": 7.684,
-      "year": 2026,
-      "days": 68,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,25 +58,25 @@
     },
     {
       "rank": 5,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 64,
+      "id": "tt35892608",
+      "name": "undertone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
+      "rating": 6.1,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "rating": 6.178,
+      "id": "tt32801387",
+      "name": "Thieves Highway",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
+      "rating": 7.684,
       "year": 2026,
-      "days": 35,
+      "days": 69,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt0493430",
-      "name": "Jackass deux, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
-      "rating": 6.583,
-      "year": 2006,
-      "days": 14,
+      "id": "tt21941964",
+      "name": "Suburban Nightmare: The Menendez Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tNhMrlQNPCPdFtANaIccf2z7j8.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 8,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 36,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "tt3331548",
+      "name": "Not Without Hope",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
+      "rating": 6.15,
+      "year": 2025,
+      "days": 37,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt4627382",
       "name": "Roofman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 183,
+      "days": 184,
       "trend": {
         "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0119395",
-      "name": "Le Chacal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hEG17xmDYBvazhjBzgMkghrmaYm.jpg",
-      "rating": 6.397,
-      "year": 1997,
-      "days": 14,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt29567915",
-      "name": "Nuremberg",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
-      "rating": 7.56,
-      "year": 2025,
-      "days": 50,
-      "trend": {
-        "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "series",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 47,
+      "days": 48,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 117,
+      "days": 118,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 808,
+      "days": 809,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 671,
+      "id": "tt0239195",
+      "name": "Survivor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
+      "rating": 7.3,
+      "year": 2000,
+      "days": 497,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,27 +71,27 @@
     },
     {
       "rank": 6,
-      "id": "tt0239195",
-      "name": "Survivor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
-      "rating": 7.3,
-      "year": 2000,
-      "days": 496,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0098800",
       "name": "Le Prince de Bel-Air",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ppi9yoM9BlNhoYg0h3XCyrnG4lR.jpg",
       "rating": 7.907,
       "year": 1990,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "down",
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt1832979",
+      "name": "Hart of Dixie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg",
+      "rating": 7.3,
+      "year": 2011,
+      "days": 27,
+      "trend": {
+        "dir": "up",
         "delta": 2
       }
     },
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 817,
+      "days": 818,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt1832979",
-      "name": "Hart of Dixie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg",
-      "rating": 7.3,
-      "year": 2011,
-      "days": 26,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 672,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
       "rating": 7.956,
       "year": 2026,
-      "days": 109,
+      "days": 110,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

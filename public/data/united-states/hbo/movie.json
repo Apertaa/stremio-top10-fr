@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
       "rating": 7.588,
       "year": 2018,
-      "days": 49,
+      "days": 50,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt29929565",
-      "name": "Opus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1h7I0E9Bcqj2x033ud608kKrryI.jpg",
-      "rating": 5.707,
-      "year": 2025,
-      "days": 33,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt2231461",
-      "name": "Rampage : Hors de contrôle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
-      "rating": 6.457,
-      "year": 2018,
-      "days": 32,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt1598778",
-      "name": "Contagion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hb4tWUWrRHU0xjVU5AX49bZPHB8.jpg",
-      "rating": 6.649,
-      "year": 2011,
-      "days": 28,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt5619332",
       "name": "Mère incontrôlable à la fac",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kQ7zTM5W5MY2HJ5U5BY4Y4phRX3.jpg",
       "rating": 6.08,
       "year": 2018,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt29929565",
+      "name": "Opus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1h7I0E9Bcqj2x033ud608kKrryI.jpg",
+      "rating": 5.707,
+      "year": 2025,
+      "days": 34,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt36464353",
+      "name": "My Mom Jayne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+      "rating": 7.971,
+      "year": 2025,
+      "days": 24,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1598778",
+      "name": "Contagion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hb4tWUWrRHU0xjVU5AX49bZPHB8.jpg",
+      "rating": 6.649,
+      "year": 2011,
+      "days": 29,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt0399146",
-      "name": "A History of Violence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg",
-      "rating": 7.164,
-      "year": 2005,
-      "days": 25,
+      "id": "tt2231461",
+      "name": "Rampage : Hors de contrôle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
+      "rating": 6.457,
+      "year": 2018,
+      "days": 33,
       "trend": {
         "dir": "down",
         "delta": 3

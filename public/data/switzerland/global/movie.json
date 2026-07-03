@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "global",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,46 +63,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/638qKUIgQ3F0ERANFmHwgHSXOkz.jpg",
       "rating": 4.714,
       "year": 2008,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt33255286",
-      "name": "Chien 51",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
-      "rating": 6.105,
-      "year": 2025,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt21317634",
       "name": "Bride Hard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
       "rating": 5.574,
       "year": 2025,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt33255286",
+      "name": "Chien 51",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
+      "rating": 6.105,
+      "year": 2025,
+      "days": 7,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt0225071",
-      "name": "Angel Eyes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9NmwtFgS1IsPotRqlUUCwguIwka.jpg",
-      "rating": 6,
-      "year": 2001,
-      "days": null,
+      "id": "tt0770806",
+      "name": "Contractor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o2lAXBH1aDJLndmkgqshhl3UX9Y.jpg",
+      "rating": 5.508,
+      "year": 2007,
+      "days": 8,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 20,
+      "id": "tt7846844",
+      "name": "Enola Holmes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
+      "rating": 7.222,
+      "year": 2020,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 27,
+      "id": "tt0225071",
+      "name": "Angel Eyes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9NmwtFgS1IsPotRqlUUCwguIwka.jpg",
+      "rating": 6,
+      "year": 2001,
+      "days": 2,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 2
       }
     }
   ]

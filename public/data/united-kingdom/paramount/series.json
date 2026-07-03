@@ -2,19 +2,19 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "series",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
-      "rating": 8.3,
-      "year": 1997,
-      "days": 738,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 48,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -24,20 +24,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 50,
+      "days": 51,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 47,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": 739,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 746,
+      "days": 747,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,41 +58,41 @@
     },
     {
       "rank": 5,
-      "id": "tt0106004",
-      "name": "Frasier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-      "rating": 7.685,
-      "year": 1993,
-      "days": 738,
+      "id": "tt4181172",
+      "name": "Shooter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3yNdTnt8OQXQHXQbHjFS5G8g2zN.jpg",
+      "rating": 7.198,
+      "year": 2016,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
-      "id": "tt0206512",
-      "name": "Bob l'éponge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
-      "rating": 7.7,
-      "year": 1999,
-      "days": 477,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt14186672",
       "name": "Landman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
       "rating": 8.157,
       "year": 2024,
-      "days": 291,
+      "days": 292,
       "trend": {
         "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0106004",
+      "name": "Frasier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+      "rating": 7.685,
+      "year": 1993,
+      "days": 739,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
       "rating": 7.956,
       "year": 2026,
-      "days": 111,
+      "days": 112,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt20249474",
-      "name": "17 ans et maman : Royaume-Uni",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zIrpQFK4hN7uW3xK8cMzRWRSgPP.jpg",
-      "rating": 5,
-      "year": 2016,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0062568",
       "name": "Hawaï police d'État",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wil51KinEc1bNL2qkXONfJzgTzo.jpg",
       "rating": 7.172,
       "year": 1968,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt20249474",
+      "name": "17 ans et maman : Royaume-Uni",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zIrpQFK4hN7uW3xK8cMzRWRSgPP.jpg",
+      "rating": 5,
+      "year": 2016,
       "days": 6,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

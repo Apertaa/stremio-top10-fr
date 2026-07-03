@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 35,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,36 +24,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt37150957",
-      "name": "Dann passiert das Leben",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
-      "rating": 7.7,
-      "year": 2025,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 6
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt31898445",
       "name": "Escape",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 17,
+      "trend": {
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
       "rating": 6.165,
       "year": 2021,
-      "days": 175,
+      "days": 176,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 16,
+      "id": "tt37150957",
+      "name": "Dann passiert das Leben",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
+      "rating": 7.7,
+      "year": 2025,
+      "days": 5,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 4
       }
     },
     {
@@ -102,20 +102,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
       "rating": 7.169,
       "year": 2025,
-      "days": 193,
+      "days": 194,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt11466222",
-      "name": "Jackass Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yN2KZB5sMGbbpfTBGJdfngag7iS.jpg",
-      "rating": 6.786,
-      "year": 2022,
-      "days": null,
+      "id": "tt6001846",
+      "name": "Long Gone Heroes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
+      "rating": 5.356,
+      "year": 2024,
+      "days": 108,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt15665274",
-      "name": "The Channel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": 28,
+      "id": "tt1034385",
+      "name": "Cold Skin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n19XkI8xhwUexT0TSfXJ2OyW9cr.jpg",
+      "rating": 6.295,
+      "year": 2017,
+      "days": 71,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

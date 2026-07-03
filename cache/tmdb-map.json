@@ -29,6 +29,16 @@
     "rating": 7.2,
     "ts": "2026-06-20"
   },
+  "1000-men-and-me-the-bonnie-blue-story": {
+    "tmdbId": 1522126,
+    "tmdbType": "movie",
+    "imdbId": "tt37738006",
+    "titleFr": "1000 Men and Me: The Bonnie Blue Story",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+    "rating": 5.2,
+    "ts": "2026-07-03"
+  },
   "21-jump-street": {
     "tmdbId": 64688,
     "tmdbType": "movie",
@@ -109,6 +119,26 @@
     "rating": 6.8,
     "ts": "2026-06-28"
   },
+  "a-dogs-journey": {
+    "tmdbId": 522518,
+    "tmdbType": "movie",
+    "imdbId": "tt8385474",
+    "titleFr": "Mes Autres Vies de Chien",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ot1Hd2PDWY4nAa86zltCihAOCxj.jpg",
+    "rating": 8,
+    "ts": "2026-07-03"
+  },
+  "a-dogs-purpose": {
+    "tmdbId": 381289,
+    "tmdbType": "movie",
+    "imdbId": "tt1753383",
+    "titleFr": "Mes vies de chien",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lXd6nwFyM6BblbkOwy9cTClXumh.jpg",
+    "rating": 7.641,
+    "ts": "2026-07-03"
+  },
   "a-family-of-bastards": {
     "tmdbId": 1501018,
     "tmdbType": "movie",
@@ -149,6 +179,16 @@
     "rating": 6.255,
     "ts": "2026-06-21"
   },
+  "a-perfect-world": {
+    "tmdbId": 9559,
+    "tmdbType": "movie",
+    "imdbId": "tt0107808",
+    "titleFr": "Un Monde parfait",
+    "year": 1993,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/w4nWADc0RPllaxe2s3mNH5b1GHW.jpg",
+    "rating": 7.505,
+    "ts": "2026-07-03"
+  },
   "a-private-life": {
     "tmdbId": 832315,
     "tmdbType": "movie",
@@ -168,6 +208,26 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
     "rating": 6.694,
     "ts": "2026-06-20"
+  },
+  "abandonados": {
+    "tmdbId": 324050,
+    "tmdbType": "tv",
+    "imdbId": "tt42416598",
+    "titleFr": "Abandoned",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+    "rating": 8.5,
+    "ts": "2026-07-03"
+  },
+  "abducted-by-my-teacher-the-elizabeth-thomas-story": {
+    "tmdbId": 1155823,
+    "tmdbType": "movie",
+    "imdbId": "tt28226615",
+    "titleFr": "Abducted by My Teacher: The Elizabeth Thomas Story",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/C5Ce9f5mls4GxfqvPMeLxu5N9l.jpg",
+    "rating": 6.824,
+    "ts": "2026-07-03"
   },
   "ablaze": {
     "tmdbId": 111851,
@@ -669,6 +729,26 @@
     "rating": 1,
     "ts": "2026-06-20"
   },
+  "bing": {
+    "tmdbId": 69501,
+    "tmdbType": "tv",
+    "imdbId": "tt3789822",
+    "titleFr": "Bing",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",
+    "rating": null,
+    "ts": "2026-07-03"
+  },
+  "bings-animal-stories": {
+    "tmdbId": 993503,
+    "tmdbType": "movie",
+    "imdbId": "tt15575344",
+    "titleFr": "Bing's Animal Stories",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dpKM7SNo38cDDW5ZRRFFiRqptV.jpg",
+    "rating": null,
+    "ts": "2026-07-03"
+  },
   "black-2024": {
     "tmdbId": 976734,
     "tmdbType": "movie",
@@ -909,6 +989,16 @@
     "rating": 6.8,
     "ts": "2026-06-20"
   },
+  "charlie-and-the-chocolate-factory": {
+    "tmdbId": 118,
+    "tmdbType": "movie",
+    "imdbId": "tt0367594",
+    "titleFr": "Charlie et la Chocolaterie",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tR4PU2wRPzGKmF665lE5wULGb3X.jpg",
+    "rating": 7.039,
+    "ts": "2026-07-03"
+  },
   "chernobyl": {
     "tmdbId": 87108,
     "tmdbType": "tv",
@@ -978,6 +1068,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
     "rating": 6.392,
     "ts": "2026-06-28"
+  },
+  "cold-skin": {
+    "tmdbId": 428399,
+    "tmdbType": "movie",
+    "imdbId": "tt1034385",
+    "titleFr": "Cold Skin",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/n19XkI8xhwUexT0TSfXJ2OyW9cr.jpg",
+    "rating": 6.295,
+    "ts": "2026-07-03"
   },
   "colors-of-evil-black": {
     "tmdbId": 1560681,
@@ -1219,6 +1319,16 @@
     "rating": 8.2,
     "ts": "2026-06-19"
   },
+  "dirty-dancing": {
+    "tmdbId": 88,
+    "tmdbType": "movie",
+    "imdbId": "tt0092890",
+    "titleFr": "Dirty Dancing",
+    "year": 1987,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/osfBQ18P0y3pwT5qVuhdPk8btbj.jpg",
+    "rating": 7.325,
+    "ts": "2026-07-03"
+  },
   "doctor-on-the-edge": {
     "tmdbId": 287009,
     "tmdbType": "tv",
@@ -1428,6 +1538,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
     "rating": 7.222,
     "ts": "2026-07-02"
+  },
+  "enola-holmes-2": {
+    "tmdbId": 829280,
+    "tmdbType": "movie",
+    "imdbId": "tt14641788",
+    "titleFr": "Enola Holmes 2",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/n4MNnDDVm86AELe1fxbLvxHYeyh.jpg",
+    "rating": 7.404,
+    "ts": "2026-07-03"
   },
   "enola-holmes-3": {
     "tmdbId": 1202033,
@@ -1969,6 +2089,16 @@
     "rating": 6.8,
     "ts": "2026-06-20"
   },
+  "gone-girl": {
+    "tmdbId": 210577,
+    "tmdbType": "movie",
+    "imdbId": "tt2267998",
+    "titleFr": "Gone Girl",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7xkJ1ACu40BjzLHVPRILWjFvW7.jpg",
+    "rating": 7.89,
+    "ts": "2026-07-03"
+  },
   "good-american-family": {
     "tmdbId": 207411,
     "tmdbType": "tv",
@@ -1978,6 +2108,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/7KUSPrM65y2AE9t3FOd0LAuvBCW.jpg",
     "rating": 7.625,
     "ts": "2026-06-19"
+  },
+  "good-morning-vietnam": {
+    "tmdbId": 801,
+    "tmdbType": "movie",
+    "imdbId": "tt0093105",
+    "titleFr": "Good Morning, Vietnam",
+    "year": 1987,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yPszN5iNKr3MmFq0dMhAyvzW0kb.jpg",
+    "rating": 7.3,
+    "ts": "2026-07-03"
   },
   "gram-chikitsalay": {
     "tmdbId": 290138,
@@ -2018,6 +2158,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/jl24C9NkgCxbQk9T0GZkpq6dsf4.jpg",
     "rating": 8.2,
     "ts": "2026-06-19"
+  },
+  "hard-times": {
+    "tmdbId": 22094,
+    "tmdbType": "movie",
+    "imdbId": "tt0073092",
+    "titleFr": "Le Bagarreur",
+    "year": 1975,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7mJCmDtBWHPqGbGYPQCEQ6OqCXh.jpg",
+    "rating": 6.808,
+    "ts": "2026-07-03"
   },
   "hart-of-dixie": {
     "tmdbId": 39279,
@@ -2149,6 +2299,16 @@
     "rating": 8.181,
     "ts": "2026-06-20"
   },
+  "horizon-an-american-saga-chapter-1": {
+    "tmdbId": 932086,
+    "tmdbType": "movie",
+    "imdbId": "tt17505010",
+    "titleFr": "Horizon : Une saga américaine - Chapitre 1",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/uO0tsSHByL7bgJhV81eQZwp4hD6.jpg",
+    "rating": 6.81,
+    "ts": "2026-07-03"
+  },
   "hotel-transylvania-3-summer-vacation": {
     "tmdbId": 400155,
     "tmdbType": "movie",
@@ -2208,6 +2368,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
     "rating": 7.046,
     "ts": "2026-06-20"
+  },
+  "hunting-housewives": {
+    "tmdbId": 1239303,
+    "tmdbType": "movie",
+    "imdbId": "tt28833276",
+    "titleFr": "Hunting Housewives",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7uGxjU3DnuE5WxYCl02MEd8Ivjs.jpg",
+    "rating": 5,
+    "ts": "2026-07-03"
   },
   "hunting-season-2025": {
     "tmdbId": 1387382,
@@ -2489,6 +2659,16 @@
     "rating": 6.1,
     "ts": "2026-06-19"
   },
+  "kill-em-all-2": {
+    "tmdbId": 1215162,
+    "tmdbType": "movie",
+    "imdbId": "tt6549510",
+    "titleFr": "La Marque de la vengeance 2",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wBRTzPOtwDor3xSB2KmlbsZoepm.jpg",
+    "rating": 6.769,
+    "ts": "2026-07-03"
+  },
   "killer-whale": {
     "tmdbId": 1412598,
     "tmdbType": "movie",
@@ -2688,6 +2868,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
     "rating": 6,
     "ts": "2026-06-20"
+  },
+  "lete-36": {
+    "tmdbId": 287976,
+    "tmdbType": "tv",
+    "imdbId": "tt38776795",
+    "titleFr": "L'Été 36",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg",
+    "rating": 6.6,
+    "ts": "2026-07-03"
   },
   "life-as-we-know-it": {
     "tmdbId": 38408,
@@ -3379,6 +3569,16 @@
     "rating": 7.286,
     "ts": "2026-06-20"
   },
+  "murder-in-the-skies-who-downed-mh17": {
+    "tmdbId": 284443,
+    "tmdbType": "tv",
+    "imdbId": "tt35661293",
+    "titleFr": "Murder in the Skies: Who Downed Mh17?",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8TE8F6uwztvu84iiamAyiUNu8Bn.jpg",
+    "rating": 8,
+    "ts": "2026-07-03"
+  },
   "murder-mindfully": {
     "tmdbId": 252372,
     "tmdbType": "tv",
@@ -3418,6 +3618,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
     "rating": 7.402,
     "ts": "2026-06-19"
+  },
+  "my-mom-jayne": {
+    "tmdbId": 1461714,
+    "tmdbType": "movie",
+    "imdbId": "tt36464353",
+    "titleFr": "My Mom Jayne",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+    "rating": 7.971,
+    "ts": "2026-07-03"
   },
   "napoleon-2023": {
     "tmdbId": 753342,
@@ -4289,6 +4499,16 @@
     "rating": 7.863,
     "ts": "2026-06-20"
   },
+  "se7en": {
+    "tmdbId": 807,
+    "tmdbType": "movie",
+    "imdbId": "tt0114369",
+    "titleFr": "Seven",
+    "year": 1995,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/to6jUaLJonMuKW2YovtWfQKtLYP.jpg",
+    "rating": 8.381,
+    "ts": "2026-07-03"
+  },
   "seal-team": {
     "tmdbId": 71789,
     "tmdbType": "tv",
@@ -4388,6 +4608,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ESmsY38eOBcmAkym3hJqOBm7vP.jpg",
     "rating": 7.126,
     "ts": "2026-06-26"
+  },
+  "shooter-2016": {
+    "tmdbId": 66857,
+    "tmdbType": "tv",
+    "imdbId": "tt4181172",
+    "titleFr": "Shooter",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3yNdTnt8OQXQHXQbHjFS5G8g2zN.jpg",
+    "rating": 7.198,
+    "ts": "2026-07-03"
   },
   "shrek": {
     "tmdbId": 808,
@@ -4528,6 +4758,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
     "rating": 9.4,
     "ts": "2026-06-20"
+  },
+  "something-in-the-water": {
+    "tmdbId": 804616,
+    "tmdbType": "movie",
+    "imdbId": "tt22863968",
+    "titleFr": "Menace en eaux profondes",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cZATcRQffQNjMdEgHppW5DH1LOS.jpg",
+    "rating": 5.586,
+    "ts": "2026-07-03"
   },
   "song-sung-blue": {
     "tmdbId": 1371185,
@@ -4749,6 +4989,16 @@
     "rating": 6.079,
     "ts": "2026-06-20"
   },
+  "suburban-nightmare-the-menendez-brothers": {
+    "tmdbId": 1032596,
+    "tmdbType": "movie",
+    "imdbId": "tt21941964",
+    "titleFr": "Suburban Nightmare: The Menendez Brothers",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6tNhMrlQNPCPdFtANaIccf2z7j8.jpg",
+    "rating": null,
+    "ts": "2026-07-03"
+  },
   "sugar-2024": {
     "tmdbId": 203744,
     "tmdbType": "tv",
@@ -4768,6 +5018,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/sIRFRHTsCQxhJJtn5TPYOqryjdW.jpg",
     "rating": 8.143,
     "ts": "2026-07-01"
+  },
+  "summer-camp-2024": {
+    "tmdbId": 1094009,
+    "tmdbType": "movie",
+    "imdbId": "tt26928684",
+    "titleFr": "Summer Camp",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
+    "rating": 5.296,
+    "ts": "2026-07-03"
   },
   "superkitties-su-purr-adventures-shorts": {
     "tmdbId": 261557,
@@ -4798,6 +5058,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qsmAVEEWeDjKi791szxi1r3LG5s.jpg",
     "rating": 5.192,
     "ts": "2026-06-24"
+  },
+  "survival-of-the-thickest": {
+    "tmdbId": 227139,
+    "tmdbType": "tv",
+    "imdbId": "tt17361756",
+    "titleFr": "La loi de la plus forte",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8elSMubg98ySvWyru3SFy3paD2J.jpg",
+    "rating": 6.761,
+    "ts": "2026-07-03"
   },
   "survivor-2000": {
     "tmdbId": 14658,
@@ -5759,6 +6029,16 @@
     "rating": 8.346,
     "ts": "2026-06-19"
   },
+  "the-real-adolescence-our-killer-kids": {
+    "tmdbId": 1478143,
+    "tmdbType": "movie",
+    "imdbId": "tt36861174",
+    "titleFr": "The Real Adolescence: Our Killer Kids",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
+    "rating": 6,
+    "ts": "2026-07-03"
+  },
   "the-requin": {
     "tmdbId": 803114,
     "tmdbType": "movie",
@@ -6159,6 +6439,16 @@
     "rating": 7.17,
     "ts": "2026-06-19"
   },
+  "tremors": {
+    "tmdbId": 9362,
+    "tmdbType": "movie",
+    "imdbId": "tt0100814",
+    "titleFr": "Tremors",
+    "year": 1990,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
+    "rating": 6.938,
+    "ts": "2026-07-03"
+  },
   "trolls": {
     "tmdbId": 136799,
     "tmdbType": "movie",
@@ -6279,6 +6569,16 @@
     "rating": 6.1,
     "ts": "2026-06-28"
   },
+  "unforgiven": {
+    "tmdbId": 33,
+    "tmdbType": "movie",
+    "imdbId": "tt0105695",
+    "titleFr": "Impitoyable",
+    "year": 1992,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
+    "rating": 7.911,
+    "ts": "2026-07-03"
+  },
   "upstairs-downstairs": {
     "tmdbId": 492,
     "tmdbType": "tv",
@@ -6318,6 +6618,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
     "rating": 7.31,
     "ts": "2026-06-19"
+  },
+  "vivarium": {
+    "tmdbId": 458305,
+    "tmdbType": "movie",
+    "imdbId": "tt8368406",
+    "titleFr": "Vivarium",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2SAH6napkUWibaAJ4oXr8dAVTIm.jpg",
+    "rating": 6.062,
+    "ts": "2026-07-03"
   },
   "voicemails-for-isabelle": {
     "tmdbId": 614945,

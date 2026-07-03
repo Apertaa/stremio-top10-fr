@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202607021725",
+  "date": "202607031711",
   "entries": [
     {
       "rank": 1,
-      "id": "tt34888871",
-      "name": "Little Brother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "rating": 6.2,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
       "year": 2026,
-      "days": 6,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
+      "id": "tt34888871",
+      "name": "Little Brother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "rating": 6.2,
       "year": 2026,
-      "days": 13,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,77 +32,77 @@
     },
     {
       "rank": 3,
-      "id": "tt42863533",
-      "name": "Maternal Instinct : L'énigme Taylor Parker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": 20,
+      "id": "tt28833276",
+      "name": "Hunting Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7uGxjU3DnuE5WxYCl02MEd8Ivjs.jpg",
+      "rating": 5,
+      "year": 2024,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 4,
+      "id": "tt2250912",
+      "name": "Spider-Man : Homecoming",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
+      "rating": 7.33,
+      "year": 2017,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt2267998",
+      "name": "Gone Girl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7xkJ1ACu40BjzLHVPRILWjFvW7.jpg",
+      "rating": 7.89,
+      "year": 2014,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 58,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt5113044",
       "name": "Les Minions 2 : Il était une fois Gru",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 38,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt10452854",
-      "name": "The 24th",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ofLGHOHFEOr3bS8dYFbaWgnZESa.jpg",
-      "rating": 5.679,
-      "year": 2020,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0437863",
-      "name": "La revanche des Losers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kmNwou9WfkTZq7UyQV4quB1bHBo.jpg",
-      "rating": 5.853,
-      "year": 2006,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 49,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt3469046",
-      "name": "Moi, moche et méchant 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
-      "rating": 6.468,
-      "year": 2017,
-      "days": 35,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt2224026",
-      "name": "En route !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
-      "rating": 6.787,
-      "year": 2015,
-      "days": 110,
+      "id": "tt42863533",
+      "name": "Maternal Instinct : L'énigme Taylor Parker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 10,
-      "id": "tt14205554",
-      "name": "KPop Demon Hunters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 303,
+      "id": "tt1753383",
+      "name": "Mes vies de chien",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lXd6nwFyM6BblbkOwy9cTClXumh.jpg",
+      "rating": 7.641,
+      "year": 2017,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]
