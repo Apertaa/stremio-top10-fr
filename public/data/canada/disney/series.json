@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "disney",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,75 +24,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt35823838",
-      "name": "Not Suitable for Work",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt42416598",
-      "name": "Abandoned",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt43349460",
-      "name": "Squatters: Get the F*** Out of My House",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": 14,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt43138820",
       "name": "Million Dollar Nannies",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 3
       }
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt42416598",
+      "name": "Abandoned",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt10970762",
       "name": "The Testaments",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt43349460",
+      "name": "Squatters: Get the F*** Out of My House",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": 15,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
       "rating": 8,
       "year": 2022,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 43,
+      "days": 44,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
       "rating": 7.008,
       "year": 2005,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

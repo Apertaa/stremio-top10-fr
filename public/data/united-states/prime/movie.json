@@ -2,42 +2,42 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt32565993",
       "name": "Les moutons détectives",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 43,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt5950044",
-      "name": "Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
-      "rating": 7.338,
-      "year": 2025,
-      "days": 12,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 44,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 46,
+      "id": "tt5950044",
+      "name": "Superman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
+      "rating": 7.338,
+      "year": 2025,
+      "days": 13,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt9663764",
-      "name": "Aquaman et le Royaume perdu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
-      "rating": 6.523,
-      "year": 2023,
-      "days": 36,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 47,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
       "rating": 6.439,
       "year": 2023,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
+      "id": "tt9663764",
+      "name": "Aquaman et le Royaume perdu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
+      "rating": 6.523,
+      "year": 2023,
+      "days": 37,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt1440129",
       "name": "Battleship",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bCYuM18r8G8pOlHf6yYxnFU9IJ4.jpg",
       "rating": 5.903,
       "year": 2012,
-      "days": 47,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
-      "year": 2026,
-      "days": 15,
+      "days": 48,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 135,
+      "days": 136,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uO0tsSHByL7bgJhV81eQZwp4hD6.jpg",
       "rating": 6.81,
       "year": 2024,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

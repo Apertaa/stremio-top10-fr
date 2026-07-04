@@ -2,32 +2,32 @@
   "country": "france",
   "key": "canal",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
-      "id": "tt11198330",
-      "name": "House of the Dragon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "rating": 8.301,
-      "year": 2022,
-      "days": 136,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt34991493",
       "name": "Dutton Ranch",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 48,
+      "days": 49,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt11198330",
+      "name": "House of the Dragon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
+      "rating": 8.301,
+      "year": 2022,
+      "days": 137,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 160,
+      "days": 161,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,93 +45,93 @@
     },
     {
       "rank": 4,
-      "id": "tt31438328",
-      "name": "La ville nous appartient",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": 15,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt34675596",
-      "name": "Cape Fear - Les Nerfs à vif",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt16418808",
-      "name": "Sugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "rating": 7.2,
-      "year": 2024,
-      "days": 45,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt33332385",
-      "name": "Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
-      "rating": 8.202,
-      "year": 2026,
-      "days": 36,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 145,
+      "days": 146,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
-      "rank": 9,
-      "id": "tt0944947",
-      "name": "Game of Thrones",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
-      "rating": 8.5,
-      "year": 2011,
-      "days": 343,
+      "rank": 5,
+      "id": "tt31438328",
+      "name": "La ville nous appartient",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "id": "tt34675596",
+      "name": "Cape Fear - Les Nerfs à vif",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 26,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt16418808",
+      "name": "Sugar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "rating": 7.2,
+      "year": 2024,
+      "days": 46,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt34376827",
       "name": "Wild Cherry",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxn4ylDZSnQq83H0jXAmueBFV8A.jpg",
       "rating": 4.8,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt33332385",
+      "name": "Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
+      "rating": 8.202,
+      "year": 2026,
+      "days": 37,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0944947",
+      "name": "Game of Thrones",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
+      "rating": 8.5,
+      "year": 2011,
+      "days": 344,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

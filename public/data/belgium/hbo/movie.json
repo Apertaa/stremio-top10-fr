@@ -2,136 +2,136 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
+      "id": "tt32612507",
+      "name": "Le Réveil de la Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+      "rating": 8.023,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt31728330",
       "name": "They Will Kill You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt11182994",
-      "name": "Zillion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
-      "rating": 7.014,
-      "year": 2022,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt15334488",
-      "name": "After - Chapitre 5",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dTokNCdBjiXMsNW84Lsj6JsmjRX.jpg",
-      "rating": 6.879,
-      "year": 2023,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt2140479",
-      "name": "Mr Wolff",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o7073AlEoBqltpsRBRDI6b5CyM6.jpg",
-      "rating": 7.138,
-      "year": 2016,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0073195",
-      "name": "Les Dents de la mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
-      "rating": 7.682,
-      "year": 1975,
-      "days": 27,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt41702551",
       "name": "Bang My Box: The Robin Byrd Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt11182994",
+      "name": "Zillion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
+      "rating": 7.014,
+      "year": 2022,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt15334488",
+      "name": "After - Chapitre 5",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dTokNCdBjiXMsNW84Lsj6JsmjRX.jpg",
+      "rating": 6.879,
+      "year": 2023,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt2140479",
+      "name": "Mr Wolff",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o7073AlEoBqltpsRBRDI6b5CyM6.jpg",
+      "rating": 7.138,
+      "year": 2016,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 7,
-      "id": "tt30851137",
-      "name": "The Bride!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
-      "rating": 6.171,
-      "year": 2026,
-      "days": 40,
+      "id": "tt5726616",
+      "name": "Call Me by Your Name",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
+      "rating": 8.09,
+      "year": 2017,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt4532826",
-      "name": "Robin des Bois",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tSls6dSMuXz7AHjDuuFvRaNbxHx.jpg",
-      "rating": 5.91,
-      "year": 2018,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0454848",
-      "name": "Inside Man : L'Homme de l'intérieur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/FFmOisKfYgCDzuWC5tf8m98U78.jpg",
-      "rating": 7.407,
-      "year": 2006,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0360486",
       "name": "Constantine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
       "rating": 7.179,
       "year": 2005,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0073195",
+      "name": "Les Dents de la mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
+      "rating": 7.682,
+      "year": 1975,
+      "days": 28,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt4532826",
+      "name": "Robin des Bois",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tSls6dSMuXz7AHjDuuFvRaNbxHx.jpg",
+      "rating": 5.91,
+      "year": 2018,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

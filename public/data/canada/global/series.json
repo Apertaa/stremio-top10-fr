@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "global",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,103 +19,103 @@
     },
     {
       "rank": 2,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.79,
-      "year": 2024,
-      "days": 40,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "top10:louis-ck-ridiculous",
-      "name": "Louis C.K.: Ridiculous",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt8690918",
-      "name": "Resident Alien",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1kkOG8aiNkJgHNBviVHvgXoG8HR.jpg",
-      "rating": 7.797,
-      "year": 2021,
-      "days": 10,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt38776795",
-      "name": "L'Été 36",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": null,
+      "id": "tt0227972",
+      "name": "WWE SmackDown Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
+      "rating": 7.5,
+      "year": 1999,
+      "days": 4,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
+      "rank": 3,
+      "id": "tt34771210",
+      "name": "Sur tes traces",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt9018736",
+      "name": "Avatar : Le dernier maître de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "rating": 7.79,
+      "year": 2024,
+      "days": 41,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt33094114",
+      "name": "India's Got Latent",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8jcdd5HqW4nhF2upVGFS0KJ6hdY.jpg",
+      "rating": 8.6,
+      "year": 2024,
+      "days": 5,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "top10:louis-ck-ridiculous",
+      "name": "Louis C.K.: Ridiculous",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
       "rank": 9,
-      "id": "tt17736900",
-      "name": "Lock Upp",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
-      "rating": 9.25,
-      "year": 2022,
-      "days": 6,
+      "id": "tt8690918",
+      "name": "Resident Alien",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1kkOG8aiNkJgHNBviVHvgXoG8HR.jpg",
+      "rating": 7.797,
+      "year": 2021,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt32146518",
-      "name": "America's Sweethearts : Les cheerleaders des Dallas Cowboys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
-      "rating": 8.2,
-      "year": 2024,
-      "days": 68,
+      "id": "tt38776795",
+      "name": "L'Été 36",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

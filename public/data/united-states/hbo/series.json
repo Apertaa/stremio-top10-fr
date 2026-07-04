@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 105,
+      "days": 106,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": 78,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt34881067",
-      "name": "Baylen Out Loud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 134,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt37543147",
       "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 5,
+      "days": 6,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt2861424",
+      "name": "Rick et Morty",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "rating": 8.679,
+      "year": 2013,
+      "days": 79,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 135,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 179,
+      "days": 180,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,25 +71,25 @@
     },
     {
       "rank": 6,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 89,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt3530232",
       "name": "Last Week Tonight with John Oliver",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
       "rating": 7.796,
       "year": 2014,
-      "days": 585,
+      "days": 586,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 90,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt36503976",
-      "name": "Castle Impossible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/263iMFN62eTC7lkrNnWo8V0XtP8.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": 3,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt32333081",
       "name": "Influence mortelle : Réseaux assassins",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
       "rating": 6.5,
       "year": 2024,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt42815500",
       "name": "Little Singles",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt32604054",
+      "name": "Regular Show: The Lost Tapes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
+      "rating": 9.646,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

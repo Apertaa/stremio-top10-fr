@@ -2,29 +2,29 @@
   "country": "united-states",
   "key": "paramount",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0452046",
-      "name": "Esprits criminels",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
-      "rating": 8.3,
-      "year": 2005,
-      "days": 807,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt34991493",
       "name": "Dutton Ranch",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 48,
+      "days": 49,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0452046",
+      "name": "Esprits criminels",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
+      "rating": 8.3,
+      "year": 2005,
+      "days": 808,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -32,106 +32,106 @@
     },
     {
       "rank": 3,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
-      "rating": 8.3,
-      "year": 1997,
-      "days": 344,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt26656917",
-      "name": "The Agency",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
-      "rating": 7.1,
-      "year": 2024,
-      "days": 15,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0364845",
-      "name": "NCIS : Enquêtes Spéciales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "rating": 7.619,
-      "year": 2003,
-      "days": 857,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0115167",
-      "name": "Tout le monde aime Raymond",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
-      "rating": 6.813,
-      "year": 1996,
-      "days": 714,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt14321632",
-      "name": "All the Queen's Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
-      "rating": 8.39,
-      "year": 2021,
-      "days": 18,
-      "trend": {
-        "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt6294706",
       "name": "The Chi",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
       "rating": 7.897,
       "year": 2018,
-      "days": 192,
+      "days": 193,
       "trend": {
         "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": 345,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt14186672",
-      "name": "Landman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "rating": 8.157,
-      "year": 2024,
-      "days": 260,
+      "rank": 5,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 120,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 10,
-      "id": "tt0206512",
-      "name": "Bob l'éponge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
-      "rating": 7.7,
-      "year": 1999,
-      "days": 821,
+      "rank": 6,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0364845",
+      "name": "NCIS : Enquêtes Spéciales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
+      "rating": 7.619,
+      "year": 2003,
+      "days": 858,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0115167",
+      "name": "Tout le monde aime Raymond",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+      "rating": 6.813,
+      "year": 1996,
+      "days": 715,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt14321632",
+      "name": "All the Queen's Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
+      "rating": 8.39,
+      "year": 2021,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt14186672",
+      "name": "Landman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "rating": 8.157,
+      "year": 2024,
+      "days": 261,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

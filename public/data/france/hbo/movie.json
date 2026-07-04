@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
       "rating": 7.015,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
       "rating": 6.238,
       "year": 2010,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdQOz5enVVz113zZQcuoqh3oACy.jpg",
       "rating": 5.378,
       "year": 2000,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 52,
+      "days": 53,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt22688572",
-      "name": "Boudica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
-      "rating": 5.815,
-      "year": 2023,
-      "days": 32,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0360486",
       "name": "Constantine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
       "rating": 7.179,
       "year": 2005,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt22688572",
+      "name": "Boudica",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
+      "rating": 5.815,
+      "year": 2023,
+      "days": 33,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt5726616",
+      "name": "Call Me by Your Name",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
+      "rating": 8.09,
+      "year": 2017,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 8,
-      "id": "tt12584954",
-      "name": "Twisters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bgyrB7OmVBmqdVxFXjCmh4Q30Ju.jpg",
-      "rating": 6.773,
-      "year": 2024,
-      "days": 22,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt10872600",
-      "name": "Spider-Man : No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
-      "rating": 7.933,
-      "year": 2021,
-      "days": 22,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt8368406",
       "name": "Vivarium",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2SAH6napkUWibaAJ4oXr8dAVTIm.jpg",
       "rating": 6.062,
       "year": 2019,
-      "days": 21,
+      "days": 22,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0332452",
+      "name": "Troie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
+      "rating": 7.177,
+      "year": 2004,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null

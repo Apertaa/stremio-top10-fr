@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,64 +45,64 @@
     },
     {
       "rank": 4,
-      "id": "tt27812086",
-      "name": "Cleaner",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
-      "rating": 6.392,
-      "year": 2025,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt26928684",
       "name": "Summer Camp",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
       "rating": 5.296,
       "year": 2024,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 5,
+      "id": "tt22863968",
+      "name": "Menace en eaux profondes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cZATcRQffQNjMdEgHppW5DH1LOS.jpg",
+      "rating": 5.586,
+      "year": 2024,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
       "rank": 6,
+      "id": "tt27812086",
+      "name": "Cleaner",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
+      "rating": 6.392,
+      "year": 2025,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt1785635",
       "name": "The Vault",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46aFAarpJSGP5r9aJ8BboPcISvl.jpg",
       "rating": 4.884,
       "year": 2017,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt0477347",
       "name": "La Nuit au musée",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt6549510",
-      "name": "La Marque de la vengeance 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wBRTzPOtwDor3xSB2KmlbsZoepm.jpg",
-      "rating": 6.769,
-      "year": 2024,
-      "days": 1,
+      "days": 8,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt4978420",
-      "name": "Borderlands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tmg3ilwFTxU0V8Kcm2No1rmHf3W.jpg",
-      "rating": 5.59,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
       "year": 2024,
-      "days": 8,
+      "days": 46,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt22863968",
-      "name": "Menace en eaux profondes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cZATcRQffQNjMdEgHppW5DH1LOS.jpg",
-      "rating": 5.586,
+      "id": "tt6549510",
+      "name": "La Marque de la vengeance 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wBRTzPOtwDor3xSB2KmlbsZoepm.jpg",
+      "rating": 6.769,
       "year": 2024,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

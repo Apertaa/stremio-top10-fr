@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 48,
+      "days": 49,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 51,
+      "days": 52,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,32 +37,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 739,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 747,
+      "days": 740,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 5,
-      "id": "tt4181172",
-      "name": "Shooter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3yNdTnt8OQXQHXQbHjFS5G8g2zN.jpg",
-      "rating": 7.198,
-      "year": 2016,
+      "rank": 4,
+      "id": "tt11006642",
+      "name": "Walker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9uW1W9q0zKPzPdRwIcL3eCDJsfw.jpg",
+      "rating": 7.1,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "new",
@@ -70,26 +57,39 @@
       }
     },
     {
-      "rank": 6,
-      "id": "tt14186672",
-      "name": "Landman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "rating": 8.157,
-      "year": 2024,
-      "days": 292,
+      "rank": 5,
+      "id": "tt33253070",
+      "name": "M.I.A.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EJOS3Px9ASawruHCKVeYGlAsol.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "days": 52,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 748,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 7,
-      "id": "tt0106004",
-      "name": "Frasier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-      "rating": 7.685,
-      "year": 1993,
-      "days": 739,
+      "id": "tt4181172",
+      "name": "Shooter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3yNdTnt8OQXQHXQbHjFS5G8g2zN.jpg",
+      "rating": 7.198,
+      "year": 2016,
+      "days": 1,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt0106004",
+      "name": "Frasier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+      "rating": 7.685,
+      "year": 1993,
+      "days": 740,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt14186672",
+      "name": "Landman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "rating": 8.157,
+      "year": 2024,
+      "days": 293,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt36849871",
       "name": "Marshals: A Yellowstone Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
       "rating": 7.956,
       "year": 2026,
-      "days": 112,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0062568",
-      "name": "Hawaï police d'État",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wil51KinEc1bNL2qkXONfJzgTzo.jpg",
-      "rating": 7.172,
-      "year": 1968,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt20249474",
-      "name": "17 ans et maman : Royaume-Uni",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zIrpQFK4hN7uW3xK8cMzRWRSgPP.jpg",
-      "rating": 5,
-      "year": 2016,
-      "days": 6,
+      "days": 113,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     }
   ]

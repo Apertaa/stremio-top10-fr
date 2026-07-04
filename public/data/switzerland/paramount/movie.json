@@ -2,58 +2,58 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
+      "id": "tt30826955",
+      "name": "Légitime vengeance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mY3xrbfdv86cupUq5FdjRlZfb4G.jpg",
+      "rating": 4.472,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt14107334",
       "name": "Running Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "id": "tt6001846",
+      "name": "Long Gone Heroes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
+      "rating": 5.356,
+      "year": 2024,
+      "days": 109,
+      "trend": {
+        "dir": "up",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt0257106",
       "name": "Scary Movie 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt31898445",
-      "name": "Escape",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": 31,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 17,
-      "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
       "rating": 6.165,
       "year": 2021,
-      "days": 176,
+      "days": 177,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,64 +71,64 @@
     },
     {
       "rank": 6,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt37150957",
       "name": "Dann passiert das Leben",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
       "rating": 7.7,
       "year": 2025,
-      "days": 5,
+      "days": 6,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 18,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 3
       }
     },
     {
       "rank": 8,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt9603208",
       "name": "Mission : Impossible - The Final Reckoning",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
       "rating": 7.169,
       "year": 2025,
-      "days": 194,
+      "days": 195,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt6001846",
-      "name": "Long Gone Heroes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
-      "rating": 5.356,
-      "year": 2024,
-      "days": 108,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt1034385",
-      "name": "Cold Skin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n19XkI8xhwUexT0TSfXJ2OyW9cr.jpg",
-      "rating": 6.295,
-      "year": 2017,
-      "days": 71,
+      "id": "tt29603959",
+      "name": "Novocaïne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZMCpsZMB5PgJ2p585e4JFN5dTX.jpg",
+      "rating": 6.785,
+      "year": 2025,
+      "days": 251,
       "trend": {
         "dir": "new",
         "delta": null

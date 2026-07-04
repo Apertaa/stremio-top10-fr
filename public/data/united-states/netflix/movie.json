@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
-      "id": "tt28833276",
-      "name": "Hunting Housewives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7uGxjU3DnuE5WxYCl02MEd8Ivjs.jpg",
-      "rating": 5,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt2250912",
       "name": "Spider-Man : Homecoming",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
       "rating": 7.33,
       "year": 2017,
-      "days": 1,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt28833276",
+      "name": "Hunting Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7uGxjU3DnuE5WxYCl02MEd8Ivjs.jpg",
+      "rating": 5,
+      "year": 2024,
+      "days": 2,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7xkJ1ACu40BjzLHVPRILWjFvW7.jpg",
       "rating": 7.89,
       "year": 2014,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 58,
+      "days": 59,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 39,
+      "days": 40,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "rating": 7.2,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lXd6nwFyM6BblbkOwy9cTClXumh.jpg",
       "rating": 7.641,
       "year": 2017,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

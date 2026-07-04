@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "disney",
   "list": "movie",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,63 +19,11 @@
     },
     {
       "rank": 2,
-      "id": "top10:toy-story-5-a-special-look",
-      "name": "Toy Story 5 | A Special Look",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 21,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt13622970",
-      "name": "Vaiana 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
-      "rating": 7.006,
-      "year": 2024,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt26443616",
-      "name": "Jumpers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
-      "rating": 8.181,
+      "id": "tt33978029",
+      "name": "Wedding Nightmare : Deuxième partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
+      "rating": 7.665,
       "year": 2026,
-      "days": 28,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt27419466",
-      "name": "Vaiana, la légende du bout du monde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 42,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0092890",
-      "name": "Dirty Dancing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/osfBQ18P0y3pwT5qVuhdPk8btbj.jpg",
-      "rating": 7.325,
-      "year": 1987,
       "days": null,
       "trend": {
         "dir": "new",
@@ -83,55 +31,107 @@
       }
     },
     {
-      "rank": 7,
-      "id": "tt0435761",
-      "name": "Toy Story 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
-      "rating": 7.8,
-      "year": 2010,
-      "days": 21,
+      "rank": 3,
+      "id": "top10:toy-story-5-a-special-look",
+      "name": "Toy Story 5 | A Special Look",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt0114709",
-      "name": "Toy Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg",
-      "rating": 7.977,
-      "year": 1995,
-      "days": 26,
+      "rank": 4,
+      "id": "tt13622970",
+      "name": "Vaiana 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "rating": 7.006,
+      "year": 2024,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0092890",
+      "name": "Dirty Dancing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/osfBQ18P0y3pwT5qVuhdPk8btbj.jpg",
+      "rating": 7.325,
+      "year": 1987,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt27419466",
+      "name": "Vaiana, la légende du bout du monde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 43,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt26443616",
+      "name": "Jumpers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
+      "rating": 8.181,
+      "year": 2026,
+      "days": 29,
       "trend": {
         "dir": "down",
         "delta": 3
       }
     },
     {
+      "rank": 8,
+      "id": "tt0435761",
+      "name": "Toy Story 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
+      "rating": 7.8,
+      "year": 2010,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 9,
+      "id": "tt7798634",
+      "name": "Wedding Nightmare",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iI53NwzcNpkImU346bV866G7G46.jpg",
+      "rating": 7.077,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt0120363",
       "name": "Toy Story 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
       "rating": 7.6,
       "year": 1999,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt0499549",
-      "name": "Avatar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N8L80OaG8EBTDdRBjGqT8PBzCM.jpg",
-      "rating": 7.607,
-      "year": 2009,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

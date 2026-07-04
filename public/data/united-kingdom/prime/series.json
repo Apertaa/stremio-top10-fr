@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202607031711",
+  "date": "202607041651",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 29,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 50,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,36 +50,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ezsIKj94YztMbfa1QCWiBS6beol.jpg",
       "rating": 9,
       "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt33055254",
-      "name": "Au fil des années",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
-      "rating": 8.329,
-      "year": 2026,
-      "days": 22,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt39230035",
       "name": "What Would You Rather: Decide to Survive?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1YuZSZFU5KHSgaEnra7noMDCiFq.jpg",
       "rating": null,
       "year": 2026,
-      "days": 6,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt33055254",
+      "name": "Au fil des années",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
+      "rating": 8.329,
+      "year": 2026,
+      "days": 23,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 36,
+      "days": 37,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 85,
+      "days": 86,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tmdb:324002",
+      "name": "Sidemen Present: Side-Menu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v2IRWIhbyaQLx0LF14TUfFy47N7.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt11247158",
       "name": "La légende de Vox Machina",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
       "rating": 8.196,
       "year": 2022,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt9794044",
-      "name": "Citadel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lcrIWpYqo2VtLXDkzmmKiWlvwp8.jpg",
-      "rating": 6.89,
-      "year": 2023,
-      "days": 57,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]
