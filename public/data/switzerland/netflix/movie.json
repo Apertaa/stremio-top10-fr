@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202607041651",
+  "date": "202607051653",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
       "rating": 5.574,
       "year": 2025,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt1233571",
-      "name": "L'art de la guerre II : Trahison",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/638qKUIgQ3F0ERANFmHwgHSXOkz.jpg",
-      "rating": 4.714,
-      "year": 2008,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt7846844",
       "name": "Enola Holmes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
       "rating": 7.222,
       "year": 2020,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt33255286",
-      "name": "Chien 51",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
-      "rating": 6.105,
-      "year": 2025,
-      "days": 8,
+      "rank": 7,
+      "id": "tt1233571",
+      "name": "L'art de la guerre II : Trahison",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/638qKUIgQ3F0ERANFmHwgHSXOkz.jpg",
+      "rating": 4.714,
+      "year": 2008,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt33397980",
       "name": "Office Romance",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 27,
+      "days": 29,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt14641788",
       "name": "Enola Holmes 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n4MNnDDVm86AELe1fxbLvxHYeyh.jpg",
       "rating": 7.404,
       "year": 2022,
-      "days": null,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt6654210",
+      "name": "Infinite",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bElBmTJSE1XGnLbSByThQAFzDWq.jpg",
+      "rating": 6.561,
+      "year": 2021,
+      "days": 23,
       "trend": {
         "dir": "new",
         "delta": null

@@ -809,6 +809,16 @@
     "rating": 7.936,
     "ts": "2026-06-28"
   },
+  "bluey": {
+    "tmdbId": 82728,
+    "tmdbType": "tv",
+    "imdbId": "tt7678620",
+    "titleFr": "Bluey",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+    "rating": 8.583,
+    "ts": "2026-07-05"
+  },
   "bluey-minisodes": {
     "tmdbId": 256953,
     "tmdbType": "tv",
@@ -828,6 +838,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/67IWX8vXTSTCOvHFWarxYM3vlNf.jpg",
     "rating": 6,
     "ts": "2026-06-20"
+  },
+  "bodies-in-the-water": {
+    "tmdbId": 257744,
+    "tmdbType": "tv",
+    "imdbId": "tt32907596",
+    "titleFr": "Bodies in the Water",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kdvK2OdTpUOs39Z0lvr9vKch9zP.jpg",
+    "rating": 8.5,
+    "ts": "2026-07-05"
   },
   "bohemian-rhapsody": {
     "tmdbId": 424694,
@@ -2239,6 +2259,16 @@
     "rating": 8.209,
     "ts": "2026-06-20"
   },
+  "grizzy-the-lemmings": {
+    "tmdbId": 74415,
+    "tmdbType": "tv",
+    "imdbId": "tt6717058",
+    "titleFr": "Grizzy & les Lemmings",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2izN47iCYlLXDX1CcbKN1OkKeaf.jpg",
+    "rating": 7.3,
+    "ts": "2026-07-05"
+  },
   "half-man": {
     "tmdbId": 257994,
     "tmdbType": "tv",
@@ -2689,6 +2719,16 @@
     "rating": 6.3,
     "ts": "2026-06-26"
   },
+  "jamie-johnson": {
+    "tmdbId": 79112,
+    "tmdbType": "tv",
+    "imdbId": "tt5698216",
+    "titleFr": "Jamie Johnson",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9t6stbz5F4W9tq7qLjmtGR4VmLG.jpg",
+    "rating": 5.2,
+    "ts": "2026-07-05"
+  },
   "jaws": {
     "tmdbId": 578,
     "tmdbType": "movie",
@@ -2738,6 +2778,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/cWJGZAozNQFKLCD8vv4ukw4nJP8.jpg",
     "rating": 5.401,
     "ts": "2026-06-22"
+  },
+  "just-friends": {
+    "tmdbId": 10033,
+    "tmdbType": "movie",
+    "imdbId": "tt0433400",
+    "titleFr": "Just Friends",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xuqHqUCVXXfXkiq5xbz2mlWC06E.jpg",
+    "rating": 6.208,
+    "ts": "2026-07-05"
   },
   "justice-league": {
     "tmdbId": 141052,
@@ -3929,6 +3979,16 @@
     "rating": 6.539,
     "ts": "2026-06-19"
   },
+  "old-henry": {
+    "tmdbId": 785663,
+    "tmdbType": "movie",
+    "imdbId": "tt12731980",
+    "titleFr": "Old Henry",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+    "rating": 7.254,
+    "ts": "2026-07-05"
+  },
   "old-school": {
     "tmdbId": 11635,
     "tmdbType": "movie",
@@ -4869,6 +4929,16 @@
     "rating": 7.9,
     "ts": "2026-06-20"
   },
+  "simpsley": {
+    "tmdbId": 1725116,
+    "tmdbType": "movie",
+    "imdbId": "tt43140642",
+    "titleFr": "Simpsley",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+    "rating": null,
+    "ts": "2026-07-05"
+  },
   "sing": {
     "tmdbId": 335797,
     "tmdbType": "movie",
@@ -4968,6 +5038,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
     "rating": 8.3,
     "ts": "2026-06-19"
+  },
+  "space-cowboys": {
+    "tmdbId": 5551,
+    "tmdbType": "movie",
+    "imdbId": "tt0186566",
+    "titleFr": "Space Cowboys",
+    "year": 2000,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
+    "rating": 6.398,
+    "ts": "2026-07-05"
   },
   "speak-no-evil-2024": {
     "tmdbId": 1114513,
@@ -5208,6 +5288,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
     "rating": 5.296,
     "ts": "2026-07-03"
+  },
+  "superkitties": {
+    "tmdbId": 201478,
+    "tmdbType": "tv",
+    "imdbId": "tt19872934",
+    "titleFr": "SuperChatons",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8Mc9K01Ymx4rMxHOygG1E8WyUpq.jpg",
+    "rating": 5.4,
+    "ts": "2026-07-05"
   },
   "superkitties-su-purr-adventures-shorts": {
     "tmdbId": 261557,
@@ -5688,6 +5778,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg",
     "rating": 4.815,
     "ts": "2026-07-02"
+  },
+  "the-equalizer": {
+    "tmdbId": 156022,
+    "tmdbType": "movie",
+    "imdbId": "tt0455944",
+    "titleFr": "Equalizer",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/un8nwv94ERfZEypyuzEdR7UJ8l5.jpg",
+    "rating": 7.3,
+    "ts": "2026-07-05"
   },
   "the-fall-skydive-murder-plot": {
     "tmdbId": 255972,
@@ -6988,6 +7088,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
     "rating": 4.9,
     "ts": "2026-06-19"
+  },
+  "wicked-for-good": {
+    "tmdbId": 967941,
+    "tmdbType": "movie",
+    "imdbId": "tt19847976",
+    "titleFr": "Wicked : Partie II",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
+    "rating": 6.625,
+    "ts": "2026-07-05"
   },
   "widows-bay": {
     "tmdbId": 270476,

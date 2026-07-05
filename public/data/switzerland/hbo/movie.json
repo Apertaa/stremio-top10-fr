@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607041651",
+  "date": "202607051653",
   "entries": [
     {
       "rank": 1,
@@ -13,8 +13,8 @@
       "year": 2026,
       "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
       "rating": 7.454,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -58,77 +58,77 @@
     },
     {
       "rank": 5,
+      "id": "tt6874690",
+      "name": "The Rule of Jenny Pen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hnRypLHkqd0qBLL1qT9KNy0XFl0.jpg",
+      "rating": 6.19,
+      "year": 2025,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt1392190",
       "name": "Mad Max : Fury Road",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
       "rating": 7.634,
       "year": 2015,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt13560574",
-      "name": "X",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
-      "rating": 6.7,
-      "year": 2022,
-      "days": 13,
-      "trend": {
-        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 7,
+      "id": "tt13560574",
+      "name": "X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
+      "rating": 6.7,
+      "year": 2022,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1375666",
+      "name": "Inception",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
+      "rating": 8.4,
+      "year": 2010,
+      "days": 8,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tmdb:1417605",
       "name": "DOGTOOTH",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Bzizu1xcm3aB993K6hPKa60LGK.jpg",
       "rating": 9,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0079501",
-      "name": "Mad Max",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nv5DtpzgjrILNusr3JiTE3O4tlL.jpg",
-      "rating": 6.684,
-      "year": 1979,
-      "days": 5,
+      "days": 1,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 9,
-      "id": "tt6874690",
-      "name": "The Rule of Jenny Pen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hnRypLHkqd0qBLL1qT9KNy0XFl0.jpg",
-      "rating": 6.19,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
-      "days": 7,
+      "id": "tt0482571",
+      "name": "Le Prestige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
+      "rating": 8.208,
+      "year": 2006,
+      "days": 12,
       "trend": {
         "dir": "new",
         "delta": null

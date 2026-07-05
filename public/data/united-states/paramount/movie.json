@@ -2,19 +2,19 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607041651",
+  "date": "202607051653",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0100814",
-      "name": "Tremors",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
-      "rating": 6.938,
-      "year": 1990,
-      "days": 1,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 686,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 36,
+      "days": 37,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,54 +32,54 @@
     },
     {
       "rank": 3,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 685,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt1225822",
       "name": "Extract",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
       "rating": 5.847,
       "year": 2009,
-      "days": 93,
+      "days": 94,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0092099",
+      "name": "Top Gun",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/85kNHM0BWHE9All9GYeofwnbnu5.jpg",
+      "rating": 7.068,
+      "year": 1986,
+      "days": 44,
+      "trend": {
+        "dir": "up",
+        "delta": 6
       }
     },
     {
       "rank": 5,
-      "id": "tt0093105",
-      "name": "Good Morning, Vietnam",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPszN5iNKr3MmFq0dMhAyvzW0kb.jpg",
-      "rating": 7.3,
-      "year": 1987,
-      "days": 1,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt4627382",
       "name": "Roofman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 183,
+      "days": 184,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0100814",
+      "name": "Tremors",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
+      "rating": 6.938,
+      "year": 1990,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 5
       }
     },
     {
@@ -89,46 +89,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
       "rating": 6.833,
       "year": 2019,
-      "days": null,
+      "days": 1,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt10323676",
+      "name": "Le Contracteur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
+      "rating": 6.351,
+      "year": 2022,
+      "days": 76,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt33028778",
       "name": "Primate",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
       "rating": 6.526,
       "year": 2026,
-      "days": 100,
+      "days": 101,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0345950",
-      "name": "Bob l'éponge, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
-      "rating": 7.089,
-      "year": 2004,
-      "days": 112,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt0092099",
-      "name": "Top Gun",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/85kNHM0BWHE9All9GYeofwnbnu5.jpg",
-      "rating": 7.068,
-      "year": 1986,
-      "days": 43,
+      "id": "tt0822854",
+      "name": "Shooter, tireur d'élite",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ESmsY38eOBcmAkym3hJqOBm7vP.jpg",
+      "rating": 7.126,
+      "year": 2007,
+      "days": 171,
       "trend": {
         "dir": "new",
         "delta": null

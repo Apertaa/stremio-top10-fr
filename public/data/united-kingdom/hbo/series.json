@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "series",
-  "date": "202607041651",
+  "date": "202607051653",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
       "rating": 8.746,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,63 +45,24 @@
     },
     {
       "rank": 4,
-      "id": "tt38448408",
-      "name": "The Killings at Parrish Station",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
-      "rating": 5.667,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt37543147",
       "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt11617414",
-      "name": "Sœurs de poids",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6TkxFK6wxirZDRy8DHsFW63uAL.jpg",
-      "rating": 7.2,
-      "year": 2020,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tmdb:312384",
-      "name": "Mock the Week",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFNTdzP3obJEE33dQ0v69uauCKF.jpg",
-      "rating": 6,
+      "rank": 5,
+      "id": "tt38448408",
+      "name": "The Killings at Parrish Station",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
+      "rating": 5.667,
       "year": 2026,
-      "days": 14,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt10466872",
-      "name": "Dune : Prophecy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
-      "rating": 7.3,
-      "year": 2024,
       "days": 6,
       "trend": {
         "dir": "down",
@@ -109,13 +70,52 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt42907659",
-      "name": "Big Girls Wanted: Escaping Pearadise",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
-      "rating": 1,
+      "rank": 6,
+      "id": "tt3469050",
+      "name": "90 jours pour se marier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
+      "rating": 7.1,
+      "year": 2014,
+      "days": 2,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt40906144",
+      "name": "In the Eye of the Storm: Chasers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3TXfT52hKDXbGdDlhCGjif0yh1.jpg",
+      "rating": 9.3,
       "year": 2026,
-      "days": 13,
+      "days": 5,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
+      "rating": 8.746,
+      "year": 2025,
+      "days": 15,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
+      "year": 2026,
+      "days": 11,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt40906144",
-      "name": "In the Eye of the Storm: Chasers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3TXfT52hKDXbGdDlhCGjif0yh1.jpg",
-      "rating": 9.3,
+      "id": "tmdb:312384",
+      "name": "Mock the Week",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFNTdzP3obJEE33dQ0v69uauCKF.jpg",
+      "rating": 6,
       "year": 2026,
-      "days": 4,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]
