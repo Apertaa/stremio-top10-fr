@@ -2,32 +2,32 @@
   "country": "canada",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607051653",
+  "date": "202607061803",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt7510222",
       "name": "Moi, moche et méchant 4",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 370,
+      "days": 371,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,93 +45,93 @@
     },
     {
       "rank": 4,
-      "id": "tt1078912",
-      "name": "La Nuit au musée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
-      "rating": 6.157,
-      "year": 2009,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt29552248",
       "name": "Aventures croisées",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 64,
+      "days": 65,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt1078912",
+      "name": "La Nuit au musée 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "rating": 6.157,
+      "year": 2009,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt18259086",
-      "name": "Sonic 3, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
-      "rating": 7.617,
-      "year": 2024,
-      "days": 112,
+      "id": "tt1028532",
+      "name": "Hatchi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXZpNMUwrlnNRXwDc8yQaQx17W7.jpg",
+      "rating": 8,
+      "year": 2009,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 7,
-      "id": "tt2692250",
-      "name": "La Nuit au musée : Le Secret des pharaons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ooy7Yw3SnVNdeMaAhcmgj4CTWJ3.jpg",
-      "rating": 6.224,
-      "year": 2014,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt5884052",
-      "name": "Pokémon Détective Pikachu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
-      "rating": 6.905,
-      "year": 2019,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0126029",
       "name": "Shrek",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
       "rating": 7.765,
       "year": 2001,
-      "days": 333,
+      "days": 334,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt18259086",
+      "name": "Sonic 3, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
+      "rating": 7.617,
+      "year": 2024,
+      "days": 113,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt2692250",
+      "name": "La Nuit au musée : Le Secret des pharaons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ooy7Yw3SnVNdeMaAhcmgj4CTWJ3.jpg",
+      "rating": 6.224,
+      "year": 2014,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt0307453",
-      "name": "Gang de Requins",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wCRT8jjUrAkITnhC31ZbOWIZpHV.jpg",
-      "rating": 6.043,
-      "year": 2004,
-      "days": 23,
+      "id": "tt22184976",
+      "name": "Minions et compagnie - La compil' n° 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
+      "rating": 7.028,
+      "year": 2022,
+      "days": 88,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607051653",
+  "date": "202607061803",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
       "rating": 6.84,
       "year": 1998,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,88 +50,88 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
       "rating": 7.458,
       "year": 2021,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 19,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0186566",
-      "name": "Space Cowboys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
-      "rating": 6.398,
-      "year": 2000,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0105695",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
-      "rating": 7.911,
-      "year": 1992,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0385307",
-      "name": "Miss FBI : Divinement armée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
-      "rating": 5.741,
-      "year": 2005,
-      "days": 5,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "id": "tt0105695",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
+      "rating": 7.911,
+      "year": 1992,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 20,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0186566",
+      "name": "Space Cowboys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
+      "rating": 6.398,
+      "year": 2000,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt0083658",
       "name": "Blade Runner",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zHKWxyG4j404HVeSYHNH4niUpkW.jpg",
       "rating": 7.936,
       "year": 1982,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0385307",
+      "name": "Miss FBI : Divinement armée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
+      "rating": 5.741,
+      "year": 2005,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt1677720",
-      "name": "Ready Player One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/832ngDVXhOVp6HBnuMMeeWTrGXN.jpg",
-      "rating": 7.588,
-      "year": 2018,
-      "days": 19,
+      "id": "tt9619824",
+      "name": "Destination Finale : Bloodlines",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
+      "rating": 7.036,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     }
   ]

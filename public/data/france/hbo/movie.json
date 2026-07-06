@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607051653",
+  "date": "202607061803",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
       "rating": 7.015,
       "year": 2025,
-      "days": 2,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt1020558",
-      "name": "Centurion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
-      "rating": 6.238,
-      "year": 2010,
-      "days": 6,
+      "id": "tt0332452",
+      "name": "Troie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
+      "rating": 7.177,
+      "year": 2004,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
+      "id": "tt6869880",
+      "name": "Skinford: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
+      "rating": 4.833,
+      "year": 2018,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1020558",
+      "name": "Centurion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
+      "rating": 6.238,
+      "year": 2010,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt41702551",
       "name": "Bang My Box: The Robin Byrd Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 1,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0198386",
-      "name": "The Crew",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdQOz5enVVz113zZQcuoqh3oACy.jpg",
-      "rating": 5.378,
-      "year": 2000,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0439572",
-      "name": "The Flash",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
-      "rating": 6.6,
-      "year": 2023,
-      "days": 53,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,33 +76,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
       "rating": 7.179,
       "year": 2005,
-      "days": 9,
+      "days": 11,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 7,
-      "id": "tt22688572",
-      "name": "Boudica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
-      "rating": 5.815,
-      "year": 2023,
-      "days": 33,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt5726616",
       "name": "Call Me by Your Name",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
       "rating": 8.09,
       "year": 2017,
-      "days": null,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt12584954",
+      "name": "Twisters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bgyrB7OmVBmqdVxFXjCmh4Q30Ju.jpg",
+      "rating": 6.773,
+      "year": 2024,
+      "days": 23,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt8368406",
-      "name": "Vivarium",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2SAH6napkUWibaAJ4oXr8dAVTIm.jpg",
-      "rating": 6.062,
-      "year": 2019,
-      "days": 22,
+      "id": "tt22688572",
+      "name": "Boudica",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
+      "rating": 5.815,
+      "year": 2023,
+      "days": 35,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt0332452",
-      "name": "Troie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
-      "rating": 7.177,
-      "year": 2004,
-      "days": null,
+      "id": "tt0439572",
+      "name": "The Flash",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
+      "rating": 6.6,
+      "year": 2023,
+      "days": 55,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

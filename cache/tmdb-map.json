@@ -389,6 +389,16 @@
     "rating": 6.8,
     "ts": "2026-06-20"
   },
+  "anaconda-2025": {
+    "tmdbId": 1234731,
+    "tmdbType": "movie",
+    "imdbId": "tt33244668",
+    "titleFr": "Anaconda",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
+    "rating": 5.876,
+    "ts": "2026-07-06"
+  },
   "angel-eyes": {
     "tmdbId": 5852,
     "tmdbType": "movie",
@@ -1199,6 +1209,16 @@
     "rating": 8,
     "ts": "2026-06-29"
   },
+  "daemons-of-the-shadow-realm": {
+    "tmdbId": 260463,
+    "tmdbType": "tv",
+    "imdbId": "tt37532356",
+    "titleFr": "Tsugai - Daemons of the Shadow Realm",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
+    "rating": 8.7,
+    "ts": "2026-07-06"
+  },
   "danny-dyer-how-to-be-a-man": {
     "tmdbId": 251642,
     "tmdbType": "tv",
@@ -1228,6 +1248,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
     "rating": 8.183,
     "ts": "2026-06-20"
+  },
+  "dark-winds": {
+    "tmdbId": 128904,
+    "tmdbType": "tv",
+    "imdbId": "tt15017118",
+    "titleFr": "Dark Winds",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1pKrWKwatxsF2DhrjX0day8Dfo8.jpg",
+    "rating": 7.5,
+    "ts": "2026-07-06"
   },
   "david-2025": {
     "tmdbId": 1167307,
@@ -1378,6 +1408,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/osfBQ18P0y3pwT5qVuhdPk8btbj.jpg",
     "rating": 7.325,
     "ts": "2026-07-03"
+  },
+  "disney-celebrates-america": {
+    "tmdbId": 327286,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Disney Celebrates America",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/LuOCmz0w2RLYNm9QhhsdOgks0N.jpg",
+    "rating": null,
+    "ts": "2026-07-06"
   },
   "doctor-on-the-edge": {
     "tmdbId": 287009,
@@ -1719,6 +1759,16 @@
     "rating": 7.823,
     "ts": "2026-06-23"
   },
+  "evil-dead-rise": {
+    "tmdbId": 713704,
+    "tmdbType": "movie",
+    "imdbId": "tt13345606",
+    "titleFr": "Evil Dead Rise",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
+    "rating": 6.9,
+    "ts": "2026-07-06"
+  },
   "evil-lives-here": {
     "tmdbId": 70249,
     "tmdbType": "tv",
@@ -1858,6 +1908,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/uh8nwCFx9zFRJeiDUg4SxQ7Koug.jpg",
     "rating": 6.099,
     "ts": "2026-06-21"
+  },
+  "final-destination-bloodlines": {
+    "tmdbId": 574475,
+    "tmdbType": "movie",
+    "imdbId": "tt9619824",
+    "titleFr": "Destination Finale : Bloodlines",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
+    "rating": 7.036,
+    "ts": "2026-07-06"
   },
   "finch": {
     "tmdbId": 522402,
@@ -2268,6 +2328,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/2izN47iCYlLXDX1CcbKN1OkKeaf.jpg",
     "rating": 7.3,
     "ts": "2026-07-05"
+  },
+  "hachi-a-dogs-tale": {
+    "tmdbId": 28178,
+    "tmdbType": "movie",
+    "imdbId": "tt1028532",
+    "titleFr": "Hatchi",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cXZpNMUwrlnNRXwDc8yQaQx17W7.jpg",
+    "rating": 8,
+    "ts": "2026-07-06"
   },
   "half-man": {
     "tmdbId": 257994,
@@ -3999,6 +4069,16 @@
     "rating": 6.634,
     "ts": "2026-06-20"
   },
+  "one-day-in-my-body": {
+    "tmdbId": 319855,
+    "tmdbType": "tv",
+    "imdbId": "tt40210399",
+    "titleFr": "One Day in My Body",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eKIsEY5ApLGJCtdbFbzymza0vrU.jpg",
+    "rating": null,
+    "ts": "2026-07-06"
+  },
   "one-shot-2021": {
     "tmdbId": 811592,
     "tmdbType": "movie",
@@ -4949,6 +5029,16 @@
     "rating": 7.125,
     "ts": "2026-06-28"
   },
+  "skin-2018": {
+    "tmdbId": 563575,
+    "tmdbType": "movie",
+    "imdbId": "tt6869880",
+    "titleFr": "Skinford: Chapter Two",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
+    "rating": 4.833,
+    "ts": "2026-07-06"
+  },
   "skymed": {
     "tmdbId": 133908,
     "tmdbType": "tv",
@@ -5789,6 +5879,16 @@
     "rating": 7.3,
     "ts": "2026-07-05"
   },
+  "the-equalizer-3": {
+    "tmdbId": 926393,
+    "tmdbType": "movie",
+    "imdbId": "tt17024450",
+    "titleFr": "Equalizer 3",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/go2gtucO5LT92jnU40pbD0LImgg.jpg",
+    "rating": 7.296,
+    "ts": "2026-07-06"
+  },
   "the-fall-skydive-murder-plot": {
     "tmdbId": 255972,
     "tmdbType": "tv",
@@ -6189,6 +6289,16 @@
     "rating": 7.564,
     "ts": "2026-06-20"
   },
+  "the-mindy-project": {
+    "tmdbId": 44857,
+    "tmdbType": "tv",
+    "imdbId": "tt2211129",
+    "titleFr": "The Mindy Project",
+    "year": 2012,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
+    "rating": 6.238,
+    "ts": "2026-07-06"
+  },
   "the-murder-of-rachel-nickell": {
     "tmdbId": 1693002,
     "tmdbType": "movie",
@@ -6398,6 +6508,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
     "rating": 6.78,
     "ts": "2026-06-20"
+  },
+  "the-sandlot": {
+    "tmdbId": 11528,
+    "tmdbType": "movie",
+    "imdbId": "tt0108037",
+    "titleFr": "Le Gang des Champions",
+    "year": 1993,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pXea9T8GUTaaIuuEc3Omceu5Gy.jpg",
+    "rating": 7.6,
+    "ts": "2026-07-06"
   },
   "the-secret-life-of-pets": {
     "tmdbId": 328111,
@@ -6919,6 +7039,16 @@
     "rating": 7.806,
     "ts": "2026-06-20"
   },
+  "vacation": {
+    "tmdbId": 296099,
+    "tmdbType": "movie",
+    "imdbId": "tt1524930",
+    "titleFr": "Vive les Vacances",
+    "year": 2015,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
+    "rating": 6.305,
+    "ts": "2026-07-06"
+  },
   "vera": {
     "tmdbId": 39185,
     "tmdbType": "tv",
@@ -7079,6 +7209,16 @@
     "rating": 6.316,
     "ts": "2026-06-22"
   },
+  "white-chicks": {
+    "tmdbId": 12153,
+    "tmdbType": "movie",
+    "imdbId": "tt0381707",
+    "titleFr": "F.B.I. Fausses Blondes Infiltrées",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
+    "rating": 6.95,
+    "ts": "2026-07-06"
+  },
   "who-2026": {
     "tmdbId": 1680516,
     "tmdbType": "movie",
@@ -7198,6 +7338,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
     "rating": 8,
     "ts": "2026-07-02"
+  },
+  "would-you-marry-me": {
+    "tmdbId": 281011,
+    "tmdbType": "tv",
+    "imdbId": "tt38220632",
+    "titleFr": "우주메리미",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/v5YTSuNcQvexKTylDWBbueIZaBx.jpg",
+    "rating": 7.964,
+    "ts": "2026-07-06"
   },
   "wuthering-heights-2026": {
     "tmdbId": 1316092,
