@@ -2,45 +2,45 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607061803",
+  "date": "202607071750",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0093105",
-      "name": "Good Morning, Vietnam",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPszN5iNKr3MmFq0dMhAyvzW0kb.jpg",
-      "rating": 7.3,
-      "year": 1987,
-      "days": 2,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt1225822",
       "name": "Extract",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
       "rating": 5.847,
       "year": 2009,
-      "days": 95,
+      "days": 96,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 3,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 687,
+      "rank": 2,
+      "id": "tt1524930",
+      "name": "Vive les Vacances",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
+      "rating": 6.305,
+      "year": 2015,
+      "days": 1,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt6977338",
+      "name": "Good Boys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
+      "rating": 6.833,
+      "year": 2019,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -50,75 +50,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 38,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
-      "year": 2025,
-      "days": 185,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 5,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 688,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
       "rank": 6,
-      "id": "tt1524930",
-      "name": "Vive les Vacances",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
-      "rating": 6.305,
-      "year": 2015,
-      "days": null,
+      "id": "tt0100814",
+      "name": "Tremors",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
+      "rating": 6.938,
+      "year": 1990,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 186,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt29214162",
+      "name": "The Dutchman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg",
+      "rating": 4.815,
+      "year": 2026,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 7,
-      "id": "tt6977338",
-      "name": "Good Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
-      "rating": 6.833,
-      "year": 2019,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0100814",
-      "name": "Tremors",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
-      "rating": 6.938,
-      "year": 1990,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
       "rank": 9,
-      "id": "tt10323676",
-      "name": "Le Contracteur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
-      "rating": 6.351,
-      "year": 2022,
-      "days": 77,
+      "id": "tt0345950",
+      "name": "Bob l'éponge, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
+      "rating": 7.089,
+      "year": 2004,
+      "days": 113,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kKwcB3FjCabJSwfLBU6dU70aRFs.jpg",
       "rating": 6.68,
       "year": 2005,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

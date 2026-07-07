@@ -49,6 +49,16 @@
     "rating": 6.887,
     "ts": "2026-06-20"
   },
+  "22-bahnen": {
+    "tmdbId": 1380070,
+    "tmdbType": "movie",
+    "imdbId": "tt32433627",
+    "titleFr": "22 Bahnen",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jZJ7KHymYEB7j455CieCirYW2Y5.jpg",
+    "rating": 6.426,
+    "ts": "2026-07-07"
+  },
   "47-ronin": {
     "tmdbId": 64686,
     "tmdbType": "movie",
@@ -1419,6 +1429,16 @@
     "rating": null,
     "ts": "2026-07-06"
   },
+  "divergent": {
+    "tmdbId": 157350,
+    "tmdbType": "movie",
+    "imdbId": "tt1840309",
+    "titleFr": "Divergente",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
+    "rating": 6.905,
+    "ts": "2026-07-07"
+  },
   "doctor-on-the-edge": {
     "tmdbId": 287009,
     "tmdbType": "tv",
@@ -2349,6 +2369,16 @@
     "rating": 8.2,
     "ts": "2026-06-19"
   },
+  "hammerhead-sharks-up-close-with-bertie-gregory": {
+    "tmdbId": 1723068,
+    "tmdbType": "movie",
+    "imdbId": "tt43438551",
+    "titleFr": "Hammerhead Sharks Up Close with Bertie Gregory",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+    "rating": null,
+    "ts": "2026-07-07"
+  },
   "hard-times": {
     "tmdbId": 22094,
     "tmdbType": "movie",
@@ -2689,6 +2719,16 @@
     "rating": 7.407,
     "ts": "2026-07-02"
   },
+  "into-the-blue": {
+    "tmdbId": 11968,
+    "tmdbType": "movie",
+    "imdbId": "tt0378109",
+    "titleFr": "Bleu d'Enfer",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jhNF1ZuucX8v85yTvXNytqDS0fT.jpg",
+    "rating": 5.928,
+    "ts": "2026-07-07"
+  },
   "invincible-2021": {
     "tmdbId": 95557,
     "tmdbType": "tv",
@@ -2978,6 +3018,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/wkI57tUgF4azrXy4QURO0diuDxD.jpg",
     "rating": 5.977,
     "ts": "2026-06-20"
+  },
+  "land-of-bad": {
+    "tmdbId": 969492,
+    "tmdbType": "movie",
+    "imdbId": "tt19864802",
+    "titleFr": "Land of Bad",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yEafQw7Gl21nCQaFFCo2x07JK98.jpg",
+    "rating": 7.27,
+    "ts": "2026-07-07"
   },
   "landman": {
     "tmdbId": 157741,
@@ -3959,6 +4009,16 @@
     "rating": 7.951,
     "ts": "2026-06-25"
   },
+  "nobody": {
+    "tmdbId": 615457,
+    "tmdbType": "movie",
+    "imdbId": "tt7888964",
+    "titleFr": "Nobody",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
+    "rating": 7.875,
+    "ts": "2026-07-07"
+  },
   "norbit": {
     "tmdbId": 9757,
     "tmdbType": "movie",
@@ -3988,6 +4048,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
     "rating": 6.15,
     "ts": "2026-06-20"
+  },
+  "notting-hill": {
+    "tmdbId": 509,
+    "tmdbType": "movie",
+    "imdbId": "tt0125439",
+    "titleFr": "Coup de foudre à Notting Hill",
+    "year": 1999,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8KHWL693DvfiDzrSp1n5Ox5GOup.jpg",
+    "rating": 7.27,
+    "ts": "2026-07-07"
   },
   "novocaine-2025": {
     "tmdbId": 1195506,
@@ -4398,6 +4468,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/lhkdEsuljCVjMnSFGXjT2907DfJ.jpg",
     "rating": 6.275,
     "ts": "2026-06-23"
+  },
+  "presence-2025": {
+    "tmdbId": 1140535,
+    "tmdbType": "movie",
+    "imdbId": "tt28249919",
+    "titleFr": "Presence",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/n2MH5xiSS36f8pCTbehXlZq3WP0.jpg",
+    "rating": 6.113,
+    "ts": "2026-07-07"
   },
   "price-of-passion": {
     "tmdbId": 76530,
@@ -5379,6 +5459,16 @@
     "rating": 5.296,
     "ts": "2026-07-03"
   },
+  "super-troopers-2": {
+    "tmdbId": 50022,
+    "tmdbType": "movie",
+    "imdbId": "tt0859635",
+    "titleFr": "Super Troopers 2",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/57SZgdugVClIy22rfnANeBJ5KsN.jpg",
+    "rating": 5.86,
+    "ts": "2026-07-07"
+  },
   "superkitties": {
     "tmdbId": 201478,
     "tmdbType": "tv",
@@ -6089,6 +6179,16 @@
     "rating": 6.6,
     "ts": "2026-06-20"
   },
+  "the-hustle-2019": {
+    "tmdbId": 449562,
+    "tmdbType": "movie",
+    "imdbId": "tt1298644",
+    "titleFr": "Le coup du siècle",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7N7LPeMo3nVRz908YvfkvtciIcY.jpg",
+    "rating": 6.2,
+    "ts": "2026-07-07"
+  },
   "the-idaho-student-murders": {
     "tmdbId": 1507986,
     "tmdbType": "movie",
@@ -6669,6 +6769,16 @@
     "rating": 6.5,
     "ts": "2026-07-02"
   },
+  "the-woman-in-the-yard": {
+    "tmdbId": 1244944,
+    "tmdbType": "movie",
+    "imdbId": "tt31314296",
+    "titleFr": "The Woman in the Yard",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tFmkIyhjR1xNFRlIruMLu8NMYji.jpg",
+    "rating": 5.669,
+    "ts": "2026-07-07"
+  },
   "they-will-kill-you": {
     "tmdbId": 1292695,
     "tmdbType": "movie",
@@ -6879,6 +6989,16 @@
     "rating": 7.17,
     "ts": "2026-06-19"
   },
+  "transformers-the-last-knight": {
+    "tmdbId": 335988,
+    "tmdbType": "movie",
+    "imdbId": "tt3371366",
+    "titleFr": "Transformers : The Last Knight",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oGw5OVdGHx91f70MqJPCq4JlPN8.jpg",
+    "rating": 6.059,
+    "ts": "2026-07-07"
+  },
   "tremors": {
     "tmdbId": 9362,
     "tmdbType": "movie",
@@ -6958,6 +7078,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bgyrB7OmVBmqdVxFXjCmh4Q30Ju.jpg",
     "rating": 6.773,
     "ts": "2026-07-02"
+  },
+  "two-pianos": {
+    "tmdbId": 1331349,
+    "tmdbType": "movie",
+    "imdbId": "tt33518607",
+    "titleFr": "Deux Pianos",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cdLe3CLD3Q4uJXkDsjzJSd6CYSj.jpg",
+    "rating": 5.2,
+    "ts": "2026-07-07"
   },
   "tyler-perrys-ruthless": {
     "tmdbId": 100575,
@@ -7258,6 +7388,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/oxn4ylDZSnQq83H0jXAmueBFV8A.jpg",
     "rating": 4.8,
     "ts": "2026-06-26"
+  },
+  "wildcat-2025": {
+    "tmdbId": 1448560,
+    "tmdbType": "movie",
+    "imdbId": "tt36153493",
+    "titleFr": "Wildcat",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+    "rating": 6.184,
+    "ts": "2026-07-07"
   },
   "wilderness-therapy": {
     "tmdbId": 442617,

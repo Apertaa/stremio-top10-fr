@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202607061803",
+  "date": "202607071750",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt34888871",
-      "name": "Little Brother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": 10,
+      "id": "tt18259086",
+      "name": "Sonic 3, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
+      "rating": 7.617,
+      "year": 2024,
+      "days": 6,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt18259086",
-      "name": "Sonic 3, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
-      "rating": 7.617,
-      "year": 2024,
-      "days": 5,
+      "id": "tt34888871",
+      "name": "Little Brother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
       "rating": 5.574,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,49 +76,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bElBmTJSE1XGnLbSByThQAFzDWq.jpg",
       "rating": 6.561,
       "year": 2021,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt7846844",
-      "name": "Enola Holmes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
-      "rating": 7.222,
-      "year": 2020,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt14641788",
       "name": "Enola Holmes 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n4MNnDDVm86AELe1fxbLvxHYeyh.jpg",
       "rating": 7.404,
       "year": 2022,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt1233571",
-      "name": "L'art de la guerre II : Trahison",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/638qKUIgQ3F0ERANFmHwgHSXOkz.jpg",
-      "rating": 4.714,
-      "year": 2008,
+      "rank": 8,
+      "id": "tt7846844",
+      "name": "Enola Holmes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDtraIGPVhmSnPZQ34fmyvWT5tz.jpg",
+      "rating": 7.222,
+      "year": 2020,
       "days": 5,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt32433627",
+      "name": "22 Bahnen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jZJ7KHymYEB7j455CieCirYW2Y5.jpg",
+      "rating": 6.426,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

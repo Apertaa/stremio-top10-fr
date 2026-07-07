@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202607061803",
+  "date": "202607071750",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg",
       "rating": 7.8,
       "year": 2010,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/144DDQdfZxAK5xyPTETmygzGGuH.jpg",
       "rating": 7.6,
       "year": 1999,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,75 +50,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cWLRhub0yY9VJpdw0nqoTPYyiN.jpg",
       "rating": 7.977,
       "year": 1995,
-      "days": 62,
+      "days": 63,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
+      "id": "tt1979376",
+      "name": "Toy Story 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
+      "rating": 7.462,
+      "year": 2019,
+      "days": 32,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt13622970",
+      "name": "Vaiana 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "rating": 7.006,
+      "year": 2024,
+      "days": 6,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt43140642",
       "name": "Simpsley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
       "rating": null,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 6,
-      "id": "tt0108037",
-      "name": "Le Gang des Champions",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pXea9T8GUTaaIuuEc3Omceu5Gy.jpg",
-      "rating": 7.6,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1979376",
-      "name": "Toy Story 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg",
-      "rating": 7.462,
-      "year": 2019,
-      "days": 31,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 8,
-      "id": "tt13622970",
-      "name": "Vaiana 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
-      "rating": 7.006,
-      "year": 2024,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt27419466",
       "name": "Vaiana, la légende du bout du monde",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
       "rating": null,
       "year": 2026,
-      "days": 122,
+      "days": 123,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt43438551",
+      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
       "rating": 8.181,
       "year": 2026,
-      "days": 32,
+      "days": 33,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

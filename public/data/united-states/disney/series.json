@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607061803",
+  "date": "202607071750",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,67 +19,67 @@
     },
     {
       "rank": 2,
-      "id": "top10:disney-celebrates-america-the-pursuit-of-happiness",
-      "name": "Disney Celebrates America: The Pursuit of Happiness",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tmdb:327286",
-      "name": "Disney Celebrates America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/LuOCmz0w2RLYNm9QhhsdOgks0N.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt26685570",
-      "name": "How Not to Draw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": 29,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt26685570",
+      "name": "How Not to Draw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": 30,
+      "trend": {
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
+      "name": "IMPACT x Nightline: The Girl in the Trunk",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 10,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "top10:voyagers-exploring-pacific-waters",
+      "name": "Voyagers: Exploring Pacific Waters",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -89,36 +89,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 38,
+      "days": 39,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "top10:voyagers-exploring-pacific-waters",
-      "name": "Voyagers: Exploring Pacific Waters",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 1,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 79,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
-      "name": "IMPACT x Nightline: The Girl in the Trunk",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 9,
+      "id": "tt42416598",
+      "name": "Abandoned",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tDAObAvUx2tw4ZM6ohqo06pqQyW.jpg",
       "rating": null,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]
