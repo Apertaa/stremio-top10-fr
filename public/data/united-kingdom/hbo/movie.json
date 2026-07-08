@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt0120611",
-      "name": "Blade",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
-      "rating": 6.84,
-      "year": 1998,
-      "days": 10,
+      "id": "tt6334354",
+      "name": "The Suicide Squad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
+      "rating": 7.458,
+      "year": 2021,
+      "days": 6,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
-      "id": "tt6334354",
-      "name": "The Suicide Squad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
-      "rating": 7.458,
-      "year": 2021,
-      "days": 5,
+      "id": "tt41702551",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 6,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
       }
     },
     {
       "rank": 4,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 21,
+      "id": "tt0105695",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
+      "rating": 7.911,
+      "year": 1992,
+      "days": 5,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 5,
+      "id": "tt0120611",
+      "name": "Blade",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
+      "rating": 6.84,
+      "year": 1998,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 3
@@ -71,54 +71,54 @@
     },
     {
       "rank": 6,
-      "id": "tt0105695",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
-      "rating": 7.911,
-      "year": 1992,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0186566",
       "name": "Space Cowboys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
       "rating": 6.398,
       "year": 2000,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0385307",
-      "name": "Miss FBI : Divinement armée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
-      "rating": 5.741,
-      "year": 2005,
-      "days": 7,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt0083658",
-      "name": "Blade Runner",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zHKWxyG4j404HVeSYHNH4niUpkW.jpg",
-      "rating": 7.936,
-      "year": 1982,
-      "days": 10,
+      "rank": 7,
+      "id": "tt0385307",
+      "name": "Miss FBI : Divinement armée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
+      "rating": 5.741,
+      "year": 2005,
+      "days": 8,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 22,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 4
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt11225626",
+      "name": "Am I OK?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ysfNwUn4K6yzyKiFMOPW03Rwifq.jpg",
+      "rating": 6.359,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
       "rating": 6.457,
       "year": 2018,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

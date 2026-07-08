@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
       "rating": 5.876,
       "year": 2025,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s5SdVUKrCCyqg2yCcscudSw8jUE.jpg",
       "rating": 4.226,
       "year": 2025,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
       "rating": 5.379,
       "year": 2025,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,23 +50,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cdLe3CLD3Q4uJXkDsjzJSd6CYSj.jpg",
       "rating": 5.2,
       "year": 2025,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt36280391",
-      "name": "Chasse gardée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg",
-      "rating": 5.726,
+      "id": "tt22898462",
+      "name": "Conjuring : L'Heure du jugement",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+      "rating": 6.9,
       "year": 2025,
-      "days": 23,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

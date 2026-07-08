@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 338,
+      "days": 339,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 47,
+      "id": "tt0250494",
+      "name": "La Revanche d'une blonde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
+      "rating": 6.817,
+      "year": 2001,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
+      "id": "tt33311244",
+      "name": "À contre-sens 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
+      "rating": 7.374,
       "year": 2025,
-      "days": 820,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt32793488",
-      "name": "L'Oracle II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fghzenCFUk3Y1MQXPIsKyOmluMt.jpg",
-      "rating": 6.547,
-      "year": 2025,
-      "days": 9,
+      "days": 209,
       "trend": {
         "dir": "up",
         "delta": 2
       }
     },
     {
-      "rank": 8,
-      "id": "tt33311244",
-      "name": "À contre-sens 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
-      "rating": 7.374,
+      "rank": 7,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
       "year": 2025,
-      "days": 208,
+      "days": 821,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt28226615",
-      "name": "Abducted by My Teacher: The Elizabeth Thomas Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/C5Ce9f5mls4GxfqvPMeLxu5N9l.jpg",
-      "rating": 6.824,
-      "year": 2023,
-      "days": 4,
+      "rank": 8,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 48,
       "trend": {
         "dir": "down",
         "delta": 3
       }
     },
     {
-      "rank": 10,
-      "id": "tt9308022",
-      "name": "Permis de Conduire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": 4,
+      "rank": 9,
+      "id": "tt32793488",
+      "name": "L'Oracle II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fghzenCFUk3Y1MQXPIsKyOmluMt.jpg",
+      "rating": 6.547,
+      "year": 2025,
+      "days": 10,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt28226615",
+      "name": "Abducted by My Teacher: The Elizabeth Thomas Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/C5Ce9f5mls4GxfqvPMeLxu5N9l.jpg",
+      "rating": 6.824,
+      "year": 2023,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

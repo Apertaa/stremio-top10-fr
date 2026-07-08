@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 109,
+      "days": 110,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,54 +19,54 @@
     },
     {
       "rank": 2,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt2861424",
       "name": "Rick et Morty",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 82,
+      "days": 83,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
+      "id": "tt3469050",
+      "name": "90 jours pour se marier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
+      "rating": 7.1,
+      "year": 2014,
+      "days": 184,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt27497448",
       "name": "A Knight of the Seven Kingdoms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": 63,
+      "days": 64,
       "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt14681924",
-      "name": "My Adventures with Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 22,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,20 +76,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 63,
+      "days": 64,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0264235",
-      "name": "Larry et son nombril",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6GwI9ddoYaw1JyeRvcwg4awp4z.jpg",
-      "rating": 8,
-      "year": 2000,
-      "days": 82,
+      "id": "tt42834589",
+      "name": "Le tournoi des 100 chefs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n1AMcuCgGgXSokKOmYJ5cv1k8n6.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt3469050",
-      "name": "90 jours pour se marier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
-      "rating": 7.1,
-      "year": 2014,
-      "days": 183,
+      "id": "tt33014623",
+      "name": "Catastrophes naturelles : Survivre au pire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8dFicG5dMXI1PvzcH03SzSE3ukS.jpg",
+      "rating": 8.19,
+      "year": 2024,
+      "days": 56,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt32907596",
-      "name": "Bodies in the Water",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdvK2OdTpUOs39Z0lvr9vKch9zP.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 2,
+      "id": "tt13787288",
+      "name": "90 Day Diaries",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jargHc08uT0s159kS9r9497QcFB.jpg",
+      "rating": 6.5,
+      "year": 2021,
+      "days": 21,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 589,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 93,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     }
   ]

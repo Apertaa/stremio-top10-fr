@@ -2,71 +2,71 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
-      "id": "tt26584495",
-      "name": "Companion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
-      "rating": 7.015,
-      "year": 2025,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt0332452",
       "name": "Troie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "tt6869880",
       "name": "Skinford: Chapter Two",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
       "rating": 4.833,
       "year": 2018,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt1020558",
       "name": "Centurion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
       "rating": 6.238,
       "year": 2010,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt26584495",
+      "name": "Companion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
+      "rating": 7.015,
+      "year": 2025,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 5,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 4,
+      "id": "tt6710474",
+      "name": "Everything Everywhere All at Once",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qHy7BlA1I3iUEIGp7atsMjSNJSK.jpg",
+      "rating": 7.718,
+      "year": 2022,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
       "rating": 7.179,
       "year": 2005,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,41 +84,41 @@
     },
     {
       "rank": 7,
+      "id": "tt41702551",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt5726616",
       "name": "Call Me by Your Name",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
       "rating": 8.09,
       "year": 2017,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt12584954",
-      "name": "Twisters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bgyrB7OmVBmqdVxFXjCmh4Q30Ju.jpg",
-      "rating": 6.773,
-      "year": 2024,
-      "days": 24,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt22688572",
-      "name": "Boudica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
-      "rating": 5.815,
-      "year": 2023,
-      "days": 36,
+      "id": "tt0258000",
+      "name": "Panic Room",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hZRbJ9a7YhdDOx8BECb8svI6qOQ.jpg",
+      "rating": 6.793,
+      "year": 2002,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azio74W2qw7bNg7ePqzkWywwK1n.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 56,
+      "days": 57,
       "trend": {
         "dir": "same",
         "delta": 0

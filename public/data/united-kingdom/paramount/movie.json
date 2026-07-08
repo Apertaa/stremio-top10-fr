@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 96,
+      "trend": {
+        "dir": "up",
+        "delta": 8
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt37577501",
       "name": "The Girl Who Survived: The Alina Thompson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 38,
+      "days": 39,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt30057173",
-      "name": "Bad Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
-      "rating": 5.511,
-      "year": 2025,
-      "days": 50,
-      "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt29101725",
-      "name": "Killing Faith",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "rating": 5.821,
-      "year": 2025,
-      "days": 24,
+      "id": "tt1116184",
+      "name": "Jackass 3D",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
       "rating": 6.4,
       "year": 2025,
-      "days": 103,
+      "days": 104,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt29101725",
+      "name": "Killing Faith",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
+      "rating": 5.821,
+      "year": 2025,
+      "days": 25,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt0493430",
       "name": "Jackass deux, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2EORm7ikRT79GmLCeN5RsNqbLL9.jpg",
       "rating": 6.583,
       "year": 2006,
-      "days": 10,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1116184",
-      "name": "Jackass 3D",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
-      "rating": 6.6,
-      "year": 2010,
-      "days": 9,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Mbop5DzeWOz5sKdjnOD6Q82PIS.jpg",
       "rating": 6.3,
       "year": 2002,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
+      "id": "tt30057173",
+      "name": "Bad Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
+      "rating": 5.511,
+      "year": 2025,
+      "days": 51,
+      "trend": {
+        "dir": "down",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt25602750",
       "name": "The Girl Who Escaped: The Kara Robinson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
       "rating": 7.111,
       "year": 2023,
-      "days": 396,
+      "days": 397,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 95,
-      "trend": {
-        "dir": "same",
-        "delta": 0
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt26928684",
-      "name": "Summer Camp",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
-      "rating": 5.296,
-      "year": 2024,
-      "days": 5,
+      "id": "tt1298644",
+      "name": "Le coup du siècle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N7LPeMo3nVRz908YvfkvtciIcY.jpg",
+      "rating": 6.2,
+      "year": 2019,
+      "days": 2,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 7
       }
     },
     {
@@ -37,101 +37,101 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cZATcRQffQNjMdEgHppW5DH1LOS.jpg",
       "rating": 5.586,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt26928684",
+      "name": "Summer Camp",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
+      "rating": 5.296,
+      "year": 2024,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt34888871",
       "name": "Little Brother",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt27812086",
-      "name": "Cleaner",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
-      "rating": 6.392,
-      "year": 2025,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 50,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt0378109",
       "name": "Bleu d'Enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jhNF1ZuucX8v85yTvXNytqDS0fT.jpg",
       "rating": 5.928,
       "year": 2005,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt27812086",
+      "name": "Cleaner",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
+      "rating": 6.392,
+      "year": 2025,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tt1298644",
-      "name": "Le coup du siècle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N7LPeMo3nVRz908YvfkvtciIcY.jpg",
-      "rating": 6.2,
-      "year": 2019,
-      "days": null,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 51,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt6549510",
-      "name": "La Marque de la vengeance 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wBRTzPOtwDor3xSB2KmlbsZoepm.jpg",
-      "rating": 6.769,
-      "year": 2024,
-      "days": 5,
+      "id": "tt0119094",
+      "name": "Volte/Face",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
+      "rating": 7.058,
+      "year": 1997,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

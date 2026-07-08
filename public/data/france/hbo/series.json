@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "series",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 135,
+      "days": 136,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,64 +32,64 @@
     },
     {
       "rank": 3,
-      "id": "tt41050785",
-      "name": "Proud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-      "rating": 4.7,
-      "year": 2026,
-      "days": 24,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt27497448",
       "name": "A Knight of the Seven Kingdoms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": 82,
+      "days": 83,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt10466872",
       "name": "Dune : Prophecy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 85,
+      "days": 86,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt37543147",
       "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
+      "year": 2026,
+      "days": 25,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     },
     {
       "rank": 7,
-      "id": "tt14681924",
-      "name": "My Adventures with Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 5,
+      "id": "tt0264235",
+      "name": "Larry et son nombril",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6GwI9ddoYaw1JyeRvcwg4awp4z.jpg",
+      "rating": 8,
+      "year": 2000,
+      "days": 3,
       "trend": {
         "dir": "new",
         "delta": null
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lMveq4zyLX4dAZgO0xXMf4vYqf6.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt8772296",
-      "name": "Euphoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
-      "rating": 8.287,
-      "year": 2019,
-      "days": 100,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt11198330",
       "name": "House of the Dragon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt40210399",
+      "name": "One Day in My Body",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKIsEY5ApLGJCtdbFbzymza0vrU.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 86,
+      "days": 87,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 510,
+      "days": 511,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 91,
+      "days": 92,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 740,
+      "days": 741,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 360,
+      "days": 361,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
+      "id": "tmdb:219799",
+      "name": "安全警长啦咘啦哆",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
+      "rating": 9,
       "year": 2022,
-      "days": 249,
+      "days": 156,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tmdb:219799",
-      "name": "安全警长啦咘啦哆",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
-      "rating": 9,
-      "year": 2022,
-      "days": 155,
+      "id": "tt1604099",
+      "name": "Victorious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
+      "rating": 8.216,
+      "year": 2010,
+      "days": 256,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
       "rating": 7.1,
       "year": 1969,
-      "days": 234,
+      "days": 235,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt1604099",
-      "name": "Victorious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
-      "rating": 8.216,
-      "year": 2010,
-      "days": 255,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt3596174",
       "name": "Henry Danger",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 175,
+      "days": 176,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 684,
       "trend": {
         "dir": "new",
         "delta": null

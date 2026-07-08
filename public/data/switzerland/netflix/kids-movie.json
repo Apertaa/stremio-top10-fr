@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607071750",
+  "date": "202607081718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,80 +19,80 @@
     },
     {
       "rank": 2,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 376,
+      "days": 377,
       "trend": {
         "dir": "up",
-        "delta": 4
+        "delta": 1
       }
     },
     {
-      "rank": 4,
-      "id": "tt1860353",
-      "name": "Turbo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
-      "rating": 6.271,
-      "year": 2013,
-      "days": 26,
+      "rank": 3,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt22184976",
       "name": "Minions et compagnie - La compil' n° 1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
       "rating": 7.028,
       "year": 2022,
-      "days": 68,
+      "days": 69,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt29552248",
-      "name": "Aventures croisées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "rating": 8.971,
-      "year": 2026,
-      "days": 66,
+      "rank": 5,
+      "id": "tt1860353",
+      "name": "Turbo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
+      "rating": 6.271,
+      "year": 2013,
+      "days": 27,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
+      "rank": 6,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 424,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
       "rank": 7,
-      "id": "tt1078912",
-      "name": "La Nuit au musée 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
-      "rating": 6.157,
-      "year": 2009,
-      "days": 9,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 67,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "rating": 8.122,
       "year": 2026,
-      "days": 43,
+      "days": 44,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 423,
+      "id": "tt1078912",
+      "name": "La Nuit au musée 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "rating": 6.157,
+      "year": 2009,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZHVqleUuh8sUXRzKumLLAmwybj.jpg",
       "rating": 7.381,
       "year": 2022,
-      "days": 148,
+      "days": 149,
       "trend": {
         "dir": "same",
         "delta": 0

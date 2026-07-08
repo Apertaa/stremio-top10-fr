@@ -349,6 +349,16 @@
     "rating": 8.39,
     "ts": "2026-06-20"
   },
+  "am-i-ok": {
+    "tmdbId": 641934,
+    "tmdbType": "movie",
+    "imdbId": "tt11225626",
+    "titleFr": "Am I OK?",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ysfNwUn4K6yzyKiFMOPW03Rwifq.jpg",
+    "rating": 6.359,
+    "ts": "2026-07-08"
+  },
   "american-dad": {
     "tmdbId": 1433,
     "tmdbType": "tv",
@@ -1119,6 +1129,16 @@
     "rating": 6.392,
     "ts": "2026-06-28"
   },
+  "cleanskin": {
+    "tmdbId": 95516,
+    "tmdbType": "movie",
+    "imdbId": "tt1598873",
+    "titleFr": "Menace d'État",
+    "year": 2012,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aC7j9oGAlUtyHjrEuxX1jIIK8Ng.jpg",
+    "rating": 5.651,
+    "ts": "2026-07-08"
+  },
   "cold-skin": {
     "tmdbId": 428399,
     "tmdbType": "movie",
@@ -1769,6 +1789,16 @@
     "rating": 6.813,
     "ts": "2026-06-20"
   },
+  "everything-everywhere-all-at-once": {
+    "tmdbId": 545611,
+    "tmdbType": "movie",
+    "imdbId": "tt6710474",
+    "titleFr": "Everything Everywhere All at Once",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qHy7BlA1I3iUEIGp7atsMjSNJSK.jpg",
+    "rating": 7.718,
+    "ts": "2026-07-08"
+  },
   "evil-2019": {
     "tmdbId": 86848,
     "tmdbType": "tv",
@@ -1879,6 +1909,16 @@
     "rating": 7,
     "ts": "2026-07-04"
   },
+  "faceoff": {
+    "tmdbId": 754,
+    "tmdbType": "movie",
+    "imdbId": "tt0119094",
+    "titleFr": "Volte/Face",
+    "year": 1997,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
+    "rating": 7.058,
+    "ts": "2026-07-08"
+  },
   "fallen-2024": {
     "tmdbId": 214945,
     "tmdbType": "tv",
@@ -1968,6 +2008,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
     "rating": 8.1,
     "ts": "2026-06-19"
+  },
+  "first-man": {
+    "tmdbId": 369972,
+    "tmdbType": "movie",
+    "imdbId": "tt1213641",
+    "titleFr": "First Man - Le Premier Homme sur la Lune",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/txUD2EzyNnPIX3dFb7jbKqAQTbm.jpg",
+    "rating": 7.044,
+    "ts": "2026-07-08"
   },
   "fist-of-the-north-star-hokuto-no-ken": {
     "tmdbId": 295357,
@@ -2659,6 +2709,16 @@
     "rating": 6.335,
     "ts": "2026-06-20"
   },
+  "in-the-eye-of-the-storm": {
+    "tmdbId": 258731,
+    "tmdbType": "tv",
+    "imdbId": "tt33014623",
+    "titleFr": "Catastrophes naturelles : Survivre au pire",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8dFicG5dMXI1PvzcH03SzSE3ukS.jpg",
+    "rating": 8.19,
+    "ts": "2026-07-08"
+  },
   "in-the-eye-of-the-storm-chasers": {
     "tmdbId": 321456,
     "tmdbType": "tv",
@@ -2718,6 +2778,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/FFmOisKfYgCDzuWC5tf8m98U78.jpg",
     "rating": 7.407,
     "ts": "2026-07-02"
+  },
+  "insurgent": {
+    "tmdbId": 262500,
+    "tmdbType": "movie",
+    "imdbId": "tt2908446",
+    "titleFr": "Divergente 2 : L'Insurrection",
+    "year": 2015,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dtRKONnsCCfsa6BXrZqSKWN6k7m.jpg",
+    "rating": 6.359,
+    "ts": "2026-07-08"
   },
   "into-the-blue": {
     "tmdbId": 11968,
@@ -3078,6 +3148,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
     "rating": 6.817,
     "ts": "2026-06-30"
+  },
+  "legally-blonde-2-red-white-blonde": {
+    "tmdbId": 10327,
+    "tmdbType": "movie",
+    "imdbId": "tt0333780",
+    "titleFr": "La Blonde contre-attaque",
+    "year": 2003,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3mBKW43JIBpLPsmhi5kKn7VSGVt.jpg",
+    "rating": 5.722,
+    "ts": "2026-07-08"
   },
   "legends-2026": {
     "tmdbId": 262280,
@@ -4259,6 +4339,16 @@
     "rating": 7.479,
     "ts": "2026-06-22"
   },
+  "panic-room": {
+    "tmdbId": 4547,
+    "tmdbType": "movie",
+    "imdbId": "tt0258000",
+    "titleFr": "Panic Room",
+    "year": 2002,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hZRbJ9a7YhdDOx8BECb8svI6qOQ.jpg",
+    "rating": 6.793,
+    "ts": "2026-07-08"
+  },
   "paw-patrol": {
     "tmdbId": 57532,
     "tmdbType": "tv",
@@ -4478,6 +4568,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/n2MH5xiSS36f8pCTbehXlZq3WP0.jpg",
     "rating": 6.113,
     "ts": "2026-07-07"
+  },
+  "presidents": {
+    "tmdbId": 741124,
+    "tmdbType": "movie",
+    "imdbId": "tt13558724",
+    "titleFr": "Présidents",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rlHMQK4cyvzqsOUZCSJEAQkd8qm.jpg",
+    "rating": 5.305,
+    "ts": "2026-07-08"
   },
   "price-of-passion": {
     "tmdbId": 76530,
@@ -5849,6 +5949,16 @@
     "rating": 7.897,
     "ts": "2026-06-20"
   },
+  "the-conjuring-last-rites": {
+    "tmdbId": 1038392,
+    "tmdbType": "movie",
+    "imdbId": "tt22898462",
+    "titleFr": "Conjuring : L'Heure du jugement",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+    "rating": 6.9,
+    "ts": "2026-07-08"
+  },
   "the-contractor": {
     "tmdbId": 15071,
     "tmdbType": "movie",
@@ -7118,6 +7228,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/AjGfTHDoCMySQOrNhzZMC57k10v.jpg",
     "rating": 6,
     "ts": "2026-06-21"
+  },
+  "unacceptable": {
+    "tmdbId": 323168,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Unacceptable",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oNc61x7EdWVLZZXcGhWaZvWGLlF.jpg",
+    "rating": 1,
+    "ts": "2026-07-08"
   },
   "uncharted": {
     "tmdbId": 335787,
