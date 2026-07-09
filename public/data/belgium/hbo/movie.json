@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202607081718",
+  "date": "202607091746",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,59 +24,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 6,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt31728330",
       "name": "They Will Kill You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 24,
+      "days": 25,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt41702551",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 7,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt9619824",
-      "name": "Destination Finale : Bloodlines",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
-      "rating": 7.036,
-      "year": 2025,
-      "days": 13,
-      "trend": {
-        "dir": "up",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt11182994",
       "name": "Zillion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
       "rating": 7.014,
       "year": 2022,
-      "days": 11,
+      "days": 12,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt9619824",
+      "name": "Destination Finale : Bloodlines",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
+      "rating": 7.036,
+      "year": 2025,
+      "days": 14,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,33 +89,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dTokNCdBjiXMsNW84Lsj6JsmjRX.jpg",
       "rating": 6.879,
       "year": 2023,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt0360486",
-      "name": "Constantine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
-      "rating": 7.179,
-      "year": 2005,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt5726616",
       "name": "Call Me by Your Name",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
       "rating": 8.09,
       "year": 2017,
-      "days": 4,
+      "days": 5,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0360486",
+      "name": "Constantine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
+      "rating": 7.179,
+      "year": 2005,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o7073AlEoBqltpsRBRDI6b5CyM6.jpg",
       "rating": 7.138,
       "year": 2016,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

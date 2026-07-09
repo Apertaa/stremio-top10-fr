@@ -309,6 +309,16 @@
     "rating": 7.004,
     "ts": "2026-06-25"
   },
+  "afterburn": {
+    "tmdbId": 507244,
+    "tmdbType": "movie",
+    "imdbId": "tt1210027",
+    "titleFr": "Afterburn",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
+    "rating": 6.241,
+    "ts": "2026-07-09"
+  },
   "agent-kim-reactivated": {
     "tmdbId": 296206,
     "tmdbType": "tv",
@@ -628,6 +638,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
     "rating": 8.7,
     "ts": "2026-06-20"
+  },
+  "bbq-brawl": {
+    "tmdbId": 91771,
+    "tmdbType": "tv",
+    "imdbId": "tt10765680",
+    "titleFr": "BBQ Brawl",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/4q2lifIQOMo8NMmnUuLHU8qVpOA.jpg",
+    "rating": 10,
+    "ts": "2026-07-09"
   },
   "beauty-from-pain": {
     "tmdbId": 1495694,
@@ -1369,6 +1389,16 @@
     "rating": 6.8,
     "ts": "2026-06-20"
   },
+  "deep-revenge": {
+    "tmdbId": 316205,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "ディープリベンジ-顔を捨てた家政婦-",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gwoYkyT1XaE6BhHEUP7DrFPX4w3.jpg",
+    "rating": null,
+    "ts": "2026-07-09"
+  },
   "den-of-thieves-2-pantera": {
     "tmdbId": 604685,
     "tmdbType": "movie",
@@ -1548,6 +1578,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
     "rating": 6.5,
     "ts": "2026-06-28"
+  },
+  "dune-2021": {
+    "tmdbId": 438631,
+    "tmdbType": "movie",
+    "imdbId": "tt1160419",
+    "titleFr": "Dune - Première partie",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
+    "rating": 7.8,
+    "ts": "2026-07-09"
   },
   "dune-prophecy": {
     "tmdbId": 90228,
@@ -2248,6 +2288,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "rating": 7.9,
     "ts": "2026-06-19"
+  },
+  "ghost-in-the-shell-arise-alternative-architecture": {
+    "tmdbId": 62070,
+    "tmdbType": "tv",
+    "imdbId": "tt4508686",
+    "titleFr": "Ghost In The Shell: Arise - Alternative Architecture",
+    "year": 2015,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qCX5Jb1uaKrFVTfOnT265tdzvJT.jpg",
+    "rating": 7.1,
+    "ts": "2026-07-09"
   },
   "ghosted-2023": {
     "tmdbId": 868759,
@@ -3229,6 +3279,16 @@
     "rating": 6.6,
     "ts": "2026-07-03"
   },
+  "lethally-blonde": {
+    "tmdbId": 241513,
+    "tmdbType": "tv",
+    "imdbId": "tt31556788",
+    "titleFr": "Lethally Blonde",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sWNSBqLfFmpmRzuCue5mME204n6.jpg",
+    "rating": 6,
+    "ts": "2026-07-09"
+  },
   "life-as-we-know-it": {
     "tmdbId": 38408,
     "tmdbType": "movie",
@@ -3258,6 +3318,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/kQ7zTM5W5MY2HJ5U5BY4Y4phRX3.jpg",
     "rating": 6.08,
     "ts": "2026-07-01"
+  },
+  "lil-kleine-geen-rem": {
+    "tmdbId": 327921,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "lil kleine : geen rem",
+    "year": 2026,
+    "posterUrl": null,
+    "rating": null,
+    "ts": "2026-07-09"
   },
   "little-angel-2022": {
     "tmdbId": 219004,
@@ -3588,6 +3658,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
     "rating": 6.688,
     "ts": "2026-06-20"
+  },
+  "marave": {
+    "tmdbId": 1566481,
+    "tmdbType": "movie",
+    "imdbId": "tt42483037",
+    "titleFr": "Marave",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
+    "rating": 5.7,
+    "ts": "2026-07-09"
   },
   "margos-got-money-troubles": {
     "tmdbId": 245318,
@@ -4128,6 +4208,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1cocLXwewNHkcO7zThlppD1gbha.jpg",
     "rating": 6.15,
     "ts": "2026-06-20"
+  },
+  "nothing-to-lose-2026": {
+    "tmdbId": 1554882,
+    "tmdbType": "movie",
+    "imdbId": "tt38510825",
+    "titleFr": "Nothing to Lose",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
+    "rating": null,
+    "ts": "2026-07-09"
   },
   "notting-hill": {
     "tmdbId": 509,
@@ -4968,6 +5058,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
     "rating": 6.178,
     "ts": "2026-06-20"
+  },
+  "scrubs": {
+    "tmdbId": 4556,
+    "tmdbType": "tv",
+    "imdbId": "tt0285403",
+    "titleFr": "Scrubs",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+    "rating": 8.116,
+    "ts": "2026-07-09"
   },
   "scrubs-2026": {
     "tmdbId": 295778,
@@ -6559,6 +6659,16 @@
     "rating": 6.646,
     "ts": "2026-06-21"
   },
+  "the-pendragon-cycle-rise-of-the-merlin": {
+    "tmdbId": 235685,
+    "tmdbType": "tv",
+    "imdbId": "tt23734948",
+    "titleFr": "The Pendragon Cycle: Rise of the Merlin",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+    "rating": 7.394,
+    "ts": "2026-07-09"
+  },
   "the-perfect-gamble": {
     "tmdbId": 1297458,
     "tmdbType": "movie",
@@ -7089,6 +7199,16 @@
     "rating": 6.234,
     "ts": "2026-06-23"
   },
+  "transformers-one": {
+    "tmdbId": 698687,
+    "tmdbType": "movie",
+    "imdbId": "tt8864596",
+    "titleFr": "Transformers : Le Commencement",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6PVLEv0WvXyIbp3RvGC5j3X5dAz.jpg",
+    "rating": 7.971,
+    "ts": "2026-07-09"
+  },
   "transformers-rise-of-the-beasts": {
     "tmdbId": 667538,
     "tmdbType": "movie",
@@ -7148,6 +7268,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
     "rating": 7.177,
     "ts": "2026-07-04"
+  },
+  "trying": {
+    "tmdbId": 98177,
+    "tmdbType": "tv",
+    "imdbId": "tt10982034",
+    "titleFr": "Trying",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
+    "rating": 7.6,
+    "ts": "2026-07-09"
   },
   "tulsa-king": {
     "tmdbId": 153312,
@@ -7388,6 +7518,26 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/3QsSKLq6yewtII9wx3yWVU92rxs.jpg",
     "rating": 6.943,
     "ts": "2026-06-19"
+  },
+  "wardriver": {
+    "tmdbId": 938150,
+    "tmdbType": "movie",
+    "imdbId": "tt5095076",
+    "titleFr": "Wardriver",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
+    "rating": 7.338,
+    "ts": "2026-07-09"
+  },
+  "waynes-world": {
+    "tmdbId": 8872,
+    "tmdbType": "movie",
+    "imdbId": "tt0105793",
+    "titleFr": "Wayne's World",
+    "year": 1992,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/R8Q9qIl51SHtcX5oWSBbz4YhQV.jpg",
+    "rating": 6.688,
+    "ts": "2026-07-09"
   },
   "we-can-be-heroes-2020": {
     "tmdbId": 615677,
