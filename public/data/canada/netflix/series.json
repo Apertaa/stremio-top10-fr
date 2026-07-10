@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "series",
-  "date": "202607091746",
+  "date": "202607101739",
   "entries": [
     {
       "rank": 1,
@@ -32,19 +32,6 @@
     },
     {
       "rank": 3,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "top10:jeff-arcuri-nice-to-meet-you",
       "name": "Jeff Arcuri: Nice to Meet You",
       "tmdbPosterUrl": null,
@@ -52,12 +39,12 @@
       "year": null,
       "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt9018736",
       "name": "Avatar : Le dernier maître de l'air",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
@@ -65,12 +52,12 @@
       "year": 2024,
       "days": 46,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt41672842",
       "name": "Salish & Jordan Matter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
@@ -78,12 +65,12 @@
       "year": 2026,
       "days": 27,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt42127457",
       "name": "Agent Kim Reactivated",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
@@ -91,25 +78,12 @@
       "year": 2026,
       "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "top10:feng-shui-master-the-pregnant-ghos",
-      "name": "Feng Shui Master & The Pregnant Ghos",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "id": "tt17736900",
       "name": "Lock Upp",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRMpjPcg3P4wsdCl61KNXum1Itf.jpg",
@@ -117,21 +91,47 @@
       "year": 2022,
       "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt38776795",
+      "name": "L'Été 36",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 6
       }
     },
     {
       "rank": 10,
-      "id": "top10:louis-ck-ridiculous",
-      "name": "Louis C.K.: Ridiculous",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 9,
+      "id": "tt17361756",
+      "name": "La loi de la plus forte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8elSMubg98ySvWyru3SFy3paD2J.jpg",
+      "rating": 6.761,
+      "year": 2023,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

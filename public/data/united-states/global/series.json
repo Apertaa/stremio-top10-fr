@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202607091746",
+  "date": "202607101739",
   "entries": [
     {
       "rank": 1,
@@ -32,19 +32,6 @@
     },
     {
       "rank": 3,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt21064598",
       "name": "Retour à Sullivan's Crossing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIRFRHTsCQxhJJtn5TPYOqryjdW.jpg",
@@ -52,8 +39,21 @@
       "year": 2023,
       "days": 56,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "top10:jeff-arcuri-nice-to-meet-you",
+      "name": "Jeff Arcuri: Nice to Meet You",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 5
       }
     },
     {
@@ -71,19 +71,6 @@
     },
     {
       "rank": 6,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 39,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt15017118",
       "name": "Dark Winds",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1pKrWKwatxsF2DhrjX0day8Dfo8.jpg",
@@ -91,8 +78,21 @@
       "year": 2022,
       "days": 45,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 39,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "top10:jeff-arcuri-nice-to-meet-you",
-      "name": "Jeff Arcuri: Nice to Meet You",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 2,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 6
       }
     },
     {

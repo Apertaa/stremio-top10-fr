@@ -2,42 +2,42 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607091746",
+  "date": "202607101739",
   "entries": [
     {
       "rank": 1,
+      "id": "top10:bluey-compilations",
+      "name": "Bluey Compilations",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt16026746",
       "name": "X-Men '97",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 12,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt26685570",
-      "name": "How Not to Draw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
-      "rating": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
       "year": 2022,
-      "days": 32,
+      "days": 13,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,54 +45,54 @@
     },
     {
       "rank": 4,
-      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
-      "name": "IMPACT x Nightline: The Girl in the Trunk",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 12,
+      "id": "tt26685570",
+      "name": "How Not to Draw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": 33,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 5,
+      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
+      "name": "IMPACT x Nightline: The Girl in the Trunk",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 13,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt43268848",
       "name": "Locker Diaries: Phineas And Ferb",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
       "rating": null,
       "year": 2026,
-      "days": 27,
+      "days": 28,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "top10:voyagers-exploring-pacific-waters",
       "name": "Voyagers: Exploring Pacific Waters",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt23731346",
-      "name": "Princesse Sofia : Apprentie magicienne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
-      "rating": 9.4,
-      "year": 2026,
-      "days": 16,
+      "days": 5,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 81,
+      "days": 82,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 41,
+      "days": 42,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt32603995",
-      "name": "Adventure Time: Side Quests",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tDAObAvUx2tw4ZM6ohqo06pqQyW.jpg",
-      "rating": null,
+      "id": "tt23731346",
+      "name": "Princesse Sofia : Apprentie magicienne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
+      "rating": 9.4,
       "year": 2026,
-      "days": 8,
+      "days": 17,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     }
   ]

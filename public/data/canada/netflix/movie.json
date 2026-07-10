@@ -2,23 +2,10 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202607091746",
+  "date": "202607101739",
   "entries": [
     {
       "rank": 1,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt1298644",
       "name": "Le coup du siècle",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N7LPeMo3nVRz908YvfkvtciIcY.jpg",
@@ -26,8 +13,21 @@
       "year": 2019,
       "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -97,15 +97,15 @@
     },
     {
       "rank": 8,
-      "id": "tt27812086",
-      "name": "Cleaner",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
-      "rating": 6.392,
-      "year": 2025,
-      "days": 12,
+      "id": "tt0119094",
+      "name": "Volte/Face",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
+      "rating": 7.058,
+      "year": 1997,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt0119094",
-      "name": "Volte/Face",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
-      "rating": 7.058,
-      "year": 1997,
-      "days": 2,
+      "id": "tt27812086",
+      "name": "Cleaner",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AvKlFFSMtn4FvYzKecrpDNZIoy6.jpg",
+      "rating": 6.392,
+      "year": 2025,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

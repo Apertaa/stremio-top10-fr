@@ -499,6 +499,16 @@
     "rating": 5.853,
     "ts": "2026-06-28"
   },
+  "austin-powers-international-man-of-mystery": {
+    "tmdbId": 816,
+    "tmdbType": "movie",
+    "imdbId": "tt0118655",
+    "titleFr": "Austin Powers",
+    "year": 1997,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
+    "rating": 6.598,
+    "ts": "2026-07-10"
+  },
   "avatar": {
     "tmdbId": 19995,
     "tmdbType": "movie",
@@ -2009,6 +2019,16 @@
     "rating": 6.099,
     "ts": "2026-06-21"
   },
+  "fidelio-alices-odyssey": {
+    "tmdbId": 285023,
+    "tmdbType": "movie",
+    "imdbId": "tt3800010",
+    "titleFr": "Fidelio, l’odyssée d’Alice",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lKLCp9YAA7VoafIwLAH3SViarV4.jpg",
+    "rating": 5.6,
+    "ts": "2026-07-10"
+  },
   "final-destination-bloodlines": {
     "tmdbId": 574475,
     "tmdbType": "movie",
@@ -2188,6 +2208,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
     "rating": 8.479,
     "ts": "2026-06-19"
+  },
+  "from-old-country-bumpkin-to-master-swordsman": {
+    "tmdbId": 260823,
+    "tmdbType": "tv",
+    "imdbId": "tt35346717",
+    "titleFr": "Béryl : De paysan à maître d'armes",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sunvA4HJbblDhgMH5I2StrF9wki.jpg",
+    "rating": 7.2,
+    "ts": "2026-07-10"
   },
   "full-metal-jacket": {
     "tmdbId": 600,
@@ -2818,6 +2848,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bElBmTJSE1XGnLbSByThQAFzDWq.jpg",
     "rating": 6.561,
     "ts": "2026-07-01"
+  },
+  "inglourious-basterds": {
+    "tmdbId": 16869,
+    "tmdbType": "movie",
+    "imdbId": "tt0361748",
+    "titleFr": "Inglourious Basterds",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
+    "rating": 8.217,
+    "ts": "2026-07-10"
   },
   "inside-man": {
     "tmdbId": 388,
@@ -3989,6 +4029,16 @@
     "rating": 7.752,
     "ts": "2026-06-19"
   },
+  "moonfall": {
+    "tmdbId": 406759,
+    "tmdbType": "movie",
+    "imdbId": "tt5834426",
+    "titleFr": "Moonfall",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
+    "rating": 6.249,
+    "ts": "2026-07-10"
+  },
   "ms-rachel": {
     "tmdbId": 282238,
     "tmdbType": "tv",
@@ -3998,6 +4048,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
     "rating": 7.286,
     "ts": "2026-06-20"
+  },
+  "ms-x": {
+    "tmdbId": 324346,
+    "tmdbType": "tv",
+    "imdbId": "tt37094589",
+    "titleFr": "Ms. X",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
+    "rating": 3.7,
+    "ts": "2026-07-10"
   },
   "murder-in-the-skies-who-downed-mh17": {
     "tmdbId": 284443,
@@ -4058,6 +4118,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
     "rating": 7.971,
     "ts": "2026-07-03"
+  },
+  "naked-and-afraid-last-one-standing": {
+    "tmdbId": 224857,
+    "tmdbType": "tv",
+    "imdbId": "tt27462910",
+    "titleFr": "Retour à l'instinct primaire : Le choc des légendes",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5ptDHCxxFUMdVO5WDi0LeICFbDw.jpg",
+    "rating": 7.7,
+    "ts": "2026-07-10"
   },
   "napoleon-2023": {
     "tmdbId": 753342,
@@ -4809,6 +4879,16 @@
     "rating": 6.816,
     "ts": "2026-06-23"
   },
+  "reacher": {
+    "tmdbId": 108978,
+    "tmdbType": "tv",
+    "imdbId": "tt9288030",
+    "titleFr": "Reacher",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+    "rating": 8.078,
+    "ts": "2026-07-10"
+  },
   "read-my-lips": {
     "tmdbId": 6173,
     "tmdbType": "movie",
@@ -5189,6 +5269,16 @@
     "rating": 5.749,
     "ts": "2026-06-20"
   },
+  "shifting-gears-2025": {
+    "tmdbId": 260471,
+    "tmdbType": "tv",
+    "imdbId": "tt31614348",
+    "titleFr": "Famille en réparation",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
+    "rating": 6.406,
+    "ts": "2026-07-10"
+  },
   "shooter": {
     "tmdbId": 7485,
     "tmdbType": "movie",
@@ -5529,6 +5619,16 @@
     "rating": 7.433,
     "ts": "2026-06-28"
   },
+  "star-trek-into-darkness": {
+    "tmdbId": 54138,
+    "tmdbType": "movie",
+    "imdbId": "tt1408101",
+    "titleFr": "Star Trek Into Darkness",
+    "year": 2013,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/g9XEl6WP5IFixRhpQBezZ6TDbk4.jpg",
+    "rating": 7.324,
+    "ts": "2026-07-10"
+  },
   "star-trek-the-next-generation": {
     "tmdbId": 655,
     "tmdbType": "tv",
@@ -5618,6 +5718,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/fiqcKkjKwcbxeoVVKiEkxQnBSge.jpg",
     "rating": 6.079,
     "ts": "2026-06-20"
+  },
+  "suburban-nightmare-jonbenet-ramsey-2022": {
+    "tmdbId": 1057287,
+    "tmdbType": "movie",
+    "imdbId": "tt23871516",
+    "titleFr": "Suburban Nightmare: JonBenét Ramsey",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/uWYI2qTGc7m3qIcs51o7PxqFVrb.jpg",
+    "rating": 5,
+    "ts": "2026-07-10"
   },
   "suburban-nightmare-the-menendez-brothers": {
     "tmdbId": 1032596,
@@ -6269,6 +6379,16 @@
     "rating": 6.719,
     "ts": "2026-06-20"
   },
+  "the-fox-hollow-murders-playground-of-a-serial-killer": {
+    "tmdbId": 283272,
+    "tmdbType": "tv",
+    "imdbId": "tt35617850",
+    "titleFr": "Fox Hollow: Le repaire du tueur",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gkd7njRdLo1EXGTPQVPPabDcGzx.jpg",
+    "rating": 6.3,
+    "ts": "2026-07-10"
+  },
   "the-fresh-prince-of-bel-air": {
     "tmdbId": 1892,
     "tmdbType": "tv",
@@ -6298,6 +6418,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/rHv89mDoWy9SxjPwsiPausnIaqJ.jpg",
     "rating": 5.5,
     "ts": "2026-06-28"
+  },
+  "the-ghost-in-the-shell": {
+    "tmdbId": 255358,
+    "tmdbType": "tv",
+    "imdbId": "tt36517689",
+    "titleFr": "THE GHOST IN THE SHELL",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/v6D7aBJynhY6opGugGJkofzknw6.jpg",
+    "rating": 8.4,
+    "ts": "2026-07-10"
   },
   "the-girl-who-escaped-the-kara-robinson-story": {
     "tmdbId": 1075334,
@@ -6418,6 +6548,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
     "rating": 6.74,
     "ts": "2026-06-28"
+  },
+  "the-iris-affair": {
+    "tmdbId": 253368,
+    "tmdbType": "tv",
+    "imdbId": "tt32264653",
+    "titleFr": "The Iris Affair",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
+    "rating": 6.4,
+    "ts": "2026-07-10"
   },
   "the-jackal": {
     "tmdbId": 4824,
@@ -6608,6 +6748,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
     "rating": 6.238,
     "ts": "2026-07-06"
+  },
+  "the-miniature-wife": {
+    "tmdbId": 250220,
+    "tmdbType": "tv",
+    "imdbId": "tt31909098",
+    "titleFr": "The Miniature Wife",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
+    "rating": 7.446,
+    "ts": "2026-07-10"
   },
   "the-murder-of-rachel-nickell": {
     "tmdbId": 1693002,
@@ -6839,6 +6989,16 @@
     "rating": 7.6,
     "ts": "2026-07-06"
   },
+  "the-secret-agent-2025": {
+    "tmdbId": 1220564,
+    "tmdbType": "movie",
+    "imdbId": "tt27847051",
+    "titleFr": "L'Agent secret",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/vtZn6G9Iah5gGfdrjm7aqZMsKfG.jpg",
+    "rating": 7.234,
+    "ts": "2026-07-10"
+  },
   "the-secret-life-of-pets": {
     "tmdbId": 328111,
     "tmdbType": "movie",
@@ -6998,6 +7158,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/tFmkIyhjR1xNFRlIruMLu8NMYji.jpg",
     "rating": 5.669,
     "ts": "2026-07-07"
+  },
+  "the-world-upside-down": {
+    "tmdbId": 1450272,
+    "tmdbType": "movie",
+    "imdbId": "tt35299232",
+    "titleFr": "El mundo al revés",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/83LgjGtqICpHSjBU5mcxOVhQ56u.jpg",
+    "rating": null,
+    "ts": "2026-07-10"
   },
   "they-will-kill-you": {
     "tmdbId": 1292695,
@@ -7319,6 +7489,16 @@
     "rating": 6.773,
     "ts": "2026-07-02"
   },
+  "two-and-a-half-men": {
+    "tmdbId": 2691,
+    "tmdbType": "tv",
+    "imdbId": "tt0369179",
+    "titleFr": "Mon oncle Charlie",
+    "year": 2003,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oD1JuejHVuDfq5qSOGmBO5OlGEo.jpg",
+    "rating": 7.459,
+    "ts": "2026-07-10"
+  },
   "two-pianos": {
     "tmdbId": 1331349,
     "tmdbType": "movie",
@@ -7598,6 +7778,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qCwqnTW5DEATFlQ3mACBm2GpTiM.jpg",
     "rating": 6.857,
     "ts": "2026-06-20"
+  },
+  "whatsapp-obsession-the-murder-of-stephanie-hansen": {
+    "tmdbId": 1657797,
+    "tmdbType": "movie",
+    "imdbId": "tt40387378",
+    "titleFr": "WhatsApp Obsession: The Murder of Stephanie Hansen",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
+    "rating": null,
+    "ts": "2026-07-10"
   },
   "whistle-2026": {
     "tmdbId": 1193501,
