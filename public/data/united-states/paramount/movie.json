@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
       "rating": 7.338,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt6977338",
-      "name": "Good Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
-      "rating": 6.833,
-      "year": 2019,
-      "days": 6,
+      "id": "tt1225822",
+      "name": "Extract",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+      "rating": 5.847,
+      "year": 2009,
+      "days": 100,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt1225822",
-      "name": "Extract",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
-      "rating": 5.847,
-      "year": 2009,
-      "days": 99,
+      "id": "tt1524930",
+      "name": "Vive les Vacances",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
+      "rating": 6.305,
+      "year": 2015,
+      "days": 5,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt1524930",
-      "name": "Vive les Vacances",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
-      "rating": 6.305,
-      "year": 2015,
-      "days": 4,
+      "id": "tt6977338",
+      "name": "Good Boys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
+      "rating": 6.833,
+      "year": 2019,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 691,
+      "days": 692,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 42,
+      "days": 43,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 189,
+      "days": 190,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
       "rating": 6.351,
       "year": 2022,
-      "days": 80,
+      "days": 81,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/co7YZnESTu7YPfuf8VG4jRjI9kj.jpg",
       "rating": 6.938,
       "year": 1990,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt0398165",
-      "name": "Mi-temps au mitard",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kKwcB3FjCabJSwfLBU6dU70aRFs.jpg",
-      "rating": 6.68,
-      "year": 2005,
-      "days": 29,
+      "id": "tt3291150",
+      "name": "Expendables 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9lA4NN03oWXbu9wxDS5GckEox6P.jpg",
+      "rating": 6.058,
+      "year": 2023,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

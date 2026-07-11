@@ -2,14 +2,14 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
-      "id": "tt40387378",
-      "name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
-      "rating": null,
+      "id": "tt32306991",
+      "name": "Solo Mio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "rating": 7.361,
       "year": 2026,
       "days": null,
       "trend": {
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt30908405",
-      "name": "The Last Rodeo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
-      "rating": 7.648,
-      "year": 2025,
-      "days": 6,
+      "id": "tt40387378",
+      "name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 1,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -37,32 +37,32 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt30908405",
+      "name": "The Last Rodeo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
+      "rating": 7.648,
+      "year": 2025,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt34471850",
       "name": "Protector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "rating": 8.551,
       "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt37738006",
-      "name": "1000 Men and Me: The Bonnie Blue Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
-      "rating": 5.2,
-      "year": 2025,
       "days": 7,
       "trend": {
         "dir": "down",
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt23871516",
-      "name": "Suburban Nightmare: JonBenét Ramsey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uWYI2qTGc7m3qIcs51o7PxqFVrb.jpg",
-      "rating": 5,
-      "year": 2022,
-      "days": 6,
+      "id": "tt37738006",
+      "name": "1000 Men and Me: The Bonnie Blue Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+      "rating": 5.2,
+      "year": 2025,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,15 +97,15 @@
     },
     {
       "rank": 8,
-      "id": "tt36861174",
-      "name": "The Real Adolescence: Our Killer Kids",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
-      "rating": 6,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
       "year": 2025,
-      "days": 7,
+      "days": 188,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "rating": 7.684,
       "year": 2026,
-      "days": 76,
+      "days": 77,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

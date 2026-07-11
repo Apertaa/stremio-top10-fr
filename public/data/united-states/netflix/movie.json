@@ -2,42 +2,42 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt12731980",
       "name": "Old Henry",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
       "rating": 7.254,
       "year": 2021,
-      "days": 5,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt0381707",
-      "name": "F.B.I. Fausses Blondes Infiltrées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
-      "rating": 6.95,
-      "year": 2004,
-      "days": 15,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 7,
+      "id": "tt0381707",
+      "name": "F.B.I. Fausses Blondes Infiltrées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
+      "rating": 6.95,
+      "year": 2004,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,67 +45,67 @@
     },
     {
       "rank": 4,
-      "id": "tt2250912",
-      "name": "Spider-Man : Homecoming",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
-      "rating": 7.33,
-      "year": 2017,
-      "days": 7,
+      "id": "tt35072306",
+      "name": "The Paradise Murders",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qLQ3svpMpwL6tFFtFPQ2aIq4ohg.jpg",
+      "rating": null,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 5,
-      "id": "tt2267998",
-      "name": "Gone Girl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7xkJ1ACu40BjzLHVPRILWjFvW7.jpg",
-      "rating": 7.89,
-      "year": 2014,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt3874544",
       "name": "Baby Boss",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 64,
+      "days": 66,
       "trend": {
         "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 22,
+      "trend": {
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt34888871",
-      "name": "Little Brother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": 13,
+      "id": "tt2250912",
+      "name": "Spider-Man : Homecoming",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
+      "rating": 7.33,
+      "year": 2017,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tR4PU2wRPzGKmF665lE5wULGb3X.jpg",
       "rating": 7.039,
       "year": 2005,
-      "days": 10,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt28833276",
-      "name": "Hunting Housewives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7uGxjU3DnuE5WxYCl02MEd8Ivjs.jpg",
-      "rating": 5,
-      "year": 2024,
-      "days": 7,
+      "id": "tt2267998",
+      "name": "Gone Girl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7xkJ1ACu40BjzLHVPRILWjFvW7.jpg",
+      "rating": 7.89,
+      "year": 2014,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     }
   ]

@@ -2,58 +2,58 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt24326462",
+      "name": "One Mile: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
+      "rating": 6.867,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt14107334",
       "name": "Running Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 2,
+      "rank": 4,
       "id": "tt37577501",
       "name": "The Girl Who Survived: The Alina Thompson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 41,
-      "trend": {
-        "dir": "up",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt30057173",
-      "name": "Bad Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
-      "rating": 5.511,
-      "year": 2025,
-      "days": 53,
-      "trend": {
-        "dir": "up",
-        "delta": 6
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt29101725",
-      "name": "Killing Faith",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "rating": 5.821,
-      "year": 2025,
-      "days": 27,
+      "days": 42,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 98,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt1116184",
-      "name": "Jackass 3D",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
-      "rating": 6.6,
-      "year": 2010,
-      "days": 12,
+      "days": 99,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 6,
+      "id": "tt2582782",
+      "name": "Comancheria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
+      "rating": 7.302,
+      "year": 2016,
+      "days": 20,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 7,
-      "id": "tt0322802",
-      "name": "Jackass, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Mbop5DzeWOz5sKdjnOD6Q82PIS.jpg",
-      "rating": 6.3,
-      "year": 2002,
-      "days": 14,
+      "id": "tt29101725",
+      "name": "Killing Faith",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
+      "rating": 5.821,
+      "year": 2025,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 3
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt25602750",
-      "name": "The Girl Who Escaped: The Kara Robinson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
-      "rating": 7.111,
-      "year": 2023,
-      "days": 398,
+      "id": "tt0790724",
+      "name": "Jack Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yx9jmcMWMfO0gJfpmmKR0u016VQ.jpg",
+      "rating": 6.668,
+      "year": 2012,
+      "days": 214,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt38238651",
-      "name": "The Internship",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
-      "rating": 6.74,
-      "year": 2026,
-      "days": 26,
+      "id": "tt30057173",
+      "name": "Bad Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
+      "rating": 5.511,
+      "year": 2025,
+      "days": 54,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 6
       }
     },
     {
       "rank": 10,
-      "id": "tt1753968",
-      "name": "Jackass 3.5, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xVKk2zEEeU5KOM7K9ZYRXncbaMn.jpg",
-      "rating": 6.362,
-      "year": 2011,
-      "days": 3,
+      "id": "tt1116184",
+      "name": "Jackass 3D",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

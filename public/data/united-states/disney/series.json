@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
       "rating": 8,
       "year": 2022,
-      "days": 33,
+      "days": 34,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 83,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt43268848",
       "name": "Locker Diaries: Phineas And Ferb",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
       "rating": null,
       "year": 2026,
-      "days": 28,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "top10:voyagers-exploring-pacific-waters",
-      "name": "Voyagers: Exploring Pacific Waters",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 5,
+      "days": 29,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
-      "year": 2026,
-      "days": 82,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt13622956",
       "name": "Zootopie+",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 42,
+      "days": 43,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "top10:voyagers-exploring-pacific-waters",
+      "name": "Voyagers: Exploring Pacific Waters",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt23731346",
-      "name": "Princesse Sofia : Apprentie magicienne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
-      "rating": 9.4,
+      "id": "tt21066182",
+      "name": "Wonder Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uHI0TCde9YDGY7Fm54L3mBNILK.jpg",
+      "rating": 7.025,
       "year": 2026,
-      "days": 17,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

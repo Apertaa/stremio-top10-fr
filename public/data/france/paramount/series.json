@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "series",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 819,
+      "days": 820,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,20 +24,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 763,
+      "days": 764,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt0452046",
-      "name": "Esprits criminels",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
-      "rating": 8.3,
-      "year": 2005,
-      "days": 833,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 56,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 55,
+      "id": "tt0452046",
+      "name": "Esprits criminels",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
+      "rating": 8.3,
+      "year": 2005,
+      "days": 834,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt16098700",
-      "name": "Fire Country : Pompiers sur Appel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
-      "rating": 8.1,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "rating": 8.3,
       "year": 2022,
-      "days": 361,
+      "days": 746,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 4
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 684,
+      "days": 685,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0773262",
-      "name": "Dexter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
-      "rating": 8.2,
-      "year": 2006,
-      "days": 826,
+      "id": "tt16098700",
+      "name": "Fire Country : Pompiers sur Appel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
+      "rating": 8.1,
+      "year": 2022,
+      "days": 362,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 810,
+      "days": 811,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "rating": 8.3,
-      "year": 2022,
-      "days": 745,
+      "id": "tt0773262",
+      "name": "Dexter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
+      "rating": 8.2,
+      "year": 2006,
+      "days": 827,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt6473344",
-      "name": "SEAL Team",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
-      "rating": 8.031,
-      "year": 2017,
-      "days": 554,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 83,
       "trend": {
         "dir": "new",
         "delta": null

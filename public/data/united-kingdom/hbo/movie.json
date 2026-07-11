@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,37 +19,37 @@
     },
     {
       "rank": 2,
-      "id": "tt6334354",
-      "name": "The Suicide Squad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
-      "rating": 7.458,
-      "year": 2021,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt0105695",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
-      "rating": 7.911,
-      "year": 1992,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt41702551",
       "name": "Bang My Box: The Robin Byrd Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt6334354",
+      "name": "The Suicide Squad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
+      "rating": 7.458,
+      "year": 2021,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0105695",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
+      "rating": 7.911,
+      "year": 1992,
       "days": 8,
       "trend": {
         "dir": "down",
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
       "rating": 6.84,
       "year": 1998,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,38 +71,38 @@
     },
     {
       "rank": 6,
+      "id": "tt0118655",
+      "name": "Austin Powers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
+      "rating": 6.598,
+      "year": 1997,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt0186566",
       "name": "Space Cowboys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
       "rating": 6.398,
       "year": 2000,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 24,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt0385307",
-      "name": "Miss FBI : Divinement armée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
-      "rating": 5.741,
-      "year": 2005,
-      "days": 10,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 25,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,25 +110,25 @@
     },
     {
       "rank": 9,
-      "id": "tt0118655",
-      "name": "Austin Powers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
-      "rating": 6.598,
-      "year": 1997,
-      "days": null,
+      "id": "tt0385307",
+      "name": "Miss FBI : Divinement armée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
+      "rating": 5.741,
+      "year": 2005,
+      "days": 11,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tmdb:1706110",
-      "name": "Amityville Horror House",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": 2021,
-      "days": 1,
+      "id": "tt2231461",
+      "name": "Rampage : Hors de contrôle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
+      "rating": 6.457,
+      "year": 2018,
+      "days": 22,
       "trend": {
         "dir": "new",
         "delta": null

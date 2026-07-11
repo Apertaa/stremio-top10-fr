@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
       "rating": 5.9,
       "year": 2025,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
       "rating": 7.875,
       "year": 2021,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,54 +71,54 @@
     },
     {
       "rank": 6,
-      "id": "tt36963493",
-      "name": "Une famille de bâtards",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-      "rating": 5.257,
+      "id": "tt38235625",
+      "name": "Boulevard",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
+      "rating": 8.063,
       "year": 2026,
-      "days": 27,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt30425872",
-      "name": "Very Bad Job",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
-      "rating": 6.593,
-      "year": 2025,
-      "days": 10,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt35299232",
-      "name": "El mundo al revés",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/83LgjGtqICpHSjBU5mcxOVhQ56u.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 51,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "id": "tt33479805",
       "name": "Killer Whale",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
       "rating": 5.665,
       "year": 2026,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt30425872",
+      "name": "Very Bad Job",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
+      "rating": 6.593,
+      "year": 2025,
+      "days": 11,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1840309",
+      "name": "Divergente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
+      "rating": 6.905,
+      "year": 2014,
+      "days": 3,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
       "rating": 5.1,
       "year": 2019,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

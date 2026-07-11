@@ -2,16 +2,16 @@
   "country": "belgium",
   "key": "global",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
+      "id": "tt38510825",
+      "name": "Nothing to Lose",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 8,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,67 +19,67 @@
     },
     {
       "rank": 2,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 20,
+      "days": 22,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "id": "tt5433138",
       "name": "Fast & Furious 9",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Ph5gQn3PYJk98P31ln5hnsG04z.jpg",
       "rating": 7,
       "year": 2021,
-      "days": 6,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
       "id": "tt19847976",
       "name": "Wicked : Partie II",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
       "rating": 6.625,
       "year": 2025,
-      "days": 5,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt38510825",
-      "name": "Nothing to Lose",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt34888871",
-      "name": "Little Brother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 19,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt0232500",
-      "name": "Fast and Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsW9S3K6oBLKVMMLuSvKwEPOKHc.jpg",
-      "rating": 7.008,
-      "year": 2001,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt33397980",
-      "name": "Office Romance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "rating": 6.539,
-      "year": 2026,
-      "days": 31,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt18259086",
       "name": "Sonic 3, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 30,
+      "days": 32,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0232500",
+      "name": "Fast and Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsW9S3K6oBLKVMMLuSvKwEPOKHc.jpg",
+      "rating": 7.008,
+      "year": 2001,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt34888871",
+      "name": "Little Brother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

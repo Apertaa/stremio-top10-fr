@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 6,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
       "rating": 7.454,
       "year": 2024,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
       "rating": 6.9,
       "year": 2023,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 27,
+      "days": 29,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,23 +63,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
       "rating": 7.634,
       "year": 2015,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
-      "days": 13,
+      "id": "tt41702551",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 9,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 2
       }
     },
     {
@@ -89,23 +89,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hnRypLHkqd0qBLL1qT9KNy0XFl0.jpg",
       "rating": 6.19,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 8,
+      "id": "tt1375666",
+      "name": "Inception",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
+      "rating": 8.4,
+      "year": 2010,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8KHWL693DvfiDzrSp1n5Ox5GOup.jpg",
       "rating": 7.27,
       "year": 1999,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt13560574",
-      "name": "X",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
-      "rating": 6.7,
-      "year": 2022,
-      "days": 19,
+      "id": "tmdb:1417605",
+      "name": "DOGTOOTH",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Bzizu1xcm3aB993K6hPKa60LGK.jpg",
+      "rating": 9,
+      "year": 2024,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

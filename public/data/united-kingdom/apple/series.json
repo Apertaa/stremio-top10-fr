@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "apple",
   "list": "series",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 530,
+      "days": 531,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt33332385",
-      "name": "Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
-      "rating": 8.202,
+      "id": "tt34675596",
+      "name": "Cape Fear - Les Nerfs à vif",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
+      "rating": 6.6,
       "year": 2026,
-      "days": 71,
+      "days": 35,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -32,38 +32,38 @@
     },
     {
       "rank": 3,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "rating": 8.34,
-      "year": 2020,
-      "days": 895,
+      "id": "tt32140872",
+      "name": "Star City",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
+      "rating": 6.8,
+      "year": 2026,
+      "days": 37,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 4,
-      "id": "tt34675596",
-      "name": "Cape Fear - Les Nerfs à vif",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 34,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt10982034",
       "name": "Trying",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
       "rating": 7.6,
       "year": 2020,
-      "days": 437,
+      "days": 438,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "rating": 8.34,
+      "year": 2020,
+      "days": 896,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt30459041",
-      "name": "Vrais voisins, faux amis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
-      "rating": 7.719,
-      "year": 2025,
-      "days": 229,
+      "id": "tt16418808",
+      "name": "Sugar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "rating": 7.2,
+      "year": 2024,
+      "days": 188,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt16418808",
-      "name": "Sugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "rating": 7.2,
-      "year": 2024,
-      "days": 187,
+      "id": "tt33332385",
+      "name": "Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
+      "rating": 8.202,
+      "year": 2026,
+      "days": 72,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 5
       }
     },
     {
       "rank": 8,
-      "id": "tt7772588",
-      "name": "For All Mankind",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
-      "rating": 7.743,
-      "year": 2019,
-      "days": 561,
+      "id": "tt30459041",
+      "name": "Vrais voisins, faux amis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
+      "rating": 7.719,
+      "year": 2025,
+      "days": 230,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tt35946742",
-      "name": "Plaisir maximum garanti",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
-      "rating": 5.7,
-      "year": 2026,
-      "days": 27,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Edj9sccDf1lXQkkJHFedsDdTiS.jpg",
       "rating": 8.006,
       "year": 2022,
-      "days": 895,
+      "days": 896,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt7772588",
+      "name": "For All Mankind",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
+      "rating": 7.743,
+      "year": 2019,
+      "days": 562,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

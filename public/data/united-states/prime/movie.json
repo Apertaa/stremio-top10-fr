@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 50,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
       "rating": 6.439,
       "year": 2023,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 53,
+      "days": 54,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt1440129",
-      "name": "Battleship",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bCYuM18r8G8pOlHf6yYxnFU9IJ4.jpg",
-      "rating": 5.903,
-      "year": 2012,
-      "days": 54,
+      "id": "tt5834426",
+      "name": "Moonfall",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
+      "rating": 6.249,
+      "year": 2022,
+      "days": 1,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt5834426",
-      "name": "Moonfall",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
-      "rating": 6.249,
-      "year": 2022,
-      "days": null,
+      "id": "tt1440129",
+      "name": "Battleship",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bCYuM18r8G8pOlHf6yYxnFU9IJ4.jpg",
+      "rating": 5.903,
+      "year": 2012,
+      "days": 55,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w8r7NAEIGLPH5r3NhiMobEO80PS.jpg",
       "rating": 6.523,
       "year": 2023,
-      "days": 43,
+      "days": 44,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt5950044",
-      "name": "Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
-      "rating": 7.338,
-      "year": 2025,
-      "days": 19,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt9150192",
       "name": "A Working Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 142,
+      "days": 143,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tmdb:1722965",
+      "name": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z0EuNGOWIisSufZQL8OgAlWTJyk.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 112,
+      "days": 113,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 85,
+      "days": 86,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt34881067",
-      "name": "Baylen Out Loud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 138,
+      "id": "tt29033873",
+      "name": "The Man Will Burn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJNDYMa0bKdFwoHMc8WhIiH9Wqr.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -58,28 +58,28 @@
     },
     {
       "rank": 5,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 139,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt3469050",
       "name": "90 jours pour se marier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 186,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 95,
+      "days": 187,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -89,23 +89,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdvK2OdTpUOs39Z0lvr9vKch9zP.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt36503976",
-      "name": "Castle Impossible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/263iMFN62eTC7lkrNnWo8V0XtP8.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": 4,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 96,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDChtZhrlxvEMIbQco5ocKRUB3g.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

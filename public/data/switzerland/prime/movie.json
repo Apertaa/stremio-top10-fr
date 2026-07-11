@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202607101739",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,67 +32,67 @@
     },
     {
       "rank": 3,
+      "id": "tt38235625",
+      "name": "Boulevard",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
+      "rating": 8.063,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt32565993",
       "name": "Les moutons détectives",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt0250494",
       "name": "La Revanche d'une blonde",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
       "rating": 6.817,
       "year": 2001,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt32793488",
-      "name": "L'Oracle II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fghzenCFUk3Y1MQXPIsKyOmluMt.jpg",
-      "rating": 6.547,
-      "year": 2025,
-      "days": 12,
-      "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
-      "year": 2025,
-      "days": 341,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt34378301",
       "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 49,
+      "days": 50,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt32793488",
+      "name": "L'Oracle II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fghzenCFUk3Y1MQXPIsKyOmluMt.jpg",
+      "rating": 6.547,
+      "year": 2025,
+      "days": 13,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 823,
+      "days": 824,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 342,
       "trend": {
         "dir": "down",
         "delta": 3
       }
     },
     {
-      "rank": 9,
-      "id": "tt33311244",
-      "name": "À contre-sens 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
-      "rating": 7.374,
-      "year": 2025,
-      "days": 211,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt9308022",
-      "name": "Permis de Conduire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": 5,
+      "id": "tmdb:1651369",
+      "name": "Your Fault",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 352,
       "trend": {
         "dir": "new",
         "delta": null

@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607091746",
+  "date": "202607111641",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 41,
+      "days": 43,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt3152592",
-      "name": "Scooby !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
-      "rating": 6.991,
-      "year": 2020,
-      "days": 8,
+      "id": "tt8864596",
+      "name": "Transformers : Le Commencement",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PVLEv0WvXyIbp3RvGC5j3X5dAz.jpg",
+      "rating": 7.971,
+      "year": 2024,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,38 +32,38 @@
     },
     {
       "rank": 3,
-      "id": "tt8864596",
-      "name": "Transformers : Le Commencement",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PVLEv0WvXyIbp3RvGC5j3X5dAz.jpg",
-      "rating": 7.971,
-      "year": 2024,
-      "days": null,
+      "id": "tt3152592",
+      "name": "Scooby !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
+      "rating": 6.991,
+      "year": 2020,
+      "days": 10,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 129,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 376,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0126029",
-      "name": "Shrek",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
-      "rating": 7.765,
-      "year": 2001,
-      "days": 224,
+      "days": 378,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,41 +71,41 @@
     },
     {
       "rank": 6,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 127,
+      "id": "tt0126029",
+      "name": "Shrek",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
+      "rating": 7.765,
+      "year": 2001,
+      "days": 226,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
+      "id": "tt0373051",
+      "name": "Voyage au centre de la Terre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
+      "rating": 6.09,
+      "year": 2008,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt0298148",
       "name": "Shrek 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 212,
+      "days": 214,
       "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 12,
-      "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,9 +115,9 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZHVqleUuh8sUXRzKumLLAmwybj.jpg",
       "rating": 7.381,
       "year": 2022,
-      "days": 150,
+      "days": 152,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddKk98obuNGy9CQbQ9LXv0llEZ3.jpg",
       "rating": 6.626,
       "year": 2016,
-      "days": 182,
+      "days": 183,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]
