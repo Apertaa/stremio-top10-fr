@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 90,
+      "days": 91,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
       "rating": null,
       "year": 2022,
-      "days": 789,
+      "days": 790,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcoDTpylduKBQMkwCUwybXUyILc.jpg",
       "rating": 7.9,
       "year": 2016,
-      "days": 855,
+      "days": 856,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt12363714",
-      "name": "Les Sisters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
-      "rating": 6,
-      "year": 2017,
-      "days": 905,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt3121722",
       "name": "La Pat' Patrouille",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 889,
+      "days": 890,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt12363714",
+      "name": "Les Sisters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
+      "rating": 6,
+      "year": 2017,
+      "days": 906,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 812,
+      "days": 813,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 95,
+      "days": 96,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 774,
+      "days": 775,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9LFlpS1Ei9AJEPr1RmLirkv1yS.jpg",
       "rating": 6.4,
       "year": 2004,
-      "days": 730,
+      "days": 731,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
       "rating": 6.843,
       "year": 2009,
-      "days": 91,
+      "days": 92,
       "trend": {
         "dir": "same",
         "delta": 0

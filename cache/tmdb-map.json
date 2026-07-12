@@ -739,6 +739,16 @@
     "rating": null,
     "ts": "2026-06-20"
   },
+  "best-interests": {
+    "tmdbId": 217700,
+    "tmdbType": "tv",
+    "imdbId": "tt10714820",
+    "titleFr": "Pour Marnie",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sH8muEErS4ATV8bNS7EzYGLNmy8.jpg",
+    "rating": 6.6,
+    "ts": "2026-07-12"
+  },
   "best-of-the-world-with-antoni-porowski": {
     "tmdbId": 323039,
     "tmdbType": "tv",
@@ -2499,6 +2509,16 @@
     "rating": 7.3,
     "ts": "2026-07-03"
   },
+  "good-will-hunting": {
+    "tmdbId": 489,
+    "tmdbType": "movie",
+    "imdbId": "tt0119217",
+    "titleFr": "Will Hunting",
+    "year": 1997,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gvWfXts6Qp34z8VTzpMagatA0nD.jpg",
+    "rating": 8.163,
+    "ts": "2026-07-12"
+  },
   "gram-chikitsalay": {
     "tmdbId": 290138,
     "tmdbType": "tv",
@@ -2648,6 +2668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
     "rating": 8.279,
     "ts": "2026-06-20"
+  },
+  "high-maintenance": {
+    "tmdbId": 67243,
+    "tmdbType": "tv",
+    "imdbId": "tt6078096",
+    "titleFr": "High Maintenance",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qmYqwOW0QTkJy1UGUsM2t0Kowpu.jpg",
+    "rating": 6.933,
+    "ts": "2026-07-12"
   },
   "high-potential": {
     "tmdbId": 226637,
@@ -2868,6 +2898,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/3qGKtITjPzptQluAtVpwXBQUeT.jpg",
     "rating": 6.1,
     "ts": "2026-07-11"
+  },
+  "im-not-afraid": {
+    "tmdbId": 290232,
+    "tmdbType": "tv",
+    "imdbId": "tt36742917",
+    "titleFr": "Je n'ai pas peur",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/fWdc8d4tR9HYRGRAxKMPGKklWRy.jpg",
+    "rating": 8.2,
+    "ts": "2026-07-12"
   },
   "in-the-eye-of-the-storm": {
     "tmdbId": 258731,
@@ -4679,6 +4719,16 @@
     "rating": 7.1,
     "ts": "2026-06-26"
   },
+  "paw-patrol-the-mighty-movie": {
+    "tmdbId": 893723,
+    "tmdbType": "movie",
+    "imdbId": "tt15837338",
+    "titleFr": "La Pat' Patrouille : La Super Patrouille, le film",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5unJTEPH5ipMY7cV87idGfhgIw7.jpg",
+    "rating": 6.938,
+    "ts": "2026-07-12"
+  },
   "paw-patrol-the-movie": {
     "tmdbId": 675445,
     "tmdbType": "movie",
@@ -6179,6 +6229,16 @@
     "rating": 7.054,
     "ts": "2026-06-20"
   },
+  "the-apartment-job": {
+    "tmdbId": 300727,
+    "tmdbType": "tv",
+    "imdbId": "tt43357366",
+    "titleFr": "아파트",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+    "rating": 5.333,
+    "ts": "2026-07-12"
+  },
   "the-art-of-war-ii-betrayal": {
     "tmdbId": 13988,
     "tmdbType": "movie",
@@ -6679,6 +6739,16 @@
     "rating": 6.1,
     "ts": "2026-06-20"
   },
+  "the-hangover": {
+    "tmdbId": 18785,
+    "tmdbType": "movie",
+    "imdbId": "tt1119646",
+    "titleFr": "Very Bad Trip",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dGOwVbGN5eJlgAnFwGRaANnyZMF.jpg",
+    "rating": 7.335,
+    "ts": "2026-07-12"
+  },
   "the-house-that-dragons-built-2022": {
     "tmdbId": 325709,
     "tmdbType": "tv",
@@ -6868,6 +6938,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/9Dn0gTnPoNgI4DBrVkwNklWF5XD.jpg",
     "rating": 6.58,
     "ts": "2026-06-24"
+  },
+  "the-long-walk-2025": {
+    "tmdbId": 604079,
+    "tmdbType": "movie",
+    "imdbId": "tt10374610",
+    "titleFr": "Marche ou crève",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
+    "rating": 6.89,
+    "ts": "2026-07-12"
   },
   "the-longest-yard-2005": {
     "tmdbId": 9291,
@@ -7298,6 +7378,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
     "rating": 8.1,
     "ts": "2026-06-19"
+  },
+  "the-tale": {
+    "tmdbId": 369523,
+    "tmdbType": "movie",
+    "imdbId": "tt4015500",
+    "titleFr": "Le passé recomposé",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/v7wPHixKUEWGZlKnp9Lew6H18vz.jpg",
+    "rating": 7.085,
+    "ts": "2026-07-12"
   },
   "the-testaments": {
     "tmdbId": 287527,
@@ -7739,6 +7829,16 @@
     "rating": 8.102,
     "ts": "2026-06-20"
   },
+  "ufc-1983": {
+    "tmdbId": 241702,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "인사이드 UFC",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7YXCgf0X60io1wLEnZcFbtHmJM6.jpg",
+    "rating": null,
+    "ts": "2026-07-12"
+  },
   "ultras-passion-and-death": {
     "tmdbId": 325858,
     "tmdbType": "tv",
@@ -7878,6 +7978,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
     "rating": 7.4,
     "ts": "2026-06-21"
+  },
+  "voyagers-exploring-pacific-waters": {
+    "tmdbId": 328241,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Voyagers: Exploring Pacific Waters",
+    "year": 2026,
+    "posterUrl": null,
+    "rating": null,
+    "ts": "2026-07-12"
   },
   "walker": {
     "tmdbId": 99121,

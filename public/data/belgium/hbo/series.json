@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 46,
+      "days": 47,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
+      "year": 2026,
+      "days": 29,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt32264653",
       "name": "The Iris Affair",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
       "rating": 6.4,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 12,
+      "days": 1,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt41050785",
-      "name": "Proud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-      "rating": 4.7,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
       "year": 2026,
-      "days": 28,
+      "days": 13,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKIsEY5ApLGJCtdbFbzymza0vrU.jpg",
       "rating": null,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 113,
+      "id": "tt27462910",
+      "name": "Retour à l'instinct primaire : Le choc des légendes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5ptDHCxxFUMdVO5WDi0LeICFbDw.jpg",
+      "rating": 7.7,
+      "year": 2023,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 114,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt26761151",
       "name": "The House That Dragons Built",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
       "rating": null,
       "year": 2022,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt27462910",
-      "name": "Retour à l'instinct primaire : Le choc des légendes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5ptDHCxxFUMdVO5WDi0LeICFbDw.jpg",
-      "rating": 7.7,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
       }
     }
   ]

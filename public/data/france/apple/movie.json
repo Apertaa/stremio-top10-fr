@@ -2,7 +2,7 @@
   "country": "france",
   "key": "apple",
   "list": "movie",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 491,
+      "days": 492,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 325,
+      "days": 326,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
       "rating": 7.715,
       "year": 2022,
-      "days": 838,
+      "days": 839,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,36 +50,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 318,
+      "days": 319,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt34276058",
-      "name": "The Family Plan 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
-      "rating": 6.539,
-      "year": 2025,
-      "days": 232,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt16431870",
       "name": "The Family Plan",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 870,
+      "days": 871,
       "trend": {
         "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt6285944",
+      "name": "The Banker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j5KjgXMuFPyLsZmFb6Fs76G593G.jpg",
+      "rating": 7.615,
+      "year": 2020,
+      "days": 468,
+      "trend": {
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -89,33 +89,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 91,
+      "days": 92,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt6285944",
-      "name": "The Banker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j5KjgXMuFPyLsZmFb6Fs76G593G.jpg",
-      "rating": 7.615,
-      "year": 2020,
-      "days": 467,
+      "id": "tt34276058",
+      "name": "The Family Plan 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
+      "rating": 6.539,
+      "year": 2025,
+      "days": 233,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 3
       }
     },
     {
       "rank": 9,
-      "id": "tt27052633",
-      "name": "Echo Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
-      "rating": 6.414,
-      "year": 2025,
-      "days": 117,
+      "id": "tt14257582",
+      "name": "Wolfs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "rating": 6.542,
+      "year": 2024,
+      "days": 515,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt14257582",
-      "name": "Wolfs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
-      "rating": 6.542,
-      "year": 2024,
-      "days": 514,
+      "id": "tt27052633",
+      "name": "Echo Valley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
+      "rating": 6.414,
+      "year": 2025,
+      "days": 118,
       "trend": {
         "dir": "down",
         "delta": 1

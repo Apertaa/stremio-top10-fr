@@ -2,7 +2,7 @@
   "country": "france",
   "key": "apple",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 811,
+      "days": 812,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,36 +37,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 211,
+      "days": 212,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt10982034",
+      "name": "Trying",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
+      "rating": 7.6,
+      "year": 2020,
+      "days": 96,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt32140872",
       "name": "Star City",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 42,
+      "days": 43,
       "trend": {
-        "dir": "up",
-        "delta": 6
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt10982034",
-      "name": "Trying",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
-      "rating": 7.6,
-      "year": 2020,
-      "days": 95,
-      "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
       "rating": 8.202,
       "year": 2026,
-      "days": 72,
+      "days": 73,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmjW474DJ27bqTYNvS4MvraJgiQ.jpg",
       "rating": 8.396,
       "year": 2022,
-      "days": 808,
+      "days": 809,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
       "rating": 7.743,
       "year": 2019,
-      "days": 590,
+      "days": 591,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
       "rating": 7.719,
       "year": 2025,
-      "days": 203,
+      "days": 204,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt35946742",
-      "name": "Plaisir maximum garanti",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
-      "rating": 5.7,
-      "year": 2026,
-      "days": 40,
+      "id": "tt17220216",
+      "name": "Monarch: Legacy of Monsters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gD06JrUVAVQIE0eRUfkxCKY1RZF.jpg",
+      "rating": 7.752,
+      "year": 2023,
+      "days": 535,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

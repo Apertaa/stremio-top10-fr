@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 37,
+      "days": 38,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,67 +32,67 @@
     },
     {
       "rank": 3,
-      "id": "tt23734948",
-      "name": "The Pendragon Cycle: Rise of the Merlin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
-      "rating": 7.394,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt33546863",
       "name": "Off Campus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 58,
+      "days": 59,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt23734948",
+      "name": "The Pendragon Cycle: Rise of the Merlin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+      "rating": 7.394,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt43394409",
-      "name": "Rolf Harris: Primetime Predator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ezsIKj94YztMbfa1QCWiBS6beol.jpg",
-      "rating": 9,
-      "year": 2026,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt33055254",
       "name": "Au fil des années",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt43394409",
+      "name": "Rolf Harris: Primetime Predator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ezsIKj94YztMbfa1QCWiBS6beol.jpg",
+      "rating": 9,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt39230035",
-      "name": "What Would You Rather: Decide to Survive?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1YuZSZFU5KHSgaEnra7noMDCiFq.jpg",
-      "rating": null,
+      "id": "tt30460310",
+      "name": "Spider-Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "rating": 8.528,
       "year": 2026,
-      "days": 14,
+      "days": 45,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 93,
+      "days": 94,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt30460310",
-      "name": "Spider-Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "rating": 8.528,
+      "id": "tt39230035",
+      "name": "What Would You Rather: Decide to Survive?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1YuZSZFU5KHSgaEnra7noMDCiFq.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 44,
+      "days": 15,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 208,
+      "days": 209,
       "trend": {
         "dir": "same",
         "delta": 0

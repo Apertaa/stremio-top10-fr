@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "movie",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aC7j9oGAlUtyHjrEuxX1jIIK8Ng.jpg",
       "rating": 5.651,
       "year": 2012,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 22,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0206314",
       "name": "Une virée en enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mTCF22oxouNwX6jz2cV9c4eK3qM.jpg",
       "rating": 6.543,
       "year": 2001,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt7510222",
       "name": "Moi, moche et méchant 4",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 44,
+      "days": 45,
       "trend": {
         "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uB7DnbSeJZikTFoU8WnHR1ETdCv.jpg",
       "rating": 7.143,
       "year": 2015,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qGKtITjPzptQluAtVpwXBQUeT.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsW9S3K6oBLKVMMLuSvKwEPOKHc.jpg",
       "rating": 7.008,
       "year": 2001,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt0108238",
-      "name": "Piège en eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aHoo1A3NBwsYjvKQF2zFBz1RGkz.jpg",
-      "rating": 5.912,
-      "year": 1993,
+      "id": "tt3152592",
+      "name": "Scooby !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
+      "rating": 6.991,
+      "year": 2020,
       "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

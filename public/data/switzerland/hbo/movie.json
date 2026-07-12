@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt12037194",
-      "name": "Furiosa — Une saga Mad Max",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
-      "rating": 7.454,
-      "year": 2024,
-      "days": 12,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt13345606",
       "name": "Evil Dead Rise",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
       "rating": 6.9,
       "year": 2023,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt12037194",
+      "name": "Furiosa — Une saga Mad Max",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
+      "rating": 7.454,
+      "year": 2024,
+      "days": 13,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
       "rating": 7.634,
       "year": 2015,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,32 +71,6 @@
     },
     {
       "rank": 6,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt6874690",
-      "name": "The Rule of Jenny Pen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hnRypLHkqd0qBLL1qT9KNy0XFl0.jpg",
-      "rating": 6.19,
-      "year": 2025,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt1375666",
       "name": "Inception",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
@@ -104,8 +78,34 @@
       "year": 2010,
       "days": 15,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt1160419",
+      "name": "Dune - Première partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
+      "rating": 7.8,
+      "year": 2021,
+      "days": 9,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt13560574",
+      "name": "X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
+      "rating": 6.7,
+      "year": 2022,
+      "days": 20,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8KHWL693DvfiDzrSp1n5Ox5GOup.jpg",
       "rating": 7.27,
       "year": 1999,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tmdb:1417605",
-      "name": "DOGTOOTH",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Bzizu1xcm3aB993K6hPKa60LGK.jpg",
-      "rating": 9,
-      "year": 2024,
-      "days": 5,
+      "id": "tt0482571",
+      "name": "Le Prestige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
+      "rating": 8.208,
+      "year": 2006,
+      "days": 13,
       "trend": {
         "dir": "new",
         "delta": null

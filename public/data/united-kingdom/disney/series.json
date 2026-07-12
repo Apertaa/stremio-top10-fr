@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gkd7njRdLo1EXGTPQVPPabDcGzx.jpg",
       "rating": 6.3,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,54 +32,54 @@
     },
     {
       "rank": 3,
-      "id": "top10:bluey-compilations",
-      "name": "Bluey Compilations",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt16026746",
       "name": "X-Men '97",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt37094589",
       "name": "Ms. X",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
       "rating": 3.7,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt21906238",
       "name": "Rivals",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
       "rating": 7.4,
       "year": 2024,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "top10:bluey-compilations",
+      "name": "Bluey Compilations",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt42416598",
-      "name": "Abandoned",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 8,
+      "id": "tt31614348",
+      "name": "Famille en réparation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
+      "rating": 6.406,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

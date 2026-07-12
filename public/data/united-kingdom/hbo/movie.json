@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,62 +24,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt6334354",
-      "name": "The Suicide Squad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
-      "rating": 7.458,
-      "year": 2021,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0105695",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
-      "rating": 7.911,
-      "year": 1992,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0120611",
-      "name": "Blade",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
-      "rating": 6.84,
-      "year": 1998,
-      "days": 14,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 6,
-      "id": "tt0118655",
-      "name": "Austin Powers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
-      "rating": 6.598,
-      "year": 1997,
-      "days": 1,
+      "rank": 3,
+      "id": "tt0105695",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
+      "rating": 7.911,
+      "year": 1992,
+      "days": 9,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1119646",
+      "name": "Very Bad Trip",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dGOwVbGN5eJlgAnFwGRaANnyZMF.jpg",
+      "rating": 7.335,
+      "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt6334354",
+      "name": "The Suicide Squad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
+      "rating": 7.458,
+      "year": 2021,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0120611",
+      "name": "Blade",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
+      "rating": 6.84,
+      "year": 1998,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
       "rating": 6.398,
       "year": 2000,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt0385307",
-      "name": "Miss FBI : Divinement armée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwZGW6YPlYFiM2lkr99UpcuxJeZ.jpg",
-      "rating": 5.741,
-      "year": 2005,
-      "days": 11,
+      "id": "tt4015500",
+      "name": "Le passé recomposé",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7wPHixKUEWGZlKnp9Lew6H18vz.jpg",
+      "rating": 7.085,
+      "year": 2018,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt2231461",
-      "name": "Rampage : Hors de contrôle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1auGsobyKO9XPOnUvYyoLjhrzkT.jpg",
-      "rating": 6.457,
-      "year": 2018,
-      "days": 22,
+      "id": "tt0118655",
+      "name": "Austin Powers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
+      "rating": 6.598,
+      "year": 1997,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

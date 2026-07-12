@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 56,
+      "days": 57,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 817,
+      "days": 818,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt2211129",
-      "name": "The Mindy Project",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
-      "rating": 6.238,
-      "year": 2012,
-      "days": 5,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 127,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 126,
+      "id": "tt2211129",
+      "name": "The Mindy Project",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
+      "rating": 6.238,
+      "year": 2012,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 680,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0364845",
       "name": "NCIS : Enquêtes Spéciales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 826,
+      "days": 827,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 681,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
       "rating": 8.552,
       "year": 2018,
-      "days": 165,
+      "days": 166,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt36849871",
-      "name": "Marshals: A Yellowstone Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
-      "rating": 7.956,
-      "year": 2026,
-      "days": 115,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0239195",
       "name": "Survivor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
       "rating": 7.3,
       "year": 2000,
-      "days": 505,
+      "days": 506,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 116,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     }
   ]

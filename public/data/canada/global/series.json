@@ -2,84 +2,84 @@
   "country": "canada",
   "key": "global",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0227972",
-      "name": "WWE SmackDown Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
-      "rating": 7.5,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt2431250",
       "name": "La Petite Maison dans la prairie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
       "rating": 5.139,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "tt43476716",
       "name": "Les Voisins de l'enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt34771210",
       "name": "Sur tes traces",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 23,
+      "days": 24,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0227972",
+      "name": "WWE SmackDown Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
+      "rating": 7.5,
+      "year": 1999,
+      "days": 2,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 5,
-      "id": "top10:jeff-arcuri-nice-to-meet-you",
-      "name": "Jeff Arcuri: Nice to Meet You",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt42127457",
       "name": "Agent Kim Reactivated",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "top10:jeff-arcuri-nice-to-meet-you",
+      "name": "Jeff Arcuri: Nice to Meet You",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 48,
+      "days": 49,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
       "rating": 8.552,
       "year": 2018,
-      "days": 49,
+      "days": 50,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt38776795",
-      "name": "L'Été 36",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg",
-      "rating": 6.6,
+      "id": "tt43357366",
+      "name": "아파트",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+      "rating": 5.333,
       "year": 2026,
-      "days": 5,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null

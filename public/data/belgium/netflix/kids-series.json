@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 90,
+      "days": 91,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 900,
+      "days": 901,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt3789822",
-      "name": "Bing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",
-      "rating": null,
-      "year": 2014,
-      "days": 9,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 784,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 858,
+      "days": 859,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt1884856",
-      "name": "Masha et Michka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
-      "rating": 6.843,
-      "year": 2009,
-      "days": 783,
+      "id": "tt6581428",
+      "name": "Booba",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e5s0wmwtxLaM8aFsDuk0fLO8Inj.jpg",
+      "rating": 6.2,
+      "year": 2014,
+      "days": 80,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt6581428",
-      "name": "Booba",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e5s0wmwtxLaM8aFsDuk0fLO8Inj.jpg",
-      "rating": 6.2,
+      "id": "tt3789822",
+      "name": "Bing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",
+      "rating": null,
       "year": 2014,
-      "days": 79,
+      "days": 10,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 858,
+      "days": 859,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
       "rating": null,
       "year": 2022,
-      "days": 513,
+      "days": 514,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
       "rating": 8.279,
       "year": 2014,
-      "days": 155,
+      "days": 156,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

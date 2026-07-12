@@ -2,32 +2,32 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
-      "id": "tt11198330",
-      "name": "House of the Dragon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "rating": 8.301,
-      "year": 2022,
-      "days": 19,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
       "rating": 8.746,
       "year": 2025,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt11198330",
+      "name": "House of the Dragon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
+      "rating": 8.301,
+      "year": 2022,
+      "days": 20,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
       "rating": 5.667,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tmdb:323168",
-      "name": "Unacceptable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oNc61x7EdWVLZZXcGhWaZvWGLlF.jpg",
-      "rating": 1,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
       "year": 2026,
-      "days": 3,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFNTdzP3obJEE33dQ0v69uauCKF.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6TkxFK6wxirZDRy8DHsFW63uAL.jpg",
       "rating": 7.2,
       "year": 2020,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt6078096",
+      "name": "High Maintenance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qmYqwOW0QTkJy1UGUsM2t0Kowpu.jpg",
+      "rating": 6.933,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
       "rating": 8.746,
       "year": 2025,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt14681924",
-      "name": "My Adventures with Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

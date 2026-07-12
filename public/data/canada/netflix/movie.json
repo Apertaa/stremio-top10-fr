@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,19 +24,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N7LPeMo3nVRz908YvfkvtciIcY.jpg",
       "rating": 6.2,
       "year": 2019,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt39632269",
-      "name": "Ikka : L'atout maître",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qGKtITjPzptQluAtVpwXBQUeT.jpg",
-      "rating": 6.1,
-      "year": 2026,
+      "id": "tt27534307",
+      "name": "Speak No Evil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
+      "rating": 7.118,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "new",
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
+      "id": "tt39632269",
+      "name": "Ikka : L'atout maître",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qGKtITjPzptQluAtVpwXBQUeT.jpg",
+      "rating": 6.1,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt32278481",
       "name": "Enola Holmes 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 22,
+      "days": 10,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,14 +71,14 @@
     },
     {
       "rank": 6,
-      "id": "tt26928684",
-      "name": "Summer Camp",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
-      "rating": 5.296,
-      "year": 2024,
-      "days": 9,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 23,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt22863968",
-      "name": "Menace en eaux profondes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cZATcRQffQNjMdEgHppW5DH1LOS.jpg",
-      "rating": 5.586,
+      "id": "tt26928684",
+      "name": "Summer Camp",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1P1U3nMvi6bOYIvWMSaAVUg2we7.jpg",
+      "rating": 5.296,
       "year": 2024,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 5
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tt0119094",
-      "name": "Volte/Face",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
-      "rating": 7.058,
-      "year": 1997,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0378109",
       "name": "Bleu d'Enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jhNF1ZuucX8v85yTvXNytqDS0fT.jpg",
       "rating": 5.928,
       "year": 2005,
+      "days": 6,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0119094",
+      "name": "Volte/Face",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
+      "rating": 7.058,
+      "year": 1997,
       "days": 5,
       "trend": {
         "dir": "down",
-        "delta": 5
+        "delta": 1
       }
     }
   ]

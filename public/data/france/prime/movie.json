@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,67 +19,67 @@
     },
     {
       "rank": 2,
-      "id": "tt10078772",
-      "name": "Vol à haut risque",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
-      "rating": 5.9,
-      "year": 2025,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt7888964",
-      "name": "Nobody",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
-      "rating": 7.875,
-      "year": 2021,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
-      "year": 2026,
-      "days": 22,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
-      "year": 2026,
-      "days": 23,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt38235625",
       "name": "Boulevard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
       "rating": 8.063,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt10078772",
+      "name": "Vol à haut risque",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
+      "rating": 5.9,
+      "year": 2025,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt7888964",
+      "name": "Nobody",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
+      "rating": 7.875,
+      "year": 2021,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32357218",
+      "name": "Shelter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
+      "rating": 7.669,
+      "year": 2026,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
+      "year": 2026,
+      "days": 24,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
       "rating": 5.665,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt30425872",
-      "name": "Very Bad Job",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
-      "rating": 6.593,
-      "year": 2025,
-      "days": 11,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1840309",
-      "name": "Divergente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
-      "rating": 6.905,
-      "year": 2014,
-      "days": 3,
+      "id": "tt36963493",
+      "name": "Une famille de bâtards",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+      "rating": 5.257,
+      "year": 2026,
+      "days": 28,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt7288408",
       "name": "Radioflash",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
       "rating": 5.1,
       "year": 2019,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1840309",
+      "name": "Divergente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
+      "rating": 6.905,
+      "year": 2014,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

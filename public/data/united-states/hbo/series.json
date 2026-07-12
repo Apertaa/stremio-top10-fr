@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607111641",
+  "date": "202607121644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 113,
+      "days": 114,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 86,
+      "days": 87,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,49 +50,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJNDYMa0bKdFwoHMc8WhIiH9Wqr.jpg",
       "rating": 1,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt34881067",
-      "name": "Baylen Out Loud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 139,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt3469050",
       "name": "90 jours pour se marier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 187,
+      "days": 188,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt32907596",
       "name": "Bodies in the Water",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdvK2OdTpUOs39Z0lvr9vKch9zP.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 140,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
       "rating": 6.4,
       "year": 2023,
-      "days": 96,
+      "days": 97,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDChtZhrlxvEMIbQco5ocKRUB3g.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt42815500",
-      "name": "Little Singles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 5,
+      "id": "tt32333081",
+      "name": "Influence mortelle : Réseaux assassins",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
+      "rating": 6.5,
+      "year": 2024,
+      "days": 35,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]
