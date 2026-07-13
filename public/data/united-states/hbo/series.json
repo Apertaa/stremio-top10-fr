@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 114,
+      "days": 115,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": 87,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt29033873",
       "name": "The Man Will Burn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJNDYMa0bKdFwoHMc8WhIiH9Wqr.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt2861424",
+      "name": "Rick et Morty",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "rating": 8.679,
+      "year": 2013,
+      "days": 88,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 188,
+      "days": 189,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,36 +76,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdvK2OdTpUOs39Z0lvr9vKch9zP.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
+      "id": "tt0446809",
+      "name": "Péril en Haute Mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8gh7igLtJdzcbRGYIjRqTW55Ryc.jpg",
+      "rating": 7.185,
+      "year": 2005,
+      "days": 38,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt34881067",
       "name": "Baylen Out Loud",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 140,
+      "days": 141,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 97,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 1
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDChtZhrlxvEMIbQco5ocKRUB3g.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt32333081",
-      "name": "Influence mortelle : Réseaux assassins",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
-      "rating": 6.5,
-      "year": 2024,
-      "days": 35,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 98,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,15 +45,15 @@
     },
     {
       "rank": 4,
-      "id": "tt37577501",
-      "name": "The Girl Who Survived: The Alina Thompson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 43,
+      "id": "tt2582782",
+      "name": "Comancheria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
+      "rating": 7.302,
+      "year": 2016,
+      "days": 22,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
       "rating": 5.821,
       "year": 2025,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt37577501",
+      "name": "The Girl Who Survived: The Alina Thompson Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 44,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt30057173",
       "name": "Bad Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
       "rating": 5.511,
       "year": 2025,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 100,
+      "days": 101,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt2582782",
-      "name": "Comancheria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
-      "rating": 7.302,
-      "year": 2016,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt7574556",
-      "name": "Dead of Winter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
-      "rating": 6.4,
-      "year": 2025,
-      "days": 106,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt4627382",
       "name": "Roofman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 62,
+      "days": 63,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1116184",
+      "name": "Jackass 3D",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": 14,
       "trend": {
         "dir": "new",
         "delta": null

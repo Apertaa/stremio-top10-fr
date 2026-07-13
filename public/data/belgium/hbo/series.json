@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "series",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 47,
+      "days": 48,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
-      "id": "tt41050785",
-      "name": "Proud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-      "rating": 4.7,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt32264653",
       "name": "The Iris Affair",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
       "rating": 6.4,
       "year": 2025,
-      "days": 1,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
+      "year": 2026,
+      "days": 30,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKIsEY5ApLGJCtdbFbzymza0vrU.jpg",
       "rating": null,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5ptDHCxxFUMdVO5WDi0LeICFbDw.jpg",
       "rating": 7.7,
       "year": 2023,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt42907659",
-      "name": "Big Girls Wanted: Escaping Pearadise",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 19,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt3530232",
       "name": "Last Week Tonight with John Oliver",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
       "rating": 7.796,
       "year": 2014,
-      "days": 114,
+      "days": 115,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt6717058",
+      "name": "Grizzy & les Lemmings",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2izN47iCYlLXDX1CcbKN1OkKeaf.jpg",
+      "rating": 7.3,
+      "year": 2016,
+      "days": 1,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt26761151",
-      "name": "The House That Dragons Built",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 4,
+      "id": "tt42907659",
+      "name": "Big Girls Wanted: Escaping Pearadise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 20,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     }
   ]

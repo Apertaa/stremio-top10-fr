@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "series",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 47,
+      "days": 48,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oD1JuejHVuDfq5qSOGmBO5OlGEo.jpg",
       "rating": 7.459,
       "year": 2003,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 28,
+      "days": 29,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,35 +76,35 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
       "rating": 8.125,
       "year": 2008,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
+      "id": "tt14681924",
+      "name": "My Adventures with Superman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 25,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt28480255",
       "name": "Ninja Kamui",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg",
       "rating": 8.164,
       "year": 2024,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt42907659",
-      "name": "Big Girls Wanted: Escaping Pearadise",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sCZuSi7SKUt3RCVRGY7BT9Yhynb.jpg",
       "rating": 7.755,
       "year": 2022,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt14681924",
-      "name": "My Adventures with Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 24,
+      "id": "tt42907659",
+      "name": "Big Girls Wanted: Escaping Pearadise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

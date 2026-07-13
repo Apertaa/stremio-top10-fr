@@ -59,6 +59,16 @@
     "rating": 6.426,
     "ts": "2026-07-07"
   },
+  "300-rise-of-an-empire": {
+    "tmdbId": 53182,
+    "tmdbType": "movie",
+    "imdbId": "tt1253863",
+    "titleFr": "300 : La Naissance d’un Empire",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yeE8mXFUXXXlHbLy8UjPW9L22DR.jpg",
+    "rating": 6.121,
+    "ts": "2026-07-13"
+  },
   "47-ronin": {
     "tmdbId": 64686,
     "tmdbType": "movie",
@@ -358,6 +368,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
     "rating": 8.39,
     "ts": "2026-06-20"
+  },
+  "alliance-2026": {
+    "tmdbId": 326367,
+    "tmdbType": "tv",
+    "imdbId": "tt40914930",
+    "titleFr": "अलायन्स",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/t9Og3WjlXcptadBFhLFJL3cSMDy.jpg",
+    "rating": 6.5,
+    "ts": "2026-07-13"
   },
   "am-i-ok": {
     "tmdbId": 641934,
@@ -908,6 +928,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
     "rating": 8.583,
     "ts": "2026-07-05"
+  },
+  "bluey-compilations": {
+    "tmdbId": 328337,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Bluey Compilations",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
+    "rating": null,
+    "ts": "2026-07-13"
   },
   "bluey-minisodes": {
     "tmdbId": 256953,
@@ -1659,6 +1689,16 @@
     "rating": 7.8,
     "ts": "2026-07-09"
   },
+  "dune-part-two": {
+    "tmdbId": 693134,
+    "tmdbType": "movie",
+    "imdbId": "tt15239678",
+    "titleFr": "Dune : Deuxième partie",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg",
+    "rating": 8.1,
+    "ts": "2026-07-13"
+  },
   "dune-prophecy": {
     "tmdbId": 90228,
     "tmdbType": "tv",
@@ -1668,6 +1708,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
     "rating": 7.3,
     "ts": "2026-06-23"
+  },
+  "dunkirk": {
+    "tmdbId": 374720,
+    "tmdbType": "movie",
+    "imdbId": "tt5013056",
+    "titleFr": "Dunkerque",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
+    "rating": 7.452,
+    "ts": "2026-07-13"
   },
   "dutton-ranch": {
     "tmdbId": 299167,
@@ -2579,6 +2629,16 @@
     "rating": 8,
     "ts": "2026-07-06"
   },
+  "hail-satan": {
+    "tmdbId": 565719,
+    "tmdbType": "movie",
+    "imdbId": "tt9358044",
+    "titleFr": "Hail Satan ?",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lwP8CMOfPJhkMyxELgX2D2aDZfy.jpg",
+    "rating": 7.005,
+    "ts": "2026-07-13"
+  },
   "half-man": {
     "tmdbId": 257994,
     "tmdbType": "tv",
@@ -3429,6 +3489,16 @@
     "rating": 5.789,
     "ts": "2026-06-19"
   },
+  "les-miserables-1998": {
+    "tmdbId": 4415,
+    "tmdbType": "movie",
+    "imdbId": "tt0119683",
+    "titleFr": "Les Misérables",
+    "year": 1998,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
+    "rating": 7.238,
+    "ts": "2026-07-13"
+  },
   "les-miserables-the-story-of-jean-valjean": {
     "tmdbId": 1376439,
     "tmdbType": "movie",
@@ -3448,6 +3518,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
     "rating": 6,
     "ts": "2026-06-20"
+  },
+  "let-him-go": {
+    "tmdbId": 596161,
+    "tmdbType": "movie",
+    "imdbId": "tt9340860",
+    "titleFr": "L'Un des nôtres",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/vqZGC7D6AZPnvGEYdO7wa2fQ78v.jpg",
+    "rating": 6.839,
+    "ts": "2026-07-13"
   },
   "lete-36": {
     "tmdbId": 287976,
@@ -3508,6 +3588,16 @@
     "posterUrl": null,
     "rating": null,
     "ts": "2026-07-09"
+  },
+  "lioness": {
+    "tmdbId": 113962,
+    "tmdbType": "tv",
+    "imdbId": "tt13111078",
+    "titleFr": "Lioness",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
+    "rating": 7.991,
+    "ts": "2026-07-13"
   },
   "little-angel-2022": {
     "tmdbId": 219004,
@@ -4108,6 +4198,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/vX9Epvo4OmAem64RTJO0535ucbv.jpg",
     "rating": 6.542,
     "ts": "2026-06-20"
+  },
+  "mission-impossible-dead-reckoning-part-one": {
+    "tmdbId": 575264,
+    "tmdbType": "movie",
+    "imdbId": "tt9603212",
+    "titleFr": "Mission : Impossible - Dead Reckoning Partie 1",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/bdYbHxECXsN169pVrTz2TobFqXb.jpg",
+    "rating": 7.5,
+    "ts": "2026-07-13"
   },
   "mission-impossible-the-final-reckoning": {
     "tmdbId": 575265,
@@ -6099,6 +6199,16 @@
     "rating": 6.375,
     "ts": "2026-06-30"
   },
+  "tammy": {
+    "tmdbId": 226486,
+    "tmdbType": "movie",
+    "imdbId": "tt2103254",
+    "titleFr": "Tammy",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/efsVMziwE9BNTDX5fNmYVA5oAzJ.jpg",
+    "rating": 5.336,
+    "ts": "2026-07-13"
+  },
   "tangled-the-series-short-cuts": {
     "tmdbId": 70047,
     "tmdbType": "tv",
@@ -6108,6 +6218,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/tg9bjUH0ee9saRTABxObcXFsoIe.jpg",
     "rating": 7.3,
     "ts": "2026-07-02"
+  },
+  "task": {
+    "tmdbId": 228305,
+    "tmdbType": "tv",
+    "imdbId": "tt28013708",
+    "titleFr": "Task",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mDpbYGDRx98OXlXyPJMtGftQJaS.jpg",
+    "rating": 6.906,
+    "ts": "2026-07-13"
   },
   "teach-you-a-lesson": {
     "tmdbId": 276161,
@@ -6749,6 +6869,16 @@
     "rating": 7.335,
     "ts": "2026-07-12"
   },
+  "the-hangover-part-ii": {
+    "tmdbId": 45243,
+    "tmdbType": "movie",
+    "imdbId": "tt1411697",
+    "titleFr": "Very Bad Trip 2",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cxMt5EMcyZYQZo3WAEJvGulM7bf.jpg",
+    "rating": 6.512,
+    "ts": "2026-07-13"
+  },
   "the-house-that-dragons-built-2022": {
     "tmdbId": 325709,
     "tmdbType": "tv",
@@ -6768,6 +6898,26 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
     "rating": 7.266,
     "ts": "2026-07-11"
+  },
+  "the-hunger-games": {
+    "tmdbId": 70160,
+    "tmdbType": "movie",
+    "imdbId": "tt1392170",
+    "titleFr": "Hunger Games",
+    "year": 2012,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
+    "rating": 7.224,
+    "ts": "2026-07-13"
+  },
+  "the-hunger-games-catching-fire": {
+    "tmdbId": 101299,
+    "tmdbType": "movie",
+    "imdbId": "tt1951264",
+    "titleFr": "Hunger Games : L'Embrasement",
+    "year": 2013,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
+    "rating": 7.427,
+    "ts": "2026-07-13"
   },
   "the-hunt-2020": {
     "tmdbId": 514847,
@@ -7469,6 +7619,16 @@
     "rating": null,
     "ts": "2026-07-10"
   },
+  "theme-song-takeover": {
+    "tmdbId": 172054,
+    "tmdbType": "tv",
+    "imdbId": "tt18453672",
+    "titleFr": "Theme Song Takeover",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg",
+    "rating": 7.5,
+    "ts": "2026-07-13"
+  },
   "they-will-kill-you": {
     "tmdbId": 1292695,
     "tmdbType": "movie",
@@ -7919,6 +8079,16 @@
     "rating": 6.305,
     "ts": "2026-07-06"
   },
+  "valkyrie": {
+    "tmdbId": 2253,
+    "tmdbType": "movie",
+    "imdbId": "tt0985699",
+    "titleFr": "Walkyrie",
+    "year": 2008,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/OxtxltJK6N2aNMb6x4shSdiFwY.jpg",
+    "rating": 6.963,
+    "ts": "2026-07-13"
+  },
   "vera": {
     "tmdbId": 39185,
     "tmdbType": "tv",
@@ -8118,6 +8288,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qCwqnTW5DEATFlQ3mACBm2GpTiM.jpg",
     "rating": 6.857,
     "ts": "2026-06-20"
+  },
+  "whats-with-this-granny%E2%80%8E": {
+    "tmdbId": 579898,
+    "tmdbType": "movie",
+    "imdbId": "tt9777790",
+    "titleFr": "C'est quoi cette mamie ?!",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7vjSChjX7pEsazduXnwQCZJOKpt.jpg",
+    "rating": 5.819,
+    "ts": "2026-07-13"
   },
   "whatsapp-obsession-the-murder-of-stephanie-hansen": {
     "tmdbId": 1657797,

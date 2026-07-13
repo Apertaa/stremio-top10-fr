@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "movie",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
       "year": 2026,
-      "days": 11,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
       "year": 2026,
-      "days": 2,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 24,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt0373051",
       "name": "Voyage au centre de la Terre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
       "rating": 6.09,
       "year": 2008,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 23,
-      "trend": {
-        "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qt9zPUPjLJwNsBipzcLaddXYys1.jpg",
       "rating": 4.132,
       "year": 2025,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFmkIyhjR1xNFRlIruMLu8NMYji.jpg",
       "rating": 5.669,
       "year": 2025,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt32370862",
-      "name": "Natacha (presque) hôtesse de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mvqZY9g8yxwlCLLLvOIupQEwjzw.jpg",
-      "rating": 5.2,
-      "year": 2025,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt13558724",
-      "name": "Présidents",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rlHMQK4cyvzqsOUZCSJEAQkd8qm.jpg",
-      "rating": 5.305,
-      "year": 2021,
-      "days": 3,
+      "id": "tt9777790",
+      "name": "C'est quoi cette mamie ?!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vjSChjX7pEsazduXnwQCZJOKpt.jpg",
+      "rating": 5.819,
+      "year": 2019,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 10,
-      "id": "tt10954718",
-      "name": "Dog Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMSXN6yIXpgLphajQAkExM10KdZ.jpg",
-      "rating": 7.426,
+      "rank": 9,
+      "id": "tt32370862",
+      "name": "Natacha (presque) hôtesse de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mvqZY9g8yxwlCLLLvOIupQEwjzw.jpg",
+      "rating": 5.2,
       "year": 2025,
-      "days": 3,
+      "days": 10,
       "trend": {
         "dir": "down",
         "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1253863",
+      "name": "300 : La Naissance d’un Empire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yeE8mXFUXXXlHbLy8UjPW9L22DR.jpg",
+      "rating": 6.121,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

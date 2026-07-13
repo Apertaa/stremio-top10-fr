@@ -2,19 +2,19 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
-      "id": "tt6869880",
-      "name": "Skinford: Chapter Two",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
-      "rating": 4.833,
-      "year": 2018,
-      "days": 7,
+      "id": "tt12593682",
+      "name": "Bullet Train",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
+      "rating": 7.413,
+      "year": 2022,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -24,71 +24,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt1020558",
-      "name": "Centurion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
-      "rating": 6.238,
-      "year": 2010,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt26584495",
-      "name": "Companion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
-      "rating": 7.015,
-      "year": 2025,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt12593682",
-      "name": "Bullet Train",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
-      "rating": 7.413,
-      "year": 2022,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0360486",
-      "name": "Constantine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
-      "rating": 7.179,
-      "year": 2005,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
       "days": 9,
       "trend": {
         "dir": "same",
@@ -96,42 +31,107 @@
       }
     },
     {
-      "rank": 8,
-      "id": "tt22688572",
-      "name": "Boudica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
-      "rating": 5.815,
-      "year": 2023,
-      "days": 39,
+      "rank": 3,
+      "id": "tt1282140",
+      "name": "Easy Girl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLdSvAisVDItlHHg1u667iaHZTj.jpg",
+      "rating": 6.805,
+      "year": 2010,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1020558",
+      "name": "Centurion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
+      "rating": 6.238,
+      "year": 2010,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt6869880",
+      "name": "Skinford: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
+      "rating": 4.833,
+      "year": 2018,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt26584495",
+      "name": "Companion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
+      "rating": 7.015,
+      "year": 2025,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0114898",
+      "name": "Waterworld",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kx6ovgUw6xJFsScfNZvQIU6p52T.jpg",
+      "rating": 6.238,
+      "year": 1995,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1160419",
+      "name": "Dune - Première partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
+      "rating": 7.8,
+      "year": 2021,
+      "days": 58,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt6710474",
-      "name": "Everything Everywhere All at Once",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qHy7BlA1I3iUEIGp7atsMjSNJSK.jpg",
-      "rating": 7.718,
-      "year": 2022,
-      "days": 4,
+      "id": "tt0119683",
+      "name": "Les Misérables",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
+      "rating": 7.238,
+      "year": 1998,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt0258000",
-      "name": "Panic Room",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hZRbJ9a7YhdDOx8BECb8svI6qOQ.jpg",
-      "rating": 6.793,
-      "year": 2002,
-      "days": 4,
+      "id": "tt0360486",
+      "name": "Constantine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
+      "rating": 7.179,
+      "year": 2005,
+      "days": 18,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

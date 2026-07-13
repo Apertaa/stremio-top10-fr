@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "series",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9uW1W9q0zKPzPdRwIcL3eCDJsfw.jpg",
       "rating": 7.1,
       "year": 2021,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 57,
+      "days": 59,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 748,
+      "days": 749,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 756,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 61,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt26656917",
-      "name": "The Agency",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
-      "rating": 7.1,
-      "year": 2024,
-      "days": 60,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 757,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3yNdTnt8OQXQHXQbHjFS5G8g2zN.jpg",
       "rating": 7.198,
       "year": 2016,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 276,
+      "days": 277,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,25 +97,25 @@
     },
     {
       "rank": 8,
-      "id": "tt20249474",
-      "name": "17 ans et maman : Royaume-Uni",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zIrpQFK4hN7uW3xK8cMzRWRSgPP.jpg",
-      "rating": 5,
-      "year": 2016,
-      "days": 11,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0106004",
       "name": "Frasier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
       "rating": 7.685,
       "year": 1993,
-      "days": 747,
+      "days": 748,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0062568",
+      "name": "Hawaï police d'État",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wil51KinEc1bNL2qkXONfJzgTzo.jpg",
+      "rating": 7.172,
+      "year": 1968,
+      "days": 9,
       "trend": {
         "dir": "new",
         "delta": null
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
       "rating": 8.157,
       "year": 2024,
-      "days": 300,
+      "days": 301,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

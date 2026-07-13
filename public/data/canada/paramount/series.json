@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "series",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 57,
+      "days": 58,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 818,
+      "days": 819,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 127,
+      "id": "tt2211129",
+      "name": "The Mindy Project",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
+      "rating": 6.238,
+      "year": 2012,
+      "days": 7,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt2211129",
-      "name": "The Mindy Project",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
-      "rating": 6.238,
-      "year": 2012,
-      "days": 6,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 128,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt0364845",
-      "name": "NCIS : Enquêtes Spéciales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "rating": 7.619,
-      "year": 2003,
-      "days": 827,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 682,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 681,
+      "id": "tt0364845",
+      "name": "NCIS : Enquêtes Spéciales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
+      "rating": 7.619,
+      "year": 2003,
+      "days": 828,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,27 +97,27 @@
     },
     {
       "rank": 8,
-      "id": "tt7587890",
-      "name": "The Rookie : Le Flic de Los Angeles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
-      "rating": 8.552,
-      "year": 2018,
-      "days": 166,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0239195",
       "name": "Survivor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
       "rating": 7.3,
       "year": 2000,
-      "days": 506,
+      "days": 507,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt7587890",
+      "name": "The Rookie : Le Flic de Los Angeles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
+      "rating": 8.552,
+      "year": 2018,
+      "days": 167,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
       "rating": 7.956,
       "year": 2026,
-      "days": 116,
+      "days": 117,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

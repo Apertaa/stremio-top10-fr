@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
       "rating": 7.338,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
       "rating": 5.847,
       "year": 2009,
-      "days": 101,
+      "days": 102,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "rating": 6.178,
-      "year": 2026,
-      "days": 44,
+      "id": "tt1524930",
+      "name": "Vive les Vacances",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
+      "rating": 6.305,
+      "year": 2015,
+      "days": 7,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 2
       }
     },
     {
@@ -50,49 +50,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 191,
+      "days": 192,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt1524930",
-      "name": "Vive les Vacances",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
-      "rating": 6.305,
-      "year": 2015,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 693,
+      "days": 694,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt6977338",
       "name": "Good Boys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
       "rating": 6.833,
       "year": 2019,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 45,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 4
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
       "rating": 6.351,
       "year": 2022,
-      "days": 82,
+      "days": 83,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
       "rating": 6.526,
       "year": 2026,
-      "days": 102,
+      "days": 103,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt15837338",
-      "name": "La Pat' Patrouille : La Super Patrouille, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5unJTEPH5ipMY7cV87idGfhgIw7.jpg",
-      "rating": 6.938,
-      "year": 2023,
-      "days": 104,
+      "id": "tt0398165",
+      "name": "Mi-temps au mitard",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kKwcB3FjCabJSwfLBU6dU70aRFs.jpg",
+      "rating": 6.68,
+      "year": 2005,
+      "days": 30,
       "trend": {
         "dir": "new",
         "delta": null

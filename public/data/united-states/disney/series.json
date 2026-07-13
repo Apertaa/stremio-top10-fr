@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
-      "id": "top10:bluey-compilations",
+      "id": "tmdb:328337",
       "name": "Bluey Compilations",
-      "tmdbPosterUrl": null,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
-      "year": null,
-      "days": 2,
+      "year": 2026,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,27 +32,27 @@
     },
     {
       "rank": 3,
+      "id": "tt18453672",
+      "name": "Theme Song Takeover",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg",
+      "rating": 7.5,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
-      "name": "IMPACT x Nightline: The Girl in the Trunk",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 15,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -63,75 +63,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 44,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
-      "year": 2026,
-      "days": 84,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 6,
+      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
+      "name": "IMPACT x Nightline: The Girl in the Trunk",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
       "rank": 7,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 85,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt32328599",
       "name": "Les petites histoires de Bluey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
       "rating": 8.256,
       "year": 2024,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt18923754",
-      "name": "Daredevil : Born Again",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
-      "rating": 8.183,
-      "year": 2025,
-      "days": 64,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tmdb:328241",
-      "name": "Voyagers: Exploring Pacific Waters",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": 2026,
-      "days": 7,
+      "id": "tt38639981",
+      "name": "Le Titanic coule ce soir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

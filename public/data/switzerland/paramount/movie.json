@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202607121644",
+  "date": "202607131747",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rAbqDQ5yPkC4C9VBnShcFLNZ8fo.jpg",
       "rating": 7.18,
       "year": 2025,
-      "days": 1,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mY3xrbfdv86cupUq5FdjRlZfb4G.jpg",
       "rating": 4.472,
       "year": 2025,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,106 +32,106 @@
     },
     {
       "rank": 3,
-      "id": "tt14107334",
-      "name": "Running Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
-      "rating": 6.78,
-      "year": 2025,
-      "days": 45,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt6001846",
       "name": "Long Gone Heroes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
       "rating": 5.356,
       "year": 2024,
-      "days": 117,
+      "days": 118,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt14107334",
+      "name": "Running Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
+      "rating": 6.78,
+      "year": 2025,
+      "days": 46,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt12335692",
-      "name": "Last Man Down",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
-      "rating": 6.165,
-      "year": 2021,
-      "days": 185,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt9603208",
-      "name": "Mission : Impossible - The Final Reckoning",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-      "rating": 7.169,
-      "year": 2025,
-      "days": 202,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 26,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0119217",
-      "name": "Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gvWfXts6Qp34z8VTzpMagatA0nD.jpg",
-      "rating": 8.163,
-      "year": 1997,
-      "days": 1,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 43,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 9,
-      "id": "tt0257106",
-      "name": "Scary Movie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
-      "rating": 5.835,
-      "year": 2001,
-      "days": 26,
+      "rank": 6,
+      "id": "tt12335692",
+      "name": "Last Man Down",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+      "rating": 6.165,
+      "year": 2021,
+      "days": 186,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 7,
       "id": "tt31898445",
       "name": "Escape",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 37,
+      "days": 38,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 27,
       "trend": {
         "dir": "down",
         "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt9603208",
+      "name": "Mission : Impossible - The Final Reckoning",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
+      "rating": 7.169,
+      "year": 2025,
+      "days": 203,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 26,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]
