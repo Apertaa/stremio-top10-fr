@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
@@ -11,45 +11,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
       "rating": 7.361,
       "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt30908405",
-      "name": "The Last Rodeo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
-      "rating": 7.648,
-      "year": 2025,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt32537226",
-      "name": "Hunting Season",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
-      "rating": 6.953,
-      "year": 2025,
-      "days": 16,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt40387378",
-      "name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
-      "rating": null,
-      "year": 2026,
       "days": 3,
       "trend": {
         "dir": "same",
@@ -57,16 +18,55 @@
       }
     },
     {
-      "rank": 5,
-      "id": "tt34471850",
-      "name": "Protector",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-      "rating": 8.551,
+      "rank": 2,
+      "id": "tt40387378",
+      "name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 9,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt30908405",
+      "name": "The Last Rodeo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
+      "rating": 7.648,
+      "year": 2025,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32537226",
+      "name": "Hunting Season",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "rating": 6.953,
+      "year": 2025,
+      "days": 17,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt38238651",
+      "name": "The Internship",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
+      "rating": 6.74,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
       "rating": 5.2,
       "year": 2025,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
+      "id": "tt34471850",
+      "name": "Protector",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+      "rating": 8.551,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt32801387",
       "name": "Thieves Highway",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "rating": 7.684,
       "year": 2026,
-      "days": 79,
+      "days": 80,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt4357198",
-      "name": "L'Ultime Héritier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 32,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt36861174",
-      "name": "The Real Adolescence: Our Killer Kids",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": 9,
+      "id": "tt4357198",
+      "name": "L'Ultime Héritier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 33,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
+      "id": "tt36861174",
+      "name": "The Real Adolescence: Our Killer Kids",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
+      "rating": 6,
       "year": 2025,
-      "days": 189,
+      "days": 10,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

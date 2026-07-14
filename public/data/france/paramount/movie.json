@@ -2,16 +2,16 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
-      "id": "tt9603212",
-      "name": "Mission : Impossible - Dead Reckoning Partie 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bdYbHxECXsN169pVrTz2TobFqXb.jpg",
-      "rating": 7.5,
-      "year": 2023,
-      "days": 66,
+      "id": "tt38238651",
+      "name": "The Internship",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
+      "rating": 6.74,
+      "year": 2026,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt19838566",
-      "name": "Kraken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
-      "rating": 6.287,
-      "year": 2026,
-      "days": 37,
+      "id": "tt9603212",
+      "name": "Mission : Impossible - Dead Reckoning Partie 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bdYbHxECXsN169pVrTz2TobFqXb.jpg",
+      "rating": 7.5,
+      "year": 2023,
+      "days": 67,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt28249919",
-      "name": "Presence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n2MH5xiSS36f8pCTbehXlZq3WP0.jpg",
-      "rating": 6.113,
-      "year": 2025,
-      "days": 6,
+      "id": "tt19838566",
+      "name": "Kraken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
+      "rating": 6.287,
+      "year": 2026,
+      "days": 38,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,33 +50,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 27,
+      "days": 28,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
+      "id": "tt28249919",
+      "name": "Presence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n2MH5xiSS36f8pCTbehXlZq3WP0.jpg",
+      "rating": 6.113,
+      "year": 2025,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt9218128",
       "name": "Gladiator II",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 90,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0257106",
-      "name": "Scary Movie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
-      "rating": 5.835,
-      "year": 2001,
-      "days": 27,
+      "days": 91,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 26,
+      "id": "tt0257106",
+      "name": "Scary Movie 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
+      "rating": 5.835,
+      "year": 2001,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt2806878",
+      "name": "De guerre lasse",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
+      "rating": 5.355,
+      "year": 2014,
+      "days": 39,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 446,
+      "days": 447,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt5090568",
-      "name": "Transformers : Rise of the Beasts",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
-      "rating": 7.17,
-      "year": 2023,
-      "days": 120,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt2806878",
-      "name": "De guerre lasse",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWPzdtr9bVCfkYtSpMXo7VKUnHy.jpg",
-      "rating": 5.355,
-      "year": 2014,
-      "days": 38,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 27,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     }
   ]

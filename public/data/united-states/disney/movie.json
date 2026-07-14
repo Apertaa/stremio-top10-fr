@@ -2,44 +2,44 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
-      "id": "top10:moana-a-special-look",
-      "name": "Moana | A Special Look",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt27419466",
-      "name": "Vaiana, la légende du bout du monde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 129,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt1757678",
       "name": "Avatar : De feu et de cendres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "top10:moana-a-special-look",
+      "name": "Moana | A Special Look",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27419466",
+      "name": "Vaiana, la légende du bout du monde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 130,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -50,49 +50,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
       "rating": 7.006,
       "year": 2024,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt10872600",
-      "name": "Spider-Man : No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
-      "rating": 7.933,
-      "year": 2021,
-      "days": 56,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt26443616",
-      "name": "Jumpers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
-      "rating": 8.181,
-      "year": 2026,
-      "days": 35,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 7,
       "id": "top10:moana-on-the-journey-with-catherine-lagaaia",
       "name": "Moana: On the Journey with Catherine Laga'aia",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt10872600",
+      "name": "Spider-Man : No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
+      "rating": 7.933,
+      "year": 2021,
+      "days": 57,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt26443616",
+      "name": "Jumpers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
+      "rating": 8.181,
+      "year": 2026,
+      "days": 36,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,20 +102,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
       "rating": 7.4,
       "year": 2019,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt0325980",
-      "name": "Pirates des Caraïbes : La Malédiction du Black Pearl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFmc6zbnx6mSoxejECYvdi3IHIs.jpg",
-      "rating": 7.826,
-      "year": 2003,
-      "days": 5,
+      "id": "tt4154796",
+      "name": "Avengers : Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg",
+      "rating": 8.238,
+      "year": 2019,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt2250912",
-      "name": "Spider-Man : Homecoming",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
-      "rating": 7.33,
-      "year": 2017,
-      "days": 57,
+      "id": "tt0325980",
+      "name": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFmc6zbnx6mSoxejECYvdi3IHIs.jpg",
+      "rating": 7.826,
+      "year": 2003,
+      "days": 6,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt35892608",
-      "name": "undertone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
-      "rating": 6.1,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt35892608",
+      "name": "undertone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
+      "rating": 6.1,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Ph5gQn3PYJk98P31ln5hnsG04z.jpg",
       "rating": 7,
       "year": 2021,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
+      "id": "tt0206314",
+      "name": "Une virée en enfer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mTCF22oxouNwX6jz2cV9c4eK3qM.jpg",
+      "rating": 6.543,
+      "year": 2001,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt3566834",
       "name": "Minecraft, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 23,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt19847976",
-      "name": "Wicked : Partie II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
-      "rating": 6.625,
-      "year": 2025,
-      "days": 9,
+      "days": 24,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt0206314",
-      "name": "Une virée en enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mTCF22oxouNwX6jz2cV9c4eK3qM.jpg",
-      "rating": 6.543,
-      "year": 2001,
-      "days": null,
+      "id": "tt19847976",
+      "name": "Wicked : Partie II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
+      "rating": 6.625,
+      "year": 2025,
+      "days": 10,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
       "rating": 5.876,
       "year": 2025,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,54 +19,54 @@
     },
     {
       "rank": 2,
-      "id": "tt27847051",
-      "name": "L'Agent secret",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vtZn6G9Iah5gGfdrjm7aqZMsKfG.jpg",
-      "rating": 7.234,
-      "year": 2025,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt35518658",
-      "name": "Certains l'aiment chauve",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s5SdVUKrCCyqg2yCcscudSw8jUE.jpg",
-      "rating": 4.226,
-      "year": 2025,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt10374610",
       "name": "Marche ou crève",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27847051",
+      "name": "L'Agent secret",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vtZn6G9Iah5gGfdrjm7aqZMsKfG.jpg",
+      "rating": 7.234,
+      "year": 2025,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt23572848",
+      "name": "Bob l'éponge, le film : Un pour tous, tous pirates !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oCakNGooFW6WCQnVISBUuSRkaYw.jpg",
+      "rating": 6.808,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 5,
-      "id": "tt33518607",
-      "name": "Deux Pianos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cdLe3CLD3Q4uJXkDsjzJSd6CYSj.jpg",
-      "rating": 5.2,
+      "id": "tt35518658",
+      "name": "Certains l'aiment chauve",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s5SdVUKrCCyqg2yCcscudSw8jUE.jpg",
+      "rating": 4.226,
       "year": 2025,
-      "days": 6,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
       "rating": 5.379,
       "year": 2025,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0

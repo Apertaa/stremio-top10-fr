@@ -2,32 +2,32 @@
   "country": "canada",
   "key": "disney",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
-      "id": "top10:moana-a-special-look",
-      "name": "Moana | A Special Look",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt1757678",
       "name": "Avatar : De feu et de cendres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "top10:moana-a-special-look",
+      "name": "Moana | A Special Look",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
       "rating": 7.665,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
       "rating": null,
       "year": 2026,
-      "days": 116,
+      "days": 117,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
       "rating": 7.006,
       "year": 2024,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
       "rating": 8.181,
       "year": 2026,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt43438551",
-      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+      "id": "top10:moana-on-the-journey-with-catherine-lagaaia",
+      "name": "Moana: On the Journey with Catherine Laga'aia",
+      "tmdbPosterUrl": null,
       "rating": null,
-      "year": 2026,
-      "days": 4,
+      "year": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "top10:moana-on-the-journey-with-catherine-lagaaia",
-      "name": "Moana: On the Journey with Catherine Laga'aia",
-      "tmdbPosterUrl": null,
+      "id": "tt43438551",
+      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
       "rating": null,
-      "year": null,
-      "days": null,
+      "year": 2026,
+      "days": 5,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iI53NwzcNpkImU346bV866G7G46.jpg",
       "rating": 7.077,
       "year": 2019,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

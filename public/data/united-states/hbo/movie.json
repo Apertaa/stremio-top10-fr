@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
       "rating": 7.491,
       "year": 2018,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/un8nwv94ERfZEypyuzEdR7UJ8l5.jpg",
       "rating": 7.3,
       "year": 2014,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt0250494",
-      "name": "La Revanche d'une blonde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
-      "rating": 6.817,
-      "year": 2001,
-      "days": 9,
+      "id": "tt4779682",
+      "name": "En eaux troubles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
+      "rating": 6.248,
+      "year": 2018,
+      "days": 17,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lwP8CMOfPJhkMyxELgX2D2aDZfy.jpg",
       "rating": 7.005,
       "year": 2019,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt4779682",
-      "name": "En eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
-      "rating": 6.248,
-      "year": 2018,
-      "days": 16,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt5463162",
       "name": "Deadpool 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
       "rating": 7.491,
       "year": 2018,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt31434639",
+      "name": "Warfare",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yNGwVuIuhTAKIYr3hj0ZzZWknH0.jpg",
+      "rating": 7.079,
+      "year": 2025,
+      "days": 29,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

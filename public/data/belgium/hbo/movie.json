@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt11182994",
       "name": "Zillion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
       "rating": 7.014,
       "year": 2022,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 11,
+      "id": "tt11252248",
+      "name": "Dog",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
+      "rating": 7.289,
+      "year": 2022,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -76,19 +76,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kx6ovgUw6xJFsScfNZvQIU6p52T.jpg",
       "rating": 6.238,
       "year": 1995,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0361748",
-      "name": "Inglourious Basterds",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
-      "rating": 8.217,
-      "year": 2009,
       "days": 3,
       "trend": {
         "dir": "same",
@@ -96,16 +83,29 @@
       }
     },
     {
-      "rank": 8,
-      "id": "tt0360486",
-      "name": "Constantine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
-      "rating": 7.179,
-      "year": 2005,
-      "days": 11,
+      "rank": 7,
+      "id": "tt41702551",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 12,
       "trend": {
         "dir": "down",
         "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0361748",
+      "name": "Inglourious Basterds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
+      "rating": 8.217,
+      "year": 2009,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dTokNCdBjiXMsNW84Lsj6JsmjRX.jpg",
       "rating": 6.879,
       "year": 2023,
-      "days": 27,
+      "days": 28,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt5726616",
-      "name": "Call Me by Your Name",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
-      "rating": 8.09,
-      "year": 2017,
-      "days": 9,
+      "id": "tt0360486",
+      "name": "Constantine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
+      "rating": 7.179,
+      "year": 2005,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

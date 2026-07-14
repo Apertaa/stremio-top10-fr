@@ -2,123 +2,123 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
+      "id": "tt43634457",
+      "name": "2026 MLB Home Run Derby",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt2431250",
       "name": "La Petite Maison dans la prairie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
       "rating": 5.139,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 2,
+      "rank": 4,
       "id": "tt43476716",
       "name": "Les Voisins de l'enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "id": "tt34771210",
       "name": "Sur tes traces",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
       "id": "tt36742917",
       "name": "Je n'ai pas peur",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fWdc8d4tR9HYRGRAxKMPGKklWRy.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "top10:jeff-arcuri-nice-to-meet-you",
       "name": "Jeff Arcuri: Nice to Meet You",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt21064598",
-      "name": "Retour à Sullivan's Crossing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIRFRHTsCQxhJJtn5TPYOqryjdW.jpg",
-      "rating": 8.143,
-      "year": 2023,
-      "days": 60,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.79,
-      "year": 2024,
-      "days": 53,
-      "trend": {
-        "dir": "up",
         "delta": 2
       }
     },
     {
       "rank": 8,
-      "id": "tt15017118",
-      "name": "Dark Winds",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1pKrWKwatxsF2DhrjX0day8Dfo8.jpg",
-      "rating": 7.5,
-      "year": 2022,
-      "days": 49,
+      "id": "tt21064598",
+      "name": "Retour à Sullivan's Crossing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIRFRHTsCQxhJJtn5TPYOqryjdW.jpg",
+      "rating": 8.143,
+      "year": 2023,
+      "days": 61,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 14,
+      "id": "tt9018736",
+      "name": "Avatar : Le dernier maître de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "rating": 7.79,
+      "year": 2024,
+      "days": 54,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 43,
+      "days": 44,
       "trend": {
         "dir": "same",
         "delta": 0

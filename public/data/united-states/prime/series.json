@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202607131747",
+  "date": "202607141701",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 11,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 60,
+      "days": 62,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 32,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 46,
+      "days": 48,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 95,
+      "days": 97,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,54 +71,54 @@
     },
     {
       "rank": 6,
-      "id": "tt34691775",
-      "name": "It's Not Like That",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4hiOFff1XvM1Sy3XGN83DvPl44H.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 57,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt10541088",
       "name": "Clarkson à la ferme",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 39,
+      "days": 41,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt14016500",
       "name": "L'Été où je suis devenue jolie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 274,
+      "days": 276,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt34691775",
+      "name": "It's Not Like That",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4hiOFff1XvM1Sy3XGN83DvPl44H.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 59,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 9,
-      "id": "tt36517689",
-      "name": "THE GHOST IN THE SHELL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v6D7aBJynhY6opGugGJkofzknw6.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": 4,
+      "id": "tt32206408",
+      "name": "Vanished: The Heather Elvis Case",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVx2vE0hhInC53OuuXrkpO1H312.jpg",
+      "rating": 9,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1TneaKrAbloEgdeFPY7YBdA06ur.jpg",
       "rating": 8.196,
       "year": 2022,
-      "days": 37,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0

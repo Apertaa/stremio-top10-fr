@@ -1029,6 +1029,16 @@
     "rating": 5.574,
     "ts": "2026-06-30"
   },
+  "bring-it-on": {
+    "tmdbId": 1588,
+    "tmdbType": "movie",
+    "imdbId": "tt0204946",
+    "titleFr": "American Girls",
+    "year": 2000,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yLU4gpzrKNeXZv8uUma5rF6VaYW.jpg",
+    "rating": 6.273,
+    "ts": "2026-07-14"
+  },
   "bring-me-the-beauties-a-model-cult": {
     "tmdbId": 322974,
     "tmdbType": "tv",
@@ -1589,6 +1599,16 @@
     "rating": 9,
     "ts": "2026-06-19"
   },
+  "dog": {
+    "tmdbId": 626735,
+    "tmdbType": "movie",
+    "imdbId": "tt11252248",
+    "titleFr": "Dog",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
+    "rating": 7.289,
+    "ts": "2026-07-14"
+  },
   "dog-51": {
     "tmdbId": 1266798,
     "tmdbType": "movie",
@@ -1678,6 +1698,26 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
     "rating": 6.5,
     "ts": "2026-06-28"
+  },
+  "dtf-st-louis": {
+    "tmdbId": 206828,
+    "tmdbType": "tv",
+    "imdbId": "tt34385331",
+    "titleFr": "DTF St. Louis",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zYuNNfX1knlqapzNgOrpG6BkVea.jpg",
+    "rating": 6.856,
+    "ts": "2026-07-14"
+  },
+  "due-date": {
+    "tmdbId": 41733,
+    "tmdbType": "movie",
+    "imdbId": "tt1231583",
+    "titleFr": "Date Limite",
+    "year": 2010,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
+    "rating": 6.397,
+    "ts": "2026-07-14"
   },
   "dune-2021": {
     "tmdbId": 438631,
@@ -2818,6 +2858,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/uO0tsSHByL7bgJhV81eQZwp4hD6.jpg",
     "rating": 6.81,
     "ts": "2026-07-03"
+  },
+  "hot-ones-extra-heat": {
+    "tmdbId": 326194,
+    "tmdbType": "tv",
+    "imdbId": "tt43611663",
+    "titleFr": "Hot Ones: Extra Heat",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pTjTF3TJxKl2uHieBbYIsnxiMU.jpg",
+    "rating": 1,
+    "ts": "2026-07-14"
   },
   "hotel-transylvania-3-summer-vacation": {
     "tmdbId": 400155,
@@ -3999,6 +4049,16 @@
     "rating": 7.1,
     "ts": "2026-06-20"
   },
+  "marvels-the-punisher": {
+    "tmdbId": 67178,
+    "tmdbType": "tv",
+    "imdbId": "tt5675620",
+    "titleFr": "Marvel's The Punisher",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ioWV96X8lFnjO8PPAl6ayfZGjkM.jpg",
+    "rating": 8.148,
+    "ts": "2026-07-14"
+  },
   "masha-and-the-bear": {
     "tmdbId": 46080,
     "tmdbType": "tv",
@@ -4218,6 +4278,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
     "rating": 7.169,
     "ts": "2026-06-20"
+  },
+  "mlb-home-run-derby-2026": {
+    "tmdbId": 328505,
+    "tmdbType": "tv",
+    "imdbId": "tt43634457",
+    "titleFr": "2026 MLB Home Run Derby",
+    "year": 2026,
+    "posterUrl": null,
+    "rating": null,
+    "ts": "2026-07-14"
   },
   "moana": {
     "tmdbId": 1108427,
@@ -5259,6 +5329,16 @@
     "rating": 9.646,
     "ts": "2026-06-20"
   },
+  "reminders-of-him": {
+    "tmdbId": 1367642,
+    "tmdbType": "movie",
+    "imdbId": "tt33714084",
+    "titleFr": "Reminders of Him",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
+    "rating": 7.765,
+    "ts": "2026-07-14"
+  },
   "resident-alien": {
     "tmdbId": 96580,
     "tmdbType": "tv",
@@ -5289,6 +5369,16 @@
     "rating": 8.679,
     "ts": "2026-06-19"
   },
+  "rick-and-morty-the-anime": {
+    "tmdbId": 202282,
+    "tmdbType": "tv",
+    "imdbId": "tt28466465",
+    "titleFr": "Rick et Morty : L’Anime",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/clgQ2fasHWf9rymVeQ811lSMJJi.jpg",
+    "rating": 5.2,
+    "ts": "2026-07-14"
+  },
   "rivals-2024": {
     "tmdbId": 208921,
     "tmdbType": "tv",
@@ -5298,6 +5388,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
     "rating": 7.4,
     "ts": "2026-06-20"
+  },
+  "road-house-2024": {
+    "tmdbId": 359410,
+    "tmdbType": "movie",
+    "imdbId": "tt3359350",
+    "titleFr": "Road House",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eMoPZHBRu2yrFBm8tefqJKg1JfF.jpg",
+    "rating": 6.944,
+    "ts": "2026-07-14"
   },
   "robin-hood-2018": {
     "tmdbId": 375588,
@@ -7459,6 +7559,16 @@
     "rating": 6.3,
     "ts": "2026-06-30"
   },
+  "the-shallows": {
+    "tmdbId": 332567,
+    "tmdbType": "movie",
+    "imdbId": "tt4052882",
+    "titleFr": "Instinct de survie",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lDfFN19SJMZ37mlnxE1CCMQkAtA.jpg",
+    "rating": 6.356,
+    "ts": "2026-07-14"
+  },
   "the-sheep-detectives": {
     "tmdbId": 1301421,
     "tmdbType": "movie",
@@ -7488,6 +7598,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/boXGNZ3yocnX4fYIJTJkgLAi48U.jpg",
     "rating": 5.755,
     "ts": "2026-06-20"
+  },
+  "the-spongebob-movie-search-for-squarepants": {
+    "tmdbId": 991494,
+    "tmdbType": "movie",
+    "imdbId": "tt23572848",
+    "titleFr": "Bob l'éponge, le film : Un pour tous, tous pirates !",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oCakNGooFW6WCQnVISBUuSRkaYw.jpg",
+    "rating": 6.808,
+    "ts": "2026-07-14"
   },
   "the-spongebob-squarepants-movie": {
     "tmdbId": 11836,
@@ -7548,6 +7668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
     "rating": 8.227,
     "ts": "2026-06-19"
+  },
+  "the-town": {
+    "tmdbId": 23168,
+    "tmdbType": "movie",
+    "imdbId": "tt0840361",
+    "titleFr": "The Town",
+    "year": 2010,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
+    "rating": 7.225,
+    "ts": "2026-07-14"
   },
   "the-vault": {
     "tmdbId": 416160,
@@ -8089,6 +8219,16 @@
     "rating": 6.963,
     "ts": "2026-07-13"
   },
+  "vanished-the-heather-elvis-case": {
+    "tmdbId": 292599,
+    "tmdbType": "tv",
+    "imdbId": "tt32206408",
+    "titleFr": "Vanished: The Heather Elvis Case",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/jVx2vE0hhInC53OuuXrkpO1H312.jpg",
+    "rating": 9,
+    "ts": "2026-07-14"
+  },
   "vera": {
     "tmdbId": 39185,
     "tmdbType": "tv",
@@ -8198,6 +8338,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
     "rating": 7.338,
     "ts": "2026-07-09"
+  },
+  "warfare": {
+    "tmdbId": 1241436,
+    "tmdbType": "movie",
+    "imdbId": "tt31434639",
+    "titleFr": "Warfare",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yNGwVuIuhTAKIYr3hj0ZzZWknH0.jpg",
+    "rating": 7.079,
+    "ts": "2026-07-14"
   },
   "waterworld": {
     "tmdbId": 9804,
