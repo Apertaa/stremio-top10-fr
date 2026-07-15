@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "disney",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,36 +11,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 19,
+      "days": 20,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt33978029",
+      "name": "Wedding Nightmare : Deuxième partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
+      "rating": 7.665,
+      "year": 2026,
+      "days": 11,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 2,
-      "id": "top10:moana-a-special-look",
-      "name": "Moana | A Special Look",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 3,
-      "id": "tt33978029",
-      "name": "Wedding Nightmare : Deuxième partie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
-      "rating": 7.665,
-      "year": 2026,
-      "days": 10,
+      "id": "tt13622970",
+      "name": "Vaiana 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "rating": 7.006,
+      "year": 2024,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
       "rating": null,
       "year": 2026,
-      "days": 117,
+      "days": 118,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,67 +58,67 @@
     },
     {
       "rank": 5,
-      "id": "tt13622970",
-      "name": "Vaiana 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
-      "rating": 7.006,
-      "year": 2024,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt26443616",
       "name": "Jumpers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
       "rating": 8.181,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "top10:moana-a-special-look",
+      "name": "Moana | A Special Look",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 7,
-      "id": "top10:moana-on-the-journey-with-catherine-lagaaia",
-      "name": "Moana: On the Journey with Catherine Laga'aia",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
       "id": "top10:super-troopers-3-a-special-look",
       "name": "Super Troopers 3 | A Special Look",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt43438551",
       "name": "Hammerhead Sharks Up Close with Bertie Gregory",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
       "rating": null,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt43140642",
+      "name": "Simpsley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iI53NwzcNpkImU346bV866G7G46.jpg",
       "rating": 7.077,
       "year": 2019,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0

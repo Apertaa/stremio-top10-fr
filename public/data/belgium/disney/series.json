@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "disney",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 16,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 21,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 20,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
+      "year": 2022,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,38 +58,38 @@
     },
     {
       "rank": 5,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 10,
+      "id": "tt0460649",
+      "name": "How I Met Your Mother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
+      "rating": 8.129,
+      "year": 2005,
+      "days": 15,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1442437",
+      "name": "Modern Family",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "rating": 7.913,
+      "year": 2009,
+      "days": 124,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 6,
-      "id": "tt32598989",
-      "name": "SuperKitties: Su-Purr Adventures (Shorts)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
-      "rating": null,
-      "year": 2024,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 7,
-      "id": "tt35661293",
-      "name": "Murder in the Skies: Who Downed Mh17?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8TE8F6uwztvu84iiamAyiUNu8Bn.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 4,
+      "id": "tt0096697",
+      "name": "Les Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
+      "rating": 8.019,
+      "year": 1989,
+      "days": 128,
       "trend": {
         "dir": "new",
         "delta": null
@@ -97,11 +97,11 @@
     },
     {
       "rank": 8,
-      "id": "tt8111088",
-      "name": "The Mandalorian",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg",
-      "rating": 8.409,
-      "year": 2019,
+      "id": "tt32328599",
+      "name": "Les petites histoires de Bluey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
+      "rating": 8.256,
+      "year": 2024,
       "days": 30,
       "trend": {
         "dir": "new",
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt0460649",
-      "name": "How I Met Your Mother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
-      "rating": 8.129,
-      "year": 2005,
-      "days": 14,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt13622956",
       "name": "Zootopie+",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt7678620",
+      "name": "Bluey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+      "rating": 8.583,
+      "year": 2018,
+      "days": 121,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,97 +2,97 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
+      "id": "top10:learning-and-fun-with-jose-comelon",
+      "name": "Learning and fun with Jose Comelon",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt41672842",
       "name": "Salish & Jordan Matter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 93,
+      "days": 94,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt35406274",
       "name": "Ms. Rachel",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 517,
+      "days": 518,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt13158394",
       "name": "Danny Go!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 98,
+      "days": 99,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt30797164",
       "name": "Bebefinn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 747,
+      "days": 748,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt3121722",
       "name": "La Pat' Patrouille",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 367,
+      "days": 368,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "top10:the-boss-baby-christmas-bonus",
-      "name": "The Boss Baby: Christmas Bonus",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 88,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt0063951",
-      "name": "1 Rue Sesame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-      "rating": 7.1,
-      "year": 1969,
-      "days": 240,
+      "id": "tt1604099",
+      "name": "Victorious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
+      "rating": 8.216,
+      "year": 2010,
+      "days": 261,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 162,
+      "days": 163,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.813,
-      "year": 2024,
-      "days": 101,
+      "id": "top10:the-boss-baby-christmas-bonus",
+      "name": "The Boss Baby: Christmas Bonus",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 89,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 10,
-      "id": "tt1604099",
-      "name": "Victorious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
-      "rating": 8.216,
-      "year": 2010,
-      "days": 260,
+      "id": "tt3596174",
+      "name": "Henry Danger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+      "rating": 8.279,
+      "year": 2014,
+      "days": 179,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

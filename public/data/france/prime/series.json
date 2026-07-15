@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -45,6 +45,19 @@
     },
     {
       "rank": 4,
+      "id": "tt38960812",
+      "name": "À demain au bureau !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
+      "rating": 8.769,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt1190634",
       "name": "The Boys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
@@ -52,12 +65,12 @@
       "year": 2019,
       "days": 97,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt30460310",
       "name": "Spider-Noir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
@@ -65,12 +78,12 @@
       "year": 2026,
       "days": 48,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "tt7550774",
       "name": "Le prix de la passion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO6C0NFLDpdnKnltEhKvkvUjIpk.jpg",
@@ -78,12 +91,12 @@
       "year": 2017,
       "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt13696152",
       "name": "LOL : Qui rit, sort !",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ha9Nii4BB05xLLSQEAwZsdKIhZX.jpg",
@@ -91,12 +104,12 @@
       "year": 2021,
       "days": 81,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt14016500",
       "name": "L'Été où je suis devenue jolie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
@@ -109,29 +122,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt38960812",
-      "name": "À demain au bureau !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
-      "rating": 8.769,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 10,
       "id": "tt36517689",
       "name": "THE GHOST IN THE SHELL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v6D7aBJynhY6opGugGJkofzknw6.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

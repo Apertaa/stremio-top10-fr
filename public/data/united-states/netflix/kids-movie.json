@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 575,
+      "days": 576,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,67 +19,67 @@
     },
     {
       "rank": 2,
-      "id": "tt0367594",
-      "name": "Charlie et la Chocolaterie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tR4PU2wRPzGKmF665lE5wULGb3X.jpg",
-      "rating": 7.039,
-      "year": 2005,
-      "days": 33,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt5113044",
       "name": "Les Minions 2 : Il était une fois Gru",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 107,
+      "days": 108,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt3469046",
       "name": "Moi, moche et méchant 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
       "rating": 6.468,
       "year": 2017,
-      "days": 226,
+      "days": 227,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0367594",
+      "name": "Charlie et la Chocolaterie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tR4PU2wRPzGKmF665lE5wULGb3X.jpg",
+      "rating": 7.039,
+      "year": 2005,
+      "days": 34,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 5,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 60,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 382,
+      "days": 383,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
+      "year": 2026,
+      "days": 61,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
       "rating": 6.787,
       "year": 2015,
-      "days": 276,
+      "days": 277,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cn7mFB0sCeQJO8MAyl15yFp0rpc.jpg",
       "rating": 6.322,
       "year": 2016,
-      "days": 495,
+      "days": 496,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 67,
+      "days": 68,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6igG1J3T6uavROpQAhKfptm4KA4.jpg",
       "rating": 7.125,
       "year": 2016,
-      "days": 423,
+      "days": 424,
       "trend": {
         "dir": "same",
         "delta": 0

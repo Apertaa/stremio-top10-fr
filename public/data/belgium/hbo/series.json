@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 26,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 49,
+      "days": 50,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
       "rating": 6.4,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/czjljSbSF5XJRkC70HrsmmrDlcc.jpg",
       "rating": null,
       "year": 2022,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/clgQ2fasHWf9rymVeQ811lSMJJi.jpg",
       "rating": 5.2,
       "year": 2024,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zYuNNfX1knlqapzNgOrpG6BkVea.jpg",
       "rating": 6.856,
       "year": 2026,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDpbYGDRx98OXlXyPJMtGftQJaS.jpg",
       "rating": 6.906,
       "year": 2025,
-      "days": 82,
+      "days": 83,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

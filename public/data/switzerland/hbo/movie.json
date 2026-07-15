@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 10,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
       "rating": 7.454,
       "year": 2024,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
       "rating": 6.9,
       "year": 2023,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,67 +45,67 @@
     },
     {
       "rank": 4,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 31,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0985699",
-      "name": "Walkyrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/OxtxltJK6N2aNMb6x4shSdiFwY.jpg",
-      "rating": 6.963,
-      "year": 2008,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt5013056",
       "name": "Dunkerque",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
       "rating": 7.452,
       "year": 2017,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 32,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1392190",
+      "name": "Mad Max : Fury Road",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
+      "rating": 7.634,
+      "year": 2015,
+      "days": 16,
+      "trend": {
+        "dir": "up",
+        "delta": 4
       }
     },
     {
       "rank": 7,
-      "id": "tt13560574",
-      "name": "X",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
-      "rating": 6.7,
-      "year": 2022,
-      "days": 22,
+      "id": "tt0985699",
+      "name": "Walkyrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/OxtxltJK6N2aNMb6x4shSdiFwY.jpg",
+      "rating": 6.963,
+      "year": 2008,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 8,
-      "id": "tt15239678",
-      "name": "Dune : Deuxième partie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 35,
+      "id": "tt1375666",
+      "name": "Inception",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
+      "rating": 8.4,
+      "year": 2010,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
       "rating": 8.208,
       "year": 2006,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt1392190",
-      "name": "Mad Max : Fury Road",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
-      "rating": 7.634,
-      "year": 2015,
-      "days": 15,
+      "id": "tt13560574",
+      "name": "X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
+      "rating": 6.7,
+      "year": 2022,
+      "days": 23,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

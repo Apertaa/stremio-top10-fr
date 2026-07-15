@@ -2,28 +2,28 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
-      "id": "tt43634457",
-      "name": "2026 MLB Home Run Derby",
-      "tmdbPosterUrl": null,
-      "rating": null,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
       "year": 2026,
-      "days": null,
+      "days": 6,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
       "rank": 2,
-      "id": "tt0185103",
-      "name": "Raw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "rating": 6.816,
-      "year": 1993,
+      "id": "tt43611663",
+      "name": "Hot Ones: Extra Heat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjTF3TJxKl2uHieBbYIsnxiMU.jpg",
+      "rating": 1,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "new",
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt43476716",
       "name": "Les Voisins de l'enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt34771210",
       "name": "Sur tes traces",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 26,
+      "days": 27,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": 2,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fWdc8d4tR9HYRGRAxKMPGKklWRy.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIRFRHTsCQxhJJtn5TPYOqryjdW.jpg",
       "rating": 8.143,
       "year": 2023,
-      "days": 61,
+      "days": 62,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.79,
-      "year": 2024,
-      "days": 54,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt41672842",
       "name": "Salish & Jordan Matter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 44,
+      "days": 45,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt9018736",
+      "name": "Avatar : Le dernier maître de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "rating": 7.79,
+      "year": 2024,
+      "days": 55,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

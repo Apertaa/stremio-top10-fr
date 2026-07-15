@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 214,
+      "days": 215,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 95,
+      "days": 96,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 494,
+      "days": 495,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
       "rating": 7.421,
       "year": 2020,
-      "days": 745,
+      "days": 746,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
       "rating": 6.414,
       "year": 2025,
-      "days": 134,
+      "days": 135,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 368,
+      "days": 369,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
       "rating": 6.542,
       "year": 2024,
-      "days": 439,
+      "days": 440,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 808,
+      "days": 809,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt24950660",
-      "name": "Pour l'éternité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
-      "rating": 7.078,
+      "id": "tt34276058",
+      "name": "The Family Plan 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
+      "rating": 6.539,
       "year": 2025,
-      "days": 151,
+      "days": 236,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt34276058",
-      "name": "The Family Plan 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
-      "rating": 6.539,
+      "id": "tt24950660",
+      "name": "Pour l'éternité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
+      "rating": 7.078,
       "year": 2025,
-      "days": 235,
+      "days": 152,
       "trend": {
         "dir": "down",
         "delta": 1

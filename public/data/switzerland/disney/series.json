@@ -2,32 +2,32 @@
   "country": "switzerland",
   "key": "disney",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
-      "id": "tt31614348",
-      "name": "Famille en réparation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
-      "rating": 6.406,
-      "year": 2025,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tmdb:328337",
       "name": "Bluey Compilations",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt31614348",
+      "name": "Famille en réparation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
+      "rating": 6.406,
+      "year": 2025,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
       "rating": 8.072,
       "year": 2026,
-      "days": 86,
+      "days": 87,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt0285403",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "rating": 8.116,
-      "year": 2001,
-      "days": 5,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 27,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -58,25 +58,25 @@
     },
     {
       "rank": 5,
+      "id": "tt35823838",
+      "name": "Not Suitable for Work",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 42,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 26,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,51 +84,51 @@
     },
     {
       "rank": 7,
-      "id": "tt35823838",
-      "name": "Not Suitable for Work",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 41,
+      "id": "tt0285403",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+      "rating": 8.116,
+      "year": 2001,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 8,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 86,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.1,
+      "year": 2024,
+      "days": 87,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt33550053",
-      "name": "9-1-1: Nashville",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
-      "rating": 8.181,
-      "year": 2025,
-      "days": 1,
+      "id": "tt0410975",
+      "name": "Desperate Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": 24,
       "trend": {
         "dir": "new",
         "delta": null

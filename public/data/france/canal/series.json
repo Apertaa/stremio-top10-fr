@@ -2,19 +2,19 @@
   "country": "france",
   "key": "canal",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 59,
+      "id": "tt11198330",
+      "name": "House of the Dragon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
+      "rating": 8.301,
+      "year": 2022,
+      "days": 148,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 156,
+      "days": 157,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt11198330",
-      "name": "House of the Dragon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "rating": 8.301,
-      "year": 2022,
-      "days": 147,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 60,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
       "rating": 7.3,
       "year": 2025,
-      "days": 26,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
+      "id": "tt34273502",
+      "name": "Prisoner",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ihsjLndu3FrhDFGjdYY0bbhuD9R.jpg",
+      "rating": 5.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt31909098",
       "name": "The Miniature Wife",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
       "rating": 7.446,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "tt34675596",
       "name": "Cape Fear - Les Nerfs à vif",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt9813792",
       "name": "FROM",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 171,
+      "days": 172,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt16418808",
       "name": "Sugar",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 56,
+      "days": 57,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt0944947",
       "name": "Game of Thrones",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
       "rating": 8.5,
       "year": 2011,
-      "days": 354,
+      "days": 355,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,90 +19,90 @@
     },
     {
       "rank": 2,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt35661599",
-      "name": "Les Condés",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qt9zPUPjLJwNsBipzcLaddXYys1.jpg",
-      "rating": 4.132,
-      "year": 2025,
-      "days": 18,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt9777790",
       "name": "C'est quoi cette mamie ?!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vjSChjX7pEsazduXnwQCZJOKpt.jpg",
       "rating": 5.819,
       "year": 2019,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 2
       }
     },
     {
-      "rank": 7,
-      "id": "tt0373051",
-      "name": "Voyage au centre de la Terre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
-      "rating": 6.09,
-      "year": 2008,
-      "days": 5,
+      "rank": 5,
+      "id": "tt0840361",
+      "name": "The Town",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
+      "rating": 7.225,
+      "year": 2010,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": 14,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt31314296",
       "name": "The Woman in the Yard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tFmkIyhjR1xNFRlIruMLu8NMYji.jpg",
       "rating": 5.669,
       "year": 2025,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0373051",
+      "name": "Voyage au centre de la Terre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
+      "rating": 6.09,
+      "year": 2008,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt0840361",
-      "name": "The Town",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
-      "rating": 7.225,
+      "id": "tt35661599",
+      "name": "Les Condés",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qt9zPUPjLJwNsBipzcLaddXYys1.jpg",
+      "rating": 4.132,
+      "year": 2025,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1231583",
+      "name": "Date Limite",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
+      "rating": 6.397,
       "year": 2010,
       "days": null,
       "trend": {
         "dir": "new",
         "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt1253863",
-      "name": "300 : La Naissance d’un Empire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yeE8mXFUXXXlHbLy8UjPW9L22DR.jpg",
-      "rating": 6.121,
-      "year": 2014,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
       }
     }
   ]

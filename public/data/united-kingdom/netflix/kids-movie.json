@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 46,
+      "days": 47,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt8864596",
-      "name": "Transformers : Le Commencement",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PVLEv0WvXyIbp3RvGC5j3X5dAz.jpg",
-      "rating": 7.971,
-      "year": 2024,
-      "days": 5,
+      "id": "tt0126029",
+      "name": "Shrek",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
+      "rating": 7.765,
+      "year": 2001,
+      "days": 230,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,106 +32,106 @@
     },
     {
       "rank": 3,
-      "id": "tt0126029",
-      "name": "Shrek",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
-      "rating": 7.765,
-      "year": 2001,
-      "days": 229,
+      "id": "tt8864596",
+      "name": "Transformers : Le Commencement",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6PVLEv0WvXyIbp3RvGC5j3X5dAz.jpg",
+      "rating": 7.971,
+      "year": 2024,
+      "days": 6,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt0373051",
-      "name": "Voyage au centre de la Terre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
-      "rating": 6.09,
-      "year": 2008,
-      "days": 4,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt3152592",
-      "name": "Scooby !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
-      "rating": 6.991,
-      "year": 2020,
-      "days": 13,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt3874544",
       "name": "Baby Boss",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 132,
+      "days": 133,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 381,
+      "days": 382,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0373051",
+      "name": "Voyage au centre de la Terre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
+      "rating": 6.09,
+      "year": 2008,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt0298148",
       "name": "Shrek 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 217,
+      "days": 218,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt3152592",
+      "name": "Scooby !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
+      "rating": 6.991,
+      "year": 2020,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 9,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0312528",
       "name": "Le chat chapeauté",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
       "rating": 5.314,
       "year": 2003,
-      "days": 61,
+      "days": 62,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1679335",
+      "name": "Les Trolls",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddKk98obuNGy9CQbQ9LXv0llEZ3.jpg",
+      "rating": 6.626,
+      "year": 2016,
+      "days": 184,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

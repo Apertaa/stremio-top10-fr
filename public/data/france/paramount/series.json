@@ -2,16 +2,16 @@
   "country": "france",
   "key": "paramount",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 767,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": 824,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
-      "rating": 8.3,
-      "year": 1997,
-      "days": 823,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 768,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 59,
+      "days": 60,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 688,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0452046",
       "name": "Esprits criminels",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 837,
+      "days": 838,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 689,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 365,
+      "days": 366,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 830,
+      "days": 831,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "rating": 8.3,
       "year": 2022,
-      "days": 749,
+      "days": 750,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 814,
+      "days": 815,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
       "rating": 8.031,
       "year": 2017,
-      "days": 556,
+      "days": 557,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

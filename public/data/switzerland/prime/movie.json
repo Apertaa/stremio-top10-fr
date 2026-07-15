@@ -2,42 +2,42 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt38235625",
       "name": "Boulevard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
       "rating": 8.063,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 3,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
+      "rank": 2,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
       "year": 2026,
-      "days": 19,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
+      "year": 2026,
+      "days": 27,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -45,15 +45,15 @@
     },
     {
       "rank": 4,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
       "year": 2026,
-      "days": 26,
+      "days": 20,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 53,
+      "days": 54,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 345,
+      "days": 828,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
-      "year": 2025,
-      "days": 827,
+      "id": "tt1464335",
+      "name": "Uncharted",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
+      "rating": 6.886,
+      "year": 2022,
+      "days": 1,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
       "rating": 7.374,
       "year": 2025,
-      "days": 212,
+      "days": 213,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
       "rating": 6.817,
       "year": 2001,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt1464335",
-      "name": "Uncharted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
-      "rating": 6.886,
-      "year": 2022,
-      "days": null,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 346,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

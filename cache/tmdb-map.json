@@ -1049,6 +1049,16 @@
     "rating": 8.5,
     "ts": "2026-06-19"
   },
+  "bullet-2014": {
+    "tmdbId": 169298,
+    "tmdbType": "movie",
+    "imdbId": "tt2544734",
+    "titleFr": "Bullet",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mNWVXBHNzoaUML9UXOGwE8Rp7FJ.jpg",
+    "rating": 4.296,
+    "ts": "2026-07-15"
+  },
   "bullet-train": {
     "tmdbId": 718930,
     "tmdbType": "movie",
@@ -1368,6 +1378,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
     "rating": 8.7,
     "ts": "2026-07-06"
+  },
+  "dancing-with-the-stars-the-next-pro": {
+    "tmdbId": 320503,
+    "tmdbType": "tv",
+    "imdbId": "tt40367753",
+    "titleFr": "Dancing with the Stars: The Next Pro",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+    "rating": null,
+    "ts": "2026-07-15"
   },
   "danny-dyer-how-to-be-a-man": {
     "tmdbId": 251642,
@@ -3319,6 +3339,16 @@
     "rating": 6.1,
     "ts": "2026-06-19"
   },
+  "kill": {
+    "tmdbId": 1160018,
+    "tmdbType": "movie",
+    "imdbId": "tt28259207",
+    "titleFr": "Kill",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xj4kJej7Bdfw6EjhEMESU3XY7JI.jpg",
+    "rating": 7.137,
+    "ts": "2026-07-15"
+  },
   "kill-em-all-2": {
     "tmdbId": 1215162,
     "tmdbType": "movie",
@@ -3828,6 +3858,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/4cOWAuejsbqbzQ1AVb46mtglHOR.jpg",
     "rating": 5.401,
     "ts": "2026-06-22"
+  },
+  "lucky-2026": {
+    "tmdbId": 278624,
+    "tmdbType": "tv",
+    "imdbId": "tt34866681",
+    "titleFr": "Lucky",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
+    "rating": 5.455,
+    "ts": "2026-07-15"
   },
   "lucky-luke-2026": {
     "tmdbId": 259405,
@@ -4378,6 +4418,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
     "rating": 3.7,
     "ts": "2026-07-10"
+  },
+  "murder-101": {
+    "tmdbId": 325622,
+    "tmdbType": "tv",
+    "imdbId": "tt39163341",
+    "titleFr": "Murder 101",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
+    "rating": null,
+    "ts": "2026-07-15"
   },
   "murder-in-the-skies-who-downed-mh17": {
     "tmdbId": 284443,
@@ -5139,6 +5189,16 @@
     "rating": 7.021,
     "ts": "2026-06-28"
   },
+  "prisoner-2026": {
+    "tmdbId": 311858,
+    "tmdbType": "tv",
+    "imdbId": "tt34273502",
+    "titleFr": "Prisoner",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ihsjLndu3FrhDFGjdYY0bbhuD9R.jpg",
+    "rating": 5.4,
+    "ts": "2026-07-15"
+  },
   "prisoner-of-war": {
     "tmdbId": 1328803,
     "tmdbType": "movie",
@@ -5208,6 +5268,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/5MbNy94ia4ZLf8OGtSfSjjlxxWN.jpg",
     "rating": null,
     "ts": "2026-06-20"
+  },
+  "rabbit-hole-2023": {
+    "tmdbId": 156819,
+    "tmdbType": "tv",
+    "imdbId": "tt5822112",
+    "titleFr": "Rabbit Hole",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/by7ljojEuZlVt9a8SjFwwyFcLDK.jpg",
+    "rating": 7.095,
+    "ts": "2026-07-15"
   },
   "racer-and-the-jailbird": {
     "tmdbId": 414063,
@@ -6939,6 +7009,16 @@
     "rating": 7.3,
     "ts": "2026-06-20"
   },
+  "the-grim-adventures-of-billy-and-mandy": {
+    "tmdbId": 897,
+    "tmdbType": "tv",
+    "imdbId": "tt0292800",
+    "titleFr": "Billy et Mandy, aventuriers de l'au-delà",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
+    "rating": 8.1,
+    "ts": "2026-07-15"
+  },
   "the-handmaids-tale": {
     "tmdbId": 69478,
     "tmdbType": "tv",
@@ -7018,6 +7098,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
     "rating": 7.427,
     "ts": "2026-07-13"
+  },
+  "the-hunger-games-the-ballad-of-songbirds-snakes": {
+    "tmdbId": 695721,
+    "tmdbType": "movie",
+    "imdbId": "tt10545296",
+    "titleFr": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/q4EDvPcf956FgakWwcXiWdQEgxU.jpg",
+    "rating": 6.976,
+    "ts": "2026-07-15"
   },
   "the-hunt-2020": {
     "tmdbId": 514847,
@@ -7179,6 +7269,16 @@
     "rating": 7.248,
     "ts": "2026-06-20"
   },
+  "the-lincoln-lawyer": {
+    "tmdbId": 50348,
+    "tmdbType": "movie",
+    "imdbId": "tt1189340",
+    "titleFr": "La Défense Lincoln",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
+    "rating": 7.209,
+    "ts": "2026-07-15"
+  },
   "the-lion-king-3-hakuna-matata": {
     "tmdbId": 11430,
     "tmdbType": "movie",
@@ -7288,6 +7388,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
     "rating": 7.446,
     "ts": "2026-07-10"
+  },
+  "the-mummy-1999": {
+    "tmdbId": 564,
+    "tmdbType": "movie",
+    "imdbId": "tt0120616",
+    "titleFr": "La Momie",
+    "year": 1999,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
+    "rating": 6.984,
+    "ts": "2026-07-15"
   },
   "the-murder-of-rachel-nickell": {
     "tmdbId": 1693002,
@@ -7458,6 +7568,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
     "rating": 6,
     "ts": "2026-07-03"
+  },
+  "the-real-wolf-of-wall-street": {
+    "tmdbId": 313808,
+    "tmdbType": "tv",
+    "imdbId": "tt39399104",
+    "titleFr": "The Real Wolf of Wall Street",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9xuzQwRAqIpMGi4404BjYjjhxAn.jpg",
+    "rating": null,
+    "ts": "2026-07-15"
   },
   "the-requin": {
     "tmdbId": 803114,
@@ -8598,6 +8718,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
     "rating": 7.037,
     "ts": "2026-06-20"
+  },
+  "world-war-z": {
+    "tmdbId": 72190,
+    "tmdbType": "movie",
+    "imdbId": "tt0816711",
+    "titleFr": "World War Z",
+    "year": 2013,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
+    "rating": 6.843,
+    "ts": "2026-07-15"
   },
   "worldbreaker": {
     "tmdbId": 1196067,

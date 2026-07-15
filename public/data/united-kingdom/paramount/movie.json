@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 45,
+      "days": 46,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
       "rating": 5.821,
       "year": 2025,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 102,
+      "days": 103,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
       "rating": 7.302,
       "year": 2016,
-      "days": 23,
+      "days": 24,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt9603208",
-      "name": "Mission : Impossible - The Final Reckoning",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-      "rating": 7.169,
-      "year": 2025,
-      "days": 78,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt25602750",
       "name": "The Girl Who Escaped: The Kara Robinson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
       "rating": 7.111,
       "year": 2023,
-      "days": 399,
+      "days": 400,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt30057173",
       "name": "Bad Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rsw35jzgyFMPbYOJWVHcbYB0V0q.jpg",
       "rating": 5.511,
       "year": 2025,
-      "days": 57,
+      "days": 58,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1116184",
+      "name": "Jackass 3D",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8LXXIOjDFWPRScivHR8QSOPVAp.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": 15,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

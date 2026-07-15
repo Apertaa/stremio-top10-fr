@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "prime",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -45,19 +45,6 @@
     },
     {
       "rank": 4,
-      "id": "tt10541088",
-      "name": "Clarkson à la ferme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
-      "rating": 8.5,
-      "year": 2021,
-      "days": 41,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt14016500",
       "name": "L'Été où je suis devenue jolie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
@@ -65,12 +52,38 @@
       "year": 2022,
       "days": 363,
       "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt10541088",
+      "name": "Clarkson à la ferme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
+      "rating": 8.5,
+      "year": 2021,
+      "days": 41,
+      "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 6,
+      "id": "tt38960812",
+      "name": "À demain au bureau !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
+      "rating": 8.769,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt30460310",
       "name": "Spider-Noir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
@@ -78,12 +91,12 @@
       "year": 2026,
       "days": 48,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt1190634",
       "name": "The Boys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
@@ -91,12 +104,12 @@
       "year": 2019,
       "days": 97,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tmdb:327921",
       "name": "lil kleine : geen rem",
       "tmdbPosterUrl": null,
@@ -109,29 +122,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt38960812",
-      "name": "À demain au bureau !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
-      "rating": 8.769,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
       "rank": 10,
       "id": "tt36517689",
       "name": "THE GHOST IN THE SHELL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v6D7aBJynhY6opGugGJkofzknw6.jpg",
       "rating": 8.4,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

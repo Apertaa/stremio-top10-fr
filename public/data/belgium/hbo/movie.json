@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,36 +37,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
       "rating": 7.014,
       "year": 2022,
-      "days": 17,
+      "days": 18,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt11252248",
+      "name": "Dog",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
+      "rating": 7.289,
+      "year": 2022,
+      "days": 1,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt31728330",
       "name": "They Will Kill You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt11252248",
-      "name": "Dog",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
-      "rating": 7.289,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kx6ovgUw6xJFsScfNZvQIU6p52T.jpg",
       "rating": 6.238,
       "year": 1995,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
       "rating": 8.217,
       "year": 2009,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt15334488",
-      "name": "After - Chapitre 5",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dTokNCdBjiXMsNW84Lsj6JsmjRX.jpg",
-      "rating": 6.879,
-      "year": 2023,
-      "days": 28,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt0360486",
       "name": "Constantine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
       "rating": 7.179,
       "year": 2005,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1160419",
+      "name": "Dune - Première partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
+      "rating": 7.8,
+      "year": 2021,
+      "days": 14,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

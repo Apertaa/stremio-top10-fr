@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg",
       "rating": 7.5,
       "year": 2019,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,64 +45,64 @@
     },
     {
       "rank": 4,
-      "id": "tt13622956",
-      "name": "Zootopie+",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
+      "id": "tt10862280",
+      "name": "Spidey et ses amis extraordinaires",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3GAktESDOCOWUgxBdaWGUcyNgtf.jpg",
       "rating": 7.1,
-      "year": 2022,
-      "days": 46,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt36594331",
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "rating": 8.62,
-      "year": 2026,
-      "days": 86,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt38639981",
-      "name": "Le Titanic coule ce soir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt18923754",
-      "name": "Daredevil : Born Again",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
-      "rating": 8.183,
-      "year": 2025,
-      "days": 65,
+      "year": 2021,
+      "days": 116,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 8,
-      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
-      "name": "IMPACT x Nightline: The Girl in the Trunk",
-      "tmdbPosterUrl": null,
+      "rank": 5,
+      "id": "tt40367753",
+      "name": "Dancing with the Stars: The Next Pro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
       "rating": null,
-      "year": null,
-      "days": 17,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt13622956",
+      "name": "Zootopie+",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
+      "rating": 7.1,
+      "year": 2022,
+      "days": 47,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt36594331",
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "rating": 8.62,
+      "year": 2026,
+      "days": 87,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt38639981",
+      "name": "Le Titanic coule ce soir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": 10,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -110,25 +110,25 @@
     },
     {
       "rank": 9,
-      "id": "tt8111088",
-      "name": "The Mandalorian",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg",
-      "rating": 8.409,
-      "year": 2019,
-      "days": 63,
+      "id": "top10:impact-x-nightline-the-girl-in-the-trunk",
+      "name": "IMPACT x Nightline: The Girl in the Trunk",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 18,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt5675620",
-      "name": "Marvel's The Punisher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ioWV96X8lFnjO8PPAl6ayfZGjkM.jpg",
-      "rating": 8.148,
-      "year": 2017,
-      "days": 22,
+      "id": "tt5822112",
+      "name": "Rabbit Hole",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/by7ljojEuZlVt9a8SjFwwyFcLDK.jpg",
+      "rating": 7.095,
+      "year": 2023,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null

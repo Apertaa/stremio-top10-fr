@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,23 +37,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 69,
+      "days": 70,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt12731980",
-      "name": "Old Henry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
-      "rating": 7.254,
-      "year": 2021,
-      "days": 10,
+      "id": "tt10545296",
+      "name": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q4EDvPcf956FgakWwcXiWdQEgxU.jpg",
+      "rating": 6.976,
+      "year": 2023,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
       "rating": 6.95,
       "year": 2004,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,23 +89,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qLQ3svpMpwL6tFFtFPQ2aIq4ohg.jpg",
       "rating": null,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 12,
+      "id": "tt12731980",
+      "name": "Old Henry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+      "rating": 7.254,
+      "year": 2021,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 43,
+      "days": 45,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt2250912",
-      "name": "Spider-Man : Homecoming",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
-      "rating": 7.33,
+      "id": "tt3469046",
+      "name": "Moi, moche et méchant 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
+      "rating": 6.468,
       "year": 2017,
-      "days": 12,
+      "days": 35,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

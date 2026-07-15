@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "disney",
   "list": "series",
-  "date": "202607141701",
+  "date": "202607151704",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 40,
+      "days": 41,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gkd7njRdLo1EXGTPQVPPabDcGzx.jpg",
       "rating": 6.3,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,28 +84,28 @@
     },
     {
       "rank": 7,
-      "id": "tt42416598",
-      "name": "Abandoned",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt10970762",
       "name": "The Testaments",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 26,
+      "days": 27,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt42416598",
+      "name": "Abandoned",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 54,
+      "id": "tt5822112",
+      "name": "Rabbit Hole",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/by7ljojEuZlVt9a8SjFwwyFcLDK.jpg",
+      "rating": 7.095,
+      "year": 2023,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]
