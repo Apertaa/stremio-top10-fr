@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202607151704",
+  "date": "202607171658",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt38510825",
-      "name": "Nothing to Lose",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 7,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
+      "id": "tt38510825",
+      "name": "Nothing to Lose",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 14,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
       "year": 2026,
-      "days": 26,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,77 +58,77 @@
     },
     {
       "rank": 5,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt0206314",
       "name": "Une virée en enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mTCF22oxouNwX6jz2cV9c4eK3qM.jpg",
       "rating": 6.543,
       "year": 2001,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "tt33397980",
       "name": "Office Romance",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 39,
+      "days": 40,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt34888871",
       "name": "Little Brother",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt35892608",
       "name": "undertone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt18259086",
-      "name": "Sonic 3, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
-      "rating": 7.617,
-      "year": 2024,
-      "days": 14,
-      "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt32433627",
-      "name": "22 Bahnen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jZJ7KHymYEB7j455CieCirYW2Y5.jpg",
-      "rating": 6.426,
-      "year": 2025,
-      "days": 9,
+      "id": "tt39398878",
+      "name": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,42 +2,42 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607151704",
+  "date": "202607171658",
   "entries": [
     {
       "rank": 1,
-      "id": "tt32306991",
-      "name": "Solo Mio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "rating": 7.361,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt40387378",
-      "name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt32537226",
       "name": "Hunting Season",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 18,
+      "days": 20,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt32306991",
+      "name": "Solo Mio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "rating": 7.361,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt30908405",
+      "name": "The Last Rodeo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
+      "rating": 7.648,
+      "year": 2025,
+      "days": 13,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt30908405",
-      "name": "The Last Rodeo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
-      "rating": 7.648,
-      "year": 2025,
-      "days": 11,
+      "id": "tt40387378",
+      "name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLdaPOO8ggYAGPTIHSVgfF0FLAv.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
       "rating": 7.209,
       "year": 2011,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt38238651",
-      "name": "The Internship",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
-      "rating": 6.74,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt34471850",
       "name": "Protector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "rating": 8.551,
       "year": 2026,
-      "days": 11,
+      "days": 13,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt38238651",
+      "name": "The Internship",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
+      "rating": 6.74,
+      "year": 2026,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
       "rating": 5.2,
       "year": 2025,
-      "days": 12,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt36861174",
-      "name": "The Real Adolescence: Our Killer Kids",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyasYg4xhmmVfbsS96x4CCm6a30.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": 11,
+      "id": "tt32801387",
+      "name": "Thieves Highway",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/78B66xBCgmnh88d10B85uFjC88V.jpg",
+      "rating": 7.684,
+      "year": 2026,
+      "days": 82,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

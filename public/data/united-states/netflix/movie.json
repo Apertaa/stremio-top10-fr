@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607151704",
+  "date": "202607171658",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 70,
+      "days": 71,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,20 +50,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q4EDvPcf956FgakWwcXiWdQEgxU.jpg",
       "rating": 6.976,
       "year": 2023,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt0381707",
-      "name": "F.B.I. Fausses Blondes Infiltrées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
-      "rating": 6.95,
-      "year": 2004,
-      "days": 21,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 26,
+      "id": "tt0381707",
+      "name": "F.B.I. Fausses Blondes Infiltrées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
+      "rating": 6.95,
+      "year": 2004,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt35072306",
-      "name": "The Paradise Murders",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qLQ3svpMpwL6tFFtFPQ2aIq4ohg.jpg",
-      "rating": null,
-      "year": 2025,
-      "days": 5,
+      "id": "tt12731980",
+      "name": "Old Henry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+      "rating": 7.254,
+      "year": 2021,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,15 +97,15 @@
     },
     {
       "rank": 8,
-      "id": "tt12731980",
-      "name": "Old Henry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
-      "rating": 7.254,
-      "year": 2021,
-      "days": 11,
+      "id": "tt35072306",
+      "name": "The Paradise Murders",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qLQ3svpMpwL6tFFtFPQ2aIq4ohg.jpg",
+      "rating": null,
+      "year": 2025,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 45,
+      "days": 46,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
       "rating": 6.468,
       "year": 2017,
-      "days": 35,
+      "days": 37,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

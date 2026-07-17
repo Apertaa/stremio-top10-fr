@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607151704",
+  "date": "202607171658",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 117,
+      "days": 119,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 90,
+      "days": 92,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,59 +37,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 17,
+      "days": 19,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 4,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 143,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt3469050",
       "name": "90 jours pour se marier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 191,
+      "days": 193,
       "trend": {
-        "dir": "up",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt33014623",
-      "name": "Catastrophes naturelles : Survivre au pire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8dFicG5dMXI1PvzcH03SzSE3ukS.jpg",
-      "rating": 8.19,
-      "year": 2024,
-      "days": 57,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt42834589",
-      "name": "Le tournoi des 100 chefs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n1AMcuCgGgXSokKOmYJ5cv1k8n6.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 3,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 101,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 7,
-      "id": "tt13787288",
-      "name": "90 Day Diaries",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jargHc08uT0s159kS9r9497QcFB.jpg",
-      "rating": 6.5,
-      "year": 2021,
-      "days": 22,
+      "id": "tt36503976",
+      "name": "Castle Impossible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/263iMFN62eTC7lkrNnWo8V0XtP8.jpg",
+      "rating": 6,
+      "year": 2025,
+      "days": 5,
       "trend": {
         "dir": "new",
         "delta": null
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt42815500",
+      "name": "Little Singles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt32333081",
+      "name": "Influence mortelle : Réseaux assassins",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
+      "rating": 6.5,
+      "year": 2024,
+      "days": 37,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt29033873",
       "name": "The Man Will Burn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJNDYMa0bKdFwoHMc8WhIiH9Wqr.jpg",
       "rating": 1,
       "year": 2026,
-      "days": 4,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 99,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt32907596",
-      "name": "Bodies in the Water",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kdvK2OdTpUOs39Z0lvr9vKch9zP.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     }
   ]

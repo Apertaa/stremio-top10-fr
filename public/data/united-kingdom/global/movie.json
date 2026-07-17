@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "movie",
-  "date": "202607151704",
+  "date": "202607171658",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,51 +19,51 @@
     },
     {
       "rank": 2,
+      "id": "tt29268110",
+      "name": "Smile 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg",
+      "rating": 6.6,
+      "year": 2024,
+      "days": 1,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 1,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt1231583",
       "name": "Date Limite",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
       "rating": 6.397,
       "year": 2010,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt1598873",
-      "name": "Menace d'État",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aC7j9oGAlUtyHjrEuxX1jIIK8Ng.jpg",
-      "rating": 5.651,
-      "year": 2012,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt2544734",
-      "name": "Bullet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mNWVXBHNzoaUML9UXOGwE8Rp7FJ.jpg",
-      "rating": 4.296,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt0206314",
-      "name": "Une virée en enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mTCF22oxouNwX6jz2cV9c4eK3qM.jpg",
-      "rating": 6.543,
-      "year": 2001,
-      "days": 5,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 49,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt2582502",
-      "name": "Père & Fille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uB7DnbSeJZikTFoU8WnHR1ETdCv.jpg",
-      "rating": 7.143,
-      "year": 2015,
-      "days": 6,
+      "id": "tt7634968",
+      "name": "Ce que veulent les hommes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
+      "rating": 6.208,
+      "year": 2019,
+      "days": 1,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 48,
+      "id": "tt1598873",
+      "name": "Menace d'État",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aC7j9oGAlUtyHjrEuxX1jIIK8Ng.jpg",
+      "rating": 5.651,
+      "year": 2012,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 26,
+      "id": "tt2544734",
+      "name": "Bullet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mNWVXBHNzoaUML9UXOGwE8Rp7FJ.jpg",
+      "rating": 4.296,
+      "year": 2014,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt39632269",
-      "name": "Ikka : L'atout maître",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qGKtITjPzptQluAtVpwXBQUeT.jpg",
-      "rating": 6.1,
-      "year": 2026,
-      "days": 5,
+      "id": "tt2582502",
+      "name": "Père & Fille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uB7DnbSeJZikTFoU8WnHR1ETdCv.jpg",
+      "rating": 7.143,
+      "year": 2015,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

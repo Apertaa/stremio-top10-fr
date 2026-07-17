@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-17",
   "countries": [
     {
       "slug": "france",
@@ -67,36 +67,12 @@
     }
   ],
   "combos": {
-    "belgium": {
-      "apple": [
-        "movie",
-        "series"
-      ],
-      "netflix": [
-        "movie",
-        "series",
-        "kids-movie",
-        "kids-series"
-      ],
-      "disney": [
-        "movie",
-        "series"
-      ],
-      "global": [
-        "movie",
-        "series"
-      ],
-      "hbo": [
-        "movie",
-        "series"
-      ],
-      "prime": [
-        "movie",
-        "series"
-      ]
-    },
     "switzerland": {
-      "apple": [
+      "disney": [
+        "movie",
+        "series"
+      ],
+      "global": [
         "movie",
         "series"
       ],
@@ -106,11 +82,11 @@
         "kids-movie",
         "kids-series"
       ],
-      "disney": [
+      "prime": [
         "movie",
         "series"
       ],
-      "global": [
+      "paramount": [
         "movie",
         "series"
       ],
@@ -118,45 +94,17 @@
         "movie",
         "series"
       ],
-      "paramount": [
-        "movie",
-        "series"
-      ],
-      "prime": [
-        "movie",
-        "series"
-      ]
-    },
-    "canada": {
       "apple": [
-        "movie",
-        "series"
-      ],
-      "netflix": [
-        "movie",
-        "series",
-        "kids-movie",
-        "kids-series"
-      ],
-      "disney": [
-        "movie",
-        "series"
-      ],
-      "global": [
-        "movie",
-        "series"
-      ],
-      "paramount": [
-        "movie",
-        "series"
-      ],
-      "prime": [
         "movie",
         "series"
       ]
     },
     "united-states": {
-      "apple": [
+      "disney": [
+        "movie",
+        "series"
+      ],
+      "global": [
         "movie",
         "series"
       ],
@@ -166,15 +114,7 @@
         "kids-movie",
         "kids-series"
       ],
-      "disney": [
-        "movie",
-        "series"
-      ],
-      "global": [
-        "movie",
-        "series"
-      ],
-      "hbo": [
+      "prime": [
         "movie",
         "series"
       ],
@@ -182,13 +122,21 @@
         "movie",
         "series"
       ],
-      "prime": [
+      "hbo": [
+        "movie",
+        "series"
+      ],
+      "apple": [
         "movie",
         "series"
       ]
     },
-    "united-kingdom": {
-      "apple": [
+    "canada": {
+      "disney": [
+        "movie",
+        "series"
+      ],
+      "global": [
         "movie",
         "series"
       ],
@@ -198,15 +146,7 @@
         "kids-movie",
         "kids-series"
       ],
-      "disney": [
-        "movie",
-        "series"
-      ],
-      "global": [
-        "movie",
-        "series"
-      ],
-      "hbo": [
+      "prime": [
         "movie",
         "series"
       ],
@@ -214,12 +154,38 @@
         "movie",
         "series"
       ],
-      "prime": [
+      "apple": [
         "movie",
         "series"
       ]
     },
     "france": {
+      "disney": [
+        "movie",
+        "series"
+      ],
+      "global": [
+        "movie",
+        "series"
+      ],
+      "netflix": [
+        "movie",
+        "series",
+        "kids-movie",
+        "kids-series"
+      ],
+      "prime": [
+        "movie",
+        "series"
+      ],
+      "paramount": [
+        "movie",
+        "series"
+      ],
+      "hbo": [
+        "movie",
+        "series"
+      ],
       "apple": [
         "movie",
         "series"
@@ -227,13 +193,9 @@
       "canal": [
         "movie",
         "series"
-      ],
-      "netflix": [
-        "movie",
-        "series",
-        "kids-movie",
-        "kids-series"
-      ],
+      ]
+    },
+    "belgium": {
       "disney": [
         "movie",
         "series"
@@ -242,7 +204,41 @@
         "movie",
         "series"
       ],
+      "netflix": [
+        "movie",
+        "series",
+        "kids-movie",
+        "kids-series"
+      ],
+      "prime": [
+        "movie",
+        "series"
+      ],
       "hbo": [
+        "movie",
+        "series"
+      ],
+      "apple": [
+        "movie",
+        "series"
+      ]
+    },
+    "united-kingdom": {
+      "disney": [
+        "movie",
+        "series"
+      ],
+      "global": [
+        "movie",
+        "series"
+      ],
+      "netflix": [
+        "movie",
+        "series",
+        "kids-movie",
+        "kids-series"
+      ],
+      "prime": [
         "movie",
         "series"
       ],
@@ -250,7 +246,11 @@
         "movie",
         "series"
       ],
-      "prime": [
+      "hbo": [
+        "movie",
+        "series"
+      ],
+      "apple": [
         "movie",
         "series"
       ]

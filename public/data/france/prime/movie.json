@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607151704",
+  "date": "202607171658",
   "entries": [
     {
       "rank": 1,
@@ -11,19 +11,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
       "rating": 8.063,
       "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt42483037",
-      "name": "Marave",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
-      "rating": 5.7,
-      "year": 2026,
       "days": 6,
       "trend": {
         "dir": "same",
@@ -31,38 +18,25 @@
       }
     },
     {
-      "rank": 3,
-      "id": "tt10078772",
-      "name": "Vol à haut risque",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
-      "rating": 5.9,
-      "year": 2025,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
+      "rank": 2,
+      "id": "tt36935050",
+      "name": "More Than a Kiss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tGEJipReupfLc8yDHAUKqmqV6LE.jpg",
+      "rating": 7.57,
       "year": 2026,
-      "days": 26,
+      "days": 1,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 5
       }
     },
     {
-      "rank": 5,
-      "id": "tt7888964",
-      "name": "Nobody",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
-      "rating": 7.875,
-      "year": 2021,
+      "rank": 3,
+      "id": "tt42483037",
+      "name": "Marave",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
+      "rating": 5.7,
+      "year": 2026,
       "days": 8,
       "trend": {
         "dir": "down",
@@ -70,68 +44,94 @@
       }
     },
     {
+      "rank": 4,
+      "id": "tt10078772",
+      "name": "Vol à haut risque",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
+      "rating": 5.9,
+      "year": 2025,
+      "days": 13,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32357218",
+      "name": "Shelter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
+      "rating": 7.669,
+      "year": 2026,
+      "days": 28,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 6,
+      "id": "tt7888964",
+      "name": "Nobody",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
+      "rating": 7.875,
+      "year": 2021,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt36958376",
       "name": "À contre-sens 2 : Londres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 27,
+      "days": 29,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt37506041",
-      "name": "Predator: Wastelands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
-      "rating": 5.294,
-      "year": 2025,
-      "days": 13,
-      "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
+      "id": "tt3531202",
+      "name": "Last Crusade : Les Gardiens de la relique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5O4683kpATPAQPfo39chvmvZFC.jpg",
+      "rating": 5.993,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt1840309",
       "name": "Divergente",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
       "rating": 6.905,
       "year": 2014,
-      "days": 7,
+      "days": 9,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt36963493",
       "name": "Une famille de bâtards",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
       "rating": 5.257,
       "year": 2026,
-      "days": 31,
+      "days": 33,
       "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt33479805",
-      "name": "Killer Whale",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
-      "rating": 5.665,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]
