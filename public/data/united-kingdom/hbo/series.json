@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
       "rating": 8.746,
       "year": 2025,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
-      "id": "tt38448408",
-      "name": "The Killings at Parrish Station",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
-      "rating": 5.667,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt37543147",
       "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 18,
+      "days": 19,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt38448408",
+      "name": "The Killings at Parrish Station",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
+      "rating": 5.667,
+      "year": 2026,
+      "days": 19,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt6078096",
-      "name": "High Maintenance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qmYqwOW0QTkJy1UGUsM2t0Kowpu.jpg",
-      "rating": 6.933,
-      "year": 2016,
-      "days": 1,
+      "id": "tt41050785",
+      "name": "Proud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+      "rating": 4.7,
+      "year": 2026,
+      "days": 14,
       "trend": {
         "dir": "new",
         "delta": null
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tmdb:323168",
-      "name": "Unacceptable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oNc61x7EdWVLZZXcGhWaZvWGLlF.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt28013708",
       "name": "Task",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDpbYGDRx98OXlXyPJMtGftQJaS.jpg",
       "rating": 6.906,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt0292800",
       "name": "Billy et Mandy, aventuriers de l'au-delà",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
       "rating": 8.1,
       "year": 2001,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt6078096",
+      "name": "High Maintenance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qmYqwOW0QTkJy1UGUsM2t0Kowpu.jpg",
+      "rating": 6.933,
+      "year": 2016,
       "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 10,
-      "id": "tt3469050",
-      "name": "90 jours pour se marier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
-      "rating": 7.1,
-      "year": 2014,
-      "days": 7,
+      "id": "tmdb:323168",
+      "name": "Unacceptable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oNc61x7EdWVLZZXcGhWaZvWGLlF.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 9,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

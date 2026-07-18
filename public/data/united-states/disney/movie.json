@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
       "rating": 7.006,
       "year": 2024,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
       "rating": null,
       "year": 2026,
-      "days": 133,
+      "days": 134,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mnwmqcbjbP9Pu9S74GJxFuE1OUJ.jpg",
       "rating": null,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,62 +63,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
       "rating": 7.933,
       "year": 2021,
-      "days": 60,
+      "days": 61,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt34477910",
+      "name": "Descendants : La Malédiction du Pays des Merveilles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg",
+      "rating": 6.75,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt6320628",
       "name": "Spider-Man : Far From Home",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
       "rating": 7.4,
       "year": 2019,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt2250912",
       "name": "Spider-Man : Homecoming",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
       "rating": 7.33,
       "year": 2017,
-      "days": 60,
+      "days": 61,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt26443616",
       "name": "Jumpers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
       "rating": 8.181,
       "year": 2026,
-      "days": 39,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "top10:dancing-with-the-stars-the-pros-most-memorable-moments",
-      "name": "Dancing with the Stars: The Pros&#39; Most Memorable Moments",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 1,
+      "days": 40,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A0tw88n1byyR2vodhJMlFPQGQgF.jpg",
       "rating": 7.275,
       "year": 2015,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

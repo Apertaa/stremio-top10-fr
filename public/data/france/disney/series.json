@@ -2,7 +2,7 @@
   "country": "france",
   "key": "disney",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,59 +50,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 11,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 23,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0460649",
-      "name": "How I Met Your Mother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
-      "rating": 8.129,
-      "year": 2005,
-      "days": 15,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 7,
-      "id": "tt0096697",
-      "name": "Les Simpson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
-      "rating": 8.019,
-      "year": 1989,
-      "days": 130,
+      "rank": 5,
+      "id": "tt42027958",
+      "name": "The Cult of NatureBoy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9I5vN4vTEA8NWjr9J6iVrFnqo99.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "up",
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1865718",
+      "name": "Souvenirs de Gravity Falls",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2b7zIe5BHkaM4SzppCS6MyZX1T.jpg",
+      "rating": 8.615,
+      "year": 2012,
+      "days": 3,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0460649",
+      "name": "How I Met Your Mother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
+      "rating": 8.129,
+      "year": 2005,
+      "days": 16,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt1442437",
-      "name": "Modern Family",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "rating": 7.913,
-      "year": 2009,
-      "days": 124,
+      "id": "tt0096697",
+      "name": "Les Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
+      "rating": 8.019,
+      "year": 1989,
+      "days": 131,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt1442437",
+      "name": "Modern Family",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "rating": 7.913,
+      "year": 2009,
+      "days": 125,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt32328599",
       "name": "Les petites histoires de Bluey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
       "rating": 8.256,
       "year": 2024,
-      "days": 26,
+      "days": 27,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt13622956",
-      "name": "Zootopie+",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
-      "rating": 7.1,
-      "year": 2022,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

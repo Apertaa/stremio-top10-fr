@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607151704",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 1,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 94,
+      "days": 97,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 793,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 896,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcoDTpylduKBQMkwCUwybXUyILc.jpg",
       "rating": 7.9,
       "year": 2016,
-      "days": 859,
+      "days": 862,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
       "rating": 6,
       "year": 2017,
-      "days": 909,
+      "days": 912,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,25 +71,25 @@
     },
     {
       "rank": 6,
-      "id": "tt0426769",
-      "name": "Peppa Pig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "rating": 6.6,
-      "year": 2004,
-      "days": 816,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 796,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 7,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 893,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 102,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 99,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 819,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 778,
+      "days": 781,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9LFlpS1Ei9AJEPr1RmLirkv1yS.jpg",
       "rating": 6.4,
       "year": 2004,
-      "days": 734,
+      "days": 737,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
       "rating": 6.241,
       "year": 2025,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
       "rating": 7.765,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt0250494",
-      "name": "La Revanche d'une blonde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
-      "rating": 6.817,
-      "year": 2001,
-      "days": 15,
+      "id": "tt12930350",
+      "name": "Mon espion : La Cité éternelle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybtAclsqaSYYWWHu3lFfxwiYAyc.jpg",
+      "rating": 6.541,
+      "year": 2024,
+      "days": 40,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt12930350",
-      "name": "Mon espion : La Cité éternelle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybtAclsqaSYYWWHu3lFfxwiYAyc.jpg",
-      "rating": 6.541,
-      "year": 2024,
-      "days": 39,
+      "id": "tt0250494",
+      "name": "La Revanche d'une blonde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
+      "rating": 6.817,
+      "year": 2001,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
+      "id": "tt32357218",
+      "name": "Shelter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
+      "rating": 7.669,
+      "year": 2026,
+      "days": 42,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt9308022",
       "name": "Permis de Conduire",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 19,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt14264694",
-      "name": "Worldbreaker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
-      "rating": 6.1,
-      "year": 2025,
-      "days": 27,
+      "days": 20,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
-      "year": 2026,
-      "days": 41,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0232500",
       "name": "Fast and Furious",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gsW9S3K6oBLKVMMLuSvKwEPOKHc.jpg",
       "rating": 7.008,
       "year": 2001,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt14264694",
+      "name": "Worldbreaker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+      "rating": 6.1,
+      "year": 2025,
+      "days": 28,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

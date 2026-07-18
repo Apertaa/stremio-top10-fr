@@ -2,16 +2,16 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "movie",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 6,
+      "id": "tt27534307",
+      "name": "Speak No Evil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
+      "rating": 7.118,
+      "year": 2024,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,37 +19,37 @@
     },
     {
       "rank": 2,
-      "id": "tt29268110",
-      "name": "Smile 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg",
-      "rating": 6.6,
-      "year": 2024,
-      "days": 1,
+      "id": "tt36619926",
+      "name": "Heartstopper Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "rating": 5.485,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 3,
-      "id": "tt7657566",
-      "name": "Mort sur le Nil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
-      "rating": 6.41,
-      "year": 2022,
-      "days": 1,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt1231583",
-      "name": "Date Limite",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
-      "rating": 6.397,
-      "year": 2010,
+      "id": "tt7634968",
+      "name": "Ce que veulent les hommes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
+      "rating": 6.208,
+      "year": 2019,
       "days": 3,
       "trend": {
         "dir": "same",
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
+      "id": "tt29268110",
+      "name": "Smile 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg",
+      "rating": 6.6,
+      "year": 2024,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1231583",
+      "name": "Date Limite",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
+      "rating": 6.397,
+      "year": 2010,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt7510222",
       "name": "Moi, moche et méchant 4",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 49,
+      "days": 51,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt7634968",
-      "name": "Ce que veulent les hommes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
-      "rating": 6.208,
-      "year": 2019,
-      "days": 1,
+      "rank": 9,
+      "id": "tt41617470",
+      "name": "Le Désir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "rating": 6.077,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 7,
+      "rank": 10,
       "id": "tt32278481",
       "name": "Enola Holmes 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 15,
+      "days": 17,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt1598873",
-      "name": "Menace d'État",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aC7j9oGAlUtyHjrEuxX1jIIK8Ng.jpg",
-      "rating": 5.651,
-      "year": 2012,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt2544734",
-      "name": "Bullet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mNWVXBHNzoaUML9UXOGwE8Rp7FJ.jpg",
-      "rating": 4.296,
-      "year": 2014,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt2582502",
-      "name": "Père & Fille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uB7DnbSeJZikTFoU8WnHR1ETdCv.jpg",
-      "rating": 7.143,
-      "year": 2015,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

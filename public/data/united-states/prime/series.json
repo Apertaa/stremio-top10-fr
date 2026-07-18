@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 64,
+      "days": 65,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,49 +50,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 36,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt39163341",
-      "name": "Murder 101",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt30460310",
-      "name": "Spider-Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "rating": 8.528,
-      "year": 2026,
-      "days": 50,
+      "days": 37,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 7,
-      "id": "tt35346717",
-      "name": "Béryl : De paysan à maître d'armes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sunvA4HJbblDhgMH5I2StrF9wki.jpg",
-      "rating": 7.2,
-      "year": 2025,
-      "days": 1,
+      "rank": 5,
+      "id": "tt30460310",
+      "name": "Spider-Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "rating": 8.528,
+      "year": 2026,
+      "days": 51,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt39163341",
+      "name": "Murder 101",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt14016500",
+      "name": "L'Été où je suis devenue jolie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
+      "rating": 8.1,
+      "year": 2022,
+      "days": 278,
+      "trend": {
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 99,
+      "days": 100,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt14016500",
-      "name": "L'Été où je suis devenue jolie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 277,
+      "rank": 10,
+      "id": "tt10541088",
+      "name": "Clarkson à la ferme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
+      "rating": 8.5,
+      "year": 2021,
+      "days": 42,
       "trend": {
         "dir": "new",
         "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 2,
-      "trend": {
-        "dir": "down",
-        "delta": 3
       }
     }
   ]

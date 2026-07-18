@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 145,
+      "days": 146,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,54 +32,54 @@
     },
     {
       "rank": 3,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt32264653",
-      "name": "The Iris Affair",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
-      "rating": 6.4,
-      "year": 2025,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt41050785",
       "name": "Proud",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
       "id": "tt34988203",
       "name": "Il était deux fois",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i7FV4FGChmjNtjmMR2yTqJTTdQS.jpg",
       "rating": 7.95,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32264653",
+      "name": "The Iris Affair",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
+      "rating": 6.4,
+      "year": 2025,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
+      "year": 2026,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDpbYGDRx98OXlXyPJMtGftQJaS.jpg",
       "rating": 6.906,
       "year": 2025,
-      "days": 86,
+      "days": 87,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zYuNNfX1knlqapzNgOrpG6BkVea.jpg",
       "rating": 6.856,
       "year": 2026,
-      "days": 58,
+      "days": 59,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt0292800",
-      "name": "Billy et Mandy, aventuriers de l'au-delà",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
-      "rating": 8.1,
-      "year": 2001,
-      "days": 2,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt11198330",
       "name": "House of the Dragon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 16,
+      "days": 17,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0292800",
+      "name": "Billy et Mandy, aventuriers de l'au-delà",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
+      "rating": 8.1,
+      "year": 2001,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     }
   ]

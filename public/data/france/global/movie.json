@@ -2,136 +2,136 @@
   "country": "france",
   "key": "global",
   "list": "movie",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
+      "id": "tt41617470",
+      "name": "Le Désir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "rating": 6.077,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt14827638",
       "name": "Une Retraite d'Enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f5gKcfHdJUCxnsRkMXiIXNjUHO3.jpg",
       "rating": 5.868,
       "year": 2023,
-      "days": 1,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt38510825",
-      "name": "Nothing to Lose",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt7657566",
-      "name": "Mort sur le Nil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
-      "rating": 6.41,
-      "year": 2022,
-      "days": 1,
+      "id": "tt0011647",
+      "name": "The Round-Up",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO64BazlAfICCJvPdaHZCOXz6GI.jpg",
+      "rating": 6.333,
+      "year": 1920,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
+      "id": "tt36619926",
+      "name": "Heartstopper Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "rating": 5.485,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt34208307",
+      "name": "Rapide",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/edOjhDSXL9eVqVWZznn8s8EVsgi.jpg",
+      "rating": 6,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1699231",
+      "name": "En quarantaine 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h7MGGHKY6fQez4FBHYNAQGxdOv0.jpg",
+      "rating": 5.7,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 27,
+      "days": 29,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
-      "rank": 5,
-      "id": "tt9777790",
-      "name": "C'est quoi cette mamie ?!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vjSChjX7pEsazduXnwQCZJOKpt.jpg",
-      "rating": 5.819,
-      "year": 2019,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
+      "rank": 8,
+      "id": "tt38510825",
+      "name": "Nothing to Lose",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 6,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt0840361",
       "name": "The Town",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
       "rating": 7.225,
       "year": 2010,
-      "days": 3,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1231583",
-      "name": "Date Limite",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
-      "rating": 6.397,
-      "year": 2010,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt35661599",
-      "name": "Les Condés",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qt9zPUPjLJwNsBipzcLaddXYys1.jpg",
-      "rating": 4.132,
-      "year": 2025,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

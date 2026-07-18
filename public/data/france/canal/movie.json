@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 5,
+      "days": 7,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
       "rating": 5.876,
       "year": 2025,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vtZn6G9Iah5gGfdrjm7aqZMsKfG.jpg",
       "rating": 7.234,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oCakNGooFW6WCQnVISBUuSRkaYw.jpg",
       "rating": 6.808,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt14107334",
+      "name": "Running Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
+      "rating": 6.78,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

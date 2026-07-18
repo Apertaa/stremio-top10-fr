@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
       "rating": null,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3GAktESDOCOWUgxBdaWGUcyNgtf.jpg",
       "rating": 7.1,
       "year": 2021,
-      "days": 118,
+      "days": 119,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt18453672",
-      "name": "Theme Song Takeover",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg",
-      "rating": 7.5,
-      "year": 2019,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt18453672",
+      "name": "Theme Song Takeover",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg",
+      "rating": 7.5,
+      "year": 2019,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
       "rating": 8.62,
       "year": 2026,
-      "days": 89,
+      "days": 90,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FRLS7djfq1yue4Qal4mI9TF1X3.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": 49,
+      "days": 50,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt18923754",
-      "name": "Daredevil : Born Again",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7UMmvMvhSw1jBgdz0NzLo9pa93g.jpg",
-      "rating": 8.183,
-      "year": 2025,
-      "days": 67,
+      "id": "top10:the-2026-espys",
+      "name": "The 2026 ESPYS",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

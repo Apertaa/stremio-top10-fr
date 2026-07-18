@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 119,
+      "days": 120,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 92,
+      "days": 93,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,62 +37,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 19,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt34881067",
-      "name": "Baylen Out Loud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 143,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt3469050",
-      "name": "90 jours pour se marier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
-      "rating": 7.1,
-      "year": 2014,
-      "days": 193,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 4,
+      "id": "tt29033873",
+      "name": "The Man Will Burn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJNDYMa0bKdFwoHMc8WhIiH9Wqr.jpg",
+      "rating": 1,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 6
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 144,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 6,
+      "id": "tt3469050",
+      "name": "90 jours pour se marier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
+      "rating": 7.1,
+      "year": 2014,
+      "days": 194,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt28304310",
       "name": "90 Day: The Last Resort",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
       "rating": 6.4,
       "year": 2023,
-      "days": 101,
+      "days": 102,
       "trend": {
         "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt36503976",
-      "name": "Castle Impossible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/263iMFN62eTC7lkrNnWo8V0XtP8.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": 5,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47sU4NFcLZFXC2QTRuiyhgmgSZh.jpg",
       "rating": 6.5,
       "year": 2024,
-      "days": 37,
+      "days": 38,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt29033873",
-      "name": "The Man Will Burn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJNDYMa0bKdFwoHMc8WhIiH9Wqr.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 6,
+      "id": "tt4305162",
+      "name": "Josh Gates et les trésors perdus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zX85VyEFuqttwUZBo1nGS6sHXbR.jpg",
+      "rating": 8.021,
+      "year": 2015,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

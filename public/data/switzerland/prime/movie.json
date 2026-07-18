@@ -2,32 +2,32 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
-      "id": "tt38235625",
-      "name": "Boulevard",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
-      "rating": 8.063,
-      "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt12042730",
       "name": "Projet Dernière Chance",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt38235625",
+      "name": "Boulevard",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
+      "rating": 8.063,
+      "year": 2026,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,15 +45,15 @@
     },
     {
       "rank": 4,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 22,
+      "id": "tt36153493",
+      "name": "Wildcat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "rating": 6.184,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
       "rating": 6.886,
       "year": 2022,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt21478426",
-      "name": "Life After Fighting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcf965PrbcIjFO6n3IIrSv09thh.jpg",
-      "rating": 7.294,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
       "year": 2026,
-      "days": 56,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt33311244",
-      "name": "À contre-sens 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
-      "rating": 7.374,
-      "year": 2025,
-      "days": 215,
+      "days": 23,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "id": "tt32434379",
       "name": "À contre-sens : Londres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 830,
+      "days": 831,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 2
       }
     },
     {
-      "rank": 10,
-      "id": "tt0250494",
-      "name": "La Revanche d'une blonde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
-      "rating": 6.817,
-      "year": 2001,
-      "days": 12,
+      "rank": 8,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 57,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt21478426",
+      "name": "Life After Fighting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcf965PrbcIjFO6n3IIrSv09thh.jpg",
+      "rating": 7.294,
+      "year": 2024,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt33311244",
+      "name": "À contre-sens 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
+      "rating": 7.374,
+      "year": 2025,
+      "days": 216,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

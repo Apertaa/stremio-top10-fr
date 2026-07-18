@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 828,
+      "days": 829,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 61,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 261,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 260,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 62,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 435,
+      "days": 436,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 35,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt0165581",
-      "name": "Un gars du Queens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
-      "rating": 7.1,
-      "year": 1998,
-      "days": 835,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "rating": 8.3,
       "year": 2022,
-      "days": 677,
+      "days": 678,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0165581",
+      "name": "Un gars du Queens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+      "rating": 7.1,
+      "year": 1998,
+      "days": 836,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 470,
+      "days": 471,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt0092455",
-      "name": "Star Trek : La Nouvelle Génération",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6SCYWrBsB2MSSvESNPyXcxNCbkg.jpg",
-      "rating": 8.37,
-      "year": 1987,
-      "days": 217,
+      "id": "tt36849871",
+      "name": "Marshals: A Yellowstone Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
+      "rating": 7.956,
+      "year": 2026,
+      "days": 71,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
       "rating": 7.781,
       "year": 1995,
-      "days": 293,
+      "days": 294,
       "trend": {
         "dir": "same",
         "delta": 0

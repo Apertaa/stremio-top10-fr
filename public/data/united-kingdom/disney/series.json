@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "series",
-  "date": "202607171658",
+  "date": "202607181643",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9I5vN4vTEA8NWjr9J6iVrFnqo99.jpg",
       "rating": 8.5,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,46 +37,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 14,
-      "trend": {
-        "dir": "up",
-        "delta": 6
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt35728748",
       "name": "Alice et Steve",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 37,
+      "days": 38,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 15,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt40367753",
-      "name": "Dancing with the Stars: The Next Pro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 1,
+      "id": "tt21906238",
+      "name": "Rivals",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
+      "rating": 7.4,
+      "year": 2024,
+      "days": 72,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
+      "id": "tt40367753",
+      "name": "Dancing with the Stars: The Next Pro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt43138820",
       "name": "Million Dollar Nannies",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 27,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt21906238",
-      "name": "Rivals",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
-      "rating": 7.4,
-      "year": 2024,
-      "days": 71,
+      "days": 28,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 9,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
+      "year": 2022,
+      "days": 18,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt35617850",
       "name": "Fox Hollow: Le repaire du tueur",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gkd7njRdLo1EXGTPQVPPabDcGzx.jpg",
       "rating": 6.3,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt37094589",
-      "name": "Ms. X",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
-      "rating": 3.7,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "down",
-        "delta": 6
+        "delta": 1
       }
     }
   ]
