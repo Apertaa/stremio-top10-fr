@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "movie",
-  "date": "202607181643",
+  "date": "202607191643",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
       "rating": 7.118,
       "year": 2024,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,59 +24,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
       "rating": 5.485,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt7634968",
-      "name": "Ce que veulent les hommes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
-      "rating": 6.208,
-      "year": 2019,
-      "days": 3,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 3,
+      "id": "tt7634968",
+      "name": "Ce que veulent les hommes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
+      "rating": 6.208,
+      "year": 2019,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 5,
+      "id": "tt41617470",
+      "name": "Le Désir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "rating": 6.077,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt29268110",
       "name": "Smile 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg",
       "rating": 6.6,
       "year": 2024,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt1231583",
-      "name": "Date Limite",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
-      "rating": 6.397,
-      "year": 2010,
-      "days": 5,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
       "rating": 6.41,
       "year": 2022,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,19 +102,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 51,
+      "days": 52,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt41617470",
-      "name": "Le Désir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
-      "rating": 6.077,
-      "year": 2026,
+      "id": "tt11858890",
+      "name": "The Creator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
+      "rating": 7.036,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "new",
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 17,
+      "id": "tt1231583",
+      "name": "Date Limite",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
+      "rating": 6.397,
+      "year": 2010,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 4
       }
     }
   ]

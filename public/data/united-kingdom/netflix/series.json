@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "series",
-  "date": "202607181643",
+  "date": "202607191643",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,27 +24,14 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
       "rating": 3.962,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt43491766",
       "name": "The Rest Is Football",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
@@ -57,16 +44,29 @@
       }
     },
     {
+      "rank": 4,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 5,
       "id": "tt10714820",
       "name": "Pour Marnie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sH8muEErS4ATV8bNS7EzYGLNmy8.jpg",
       "rating": 6.6,
       "year": 2023,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,19 +76,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt32598408",
-      "name": "En chute libre : un complot meurtrier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N9hGrDMo8MKD0CRYTeyKbJwjAj.jpg",
-      "rating": 7.7,
-      "year": 2024,
       "days": 18,
       "trend": {
         "dir": "same",
@@ -96,28 +83,41 @@
       }
     },
     {
-      "rank": 8,
-      "id": "tt14824792",
-      "name": "ted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
-      "rating": 7.956,
-      "year": 2024,
-      "days": 17,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "id": "tt41672842",
       "name": "Salish & Jordan Matter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 55,
+      "days": 56,
       "trend": {
         "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt32598408",
+      "name": "En chute libre : un complot meurtrier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N9hGrDMo8MKD0CRYTeyKbJwjAj.jpg",
+      "rating": 7.7,
+      "year": 2024,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt14824792",
+      "name": "ted",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+      "rating": 7.956,
+      "year": 2024,
+      "days": 18,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
       "rating": 8.552,
       "year": 2018,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

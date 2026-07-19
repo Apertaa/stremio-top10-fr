@@ -2,42 +2,42 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202607181643",
+  "date": "202607191643",
   "entries": [
     {
       "rank": 1,
+      "id": "tt41617470",
+      "name": "Le Désir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "rating": 6.077,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt43595399",
       "name": "La dérive : Cauchemar en mer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt36364892",
       "name": "Mon père, un meurtrier ?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
       "rating": 5,
       "year": 2025,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 73,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,38 +45,38 @@
     },
     {
       "rank": 4,
-      "id": "tt38510825",
-      "name": "Nothing to Lose",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 7,
+      "id": "tt1392170",
+      "name": "Hunger Games",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
+      "rating": 7.224,
+      "year": 2012,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
       "rank": 5,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 74,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt10545296",
       "name": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q4EDvPcf956FgakWwcXiWdQEgxU.jpg",
       "rating": 6.976,
       "year": 2023,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 29,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt0381707",
-      "name": "F.B.I. Fausses Blondes Infiltrées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
-      "rating": 6.95,
-      "year": 2004,
-      "days": 24,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt41983440",
+      "name": "23 000 vies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+      "rating": 2.909,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt5113044",
       "name": "Les Minions 2 : Il était une fois Gru",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 48,
+      "days": 49,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt12731980",
-      "name": "Old Henry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
-      "rating": 7.254,
-      "year": 2021,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt3469046",
-      "name": "Moi, moche et méchant 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
-      "rating": 6.468,
-      "year": 2017,
-      "days": 39,
+      "id": "tt0381707",
+      "name": "F.B.I. Fausses Blondes Infiltrées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
+      "rating": 6.95,
+      "year": 2004,
+      "days": 25,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

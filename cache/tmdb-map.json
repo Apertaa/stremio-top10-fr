@@ -149,6 +149,16 @@
     "rating": 6.4,
     "ts": "2026-06-20"
   },
+  "911-did-the-killer-call": {
+    "tmdbId": 296219,
+    "tmdbType": "tv",
+    "imdbId": "tt37724480",
+    "titleFr": "911: Did the Killer Call?",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/udWs6ermyg8Cxba2fpNrNTNYyaK.jpg",
+    "rating": 9,
+    "ts": "2026-07-19"
+  },
   "a-dangerous-son": {
     "tmdbId": 522773,
     "tmdbType": "movie",
@@ -708,6 +718,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
     "rating": 8.7,
     "ts": "2026-06-20"
+  },
+  "baymax": {
+    "tmdbId": 114466,
+    "tmdbType": "tv",
+    "imdbId": "tt13622958",
+    "titleFr": "Baymax !",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg",
+    "rating": 7.5,
+    "ts": "2026-07-19"
   },
   "bbq-brawl": {
     "tmdbId": 91771,
@@ -1409,6 +1429,16 @@
     "rating": 6.587,
     "ts": "2026-06-19"
   },
+  "cross-2024": {
+    "tmdbId": 213306,
+    "tmdbType": "tv",
+    "imdbId": "tt11794812",
+    "titleFr": "Cross",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rKzAyLeXAig5VSotQm1nVRF5Ms8.jpg",
+    "rating": 7.015,
+    "ts": "2026-07-19"
+  },
   "csi-crime-scene-investigation": {
     "tmdbId": 1431,
     "tmdbType": "tv",
@@ -1609,6 +1639,26 @@
     "rating": 6.58,
     "ts": "2026-06-19"
   },
+  "descendants": {
+    "tmdbId": 277217,
+    "tmdbType": "movie",
+    "imdbId": "tt3440298",
+    "titleFr": "Descendants",
+    "year": 2015,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+    "rating": 7.172,
+    "ts": "2026-07-19"
+  },
+  "descendants-the-rise-of-red": {
+    "tmdbId": 974262,
+    "tmdbType": "movie",
+    "imdbId": "tt20202136",
+    "titleFr": "Descendants : L’Ascension de Red",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dMi80nBfxVBj7EfoixdabEOHxqj.jpg",
+    "rating": 6.744,
+    "ts": "2026-07-19"
+  },
   "descendants-wicked-wonderland": {
     "tmdbId": 1318621,
     "tmdbType": "movie",
@@ -1708,6 +1758,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
     "rating": 6.905,
     "ts": "2026-07-07"
+  },
+  "do-not-enter-2026": {
+    "tmdbId": 999136,
+    "tmdbType": "movie",
+    "imdbId": "tt3515878",
+    "titleFr": "Do Not Enter",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
+    "rating": 5.796,
+    "ts": "2026-07-19"
   },
   "doctor-on-the-edge": {
     "tmdbId": 287009,
@@ -2398,6 +2458,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/83bn9z4RiwO4PObgzd28ZtPWBkW.jpg",
     "rating": 8.625,
     "ts": "2026-06-21"
+  },
+  "five-nights-at-freddys-2": {
+    "tmdbId": 1228246,
+    "tmdbType": "movie",
+    "imdbId": "tt30274401",
+    "titleFr": "Five Nights at Freddy's 2",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
+    "rating": 6.629,
+    "ts": "2026-07-19"
   },
   "flight-risk": {
     "tmdbId": 1126166,
@@ -4058,6 +4128,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ybCkQBSy2PufXE06DUAEM75UZlN.jpg",
     "rating": 7.333,
     "ts": "2026-06-19"
+  },
+  "lost-treasures-of-ancient-greece": {
+    "tmdbId": 328444,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Lost Treasures of Ancient Greece",
+    "year": 2026,
+    "posterUrl": null,
+    "rating": null,
+    "ts": "2026-07-19"
   },
   "love-me-love-me": {
     "tmdbId": 1317672,
@@ -5869,6 +5949,16 @@
     "rating": 5.5,
     "ts": "2026-06-20"
   },
+  "sandokan-2025": {
+    "tmdbId": 271855,
+    "tmdbType": "tv",
+    "imdbId": "tt13924304",
+    "titleFr": "Sandokan",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xHQDSDYFWbHuN71s23Yy9lwN70j.jpg",
+    "rating": 7.5,
+    "ts": "2026-07-19"
+  },
   "sas-rogue-heroes": {
     "tmdbId": 93870,
     "tmdbType": "tv",
@@ -6309,6 +6399,16 @@
     "rating": 9.4,
     "ts": "2026-06-20"
   },
+  "soft-quiet": {
+    "tmdbId": 934131,
+    "tmdbType": "movie",
+    "imdbId": "tt14557188",
+    "titleFr": "Soft & Quiet",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/AePNbI18Ol65Dx7sVZfwQ8ivArX.jpg",
+    "rating": 6.433,
+    "ts": "2026-07-19"
+  },
   "solo-mio": {
     "tmdbId": 1291335,
     "tmdbType": "movie",
@@ -6439,6 +6539,16 @@
     "rating": 7.7,
     "ts": "2026-06-19"
   },
+  "spooky-in-love": {
+    "tmdbId": 298610,
+    "tmdbType": "tv",
+    "imdbId": "tt40247521",
+    "titleFr": "Spooky in Love",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
+    "rating": 7,
+    "ts": "2026-07-19"
+  },
   "squatters-get-the-f-out-of-my-house": {
     "tmdbId": 324562,
     "tmdbType": "tv",
@@ -6488,6 +6598,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/g9XEl6WP5IFixRhpQBezZ6TDbk4.jpg",
     "rating": 7.324,
     "ts": "2026-07-10"
+  },
+  "star-trek-strange-new-worlds": {
+    "tmdbId": 103516,
+    "tmdbType": "tv",
+    "imdbId": "tt12327578",
+    "titleFr": "Star Trek: Strange New Worlds",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
+    "rating": 8,
+    "ts": "2026-07-19"
   },
   "star-trek-the-next-generation": {
     "tmdbId": 655,
@@ -7159,6 +7279,16 @@
     "rating": 8.5,
     "ts": "2026-07-17"
   },
+  "the-dark-knight": {
+    "tmdbId": 155,
+    "tmdbType": "movie",
+    "imdbId": "tt0468569",
+    "titleFr": "The Dark Knight : Le Chevalier noir",
+    "year": 2008,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
+    "rating": 8.533,
+    "ts": "2026-07-19"
+  },
   "the-death-of-dick-long": {
     "tmdbId": 565383,
     "tmdbType": "movie",
@@ -7218,6 +7348,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg",
     "rating": 4.815,
     "ts": "2026-07-02"
+  },
+  "the-east-palace": {
+    "tmdbId": 279323,
+    "tmdbType": "tv",
+    "imdbId": "tt35051401",
+    "titleFr": "Le Palais de l'Est",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9xIFTryxfZE6AxPULZ6BNxXs8w7.jpg",
+    "rating": 7.667,
+    "ts": "2026-07-19"
   },
   "the-equalizer": {
     "tmdbId": 156022,
@@ -7358,6 +7498,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ppi9yoM9BlNhoYg0h3XCyrnG4lR.jpg",
     "rating": 7.907,
     "ts": "2026-06-20"
+  },
+  "the-gambler-2014": {
+    "tmdbId": 284536,
+    "tmdbType": "movie",
+    "imdbId": "tt2039393",
+    "titleFr": "The Gambler",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
+    "rating": 6.033,
+    "ts": "2026-07-19"
   },
   "the-garfield-movie": {
     "tmdbId": 748783,
@@ -8459,6 +8609,16 @@
     "rating": 7.684,
     "ts": "2026-06-20"
   },
+  "thir13en-ghosts": {
+    "tmdbId": 9378,
+    "tmdbType": "movie",
+    "imdbId": "tt0245674",
+    "titleFr": "13 fantômes",
+    "year": 2001,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6biczzCXhWJbMMVODo2Z72rfJKv.jpg",
+    "rating": 6.299,
+    "ts": "2026-07-19"
+  },
   "this-city-is-ours": {
     "tmdbId": 255570,
     "tmdbType": "tv",
@@ -8508,6 +8668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/8q0QiK4uv0EH4fc2QCpWZOPhip1.jpg",
     "rating": 7.3,
     "ts": "2026-06-25"
+  },
+  "tokyo-mater": {
+    "tmdbId": 24328,
+    "tmdbType": "movie",
+    "imdbId": "tt1330219",
+    "titleFr": "Tokyo Martin",
+    "year": 2008,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/fJXwQ2znG0uxlqhn8HNANRZ4vKP.jpg",
+    "rating": 6.4,
+    "ts": "2026-07-19"
   },
   "tom-clancys-jack-ryan-ghost-war": {
     "tmdbId": 1380291,
@@ -8858,6 +9028,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/2t7WpN80NkBulkZzpkEdjZy7slX.jpg",
     "rating": 7.231,
     "ts": "2026-06-20"
+  },
+  "undercover-lover": {
+    "tmdbId": 325759,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Undercover Lover",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hJHWraVVBBHtbrRXouPg4iO23B8.jpg",
+    "rating": null,
+    "ts": "2026-07-19"
   },
   "undertone": {
     "tmdbId": 1480387,

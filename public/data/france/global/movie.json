@@ -2,7 +2,7 @@
   "country": "france",
   "key": "global",
   "list": "movie",
-  "date": "202607181643",
+  "date": "202607191643",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,6 +24,32 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f5gKcfHdJUCxnsRkMXiIXNjUHO3.jpg",
       "rating": 5.868,
       "year": 2023,
+      "days": 4,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt34208307",
+      "name": "Rapide",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/edOjhDSXL9eVqVWZznn8s8EVsgi.jpg",
+      "rating": 6,
+      "year": 2025,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0011647",
+      "name": "The Round-Up",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO64BazlAfICCJvPdaHZCOXz6GI.jpg",
+      "rating": 6.333,
+      "year": 1920,
       "days": 3,
       "trend": {
         "dir": "down",
@@ -31,55 +57,29 @@
       }
     },
     {
-      "rank": 3,
-      "id": "tt0011647",
-      "name": "The Round-Up",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO64BazlAfICCJvPdaHZCOXz6GI.jpg",
-      "rating": 6.333,
-      "year": 1920,
-      "days": 2,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt36619926",
-      "name": "Heartstopper Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "rating": 5.485,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 5,
-      "id": "tt34208307",
-      "name": "Rapide",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/edOjhDSXL9eVqVWZznn8s8EVsgi.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt1699231",
       "name": "En quarantaine 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h7MGGHKY6fQez4FBHYNAQGxdOv0.jpg",
       "rating": 5.7,
       "year": 2011,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "down",
-        "delta": 5
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt7657566",
-      "name": "Mort sur le Nil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
-      "rating": 6.41,
-      "year": 2022,
-      "days": 3,
+      "id": "tt36619926",
+      "name": "Heartstopper Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "rating": 5.485,
+      "year": 2026,
+      "days": 2,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 5
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
       "rating": 7.225,
       "year": 2010,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     }
   ]
