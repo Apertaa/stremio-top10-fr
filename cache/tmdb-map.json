@@ -1189,6 +1189,16 @@
     "rating": 6.296,
     "ts": "2026-07-11"
   },
+  "carriers": {
+    "tmdbId": 25769,
+    "tmdbType": "movie",
+    "imdbId": "tt0806203",
+    "titleFr": "Infectés",
+    "year": 2009,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/p1RO7JfB0lk0h7iInAh6aEWuDY5.jpg",
+    "rating": 6.051,
+    "ts": "2026-07-20"
+  },
   "case-137": {
     "tmdbId": 509783,
     "tmdbType": "movie",
@@ -1379,6 +1389,16 @@
     "rating": 7.015,
     "ts": "2026-07-02"
   },
+  "conspiracy-theory": {
+    "tmdbId": 8834,
+    "tmdbType": "movie",
+    "imdbId": "tt0118883",
+    "titleFr": "Complots",
+    "year": 1997,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pPgI07FKnGKuhLm667rO3Oa04BX.jpg",
+    "rating": 6.628,
+    "ts": "2026-07-20"
+  },
   "constantine-2005": {
     "tmdbId": 561,
     "tmdbType": "movie",
@@ -1408,6 +1428,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/9RU8ed2xBacl8FiFLB9E28VlF3d.jpg",
     "rating": 7.588,
     "ts": "2026-06-28"
+  },
+  "crazy-stupid-love": {
+    "tmdbId": 50646,
+    "tmdbType": "movie",
+    "imdbId": "tt1570728",
+    "titleFr": "Crazy, Stupid, Love",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wYQ8LLOGoxqVtRTdKPmi1J59FWo.jpg",
+    "rating": 7.275,
+    "ts": "2026-07-20"
   },
   "criminal-minds": {
     "tmdbId": 4057,
@@ -2909,6 +2939,16 @@
     "rating": 7.3,
     "ts": "2026-07-05"
   },
+  "guardians-of-the-galaxy": {
+    "tmdbId": 118340,
+    "tmdbType": "movie",
+    "imdbId": "tt2015381",
+    "titleFr": "Les Gardiens de la Galaxie",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9a6fGeSV5kffyNPPMWCPhLOhLdJ.jpg",
+    "rating": 7.906,
+    "ts": "2026-07-20"
+  },
   "hachi-a-dogs-tale": {
     "tmdbId": 28178,
     "tmdbType": "movie",
@@ -4329,6 +4369,16 @@
     "rating": 6.651,
     "ts": "2026-07-01"
   },
+  "manhunt-2019": {
+    "tmdbId": 85052,
+    "tmdbType": "tv",
+    "imdbId": "tt7801964",
+    "titleFr": "Manhunt",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nLjUC3ze3WxCFhg4GDbcwLRSgvJ.jpg",
+    "rating": 7.12,
+    "ts": "2026-07-20"
+  },
   "manitous-canoe": {
     "tmdbId": 1233066,
     "tmdbType": "movie",
@@ -5238,6 +5288,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
     "rating": 6.6,
     "ts": "2026-06-20"
+  },
+  "pacific-rim-uprising": {
+    "tmdbId": 268896,
+    "tmdbType": "movie",
+    "imdbId": "tt2557478",
+    "titleFr": "Pacific Rim : Uprising",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
+    "rating": 6.124,
+    "ts": "2026-07-20"
   },
   "paddington": {
     "tmdbId": 116149,
@@ -7989,6 +8049,16 @@
     "rating": 7.703,
     "ts": "2026-07-18"
   },
+  "the-marvelous-misadventures-of-flapjack-2008": {
+    "tmdbId": 6673,
+    "tmdbType": "tv",
+    "imdbId": "tt1178180",
+    "titleFr": "Les Merveilleuses Mésaventures de Flapjack",
+    "year": 2008,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8dpk0bjBgX93ZkQxEI1daNSj3OW.jpg",
+    "rating": 8.1,
+    "ts": "2026-07-20"
+  },
   "the-meg": {
     "tmdbId": 345940,
     "tmdbType": "movie",
@@ -8478,6 +8548,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
     "rating": 7.225,
     "ts": "2026-07-14"
+  },
+  "the-twisted-tale-of-amanda-knox": {
+    "tmdbId": 248416,
+    "tmdbType": "tv",
+    "imdbId": "tt31613279",
+    "titleFr": "The Twisted Tale of Amanda Knox",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/sMAZK6CDb8T07qO8ay2WbDGNY3F.jpg",
+    "rating": 6.702,
+    "ts": "2026-07-20"
   },
   "the-ultimatum-marry-or-move-on": {
     "tmdbId": 169588,

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "disney",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg",
       "rating": 6.75,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,33 +37,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
       "rating": 7.006,
       "year": 2024,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt27419466",
-      "name": "Vaiana, la légende du bout du monde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 135,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt33978029",
       "name": "Wedding Nightmare : Deuxième partie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
       "rating": 7.665,
       "year": 2026,
-      "days": 15,
+      "days": 16,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt27419466",
+      "name": "Vaiana, la légende du bout du monde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 136,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
       "rating": 8.181,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt20202136",
-      "name": "Descendants : L’Ascension de Red",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dMi80nBfxVBj7EfoixdabEOHxqj.jpg",
-      "rating": 6.744,
-      "year": 2024,
-      "days": null,
+      "id": "tt4154756",
+      "name": "Avengers : Infinity War",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg",
+      "rating": 8.239,
+      "year": 2018,
+      "days": 26,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,24 +110,24 @@
     },
     {
       "rank": 9,
-      "id": "tt43140642",
-      "name": "Simpsley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 14,
+      "id": "tt4154796",
+      "name": "Avengers : Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg",
+      "rating": 8.238,
+      "year": 2019,
+      "days": 39,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt1330219",
-      "name": "Tokyo Martin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fJXwQ2znG0uxlqhn8HNANRZ4vKP.jpg",
-      "rating": 6.4,
-      "year": 2008,
+      "id": "tt2015381",
+      "name": "Les Gardiens de la Galaxie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9a6fGeSV5kffyNPPMWCPhLOhLdJ.jpg",
+      "rating": 7.906,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "new",

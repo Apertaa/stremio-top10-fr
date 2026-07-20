@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
       "rating": 7.338,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
       "rating": 5.847,
       "year": 2009,
-      "days": 108,
+      "days": 109,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
-      "year": 2025,
-      "days": 198,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt1524930",
       "name": "Vive les Vacances",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
       "rating": 6.305,
       "year": 2015,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt6977338",
       "name": "Good Boys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
       "rating": 6.833,
       "year": 2019,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 199,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 700,
+      "days": 701,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "rating": 6.178,
       "year": 2026,
-      "days": 51,
+      "days": 52,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
       "rating": 6.351,
       "year": 2022,
-      "days": 89,
+      "days": 90,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt33028778",
-      "name": "Primate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
-      "rating": 6.526,
-      "year": 2026,
-      "days": 105,
+      "id": "tt0806203",
+      "name": "Infectés",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1RO7JfB0lk0h7iInAh6aEWuDY5.jpg",
+      "rating": 6.051,
+      "year": 2009,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
       "rating": 6.033,
       "year": 2014,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

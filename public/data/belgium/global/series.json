@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "global",
   "list": "series",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -39,8 +39,8 @@
       "year": 2026,
       "days": 23,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
       "rating": 7.3,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -65,8 +65,8 @@
       "year": 2024,
       "days": 65,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -78,8 +78,8 @@
       "year": 2026,
       "days": 30,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xIFTryxfZE6AxPULZ6BNxXs8w7.jpg",
       "rating": 7.667,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -117,8 +117,8 @@
       "year": 2026,
       "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -130,8 +130,8 @@
       "year": 2026,
       "days": 37,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

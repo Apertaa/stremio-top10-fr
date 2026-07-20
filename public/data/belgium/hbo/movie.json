@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt11182994",
-      "name": "Zillion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
-      "rating": 7.014,
-      "year": 2022,
-      "days": 22,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt11252248",
-      "name": "Dog",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
-      "rating": 7.289,
-      "year": 2022,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0443649",
       "name": "10 000",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6P9ZhywamwnglYLNybiyKEISpfE.jpg",
       "rating": 5.51,
       "year": 2008,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt27534307",
+      "name": "Speak No Evil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
+      "rating": 7.118,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt11182994",
+      "name": "Zillion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
+      "rating": 7.014,
+      "year": 2022,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/45jdSr5oJNiJuZwZ83CblnNY8uJ.jpg",
       "rating": 5.9,
       "year": 2010,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,41 +84,41 @@
     },
     {
       "rank": 7,
+      "id": "tt1570728",
+      "name": "Crazy, Stupid, Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wYQ8LLOGoxqVtRTdKPmi1J59FWo.jpg",
+      "rating": 7.275,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt11252248",
+      "name": "Dog",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
+      "rating": 7.289,
+      "year": 2022,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt0119177",
       "name": "Bienvenue à Gattaca",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a9KIIpkR6sXGHLJiXse9A7p7l9k.jpg",
       "rating": 7.57,
       "year": 1997,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 35,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0114898",
-      "name": "Waterworld",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kx6ovgUw6xJFsScfNZvQIU6p52T.jpg",
-      "rating": 6.238,
-      "year": 1995,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1683H347S0hWDctzvmzYKrl0GbJ.jpg",
       "rating": 6.317,
       "year": 2023,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
       "rating": 6.4,
       "year": 2025,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
       "rating": 7.046,
       "year": 2026,
-      "days": 28,
+      "days": 29,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
       "rating": 6.1,
       "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt5463162",
-      "name": "Deadpool 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
-      "rating": 7.491,
-      "year": 2018,
-      "days": 14,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0120616",
-      "name": "La Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
-      "rating": 6.984,
-      "year": 1999,
-      "days": 41,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt4779682",
-      "name": "En eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
-      "rating": 6.248,
-      "year": 2018,
       "days": 22,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0250494",
-      "name": "La Revanche d'une blonde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
-      "rating": 6.817,
-      "year": 2001,
-      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 6,
+      "id": "tt2557478",
+      "name": "Pacific Rim : Uprising",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
+      "rating": 6.124,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt5463162",
+      "name": "Deadpool 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
+      "rating": 7.491,
+      "year": 2018,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0120616",
+      "name": "La Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
+      "rating": 6.984,
+      "year": 1999,
+      "days": 42,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt4779682",
+      "name": "En eaux troubles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
+      "rating": 6.248,
+      "year": 2018,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt9358044",
-      "name": "Hail Satan ?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lwP8CMOfPJhkMyxELgX2D2aDZfy.jpg",
-      "rating": 7.005,
-      "year": 2019,
-      "days": 4,
+      "id": "tt17024450",
+      "name": "Equalizer 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/go2gtucO5LT92jnU40pbD0LImgg.jpg",
+      "rating": 7.296,
+      "year": 2023,
+      "days": 5,
       "trend": {
         "dir": "new",
         "delta": null

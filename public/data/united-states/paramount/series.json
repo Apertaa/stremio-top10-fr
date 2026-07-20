@@ -2,32 +2,32 @@
   "country": "united-states",
   "key": "paramount",
   "list": "series",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
-      "id": "top10:ufc-fight-night",
-      "name": "UFC Fight Night",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 13,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt0452046",
       "name": "Esprits criminels",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 823,
+      "days": 824,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": 361,
+      "trend": {
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 64,
+      "days": 65,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,25 +45,25 @@
     },
     {
       "rank": 4,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
-      "rating": 8.3,
-      "year": 1997,
-      "days": 360,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0115167",
       "name": "Tout le monde aime Raymond",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
       "rating": 6.813,
       "year": 1996,
-      "days": 730,
+      "days": 731,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt0364845",
+      "name": "NCIS : Enquêtes Spéciales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
+      "rating": 7.619,
+      "year": 2003,
+      "days": 874,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,51 +71,51 @@
     },
     {
       "rank": 6,
-      "id": "tt0364845",
-      "name": "NCIS : Enquêtes Spéciales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "rating": 7.619,
-      "year": 2003,
-      "days": 873,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt6294706",
       "name": "The Chi",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
       "rating": 7.897,
       "year": 2018,
-      "days": 204,
-      "trend": {
-        "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt13111078",
-      "name": "Lioness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
-      "rating": 7.991,
-      "year": 2023,
-      "days": 130,
+      "days": 205,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt11794812",
-      "name": "Cross",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rKzAyLeXAig5VSotQm1nVRF5Ms8.jpg",
-      "rating": 7.015,
+      "rank": 7,
+      "id": "tt13111078",
+      "name": "Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
+      "rating": 7.991,
+      "year": 2023,
+      "days": 131,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt14186672",
+      "name": "Landman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "rating": 8.157,
       "year": 2024,
-      "days": null,
+      "days": 276,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0206512",
+      "name": "Bob l'éponge",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
+      "rating": 7.7,
+      "year": 1999,
+      "days": 826,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt14186672",
-      "name": "Landman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "rating": 8.157,
-      "year": 2024,
-      "days": 275,
+      "id": "tt0251497",
+      "name": "Big Brother",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
+      "rating": 4.872,
+      "year": 2000,
+      "days": 136,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

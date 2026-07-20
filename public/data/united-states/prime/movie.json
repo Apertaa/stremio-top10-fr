@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,77 +19,77 @@
     },
     {
       "rank": 2,
-      "id": "tt14670094",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
-      "rating": 6.439,
-      "year": 2023,
-      "days": 21,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 24,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt5834426",
-      "name": "Moonfall",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
-      "rating": 6.249,
-      "year": 2022,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt5950044",
-      "name": "Superman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
-      "rating": 7.338,
-      "year": 2025,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt3515878",
       "name": "Do Not Enter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
       "rating": 5.796,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt14670094",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
+      "rating": 6.439,
+      "year": 2023,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 25,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt5834426",
+      "name": "Moonfall",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
+      "rating": 6.249,
+      "year": 2022,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt3659388",
+      "name": "Seul sur Mars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/51CqiKVStZ2YPx64iPs3LDDiQnt.jpg",
+      "rating": 7.703,
+      "year": 2015,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 4
       }
     },
     {
       "rank": 7,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 62,
+      "id": "tt0816711",
+      "name": "World War Z",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
+      "rating": 6.843,
+      "year": 2013,
+      "days": 5,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt0816711",
-      "name": "World War Z",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
-      "rating": 6.843,
-      "year": 2013,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt9150192",
       "name": "A Working Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 151,
+      "days": 152,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt5950044",
+      "name": "Superman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
+      "rating": 7.338,
+      "year": 2025,
+      "days": 26,
+      "trend": {
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 10,
-      "id": "tt3659388",
-      "name": "Seul sur Mars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/51CqiKVStZ2YPx64iPs3LDDiQnt.jpg",
-      "rating": 7.703,
-      "year": 2015,
-      "days": 1,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 63,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

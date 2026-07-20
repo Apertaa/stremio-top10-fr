@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1pnigkWWy8W032o9TKDneBa3eVK.jpg",
       "rating": 8.482,
       "year": 2014,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,88 +50,88 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/72SOtZnFhCumLRZhoXlX8g2IkgF.jpg",
       "rating": 7.176,
       "year": 2020,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 6
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt1160419",
-      "name": "Dune - Première partie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
-      "rating": 7.8,
-      "year": 2021,
-      "days": 1,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0468569",
-      "name": "The Dark Knight : Le Chevalier noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
-      "rating": 8.533,
-      "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0120611",
-      "name": "Blade",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
-      "rating": 6.84,
-      "year": 1998,
-      "days": 22,
-      "trend": {
-        "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0118655",
       "name": "Austin Powers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
       "rating": 6.598,
       "year": 1997,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 4
       }
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "id": "tt0120611",
+      "name": "Blade",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
+      "rating": 6.84,
+      "year": 1998,
+      "days": 23,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt1375666",
+      "name": "Inception",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
+      "rating": 8.4,
+      "year": 2010,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0468569",
+      "name": "The Dark Knight : Le Chevalier noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
+      "rating": 8.533,
+      "year": 2008,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt6334354",
       "name": "The Suicide Squad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3c8y65VwyFp3pcNtOsrdOoWm8Um.jpg",
       "rating": 7.458,
       "year": 2021,
+      "days": 18,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt41702551",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "rating": 1,
+      "year": 2026,
       "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 6
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,136 +2,136 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0332452",
-      "name": "Troie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
-      "rating": 7.177,
-      "year": 2004,
-      "days": 15,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt12593682",
-      "name": "Bullet Train",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
-      "rating": 7.413,
-      "year": 2022,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt1020558",
-      "name": "Centurion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
-      "rating": 6.238,
-      "year": 2010,
-      "days": 21,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt1464335",
       "name": "Uncharted",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
       "rating": 6.886,
       "year": 2022,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0332452",
+      "name": "Troie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
+      "rating": 7.177,
+      "year": 2004,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt12593682",
+      "name": "Bullet Train",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
+      "rating": 7.413,
+      "year": 2022,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt1020558",
+      "name": "Centurion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
+      "rating": 6.238,
+      "year": 2010,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
+      "id": "tt0118883",
+      "name": "Complots",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPgI07FKnGKuhLm667rO3Oa04BX.jpg",
+      "rating": 6.628,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt1282140",
       "name": "Easy Girl",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLdSvAisVDItlHHg1u667iaHZTj.jpg",
       "rating": 6.805,
       "year": 2010,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0360486",
-      "name": "Constantine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg",
-      "rating": 7.179,
-      "year": 2005,
-      "days": 24,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt6869880",
-      "name": "Skinford: Chapter Two",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
-      "rating": 4.833,
-      "year": 2018,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt8368406",
       "name": "Vivarium",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2SAH6napkUWibaAJ4oXr8dAVTIm.jpg",
       "rating": 6.062,
       "year": 2019,
-      "days": 28,
+      "days": 29,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt26584495",
       "name": "Companion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
       "rating": 7.015,
       "year": 2025,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt0250494",
       "name": "La Revanche d'une blonde",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
       "rating": 6.817,
       "year": 2001,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt6869880",
+      "name": "Skinford: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg",
+      "rating": 4.833,
+      "year": 2018,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

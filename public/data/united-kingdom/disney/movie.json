@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "movie",
-  "date": "202607191643",
+  "date": "202607201718",
   "entries": [
     {
       "rank": 1,
@@ -11,33 +11,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg",
       "rating": 6.75,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 2,
+      "id": "tt26443616",
+      "name": "Jumpers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
+      "rating": 8.181,
+      "year": 2026,
+      "days": 45,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt1757678",
       "name": "Avatar : De feu et de cendres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 24,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt27419466",
-      "name": "Vaiana, la légende du bout du monde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 135,
+      "days": 25,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt13622970",
-      "name": "Vaiana 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
-      "rating": 7.006,
-      "year": 2024,
-      "days": 18,
+      "id": "tt27419466",
+      "name": "Vaiana, la légende du bout du monde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 136,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt33978029",
-      "name": "Wedding Nightmare : Deuxième partie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
-      "rating": 7.665,
-      "year": 2026,
-      "days": 15,
+      "id": "tt13622970",
+      "name": "Vaiana 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "rating": 7.006,
+      "year": 2024,
+      "days": 19,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt26443616",
-      "name": "Jumpers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gme8X6Y0b1wutuW6kB039i9NwCr.jpg",
-      "rating": 8.181,
+      "id": "tt33978029",
+      "name": "Wedding Nightmare : Deuxième partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tARTqozLyHGjdKQWL734odssfpL.jpg",
+      "rating": 7.665,
       "year": 2026,
-      "days": 44,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
       "rating": 7.172,
       "year": 2015,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt8036976",
-      "name": "Send Help",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
-      "rating": 7.056,
-      "year": 2026,
-      "days": 59,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0325980",
       "name": "Pirates des Caraïbes : La Malédiction du Black Pearl",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFmc6zbnx6mSoxejECYvdi3IHIs.jpg",
       "rating": 7.826,
       "year": 2003,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt8036976",
+      "name": "Send Help",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
+      "rating": 7.056,
+      "year": 2026,
+      "days": 60,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt1392170",
-      "name": "Hunger Games",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
-      "rating": 7.224,
-      "year": 2012,
-      "days": 6,
+      "id": "tt20202136",
+      "name": "Descendants : L’Ascension de Red",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dMi80nBfxVBj7EfoixdabEOHxqj.jpg",
+      "rating": 6.744,
+      "year": 2024,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]
