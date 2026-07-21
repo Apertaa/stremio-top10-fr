@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607191643",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 79,
+      "days": 81,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,38 +19,38 @@
     },
     {
       "rank": 2,
-      "id": "tt2091256",
-      "name": "Capitaine Superslip",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ixHfHHpqfaj0TMm1VDiHjWMsXmA.jpg",
-      "rating": 6.296,
-      "year": 2017,
-      "days": 28,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 384,
+      "days": 386,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt2091256",
+      "name": "Capitaine Superslip",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ixHfHHpqfaj0TMm1VDiHjWMsXmA.jpg",
+      "rating": 6.296,
+      "year": 2017,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt0103786",
-      "name": "Beethoven",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a8YSInOLcr8Fw0G6UAKnToaJ6vQ.jpg",
-      "rating": 5.836,
-      "year": 1992,
-      "days": 9,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 80,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt29552248",
-      "name": "Aventures croisées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "rating": 8.971,
-      "year": 2026,
-      "days": 78,
+      "id": "tt0126029",
+      "name": "Shrek",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
+      "rating": 7.765,
+      "year": 2001,
+      "days": 349,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,25 +71,25 @@
     },
     {
       "rank": 6,
-      "id": "tt0126029",
-      "name": "Shrek",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
-      "rating": 7.765,
-      "year": 2001,
-      "days": 347,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0312528",
       "name": "Le chat chapeauté",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
       "rating": 5.314,
       "year": 2003,
-      "days": 53,
+      "days": 55,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 22,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt6095472",
       "name": "Angry Birds : Copains comme cochons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9YYRD0el7wa9kiZC4RsfxGpTrtX.jpg",
       "rating": 7.054,
       "year": 2019,
-      "days": 51,
+      "days": 52,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt0298148",
       "name": "Shrek 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 93,
+      "days": 95,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt5220122",
+      "name": "Hôtel Transylvanie 3 : Des vacances monstrueuses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1LxO3gfe1YCXWD8zHEQXuPlOBye.jpg",
+      "rating": 6.851,
+      "year": 2018,
+      "days": 140,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

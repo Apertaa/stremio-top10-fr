@@ -2,32 +2,32 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
+      "id": "tt19847976",
+      "name": "Wicked : Partie II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
+      "rating": 6.625,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt41617470",
       "name": "Le Désir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 1,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
       "rating": 5,
       "year": 2025,
-      "days": 3,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
       "rating": 7.224,
       "year": 2012,
-      "days": 1,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt3874544",
       "name": "Baby Boss",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 74,
+      "days": 76,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "id": "tt1951264",
+      "name": "Hunger Games : L'Embrasement",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
+      "rating": 7.427,
+      "year": 2013,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt10545296",
       "name": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q4EDvPcf956FgakWwcXiWdQEgxU.jpg",
       "rating": 6.976,
       "year": 2023,
-      "days": 5,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 7,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 30,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "id": "tt41983440",
       "name": "23 000 vies",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
       "rating": 2.909,
       "year": 2026,
-      "days": 1,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt5113044",
-      "name": "Les Minions 2 : Il était une fois Gru",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
-      "rating": 7.3,
-      "year": 2022,
-      "days": 49,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 10,
-      "id": "tt0381707",
-      "name": "F.B.I. Fausses Blondes Infiltrées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
-      "rating": 6.95,
-      "year": 2004,
-      "days": 25,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 32,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

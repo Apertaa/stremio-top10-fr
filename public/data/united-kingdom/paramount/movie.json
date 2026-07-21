@@ -2,10 +2,23 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt24326462",
       "name": "One Mile: Chapter Two",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
@@ -13,60 +26,47 @@
       "year": 2026,
       "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt24326458",
-      "name": "One Mile: Chapter One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
-      "rating": 7.005,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt4419684",
-      "name": "In the Lost Lands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
-      "rating": 6.367,
-      "year": 2025,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt14107334",
       "name": "Running Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt37577501",
       "name": "The Girl Who Survived: The Alina Thompson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 51,
+      "days": 52,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt4419684",
+      "name": "In the Lost Lands",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
+      "rating": 6.367,
+      "year": 2025,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 108,
+      "days": 109,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt25602750",
-      "name": "The Girl Who Escaped: The Kara Robinson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
-      "rating": 7.111,
-      "year": 2023,
-      "days": 404,
+      "id": "tt29101725",
+      "name": "Killing Faith",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
+      "rating": 5.821,
+      "year": 2025,
+      "days": 38,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -97,38 +97,38 @@
     },
     {
       "rank": 8,
-      "id": "tt29101725",
-      "name": "Killing Faith",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "rating": 5.821,
-      "year": 2025,
-      "days": 37,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
-      "year": 2025,
-      "days": 65,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt2582782",
       "name": "Comancheria",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
       "rating": 7.302,
       "year": 2016,
-      "days": 28,
+      "days": 29,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt25602750",
+      "name": "The Girl Who Escaped: The Kara Robinson Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
+      "rating": 7.111,
+      "year": 2023,
+      "days": 405,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt6300910",
+      "name": "La Dernière Chevauchée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1AtfNtJ739ub5FBidj3LGwGSN1.jpg",
+      "rating": 6.312,
+      "year": 2025,
+      "days": 65,
       "trend": {
         "dir": "new",
         "delta": null

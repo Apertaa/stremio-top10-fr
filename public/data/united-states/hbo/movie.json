@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
       "rating": 6.4,
       "year": 2025,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,80 +45,80 @@
     },
     {
       "rank": 4,
-      "id": "tt4357198",
-      "name": "L'Ultime Héritier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt35892608",
-      "name": "undertone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
-      "rating": 6.1,
-      "year": 2026,
-      "days": 22,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt2557478",
       "name": "Pacific Rim : Uprising",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
       "rating": 6.124,
       "year": 2018,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 7,
-      "id": "tt5463162",
-      "name": "Deadpool 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
-      "rating": 7.491,
-      "year": 2018,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0120616",
-      "name": "La Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
-      "rating": 6.984,
-      "year": 1999,
-      "days": 42,
+      "rank": 5,
+      "id": "tt4357198",
+      "name": "L'Ultime Héritier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 30,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 6,
       "id": "tt4779682",
       "name": "En eaux troubles",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
       "rating": 6.248,
       "year": 2018,
+      "days": 24,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0120616",
+      "name": "La Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
+      "rating": 6.984,
+      "year": 1999,
+      "days": 43,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt35892608",
+      "name": "undertone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg",
+      "rating": 6.1,
+      "year": 2026,
       "days": 23,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt5463162",
+      "name": "Deadpool 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
+      "rating": 7.491,
+      "year": 2018,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/go2gtucO5LT92jnU40pbD0LImgg.jpg",
       "rating": 7.296,
       "year": 2023,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

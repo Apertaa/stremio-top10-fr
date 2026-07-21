@@ -2,55 +2,55 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607191643",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
-      "id": "tt14205554",
-      "name": "KPop Demon Hunters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 389,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt0373051",
-      "name": "Voyage au centre de la Terre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
-      "rating": 6.09,
-      "year": 2008,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt0892782",
       "name": "Monstres contre Aliens",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
       "rating": 6.258,
       "year": 2009,
-      "days": 1,
+      "days": 3,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 391,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt29552248",
       "name": "Aventures croisées",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 78,
+      "days": 80,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0373051",
+      "name": "Voyage au centre de la Terre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
+      "rating": 6.09,
+      "year": 2008,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 524,
+      "days": 526,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,36 +76,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
       "rating": 6.968,
       "year": 2025,
-      "days": 197,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1860353",
-      "name": "Turbo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
-      "rating": 6.271,
-      "year": 2013,
-      "days": 68,
+      "days": 199,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 7,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 24,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
       "rank": 8,
-      "id": "tt10954718",
-      "name": "Dog Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gMSXN6yIXpgLphajQAkExM10KdZ.jpg",
-      "rating": 7.426,
-      "year": 2025,
-      "days": 9,
+      "id": "tt1860353",
+      "name": "Turbo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
+      "rating": 6.271,
+      "year": 2013,
+      "days": 70,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
       "rating": 7.028,
       "year": 2022,
-      "days": 95,
+      "days": 97,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 22,
+      "id": "tt10600398",
+      "name": "C'est nous les héros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dh4Yn148qvKGFFrRh0E6dzT4pVa.jpg",
+      "rating": 5.949,
+      "year": 2020,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -519,6 +519,16 @@
     "rating": 6,
     "ts": "2026-06-19"
   },
+  "assassins-creed": {
+    "tmdbId": 121856,
+    "tmdbType": "movie",
+    "imdbId": "tt2094766",
+    "titleFr": "Assassin's Creed",
+    "year": 2016,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nDkC47MBBjRyk3damnqMgQGlwIe.jpg",
+    "rating": 5.438,
+    "ts": "2026-07-21"
+  },
   "assault-on-precinct-13-1976": {
     "tmdbId": 17814,
     "tmdbType": "movie",
@@ -698,6 +708,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
     "rating": 1,
     "ts": "2026-07-02"
+  },
+  "barbie": {
+    "tmdbId": 346698,
+    "tmdbType": "movie",
+    "imdbId": "tt1517268",
+    "titleFr": "Barbie",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "rating": 6.917,
+    "ts": "2026-07-21"
   },
   "battleship": {
     "tmdbId": 44833,
@@ -1679,6 +1699,26 @@
     "rating": 7.172,
     "ts": "2026-07-19"
   },
+  "descendants-2": {
+    "tmdbId": 417320,
+    "tmdbType": "movie",
+    "imdbId": "tt5117876",
+    "titleFr": "Descendants 2",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+    "rating": 7.367,
+    "ts": "2026-07-21"
+  },
+  "descendants-3": {
+    "tmdbId": 506574,
+    "tmdbType": "movie",
+    "imdbId": "tt8022928",
+    "titleFr": "Descendants 3",
+    "year": 2019,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+    "rating": 7.679,
+    "ts": "2026-07-21"
+  },
   "descendants-the-rise-of-red": {
     "tmdbId": 974262,
     "tmdbType": "movie",
@@ -2128,6 +2168,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/m2pFuNkL9V4lZxtVbBzB9yrYHai.jpg",
     "rating": 7.3,
     "ts": "2026-06-20"
+  },
+  "escobank": {
+    "tmdbId": 1426083,
+    "tmdbType": "movie",
+    "imdbId": "tt22202450",
+    "titleFr": "Escobank",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oeaKqM10h6OLS6JuPj6JEdQipUC.jpg",
+    "rating": 5.6,
+    "ts": "2026-07-21"
   },
   "et-the-extra-terrestrial": {
     "tmdbId": 601,
@@ -3219,6 +3269,16 @@
     "rating": 8,
     "ts": "2026-06-28"
   },
+  "how-to-lose-a-popularity-contest": {
+    "tmdbId": 1480025,
+    "tmdbType": "movie",
+    "imdbId": "tt36934619",
+    "titleFr": "Perfect Match",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5Dk5KHdHNSt6po6qUVVm95kpqSa.jpg",
+    "rating": 6,
+    "ts": "2026-07-21"
+  },
   "how-to-make-a-killing": {
     "tmdbId": 467905,
     "tmdbType": "movie",
@@ -3768,6 +3828,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/sGFbehBmBzac1ZOIJDwb544qBPL.jpg",
     "rating": 6.4,
     "ts": "2026-06-29"
+  },
+  "ladder-49": {
+    "tmdbId": 11128,
+    "tmdbType": "movie",
+    "imdbId": "tt0349710",
+    "titleFr": "Piège de feu",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/fYkuOWxrn5rRFP28K5ORqyuRr79.jpg",
+    "rating": 6.477,
+    "ts": "2026-07-21"
   },
   "ladies-first-2026": {
     "tmdbId": 1368881,
@@ -4899,6 +4969,16 @@
     "rating": 6.541,
     "ts": "2026-07-11"
   },
+  "mystic-river": {
+    "tmdbId": 322,
+    "tmdbType": "movie",
+    "imdbId": "tt0327056",
+    "titleFr": "Mystic River",
+    "year": 2003,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1z7IwJBQSKVY7BPLYOOS3ZNWM53.jpg",
+    "rating": 7.747,
+    "ts": "2026-07-21"
+  },
   "naked-and-afraid-last-one-standing": {
     "tmdbId": 224857,
     "tmdbType": "tv",
@@ -5498,6 +5578,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/uSz5nrTrHBsbdVJJgYMB1tJ5nkv.jpg",
     "rating": 6.095,
     "ts": "2026-06-25"
+  },
+  "platoon": {
+    "tmdbId": 792,
+    "tmdbType": "movie",
+    "imdbId": "tt0091763",
+    "titleFr": "Platoon",
+    "year": 1986,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rehBWOx9AIkZRKVuiemWvAMH40.jpg",
+    "rating": 7.751,
+    "ts": "2026-07-21"
   },
   "pokemon-detective-pikachu": {
     "tmdbId": 447404,
@@ -7329,6 +7419,16 @@
     "rating": 6.667,
     "ts": "2026-07-17"
   },
+  "the-crow-girl": {
+    "tmdbId": 248698,
+    "tmdbType": "tv",
+    "imdbId": "tt30063915",
+    "titleFr": "The Crow Girl",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9vCFSNwql5Be5W1LrS7hGVZYnbm.jpg",
+    "rating": 6.6,
+    "ts": "2026-07-21"
+  },
   "the-cult-of-natureboy": {
     "tmdbId": 320579,
     "tmdbType": "tv",
@@ -8569,6 +8669,16 @@
     "rating": 5.913,
     "ts": "2026-07-17"
   },
+  "the-unholy-trinity": {
+    "tmdbId": 1195518,
+    "tmdbType": "movie",
+    "imdbId": "tt6300910",
+    "titleFr": "La Dernière Chevauchée",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/j1AtfNtJ739ub5FBidj3LGwGSN1.jpg",
+    "rating": 6.312,
+    "ts": "2026-07-21"
+  },
   "the-vault": {
     "tmdbId": 416160,
     "tmdbType": "movie",
@@ -9598,6 +9708,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
     "rating": 8,
     "ts": "2026-07-02"
+  },
+  "worst-yard-on-the-block": {
+    "tmdbId": 328781,
+    "tmdbType": "tv",
+    "imdbId": "tt43475149",
+    "titleFr": "Worst Yard on the Block",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rvXApMYAI44o7bHWpEu6S2bEcnh.jpg",
+    "rating": null,
+    "ts": "2026-07-21"
   },
   "would-you-marry-me": {
     "tmdbId": 281011,

@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
       "rating": 6.607,
       "year": 2026,
-      "days": 3,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 9,
+      "id": "tt11858890",
+      "name": "The Creator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
+      "rating": 7.036,
+      "year": 2023,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt11858890",
-      "name": "The Creator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
-      "rating": 7.036,
-      "year": 2023,
-      "days": 2,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,11 +58,11 @@
     },
     {
       "rank": 5,
-      "id": "tt7657566",
-      "name": "Mort sur le Nil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
-      "rating": 6.41,
-      "year": 2022,
+      "id": "tt41983440",
+      "name": "23 000 vies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+      "rating": 2.909,
+      "year": 2026,
       "days": 4,
       "trend": {
         "dir": "same",
@@ -71,51 +71,51 @@
     },
     {
       "rank": 6,
-      "id": "tt41983440",
-      "name": "23 000 vies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
-      "rating": 2.909,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt32278481",
       "name": "Enola Holmes 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 18,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt36619926",
-      "name": "Heartstopper Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "rating": 5.485,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 30,
+      "days": 32,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt36619926",
+      "name": "Heartstopper Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "rating": 5.485,
+      "year": 2026,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 43,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0

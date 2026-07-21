@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "movie",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 2,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,119 +19,119 @@
     },
     {
       "rank": 2,
-      "id": "tt14827638",
-      "name": "Une Retraite d'Enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f5gKcfHdJUCxnsRkMXiIXNjUHO3.jpg",
-      "rating": 5.868,
-      "year": 2023,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt34208307",
       "name": "Rapide",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/edOjhDSXL9eVqVWZznn8s8EVsgi.jpg",
       "rating": 6,
       "year": 2025,
-      "days": 2,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt14827638",
+      "name": "Une Retraite d'Enfer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f5gKcfHdJUCxnsRkMXiIXNjUHO3.jpg",
+      "rating": 5.868,
+      "year": 2023,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
+      "id": "tt1517268",
+      "name": "Barbie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "rating": 6.917,
+      "year": 2023,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt0011647",
       "name": "The Round-Up",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO64BazlAfICCJvPdaHZCOXz6GI.jpg",
       "rating": 6.333,
       "year": 1920,
-      "days": 3,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt1699231",
-      "name": "En quarantaine 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h7MGGHKY6fQez4FBHYNAQGxdOv0.jpg",
-      "rating": 5.7,
-      "year": 2011,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt7657566",
-      "name": "Mort sur le Nil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
-      "rating": 6.41,
-      "year": 2022,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 30,
+      "days": 32,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt38510825",
       "name": "Nothing to Lose",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYQmXiKEooImScqysi2HbjjRrgC.jpg",
       "rating": null,
       "year": 2026,
-      "days": 11,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1699231",
+      "name": "En quarantaine 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h7MGGHKY6fQez4FBHYNAQGxdOv0.jpg",
+      "rating": 5.7,
+      "year": 2011,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt36619926",
-      "name": "Heartstopper Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "rating": 5.485,
-      "year": 2026,
-      "days": 2,
+      "id": "tt7657566",
+      "name": "Mort sur le Nil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
+      "rating": 6.41,
+      "year": 2022,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt0840361",
-      "name": "The Town",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
-      "rating": 7.225,
-      "year": 2010,
-      "days": 6,
+      "id": "tt41983440",
+      "name": "23 000 vies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+      "rating": 2.909,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607191643",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
@@ -11,49 +11,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 91,
+      "days": 93,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 2,
-      "id": "top10:learning-and-fun-with-jose-comelon",
-      "name": "Learning and fun with Jose Comelon",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt35406274",
       "name": "Ms. Rachel",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 524,
+      "days": 526,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "tt13158394",
       "name": "Danny Go!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 101,
+      "days": 103,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "top10:learning-and-fun-with-jose-comelon",
+      "name": "Learning and fun with Jose Comelon",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 913,
+      "days": 915,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9t6stbz5F4W9tq7qLjmtGR4VmLG.jpg",
       "rating": 5.2,
       "year": 2016,
-      "days": 14,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 693,
+      "days": 695,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,20 +102,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 175,
+      "days": 177,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt8343762",
-      "name": "The Secret Life of the Zoo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8iy9sFWx9WBXHTVffr9TuaYHbxf.jpg",
-      "rating": 6.3,
-      "year": 2016,
-      "days": 12,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 60,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "id": "tmdb:322920",
+      "name": "Ben.and.Holly's.Little.Kingdom",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mwcC0yw9h5rVmRR3XiFUCZ2ggDK.jpg",
       "rating": null,
-      "year": 2022,
-      "days": 188,
+      "year": 2009,
+      "days": 451,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

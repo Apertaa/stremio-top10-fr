@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "movie",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
       "rating": 7.118,
       "year": 2024,
-      "days": 3,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt36619926",
-      "name": "Heartstopper Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "rating": 5.485,
-      "year": 2026,
-      "days": 2,
+      "id": "tt7634968",
+      "name": "Ce que veulent les hommes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
+      "rating": 6.208,
+      "year": 2019,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,11 +32,11 @@
     },
     {
       "rank": 3,
-      "id": "tt7634968",
-      "name": "Ce que veulent les hommes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
-      "rating": 6.208,
-      "year": 2019,
+      "id": "tt36619926",
+      "name": "Heartstopper Forever",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "rating": 5.485,
+      "year": 2026,
       "days": 4,
       "trend": {
         "dir": "same",
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 9,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt41617470",
-      "name": "Le Désir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
-      "rating": 6.077,
-      "year": 2026,
-      "days": 2,
+      "id": "tt11858890",
+      "name": "The Creator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
+      "rating": 7.036,
+      "year": 2023,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt29268110",
-      "name": "Smile 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg",
-      "rating": 6.6,
-      "year": 2024,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt7657566",
-      "name": "Mort sur le Nil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
-      "rating": 6.41,
-      "year": 2022,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt7510222",
       "name": "Moi, moche et méchant 4",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 52,
+      "days": 54,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt41617470",
+      "name": "Le Désir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "rating": 6.077,
+      "year": 2026,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0327056",
+      "name": "Mystic River",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1z7IwJBQSKVY7BPLYOOS3ZNWM53.jpg",
+      "rating": 7.747,
+      "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt11858890",
-      "name": "The Creator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
-      "rating": 7.036,
-      "year": 2023,
-      "days": 1,
+      "id": "tt29268110",
+      "name": "Smile 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg",
+      "rating": 6.6,
+      "year": 2024,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt1231583",
-      "name": "Date Limite",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tm29Vp31IG39iWL0BcA6EpQssEU.jpg",
-      "rating": 6.397,
-      "year": 2010,
-      "days": 6,
+      "id": "tt0892782",
+      "name": "Monstres contre Aliens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
+      "rating": 6.258,
+      "year": 2009,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,16 +2,16 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "series",
-  "date": "202607201718",
+  "date": "202607211706",
   "entries": [
     {
       "rank": 1,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
+      "id": "tt43491766",
+      "name": "The Rest Is Football",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 31,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
       "rating": 3.962,
       "year": 2026,
-      "days": 3,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt43491766",
-      "name": "The Rest Is Football",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
-      "rating": null,
+      "id": "tt34771210",
+      "name": "Sur tes traces",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
+      "rating": 8.2,
       "year": 2026,
-      "days": 1,
+      "days": 33,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
       "rating": 5.139,
       "year": 2026,
-      "days": 10,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt10714820",
-      "name": "Pour Marnie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sH8muEErS4ATV8bNS7EzYGLNmy8.jpg",
-      "rating": 6.6,
-      "year": 2023,
-      "days": 8,
+      "id": "tt43476716",
+      "name": "Les Voisins de l'enfer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt43476716",
-      "name": "Les Voisins de l'enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 18,
+      "id": "tt18396952",
+      "name": "L'Ultimatum : On se marie ou c'est fini",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
+      "rating": 5.913,
+      "year": 2022,
+      "days": 19,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 56,
+      "days": 58,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7N9hGrDMo8MKD0CRYTeyKbJwjAj.jpg",
       "rating": 7.7,
       "year": 2024,
-      "days": 19,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
       "rating": 7.956,
       "year": 2024,
-      "days": 18,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
       "rating": 8.552,
       "year": 2018,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]
