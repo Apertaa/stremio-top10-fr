@@ -2,7 +2,7 @@
   "country": "france",
   "key": "apple",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 386,
+      "days": 387,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 501,
+      "days": 502,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 59,
+      "days": 60,
       "trend": {
-        "dir": "up",
-        "delta": 6
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 328,
+      "days": 329,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,67 +58,67 @@
     },
     {
       "rank": 5,
-      "id": "tt27075958",
-      "name": "Fountain of Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
-      "rating": 6.255,
-      "year": 2025,
-      "days": 335,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt34276058",
       "name": "The Family Plan 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 242,
+      "days": 243,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt27075958",
+      "name": "Fountain of Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
+      "rating": 6.255,
+      "year": 2025,
+      "days": 336,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt7214954",
-      "name": "Luck",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
-      "rating": 7.715,
-      "year": 2022,
-      "days": 848,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt16431870",
       "name": "The Family Plan",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 880,
+      "days": 881,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt14257582",
       "name": "Wolfs",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
       "rating": 6.542,
       "year": 2024,
-      "days": 524,
+      "days": 525,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt7214954",
+      "name": "Luck",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
+      "rating": 7.715,
+      "year": 2022,
+      "days": 849,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 101,
+      "days": 102,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tGEJipReupfLc8yDHAUKqmqV6LE.jpg",
       "rating": 7.57,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
       "rating": 7.875,
       "year": 2021,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,67 +32,67 @@
     },
     {
       "rank": 3,
-      "id": "tt42483037",
-      "name": "Marave",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
-      "rating": 5.7,
-      "year": 2026,
-      "days": 12,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt10078772",
       "name": "Vol à haut risque",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
       "rating": 5.9,
       "year": 2025,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt42483037",
+      "name": "Marave",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
+      "rating": 5.7,
+      "year": 2026,
+      "days": 13,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
-      "year": 2026,
-      "days": 32,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt38235625",
       "name": "Boulevard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
       "rating": 8.063,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32357218",
+      "name": "Shelter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
+      "rating": 7.669,
+      "year": 2026,
+      "days": 33,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt22202450",
-      "name": "Escobank",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oeaKqM10h6OLS6JuPj6JEdQipUC.jpg",
-      "rating": 5.6,
-      "year": 2025,
+      "id": "tt36934619",
+      "name": "Perfect Match",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5Dk5KHdHNSt6po6qUVVm95kpqSa.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n95iyADX43EYYIRkY0UhG1ufKB6.jpg",
       "rating": 6.593,
       "year": 2025,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt36934619",
-      "name": "Perfect Match",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5Dk5KHdHNSt6po6qUVVm95kpqSa.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": null,
+      "id": "tt22202450",
+      "name": "Escobank",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oeaKqM10h6OLS6JuPj6JEdQipUC.jpg",
+      "rating": 5.6,
+      "year": 2025,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0

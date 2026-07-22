@@ -2,15 +2,15 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
-      "id": "tt19847976",
-      "name": "Wicked : Partie II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
-      "rating": 6.625,
-      "year": 2025,
+      "id": "tt4996328",
+      "name": "Ordinary Angels",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1NW0Ily0RyCPad1sNd2rl3W3LUc.jpg",
+      "rating": 7.689,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "new",
@@ -24,62 +24,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt36364892",
-      "name": "Mon père, un meurtrier ?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
-      "rating": 5,
-      "year": 2025,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt1392170",
-      "name": "Hunger Games",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
-      "rating": 7.224,
-      "year": 2012,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 5,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 11,
+      "rank": 3,
+      "id": "tt19847976",
+      "name": "Wicked : Partie II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
+      "rating": 6.625,
+      "year": 2025,
+      "days": 2,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 6,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 76,
+      "rank": 4,
+      "id": "tt36364892",
+      "name": "Mon père, un meurtrier ?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+      "rating": 5,
+      "year": 2025,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt1392170",
+      "name": "Hunger Games",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
+      "rating": 7.224,
+      "year": 2012,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,20 +89,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
       "rating": 7.427,
       "year": 2013,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt10545296",
-      "name": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q4EDvPcf956FgakWwcXiWdQEgxU.jpg",
-      "rating": 6.976,
-      "year": 2023,
-      "days": 7,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 77,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
       "rating": 2.909,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 32,
+      "days": 33,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

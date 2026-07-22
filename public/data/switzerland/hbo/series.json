@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -26,8 +26,8 @@
       "year": 2013,
       "days": 57,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oD1JuejHVuDfq5qSOGmBO5OlGEo.jpg",
       "rating": 7.459,
       "year": 2003,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -52,8 +52,8 @@
       "year": 2026,
       "days": 23,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vVhx4SP0eyDOmYRJdUNIQ24fGL5.jpg",
       "rating": 7.3,
       "year": 2024,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 37,
+      "days": 38,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
       "rating": 8.125,
       "year": 2008,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -104,8 +104,8 @@
       "year": 2023,
       "days": 34,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jre6pjAGc10l1r5ORUhN1akKZA2.jpg",
       "rating": 7.561,
       "year": 2012,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg",
       "rating": 8.164,
       "year": 2024,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

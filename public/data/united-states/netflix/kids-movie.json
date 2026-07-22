@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
       "rating": 6.625,
       "year": 2025,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 582,
+      "days": 583,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wpLqm3ZjYAu83MGABSVzJS7Cy3G.jpg",
       "rating": 5.751,
       "year": 2013,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 389,
+      "days": 390,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
       "rating": 7.3,
       "year": 2022,
-      "days": 114,
+      "days": 115,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 67,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt3469046",
       "name": "Moi, moche et méchant 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
       "rating": 6.468,
       "year": 2017,
-      "days": 233,
+      "days": 234,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
+      "year": 2026,
+      "days": 68,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
       "rating": 6.787,
       "year": 2015,
-      "days": 283,
+      "days": 284,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cn7mFB0sCeQJO8MAyl15yFp0rpc.jpg",
       "rating": 6.322,
       "year": 2016,
-      "days": 502,
+      "days": 503,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt5220122",
-      "name": "Hôtel Transylvanie 3 : Des vacances monstrueuses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1LxO3gfe1YCXWD8zHEQXuPlOBye.jpg",
-      "rating": 6.851,
-      "year": 2018,
-      "days": 109,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 69,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

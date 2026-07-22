@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "apple",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 220,
+      "days": 221,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,27 +19,27 @@
     },
     {
       "rank": 2,
-      "id": "tt13287846",
-      "name": "Napoléon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
-      "rating": 6.304,
-      "year": 2023,
-      "days": 352,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt24169886",
       "name": "The Instigators",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 336,
+      "days": 337,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt13287846",
+      "name": "Napoléon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
+      "rating": 6.304,
+      "year": 2023,
+      "days": 353,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 501,
+      "days": 502,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 101,
+      "days": 102,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt34276058",
-      "name": "The Family Plan 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
-      "rating": 6.539,
-      "year": 2025,
-      "days": 232,
+      "id": "tt16431870",
+      "name": "The Family Plan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
+      "rating": 7.211,
+      "year": 2023,
+      "days": 650,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt16431870",
-      "name": "The Family Plan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
-      "rating": 7.211,
-      "year": 2023,
-      "days": 649,
+      "id": "tt34276058",
+      "name": "The Family Plan 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
+      "rating": 6.539,
+      "year": 2025,
+      "days": 233,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
       "rating": 7.421,
       "year": 2020,
-      "days": 551,
+      "days": 552,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 331,
+      "days": 332,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
       "rating": 7.715,
       "year": 2022,
-      "days": 510,
+      "days": 511,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

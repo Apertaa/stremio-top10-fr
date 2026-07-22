@@ -2,67 +2,41 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
-      "id": "tt10374610",
-      "name": "Marche ou crève",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
-      "rating": 6.89,
-      "year": 2025,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt14107334",
       "name": "Running Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt10374610",
+      "name": "Marche ou crève",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
+      "rating": 6.89,
+      "year": 2025,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 3,
-      "id": "tt23572848",
-      "name": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oCakNGooFW6WCQnVISBUuSRkaYw.jpg",
-      "rating": 6.808,
-      "year": 2025,
-      "days": 7,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt33244668",
-      "name": "Anaconda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
-      "rating": 5.876,
-      "year": 2025,
-      "days": 16,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt38238651",
-      "name": "The Internship",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
-      "rating": 6.74,
-      "year": 2026,
+      "id": "tt33240811",
+      "name": "The Party's Over",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vJa5OZv0QOnGgzTSmiLTm7tIyjp.jpg",
+      "rating": null,
+      "year": null,
       "days": null,
       "trend": {
         "dir": "new",
@@ -70,16 +44,42 @@
       }
     },
     {
-      "rank": 6,
-      "id": "tt27847051",
-      "name": "L'Agent secret",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vtZn6G9Iah5gGfdrjm7aqZMsKfG.jpg",
-      "rating": 7.234,
-      "year": 2025,
-      "days": 11,
+      "rank": 4,
+      "id": "tt38238651",
+      "name": "The Internship",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
+      "rating": 6.74,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33244668",
+      "name": "Anaconda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
+      "rating": 5.876,
+      "year": 2025,
+      "days": 17,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt31158398",
+      "name": "Marius et les Gardiens de la Cité Phocéenne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1fZnhn0SmHztpsHPu8BybUCPbDT.jpg",
+      "rating": 4.6,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

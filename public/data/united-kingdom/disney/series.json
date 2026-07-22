@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "disney",
   "list": "series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,41 +32,41 @@
     },
     {
       "rank": 3,
-      "id": "tt42027958",
-      "name": "The Cult of NatureBoy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9I5vN4vTEA8NWjr9J6iVrFnqo99.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt35728748",
       "name": "Alice et Steve",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90StjTgxw3TS3GxPn1VYmQmclqt.jpg",
       "rating": 6.8,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "tt21906238",
       "name": "Rivals",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bwFoHcbBOk5tbc5oGq8qBy0lVaJ.jpg",
       "rating": 7.4,
       "year": 2024,
-      "days": 75,
+      "days": 76,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt42027958",
+      "name": "The Cult of NatureBoy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9I5vN4vTEA8NWjr9J6iVrFnqo99.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,6 +76,45 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
+      "days": 32,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
+      "year": 2022,
+      "days": 21,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
       "days": 31,
       "trend": {
         "dir": "up",
@@ -83,52 +122,13 @@
       }
     },
     {
-      "rank": 7,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 18,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt7801964",
-      "name": "Manhunt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLjUC3ze3WxCFhg4GDbcwLRSgvJ.jpg",
-      "rating": 7.12,
-      "year": 2019,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt31613279",
-      "name": "The Twisted Tale of Amanda Knox",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMAZK6CDb8T07qO8ay2WbDGNY3F.jpg",
-      "rating": 6.702,
-      "year": 2025,
-      "days": 1,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 30,
+      "id": "tt35617850",
+      "name": "Fox Hollow: Le repaire du tueur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gkd7njRdLo1EXGTPQVPPabDcGzx.jpg",
+      "rating": 6.3,
+      "year": 2025,
+      "days": 10,
       "trend": {
         "dir": "new",
         "delta": null

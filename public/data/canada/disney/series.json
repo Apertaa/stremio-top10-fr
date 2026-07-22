@@ -2,32 +2,32 @@
   "country": "canada",
   "key": "disney",
   "list": "series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
-      "id": "tt40367753",
-      "name": "Dancing with the Stars: The Next Pro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tmdb:328337",
       "name": "Bluey Compilations",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt40367753",
+      "name": "Dancing with the Stars: The Next Pro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PXOiitVzyOEwN6azOkxdWfsSgN.jpg",
       "rating": null,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 47,
+      "days": 48,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt10862280",
-      "name": "Spidey et ses amis extraordinaires",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3GAktESDOCOWUgxBdaWGUcyNgtf.jpg",
-      "rating": 7.1,
-      "year": 2021,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt22091076",
       "name": "High Potential",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 58,
+      "days": 59,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt10862280",
+      "name": "Spidey et ses amis extraordinaires",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3GAktESDOCOWUgxBdaWGUcyNgtf.jpg",
+      "rating": 7.1,
+      "year": 2021,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

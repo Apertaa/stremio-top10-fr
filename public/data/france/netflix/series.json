@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
       "rating": 7.3,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,67 +32,67 @@
     },
     {
       "rank": 3,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 12,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt38734636",
       "name": "Oasis",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 32,
+      "days": 33,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
+      "rank": 4,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
       "year": 2026,
-      "days": 25,
+      "days": 13,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt35051401",
       "name": "Le Palais de l'Est",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xIFTryxfZE6AxPULZ6BNxXs8w7.jpg",
       "rating": 7.667,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0185103",
+      "name": "Raw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "rating": 6.816,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 7,
-      "id": "tt40247521",
-      "name": "Spooky in Love",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
-      "rating": 7,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
       "year": 2026,
-      "days": 3,
+      "days": 26,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybCkQBSy2PufXE06DUAEM75UZlN.jpg",
       "rating": 7.333,
       "year": 2025,
-      "days": 34,
+      "days": 35,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt40247521",
+      "name": "Spooky in Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt9018736",
       "name": "Avatar : Le dernier maître de l'air",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 52,
+      "days": 53,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt34809853",
-      "name": "Que ça vous serve de leçon !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
-      "rating": 9.478,
-      "year": 2026,
-      "days": 45,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

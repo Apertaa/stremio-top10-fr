@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 825,
+      "days": 826,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 362,
+      "days": 363,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 66,
+      "id": "tt0364845",
+      "name": "NCIS : Enquêtes Spéciales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
+      "rating": 7.619,
+      "year": 2003,
+      "days": 876,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
       "rating": 6.813,
       "year": 1996,
-      "days": 732,
+      "days": 733,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,51 +58,51 @@
     },
     {
       "rank": 5,
-      "id": "tt0364845",
-      "name": "NCIS : Enquêtes Spéciales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "rating": 7.619,
-      "year": 2003,
-      "days": 875,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 67,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 6,
-      "id": "tt0251497",
-      "name": "Big Brother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
-      "rating": 4.872,
-      "year": 2000,
-      "days": 137,
+      "id": "tt14321632",
+      "name": "All the Queen's Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
+      "rating": 8.39,
+      "year": 2021,
+      "days": 31,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 7,
-      "id": "tt6294706",
-      "name": "The Chi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
-      "rating": 7.897,
-      "year": 2018,
-      "days": 206,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt13111078",
       "name": "Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
       "rating": 7.991,
       "year": 2023,
-      "days": 132,
+      "days": 133,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt6294706",
+      "name": "The Chi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+      "rating": 7.897,
+      "year": 2018,
+      "days": 207,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
       "rating": 8.157,
       "year": 2024,
-      "days": 277,
+      "days": 278,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 827,
+      "days": 828,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

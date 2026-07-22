@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
-      "id": "tt14557188",
-      "name": "Soft & Quiet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AePNbI18Ol65Dx7sVZfwQ8ivArX.jpg",
-      "rating": 6.433,
-      "year": 2022,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt12037194",
       "name": "Furiosa — Une saga Mad Max",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
       "rating": 7.454,
       "year": 2024,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt14557188",
+      "name": "Soft & Quiet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AePNbI18Ol65Dx7sVZfwQ8ivArX.jpg",
+      "rating": 6.433,
+      "year": 2022,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt15239678",
-      "name": "Dune : Deuxième partie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 37,
+      "id": "tt5013056",
+      "name": "Dunkerque",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
+      "rating": 7.452,
+      "year": 2017,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
       "rating": 6.9,
       "year": 2023,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt5013056",
-      "name": "Dunkerque",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
-      "rating": 7.452,
-      "year": 2017,
-      "days": 8,
+      "id": "tt0361748",
+      "name": "Inglourious Basterds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
+      "rating": 8.217,
+      "year": 2009,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 7,
-      "id": "tt31728330",
-      "name": "They Will Kill You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "rating": 7.046,
-      "year": 2026,
-      "days": 38,
+      "id": "tt1160419",
+      "name": "Dune - Première partie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
+      "rating": 7.8,
+      "year": 2021,
+      "days": 14,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt0482571",
-      "name": "Le Prestige",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
-      "rating": 8.208,
-      "year": 2006,
-      "days": 22,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt1375666",
       "name": "Inception",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
       "rating": 8.4,
       "year": 2010,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0482571",
+      "name": "Le Prestige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
+      "rating": 8.208,
+      "year": 2006,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt1392190",
-      "name": "Mad Max : Fury Road",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
-      "rating": 7.634,
-      "year": 2015,
-      "days": 22,
+      "id": "tt31728330",
+      "name": "They Will Kill You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": 39,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

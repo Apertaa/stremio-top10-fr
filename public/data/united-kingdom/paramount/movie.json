@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt37577501",
-      "name": "The Girl Who Survived: The Alina Thompson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
-      "rating": 8.7,
+      "id": "tt4419684",
+      "name": "In the Lost Lands",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
+      "rating": 6.367,
       "year": 2025,
-      "days": 52,
+      "days": 4,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt4419684",
-      "name": "In the Lost Lands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
-      "rating": 6.367,
+      "id": "tt37577501",
+      "name": "The Girl Who Survived: The Alina Thompson Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
+      "rating": 8.7,
       "year": 2025,
-      "days": 3,
+      "days": 53,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 109,
+      "days": 110,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
       "rating": 5.821,
       "year": 2025,
-      "days": 38,
+      "days": 39,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
       "rating": 7.302,
       "year": 2016,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
+      "id": "tt7574556",
+      "name": "Dead of Winter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+      "rating": 6.4,
+      "year": 2025,
+      "days": 109,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt25602750",
       "name": "The Girl Who Escaped: The Kara Robinson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
       "rating": 7.111,
       "year": 2023,
-      "days": 405,
+      "days": 406,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt6300910",
-      "name": "La Dernière Chevauchée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j1AtfNtJ739ub5FBidj3LGwGSN1.jpg",
-      "rating": 6.312,
-      "year": 2025,
-      "days": 65,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "delta": 1
       }
     }
   ]

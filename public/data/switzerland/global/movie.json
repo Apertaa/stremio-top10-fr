@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "global",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
       "rating": 6.607,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
       "rating": 7.036,
       "year": 2023,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,38 +45,38 @@
     },
     {
       "rank": 4,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt41983440",
       "name": "23 000 vies",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
       "rating": 2.909,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt43595399",
+      "name": "La dérive : Cauchemar en mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
       "year": 2026,
-      "days": 20,
+      "days": 33,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,14 +84,14 @@
     },
     {
       "rank": 7,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
       "year": 2026,
-      "days": 32,
+      "days": 21,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/egTz53AbnxT5PK2qhIkznEoIMfB.jpg",
       "rating": 6.41,
       "year": 2022,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
       "rating": 5.485,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
       "rating": 6.539,
       "year": 2026,
-      "days": 45,
+      "days": 46,
       "trend": {
         "dir": "same",
         "delta": 0

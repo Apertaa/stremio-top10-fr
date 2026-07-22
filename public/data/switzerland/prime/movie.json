@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,102 +19,37 @@
     },
     {
       "rank": 2,
+      "id": "tt14850054",
+      "name": "Greenland : Migration",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g1kyyNhgEWRxYQvd5MXwM1URUNf.jpg",
+      "rating": 6.447,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt38235625",
       "name": "Boulevard",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
       "rating": 8.063,
       "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt36153493",
-      "name": "Wildcat",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
-      "rating": 6.184,
-      "year": 2025,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt1464335",
-      "name": "Uncharted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
-      "rating": 6.886,
-      "year": 2022,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
-      "year": 2026,
-      "days": 33,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 26,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 60,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt32434379",
-      "name": "À contre-sens : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
-      "rating": 7.402,
+      "rank": 4,
+      "id": "tt36153493",
+      "name": "Wildcat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "rating": 6.184,
       "year": 2025,
-      "days": 834,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt21478426",
-      "name": "Life After Fighting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcf965PrbcIjFO6n3IIrSv09thh.jpg",
-      "rating": 7.294,
-      "year": 2024,
       "days": 4,
       "trend": {
         "dir": "down",
@@ -122,16 +57,81 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 5,
+      "id": "tt1464335",
+      "name": "Uncharted",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
+      "rating": 6.886,
+      "year": 2022,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
+      "year": 2026,
+      "days": 34,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt34378301",
+      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": 61,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt33311244",
       "name": "À contre-sens 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
       "rating": 7.374,
       "year": 2025,
-      "days": 218,
+      "days": 219,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt32434379",
+      "name": "À contre-sens : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
+      "rating": 7.402,
+      "year": 2025,
+      "days": 835,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

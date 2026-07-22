@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 100,
+      "days": 101,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/67IWX8vXTSTCOvHFWarxYM3vlNf.jpg",
       "rating": 6,
       "year": 2014,
-      "days": 305,
+      "days": 306,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 904,
+      "days": 905,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
       "rating": 7.564,
       "year": 2009,
-      "days": 95,
+      "days": 96,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 105,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 866,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 106,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt9018736",
+      "name": "Avatar : Le dernier maître de l'air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "rating": 7.813,
+      "year": 2024,
+      "days": 94,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt1884856",
       "name": "Masha et Michka",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
       "rating": 6.843,
       "year": 2009,
-      "days": 631,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 865,
+      "days": 632,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 9,
-      "id": "tt9165438",
-      "name": "Gabby et la maison magique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
-      "rating": 7.9,
-      "year": 2021,
-      "days": 869,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.813,
-      "year": 2024,
-      "days": 93,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 372,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

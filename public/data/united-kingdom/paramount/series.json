@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "series",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9vCFSNwql5Be5W1LrS7hGVZYnbm.jpg",
       "rating": 6.6,
       "year": 2025,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9uW1W9q0zKPzPdRwIcL3eCDJsfw.jpg",
       "rating": 7.1,
       "year": 2021,
-      "days": 17,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 757,
+      "days": 758,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,33 +50,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 66,
+      "days": 67,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 765,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt26656917",
       "name": "The Agency",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 69,
+      "days": 70,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 766,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3yNdTnt8OQXQHXQbHjFS5G8g2zN.jpg",
       "rating": 7.198,
       "year": 2016,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
       "rating": 8.157,
       "year": 2024,
-      "days": 306,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt6473344",
-      "name": "SEAL Team",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
-      "rating": 8.031,
-      "year": 2017,
-      "days": 25,
+      "days": 307,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 9,
+      "id": "tt0106004",
+      "name": "Frasier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+      "rating": 7.685,
+      "year": 1993,
+      "days": 752,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt0364845",
-      "name": "NCIS : Enquêtes Spéciales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "rating": 7.619,
-      "year": 2003,
-      "days": 285,
+      "id": "tt6473344",
+      "name": "SEAL Team",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
+      "rating": 8.031,
+      "year": 2017,
+      "days": 26,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     }
   ]

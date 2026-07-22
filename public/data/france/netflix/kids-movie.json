@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
       "rating": 6.258,
       "year": 2009,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 391,
+      "days": 392,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,36 +37,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 80,
+      "days": 81,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 527,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt0373051",
       "name": "Voyage au centre de la Terre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13nazOP4XA0OFCkrkUqdc38GKGT.jpg",
       "rating": 6.09,
       "year": 2008,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 526,
-      "trend": {
-        "dir": "same",
-        "delta": 0
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
       "rating": 6.968,
       "year": 2025,
-      "days": 199,
+      "days": 200,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,33 +89,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt1860353",
-      "name": "Turbo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
-      "rating": 6.271,
-      "year": 2013,
-      "days": 70,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt22184976",
       "name": "Minions et compagnie - La compil' n° 1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
       "rating": 7.028,
       "year": 2022,
-      "days": 97,
+      "days": 98,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1860353",
+      "name": "Turbo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDC08RXG8XNsmrVHaEBAeAM17Bl.jpg",
+      "rating": 6.271,
+      "year": 2013,
+      "days": 71,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dh4Yn148qvKGFFrRh0E6dzT4pVa.jpg",
       "rating": 5.949,
       "year": 2020,
-      "days": 30,
+      "days": 31,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
       "rating": 7.765,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
       "rating": 6.241,
       "year": 2025,
-      "days": 12,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 26,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 45,
+      "days": 46,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,27 +84,27 @@
     },
     {
       "rank": 7,
-      "id": "tt9150192",
-      "name": "A Working Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
-      "rating": 6.694,
-      "year": 2025,
-      "days": 145,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt0250494",
       "name": "La Revanche d'une blonde",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aMABGROiUW30VGXGcaDhmi4FmPy.jpg",
       "rating": 6.817,
       "year": 2001,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt9150192",
+      "name": "A Working Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
+      "rating": 6.694,
+      "year": 2025,
+      "days": 146,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt14264694",
-      "name": "Worldbreaker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
-      "rating": 6.1,
-      "year": 2025,
-      "days": 31,
+      "id": "tt1213641",
+      "name": "First Man - Le Premier Homme sur la Lune",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/txUD2EzyNnPIX3dFb7jbKqAQTbm.jpg",
+      "rating": 7.044,
+      "year": 2018,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -1,4 +1,14 @@
 {
+  "300": {
+    "tmdbId": 1271,
+    "tmdbType": "movie",
+    "imdbId": "tt0416449",
+    "titleFr": "300",
+    "year": 2007,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hGZ9sDGcekhJUFmu3NnOhRT8uQS.jpg",
+    "rating": 7.207,
+    "ts": "2026-07-22"
+  },
   "10-days-without-mum": {
     "tmdbId": 605735,
     "tmdbType": "movie",
@@ -158,6 +168,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/udWs6ermyg8Cxba2fpNrNTNYyaK.jpg",
     "rating": 9,
     "ts": "2026-07-19"
+  },
+  "a-cinderella-story": {
+    "tmdbId": 11247,
+    "tmdbType": "movie",
+    "imdbId": "tt0356470",
+    "titleFr": "Comme Cendrillon",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wRP4HwILp2AnbzoS1NMNmaTavk1.jpg",
+    "rating": 6.6,
+    "ts": "2026-07-22"
   },
   "a-dangerous-son": {
     "tmdbId": 522773,
@@ -1138,6 +1158,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
     "rating": 8.5,
     "ts": "2026-06-19"
+  },
+  "brothers-under-fire": {
+    "tmdbId": 1414413,
+    "tmdbType": "movie",
+    "imdbId": "tt32394984",
+    "titleFr": "Ligne de feu",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
+    "rating": 5.871,
+    "ts": "2026-07-22"
   },
   "bullet-2014": {
     "tmdbId": 169298,
@@ -2959,6 +2989,16 @@
     "rating": 8.615,
     "ts": "2026-07-04"
   },
+  "greenland-2-migration": {
+    "tmdbId": 840464,
+    "tmdbType": "movie",
+    "imdbId": "tt14850054",
+    "titleFr": "Greenland : Migration",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/g1kyyNhgEWRxYQvd5MXwM1URUNf.jpg",
+    "rating": 6.447,
+    "ts": "2026-07-22"
+  },
   "greyhound": {
     "tmdbId": 516486,
     "tmdbType": "movie",
@@ -3759,6 +3799,16 @@
     "rating": 5.821,
     "ts": "2026-06-20"
   },
+  "king-of-the-hill": {
+    "tmdbId": 2122,
+    "tmdbType": "tv",
+    "imdbId": "tt0118375",
+    "titleFr": "Les Rois du Texas",
+    "year": 1997,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/35UNjudjCBNzwEAqHGgk1cppQhp.jpg",
+    "rating": 7.408,
+    "ts": "2026-07-22"
+  },
   "kissing-is-the-easy-part": {
     "tmdbId": 1515615,
     "tmdbType": "movie",
@@ -4159,6 +4209,16 @@
     "rating": 6.3,
     "ts": "2026-06-24"
   },
+  "loki": {
+    "tmdbId": 84958,
+    "tmdbType": "tv",
+    "imdbId": "tt9140554",
+    "titleFr": "Loki",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
+    "rating": 8.171,
+    "ts": "2026-07-22"
+  },
   "lol-last-one-laughing": {
     "tmdbId": 122241,
     "tmdbType": "tv",
@@ -4488,6 +4548,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/vnxkopX2BRNlUbE5xtb6S62eSN6.jpg",
     "rating": 7.928,
     "ts": "2026-06-20"
+  },
+  "marius-the-treasure-hunters": {
+    "tmdbId": 1284484,
+    "tmdbType": "movie",
+    "imdbId": "tt31158398",
+    "titleFr": "Marius et les Gardiens de la Cité Phocéenne",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1fZnhn0SmHztpsHPu8BybUCPbDT.jpg",
+    "rating": 4.6,
+    "ts": "2026-07-22"
   },
   "mark-robers-crunchlabs": {
     "tmdbId": 306074,
@@ -5308,6 +5378,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1h7I0E9Bcqj2x033ud608kKrryI.jpg",
     "rating": 5.707,
     "ts": "2026-06-29"
+  },
+  "ordinary-angels": {
+    "tmdbId": 974036,
+    "tmdbType": "movie",
+    "imdbId": "tt4996328",
+    "titleFr": "Ordinary Angels",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1NW0Ily0RyCPad1sNd2rl3W3LUc.jpg",
+    "rating": 7.689,
+    "ts": "2026-07-22"
   },
   "our-fault": {
     "tmdbId": 1156594,
@@ -6989,6 +7069,16 @@
     "rating": 7.7,
     "ts": "2026-06-19"
   },
+  "tag-2018": {
+    "tmdbId": 455980,
+    "tmdbType": "movie",
+    "imdbId": "tt2854926",
+    "titleFr": "TAG",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+    "rating": 6.711,
+    "ts": "2026-07-22"
+  },
   "taken": {
     "tmdbId": 8681,
     "tmdbType": "movie",
@@ -7578,6 +7668,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
     "rating": 6.539,
     "ts": "2026-06-19"
+  },
+  "the-fantastic-4-first-steps": {
+    "tmdbId": 617126,
+    "tmdbType": "movie",
+    "imdbId": "tt10676052",
+    "titleFr": "Les 4 Fantastiques : Premiers Pas",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
+    "rating": 7,
+    "ts": "2026-07-22"
   },
   "the-fast-and-the-furious-2001": {
     "tmdbId": 9799,
@@ -8278,6 +8378,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qLQ3svpMpwL6tFFtFPQ2aIq4ohg.jpg",
     "rating": null,
     "ts": "2026-07-11"
+  },
+  "the-partys-over": {
+    "tmdbId": 1622049,
+    "tmdbType": "movie",
+    "imdbId": "tt33240811",
+    "titleFr": "The Party's Over",
+    "year": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/vJa5OZv0QOnGgzTSmiLTm7tIyjp.jpg",
+    "rating": null,
+    "ts": "2026-07-22"
   },
   "the-pendragon-cycle-rise-of-the-merlin": {
     "tmdbId": 235685,
@@ -9758,6 +9868,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
     "rating": 7.5,
     "ts": "2026-06-21"
+  },
+  "wwe-unreal": {
+    "tmdbId": 289485,
+    "tmdbType": "tv",
+    "imdbId": "tt36614693",
+    "titleFr": "WWE: Unreal",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+    "rating": 7.8,
+    "ts": "2026-07-22"
   },
   "x": {
     "tmdbId": 760104,

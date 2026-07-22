@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607211706",
+  "date": "202607221706",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,58 +24,6 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
       "rating": 5.796,
       "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt14670094",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
-      "rating": 6.439,
-      "year": 2023,
-      "days": 23,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 26,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt5834426",
-      "name": "Moonfall",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
-      "rating": 6.249,
-      "year": 2022,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt3659388",
-      "name": "Seul sur Mars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/51CqiKVStZ2YPx64iPs3LDDiQnt.jpg",
-      "rating": 7.703,
-      "year": 2015,
       "days": 3,
       "trend": {
         "dir": "same",
@@ -83,16 +31,68 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "id": "tt5834426",
+      "name": "Moonfall",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
+      "rating": 6.249,
+      "year": 2022,
+      "days": 12,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt14670094",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
+      "rating": 6.439,
+      "year": 2023,
+      "days": 24,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt0816711",
       "name": "World War Z",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
       "rating": 6.843,
       "year": 2013,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt3659388",
+      "name": "Seul sur Mars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/51CqiKVStZ2YPx64iPs3LDDiQnt.jpg",
+      "rating": 7.703,
+      "year": 2015,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 153,
+      "days": 154,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 64,
+      "days": 65,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 58,
+      "id": "tt0356470",
+      "name": "Comme Cendrillon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wRP4HwILp2AnbzoS1NMNmaTavk1.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 34,
       "trend": {
         "dir": "new",
         "delta": null
