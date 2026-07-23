@@ -2,42 +2,42 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202607221706",
+  "date": "202607231711",
   "entries": [
     {
       "rank": 1,
-      "id": "tt28249919",
-      "name": "Presence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n2MH5xiSS36f8pCTbehXlZq3WP0.jpg",
-      "rating": 6.113,
-      "year": 2025,
-      "days": 15,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt38238651",
       "name": "The Internship",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
       "rating": 6.74,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "tt19838566",
       "name": "Kraken",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
       "rating": 6.287,
       "year": 2026,
-      "days": 46,
+      "days": 47,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt28249919",
+      "name": "Presence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n2MH5xiSS36f8pCTbehXlZq3WP0.jpg",
+      "rating": 6.113,
+      "year": 2025,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -45,64 +45,64 @@
     },
     {
       "rank": 4,
-      "id": "tt32093575",
-      "name": "Scary Movie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-      "rating": 5.505,
-      "year": 2026,
-      "days": 36,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 456,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt9603212",
+      "name": "Mission : Impossible - Dead Reckoning Partie 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bdYbHxECXsN169pVrTz2TobFqXb.jpg",
+      "rating": 7.5,
+      "year": 2023,
+      "days": 76,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 5.505,
+      "year": 2026,
+      "days": 37,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt0257106",
       "name": "Scary Movie 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 36,
+      "days": 37,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 6,
-      "id": "tt9603212",
-      "name": "Mission : Impossible - Dead Reckoning Partie 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bdYbHxECXsN169pVrTz2TobFqXb.jpg",
-      "rating": 7.5,
-      "year": 2023,
-      "days": 75,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "id": "tt9218128",
       "name": "Gladiator II",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 99,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 455,
+      "days": 100,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
       "rating": 5.976,
       "year": 2003,
-      "days": 32,
+      "days": 33,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
       "rating": 7.17,
       "year": 2023,
-      "days": 125,
+      "days": 126,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

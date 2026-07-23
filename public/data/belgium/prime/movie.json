@@ -2,42 +2,42 @@
   "country": "belgium",
   "key": "prime",
   "list": "movie",
-  "date": "202607221706",
+  "date": "202607231711",
   "entries": [
     {
       "rank": 1,
+      "id": "tt0427340",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
+      "rating": 7.282,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt12042730",
       "name": "Projet Dernière Chance",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt19864802",
-      "name": "Land of Bad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yEafQw7Gl21nCQaFFCo2x07JK98.jpg",
-      "rating": 7.27,
-      "year": 2024,
-      "days": 15,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt38235625",
-      "name": "Boulevard",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
-      "rating": 8.063,
-      "year": 2026,
-      "days": 11,
+      "id": "tt19864802",
+      "name": "Land of Bad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yEafQw7Gl21nCQaFFCo2x07JK98.jpg",
+      "rating": 7.27,
+      "year": 2024,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
       "rating": 7.875,
       "year": 2021,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,25 +58,25 @@
     },
     {
       "rank": 5,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
+      "id": "tt38235625",
+      "name": "Boulevard",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
+      "rating": 8.063,
       "year": 2026,
-      "days": 27,
+      "days": 12,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 2
       }
     },
     {
       "rank": 6,
-      "id": "tt42483037",
-      "name": "Marave",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
-      "rating": 5.7,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
       "year": 2026,
-      "days": 13,
+      "days": 28,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 34,
+      "days": 35,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt42483037",
+      "name": "Marave",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
+      "rating": 5.7,
+      "year": 2026,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt2467046",
+      "name": "Le Chaos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5wwPaz255ixKW8ejcNR0gqQbZqK.jpg",
+      "rating": 4.292,
+      "year": 2014,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt2467046",
-      "name": "Le Chaos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5wwPaz255ixKW8ejcNR0gqQbZqK.jpg",
-      "rating": 4.292,
-      "year": 2014,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "id": "tt32357218",
       "name": "Shelter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 46,
+      "days": 47,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": 59,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

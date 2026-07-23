@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202607221706",
+  "date": "202607231711",
   "entries": [
     {
       "rank": 1,
@@ -11,6 +11,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1NW0Ily0RyCPad1sNd2rl3W3LUc.jpg",
       "rating": 7.689,
       "year": 2024,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt39538786",
+      "name": "Sniper : No Nation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
+      "rating": 6.607,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "new",
@@ -18,65 +31,52 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt41617470",
       "name": "Le Désir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "tt37042085",
+      "name": "Elize Surgie de l'Ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
+      "rating": 5.9,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt19847976",
       "name": "Wicked : Partie II",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
       "rating": 6.625,
       "year": 2025,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 4,
-      "id": "tt36364892",
-      "name": "Mon père, un meurtrier ?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
-      "rating": 5,
-      "year": 2025,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "id": "tt1392170",
       "name": "Hunger Games",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg",
       "rating": 7.224,
       "year": 2012,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 12,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt1951264",
-      "name": "Hunger Games : L'Embrasement",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
-      "rating": 7.427,
-      "year": 2013,
-      "days": 2,
+      "id": "tt36364892",
+      "name": "Mon père, un meurtrier ?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+      "rating": 5,
+      "year": 2025,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 77,
+      "days": 78,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt41983440",
-      "name": "23 000 vies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
-      "rating": 2.909,
-      "year": 2026,
-      "days": 4,
+      "id": "tt1951264",
+      "name": "Hunger Games : L'Embrasement",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
+      "rating": 7.427,
+      "year": 2013,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "same",
         "delta": 0

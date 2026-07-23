@@ -2,45 +2,45 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "movie",
-  "date": "202607221706",
+  "date": "202607231711",
   "entries": [
     {
       "rank": 1,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt27543632",
-      "name": "La Femme de ménage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
-      "rating": 7.266,
-      "year": 2025,
-      "days": 11,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt32394984",
-      "name": "Ligne de feu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
-      "rating": 5.871,
+      "id": "tt0427340",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
+      "rating": 7.282,
       "year": 2026,
       "days": null,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt27543632",
+      "name": "La Femme de ménage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
+      "rating": 7.266,
+      "year": 2025,
+      "days": 12,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
+      "id": "tt32394984",
+      "name": "Ligne de feu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
+      "rating": 5.871,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt36169378",
+      "name": "This Is Birmingham",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9KTIjgiA1LTVGjnMIAkFgn457qR.jpg",
+      "rating": 3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt32916440",
       "name": "Marty Supreme",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
       "rating": 7.375,
       "year": 2025,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt17505010",
-      "name": "Horizon : Une saga américaine - Chapitre 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uO0tsSHByL7bgJhV81eQZwp4hD6.jpg",
-      "rating": 6.81,
-      "year": 2024,
       "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt6467266",
       "name": "Tous en scène 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
       "rating": 7.833,
       "year": 2021,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt36153493",
       "name": "Wildcat",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
       "rating": 6.184,
       "year": 2025,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "down",
-        "delta": 5
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt29550683",
-      "name": "Le Sifflet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
-      "rating": 6.316,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt7888964",
-      "name": "Nobody",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
-      "rating": 7.875,
-      "year": 2021,
-      "days": 15,
+      "id": "tt17505010",
+      "name": "Horizon : Une saga américaine - Chapitre 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uO0tsSHByL7bgJhV81eQZwp4hD6.jpg",
+      "rating": 6.81,
+      "year": 2024,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 4
       }
     }
   ]

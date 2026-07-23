@@ -229,6 +229,16 @@
     "rating": 7.164,
     "ts": "2026-06-20"
   },
+  "a-killer-among-friends": {
+    "tmdbId": 294219,
+    "tmdbType": "tv",
+    "imdbId": "tt37522426",
+    "titleFr": "Ami ou Assassin ?",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eK2EsnQ7bSiSoRbUNENHtYf9WqU.jpg",
+    "rating": 8.438,
+    "ts": "2026-07-23"
+  },
   "a-knight-of-the-seven-kingdoms": {
     "tmdbId": 224372,
     "tmdbType": "tv",
@@ -998,6 +1008,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/kBNcuMkb2E2ULaaONhinn4rkDNl.jpg",
     "rating": 6.529,
     "ts": "2026-06-21"
+  },
+  "black-sails": {
+    "tmdbId": 47665,
+    "tmdbType": "tv",
+    "imdbId": "tt2375692",
+    "titleFr": "Black Sails",
+    "year": 2014,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/iakv0qM1MoPI12Zdo1CitO4VJ0Q.jpg",
+    "rating": 7.623,
+    "ts": "2026-07-23"
   },
   "blade": {
     "tmdbId": 36647,
@@ -2109,6 +2129,26 @@
     "rating": 6.906,
     "ts": "2026-06-28"
   },
+  "elite-force": {
+    "tmdbId": 281281,
+    "tmdbType": "tv",
+    "imdbId": "tt35495063",
+    "titleFr": "GIGN",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+    "rating": 6.7,
+    "ts": "2026-07-23"
+  },
+  "elize-shadows-of-a-woman": {
+    "tmdbId": 1487861,
+    "tmdbType": "movie",
+    "imdbId": "tt37042085",
+    "titleFr": "Elize Surgie de l'Ombre",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
+    "rating": 5.9,
+    "ts": "2026-07-23"
+  },
   "elle-2026": {
     "tmdbId": 254420,
     "tmdbType": "tv",
@@ -3199,6 +3239,16 @@
     "rating": 5.498,
     "ts": "2026-06-20"
   },
+  "holly-hobbie": {
+    "tmdbId": 89221,
+    "tmdbType": "tv",
+    "imdbId": "tt8602408",
+    "titleFr": "Holly Hobbie",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xqN1haLzynIyZHs0GmgRGQELA5m.jpg",
+    "rating": 8.4,
+    "ts": "2026-07-23"
+  },
   "home-2015": {
     "tmdbId": 228161,
     "tmdbType": "movie",
@@ -3729,6 +3779,16 @@
     "rating": 6.543,
     "ts": "2026-07-11"
   },
+  "jujutsu-kaisen": {
+    "tmdbId": 95479,
+    "tmdbType": "tv",
+    "imdbId": "tt12343534",
+    "titleFr": "Jujutsu Kaisen",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
+    "rating": 8.583,
+    "ts": "2026-07-23"
+  },
   "just-friends": {
     "tmdbId": 10033,
     "tmdbType": "movie",
@@ -3748,6 +3808,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
     "rating": 6.1,
     "ts": "2026-06-19"
+  },
+  "kerviel-un-trader-50-milliards": {
+    "tmdbId": 277028,
+    "tmdbType": "tv",
+    "imdbId": "tt34745910",
+    "titleFr": "Kerviel : Un trader, 50 milliards",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/vkY2rgC0XLS0Dhlvhx7MGZqSqpo.jpg",
+    "rating": 7.7,
+    "ts": "2026-07-23"
   },
   "kill": {
     "tmdbId": 1160018,
@@ -4629,6 +4699,16 @@
     "rating": 6.843,
     "ts": "2026-06-20"
   },
+  "masters-of-the-universe": {
+    "tmdbId": 454639,
+    "tmdbType": "movie",
+    "imdbId": "tt0427340",
+    "titleFr": "Les Maîtres de l'Univers",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
+    "rating": 7.282,
+    "ts": "2026-07-23"
+  },
   "maternal-instinct": {
     "tmdbId": 1699155,
     "tmdbType": "movie",
@@ -4998,6 +5078,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
     "rating": 8.2,
     "ts": "2026-06-20"
+  },
+  "my-daughters-father": {
+    "tmdbId": 280048,
+    "tmdbType": "tv",
+    "imdbId": "tt32777700",
+    "titleFr": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
+    "rating": 7.214,
+    "ts": "2026-07-23"
   },
   "my-fault": {
     "tmdbId": 1294203,
@@ -5478,6 +5568,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/ezRJ5yumJEK3l5EcyGfb0ZZJlzX.jpg",
     "rating": 7.479,
     "ts": "2026-06-22"
+  },
+  "palmer": {
+    "tmdbId": 458220,
+    "tmdbType": "movie",
+    "imdbId": "tt6857376",
+    "titleFr": "Palmer",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+    "rating": 8.122,
+    "ts": "2026-07-23"
   },
   "panic-room": {
     "tmdbId": 4547,
@@ -7229,6 +7329,16 @@
     "rating": 7.1,
     "ts": "2026-06-22"
   },
+  "the-amateur": {
+    "tmdbId": 1087891,
+    "tmdbType": "movie",
+    "imdbId": "tt0899043",
+    "titleFr": "The Amateur",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gIG2bPJ0E5rxvPWUTpEjw1NE3Su.jpg",
+    "rating": 6.927,
+    "ts": "2026-07-23"
+  },
   "the-amazing-digital-circus": {
     "tmdbId": 261145,
     "tmdbType": "tv",
@@ -7288,6 +7398,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/47iUmE2rZX2bzqeEm17iPWKaF2V.jpg",
     "rating": 6.112,
     "ts": "2026-07-01"
+  },
+  "the-avengers-2012": {
+    "tmdbId": 24428,
+    "tmdbType": "movie",
+    "imdbId": "tt0848228",
+    "titleFr": "Avengers",
+    "year": 2012,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/ylsAO88v2tF0iXRFojPa0UaAJf1.jpg",
+    "rating": 8.058,
+    "ts": "2026-07-23"
   },
   "the-banker": {
     "tmdbId": 627725,
@@ -8749,6 +8869,16 @@
     "rating": 8.227,
     "ts": "2026-06-19"
   },
+  "the-thundermans": {
+    "tmdbId": 58981,
+    "tmdbType": "tv",
+    "imdbId": "tt2712516",
+    "titleFr": "Les Thunderman",
+    "year": 2013,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/vTx1aljYcHYUKLvs2cKkoJruITu.jpg",
+    "rating": 8.011,
+    "ts": "2026-07-23"
+  },
   "the-town": {
     "tmdbId": 23168,
     "tmdbType": "movie",
@@ -8928,6 +9058,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
     "rating": 7.3,
     "ts": "2026-06-19"
+  },
+  "this-is-birmingham": {
+    "tmdbId": 1660400,
+    "tmdbType": "movie",
+    "imdbId": "tt36169378",
+    "titleFr": "This Is Birmingham",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9KTIjgiA1LTVGjnMIAkFgn457qR.jpg",
+    "rating": 3,
+    "ts": "2026-07-23"
   },
   "ticket-to-paradise": {
     "tmdbId": 800939,
