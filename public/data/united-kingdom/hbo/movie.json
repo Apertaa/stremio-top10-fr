@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1pnigkWWy8W032o9TKDneBa3eVK.jpg",
       "rating": 8.482,
       "year": 2014,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg",
       "rating": 6.84,
       "year": 1998,
-      "days": 26,
+      "days": 27,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
       "rating": 7.8,
       "year": 2021,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
       "rating": 8.4,
       "year": 2010,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hGZ9sDGcekhJUFmu3NnOhRT8uQS.jpg",
       "rating": 7.207,
       "year": 2007,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt6723592",
-      "name": "Tenet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/72SOtZnFhCumLRZhoXlX8g2IkgF.jpg",
-      "rating": 7.176,
-      "year": 2020,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0118655",
       "name": "Austin Powers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqbYNe6ILOWGLE6CBmTVi11Zbz7.jpg",
       "rating": 6.598,
       "year": 1997,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt6723592",
+      "name": "Tenet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/72SOtZnFhCumLRZhoXlX8g2IkgF.jpg",
+      "rating": 7.176,
+      "year": 2020,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt41702551",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "rating": 1,
-      "year": 2026,
-      "days": 20,
+      "id": "tt0482571",
+      "name": "Le Prestige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
+      "rating": 8.208,
+      "year": 2006,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

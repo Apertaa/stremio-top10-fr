@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "disney",
   "list": "series",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt31614348",
-      "name": "Famille en réparation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
-      "rating": 6.406,
-      "year": 2025,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt35466672",
       "name": "Malcolm : Rien n’a changé",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
       "rating": 8.072,
       "year": 2026,
-      "days": 95,
+      "days": 96,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt31614348",
+      "name": "Famille en réparation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
+      "rating": 6.406,
+      "year": 2025,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,36 +63,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
       "rating": 8.116,
       "year": 2001,
-      "days": 14,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 35,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt22091076",
       "name": "High Potential",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 95,
+      "days": 96,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 36,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
       "rating": 8.139,
       "year": 2022,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt23731346",
-      "name": "Princesse Sofia : Apprentie magicienne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
-      "rating": 9.4,
-      "year": 2026,
-      "days": 13,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gauhh2Gj0YaZKFR0XLrnRRKpjJE.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 50,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "series",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
       "rating": 7.3,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,46 +50,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 14,
+      "id": "tt32777700",
+      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
+      "rating": 7.214,
+      "year": 2025,
+      "days": 1,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt28088031",
+      "name": "Nouvelle vie à Ransom Canyon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
+      "rating": 7.2,
+      "year": 2025,
+      "days": 19,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt35051401",
       "name": "Le Palais de l'Est",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xIFTryxfZE6AxPULZ6BNxXs8w7.jpg",
       "rating": 7.667,
       "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 27,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt33059022",
-      "name": "Trouble du jugement",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybCkQBSy2PufXE06DUAEM75UZlN.jpg",
-      "rating": 7.333,
-      "year": 2025,
-      "days": 36,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
+      "year": 2026,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt9018736",
-      "name": "Avatar : Le dernier maître de l'air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "rating": 7.79,
-      "year": 2024,
-      "days": 54,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 28,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt34809853",
-      "name": "Que ça vous serve de leçon !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FN0FAhkMeGmU3xAn4D1FmMJvtZ.jpg",
-      "rating": 9.478,
-      "year": 2026,
-      "days": 45,
+      "id": "tt12343534",
+      "name": "Jujutsu Kaisen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
+      "rating": 8.583,
+      "year": 2020,
+      "days": 14,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

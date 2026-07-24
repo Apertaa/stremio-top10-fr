@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 49,
+      "days": 50,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 70,
+      "days": 71,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
       "rating": 7.394,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt39779622",
-      "name": "Jesy Nelson: Life After Little Mix",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0WO1ak3FEXiwhXhZMtIAPTZEXD.jpg",
-      "rating": 6.3,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt33055254",
       "name": "Au fil des années",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 42,
+      "days": 43,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt39779622",
+      "name": "Jesy Nelson: Life After Little Mix",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0WO1ak3FEXiwhXhZMtIAPTZEXD.jpg",
+      "rating": 6.3,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 105,
+      "days": 106,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 54,
+      "days": 55,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 212,
+      "days": 213,
       "trend": {
         "dir": "same",
         "delta": 0

@@ -2,45 +2,45 @@
   "country": "switzerland",
   "key": "prime",
   "list": "movie",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
+      "id": "tt0427340",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
+      "rating": 7.282,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt12042730",
       "name": "Projet Dernière Chance",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt14850054",
       "name": "Greenland : Migration",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g1kyyNhgEWRxYQvd5MXwM1URUNf.jpg",
       "rating": 6.447,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt38235625",
-      "name": "Boulevard",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
-      "rating": 8.063,
-      "year": 2026,
-      "days": 12,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
       "rating": 6.184,
       "year": 2025,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
       "rating": 6.886,
       "year": 2022,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt0427340",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
-      "rating": 7.282,
+      "id": "tt38235625",
+      "name": "Boulevard",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
+      "rating": 8.063,
       "year": 2026,
-      "days": null,
+      "days": 13,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -89,36 +89,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
       "rating": 7.623,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 28,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt32434379",
       "name": "À contre-sens : Londres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y9ii1qorIELEshaxaLuF2MlyRv.jpg",
       "rating": 7.402,
       "year": 2025,
-      "days": 836,
+      "days": 837,
       "trend": {
         "dir": "up",
         "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tmdb:1651369",
+      "name": "Your Fault",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 356,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 62,
+      "days": 63,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

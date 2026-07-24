@@ -2,123 +2,123 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "series",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
-      "rating": 8.3,
-      "year": 1997,
-      "days": 834,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 266,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 441,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 67,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt0165581",
-      "name": "Un gars du Queens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
-      "rating": 7.1,
-      "year": 1998,
-      "days": 841,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt12327578",
       "name": "Star Trek: Strange New Worlds",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
       "rating": 8,
       "year": 2022,
-      "days": 259,
+      "days": 260,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 5
       }
     },
     {
-      "rank": 7,
-      "id": "tt0773262",
-      "name": "Dexter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
-      "rating": 8.2,
-      "year": 2006,
-      "days": 476,
+      "rank": 2,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": 835,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 3,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 267,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 442,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt34991493",
+      "name": "Dutton Ranch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 68,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt26656917",
       "name": "The Agency",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
       "rating": 7.1,
       "year": 2024,
-      "days": 41,
+      "days": 42,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "rating": 8.3,
       "year": 2022,
-      "days": 683,
+      "days": 684,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0773262",
+      "name": "Dexter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
+      "rating": 8.2,
+      "year": 2006,
+      "days": 477,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0165581",
+      "name": "Un gars du Queens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+      "rating": 7.1,
+      "year": 1998,
+      "days": 842,
+      "trend": {
+        "dir": "down",
+        "delta": 4
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
       "rating": 7.781,
       "year": 1995,
-      "days": 297,
+      "days": 298,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

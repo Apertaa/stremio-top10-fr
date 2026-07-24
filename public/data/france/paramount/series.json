@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "series",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 832,
+      "days": 833,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 776,
+      "days": 777,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "rating": 8.3,
-      "year": 2018,
-      "days": 697,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt0452046",
       "name": "Esprits criminels",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 846,
+      "days": 847,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 698,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,23 +63,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 374,
+      "days": 375,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "rating": 8.3,
+      "id": "tt12327578",
+      "name": "Star Trek: Strange New Worlds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
+      "rating": 8,
       "year": 2022,
-      "days": 758,
+      "days": 103,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 839,
+      "days": 840,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "rating": 8.3,
+      "year": 2022,
+      "days": 759,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt0206512",
       "name": "Bob l'éponge",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 823,
+      "days": 824,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt34991493",
       "name": "Dutton Ranch",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 68,
+      "days": 69,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt36849871",
-      "name": "Marshals: A Yellowstone Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jPOKjzCG8tgUigtWyA4ME9fNeia.jpg",
-      "rating": 7.956,
-      "year": 2026,
-      "days": 88,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

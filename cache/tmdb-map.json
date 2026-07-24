@@ -279,6 +279,26 @@
     "rating": 8,
     "ts": "2026-06-19"
   },
+  "a-shop-for-killers": {
+    "tmdbId": 215072,
+    "tmdbType": "tv",
+    "imdbId": "tt26450613",
+    "titleFr": "A Shop for Killers",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gfw41bHY2boxVse5l8M6m0sft5n.jpg",
+    "rating": 8.4,
+    "ts": "2026-07-24"
+  },
+  "a-toxic-love-story": {
+    "tmdbId": 1723460,
+    "tmdbType": "movie",
+    "imdbId": "tt43619305",
+    "titleFr": "Amour et Machinations",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "rating": 7.167,
+    "ts": "2026-07-24"
+  },
   "a-working-man": {
     "tmdbId": 1197306,
     "tmdbType": "movie",
@@ -1999,6 +2019,16 @@
     "rating": 6.5,
     "ts": "2026-06-28"
   },
+  "drop-2025": {
+    "tmdbId": 1249213,
+    "tmdbType": "movie",
+    "imdbId": "tt32149847",
+    "titleFr": "Drop Game",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/frsYDd9alTNvX5vzyGjDgCQh80Y.jpg",
+    "rating": 6.324,
+    "ts": "2026-07-24"
+  },
   "dtf-st-louis": {
     "tmdbId": 206828,
     "tmdbType": "tv",
@@ -3429,6 +3459,16 @@
     "rating": 6.176,
     "ts": "2026-06-19"
   },
+  "i-know-what-you-did-last-summer-2025": {
+    "tmdbId": 1083433,
+    "tmdbType": "movie",
+    "imdbId": "tt4045450",
+    "titleFr": "Souviens-toi… l'été dernier",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
+    "rating": 5.66,
+    "ts": "2026-07-24"
+  },
   "i-will-find-you": {
     "tmdbId": 278178,
     "tmdbType": "tv",
@@ -3709,6 +3749,16 @@
     "rating": 7.682,
     "ts": "2026-06-19"
   },
+  "jay-pamela": {
+    "tmdbId": 285652,
+    "tmdbType": "tv",
+    "imdbId": "tt35668129",
+    "titleFr": "Jay & Pamela",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3k504ZZXKzphYAXSfO2gPnxkMcI.jpg",
+    "rating": null,
+    "ts": "2026-07-24"
+  },
   "jerry-marge-go-large": {
     "tmdbId": 843847,
     "tmdbType": "movie",
@@ -3808,6 +3858,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/eMlVBnd5NPHDJ3DkhMzokfnymAB.jpg",
     "rating": 6.1,
     "ts": "2026-06-19"
+  },
+  "kaulitz-kaulitz": {
+    "tmdbId": 254721,
+    "tmdbType": "tv",
+    "imdbId": "tt31806050",
+    "titleFr": "Kaulitz & Kaulitz",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dX7tkJn3EXcWZDNrOh2gxyFoIKg.jpg",
+    "rating": 8.25,
+    "ts": "2026-07-24"
   },
   "kerviel-un-trader-50-milliards": {
     "tmdbId": 277028,
@@ -4208,6 +4268,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
     "rating": 7.991,
     "ts": "2026-07-13"
+  },
+  "lip-switch": {
+    "tmdbId": 203984,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Lip Switch",
+    "year": 2020,
+    "posterUrl": null,
+    "rating": null,
+    "ts": "2026-07-24"
   },
   "little-angel-2022": {
     "tmdbId": 219004,
@@ -4709,6 +4779,16 @@
     "rating": 7.282,
     "ts": "2026-07-23"
   },
+  "masters-of-the-universe-1987": {
+    "tmdbId": 11649,
+    "tmdbType": "movie",
+    "imdbId": "tt0093507",
+    "titleFr": "Les Maîtres de l'Univers",
+    "year": 1987,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/b6RlX0L8k3eUT3hxMk58ZABesVR.jpg",
+    "rating": 5.827,
+    "ts": "2026-07-24"
+  },
   "maternal-instinct": {
     "tmdbId": 1699155,
     "tmdbType": "movie",
@@ -5109,6 +5189,16 @@
     "rating": 7.402,
     "ts": "2026-06-19"
   },
+  "my-grandfather-charles-manson": {
+    "tmdbId": 1728954,
+    "tmdbType": "movie",
+    "imdbId": "tt43660866",
+    "titleFr": "My Grandfather Charles Manson",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5oacwf8O9w7lX9j5ghUyiXfU8YD.jpg",
+    "rating": 7.333,
+    "ts": "2026-07-24"
+  },
   "my-mom-jayne": {
     "tmdbId": 1461714,
     "tmdbType": "movie",
@@ -5258,6 +5348,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/TIIk6p8BziUM5dh8DD048PmcHX.jpg",
     "rating": 7.951,
     "ts": "2026-06-25"
+  },
+  "no-reservations": {
+    "tmdbId": 3638,
+    "tmdbType": "movie",
+    "imdbId": "tt0481141",
+    "titleFr": "Le Goût de la vie",
+    "year": 2007,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
+    "rating": 6.707,
+    "ts": "2026-07-24"
   },
   "nobody": {
     "tmdbId": 615457,
@@ -6039,6 +6139,16 @@
     "rating": 6.457,
     "ts": "2026-06-20"
   },
+  "ransom-canyon": {
+    "tmdbId": 240993,
+    "tmdbType": "tv",
+    "imdbId": "tt28088031",
+    "titleFr": "Nouvelle vie à Ransom Canyon",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
+    "rating": 7.2,
+    "ts": "2026-07-24"
+  },
   "raw-1993": {
     "tmdbId": 4656,
     "tmdbType": "tv",
@@ -6799,6 +6909,16 @@
     "rating": 6.398,
     "ts": "2026-07-05"
   },
+  "spawn": {
+    "tmdbId": 10336,
+    "tmdbType": "movie",
+    "imdbId": "tt0120177",
+    "titleFr": "Spawn",
+    "year": 1997,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3svvunKXkhRvEKByGDua1Qu0otq.jpg",
+    "rating": 5.459,
+    "ts": "2026-07-24"
+  },
   "speak-no-evil-2024": {
     "tmdbId": 1114513,
     "tmdbType": "movie",
@@ -7138,6 +7258,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/8elSMubg98ySvWyru3SFy3paD2J.jpg",
     "rating": 6.761,
     "ts": "2026-07-03"
+  },
+  "survive-2024": {
+    "tmdbId": 1196470,
+    "tmdbType": "movie",
+    "imdbId": "tt27032708",
+    "titleFr": "Survivre",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/901kRttzfLScns7ss7RyKqG6d2A.jpg",
+    "rating": 5.9,
+    "ts": "2026-07-24"
   },
   "survivor-2000": {
     "tmdbId": 14658,
@@ -7679,6 +7809,16 @@
     "rating": 6.571,
     "ts": "2026-06-20"
   },
+  "the-debt-collector-2026": {
+    "tmdbId": 1630409,
+    "tmdbType": "movie",
+    "imdbId": "tt39749953",
+    "titleFr": "The Debt Collector",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+    "rating": 7.9,
+    "ts": "2026-07-24"
+  },
   "the-deuce": {
     "tmdbId": 65817,
     "tmdbType": "tv",
@@ -7698,6 +7838,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
     "rating": 7.434,
     "ts": "2026-06-20"
+  },
+  "the-dink": {
+    "tmdbId": 1361774,
+    "tmdbType": "movie",
+    "imdbId": "tt33499146",
+    "titleFr": "Les Fous du pickleball",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
+    "rating": 6.5,
+    "ts": "2026-07-24"
   },
   "the-doomies": {
     "tmdbId": 204137,
@@ -8309,6 +8459,16 @@
     "rating": 6.68,
     "ts": "2026-07-02"
   },
+  "the-lost-bus": {
+    "tmdbId": 1236470,
+    "tmdbType": "movie",
+    "imdbId": "tt21103218",
+    "titleFr": "The Lost Bus - Au cœur des flammes",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/cSU3FCDrgezl0JbBw2ryWwC1BWD.jpg",
+    "rating": 7.038,
+    "ts": "2026-07-24"
+  },
   "the-madison": {
     "tmdbId": 225891,
     "tmdbType": "tv",
@@ -8428,6 +8588,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/1683H347S0hWDctzvmzYKrl0GbJ.jpg",
     "rating": 6.317,
     "ts": "2026-07-18"
+  },
+  "the-mortician-2025": {
+    "tmdbId": 291926,
+    "tmdbType": "tv",
+    "imdbId": "tt36985714",
+    "titleFr": "The Mortician",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/kk7yD3zKANCa2xNZvNN9v2qHLCk.jpg",
+    "rating": 7.043,
+    "ts": "2026-07-24"
   },
   "the-mummy-1999": {
     "tmdbId": 564,
@@ -9499,6 +9669,16 @@
     "rating": 7.911,
     "ts": "2026-07-03"
   },
+  "until-dawn-2025": {
+    "tmdbId": 1232546,
+    "tmdbType": "movie",
+    "imdbId": "tt30955489",
+    "titleFr": "Until Dawn : La Mort sans fin",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/6UABPe0EWpSWhFnu8MuLXi6cQwB.jpg",
+    "rating": 6.276,
+    "ts": "2026-07-24"
+  },
   "upstairs-downstairs": {
     "tmdbId": 492,
     "tmdbType": "tv",
@@ -10128,6 +10308,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
     "rating": 7.014,
     "ts": "2026-06-28"
+  },
+  "zone-414": {
+    "tmdbId": 675319,
+    "tmdbType": "movie",
+    "imdbId": "tt8545482",
+    "titleFr": "Zone 414",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/fjtlMqX1QfiMvk8IgkKJR1vXzZ7.jpg",
+    "rating": 5.306,
+    "ts": "2026-07-24"
   },
   "zootopia-2022": {
     "tmdbId": 114463,

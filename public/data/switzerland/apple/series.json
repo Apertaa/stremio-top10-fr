@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "apple",
   "list": "series",
-  "date": "202607231711",
+  "date": "202607241719",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
       "rating": 5.455,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 386,
+      "days": 387,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 47,
+      "days": 48,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,36 +50,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
       "rating": 8.34,
       "year": 2020,
-      "days": 695,
+      "days": 696,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt16418808",
+      "name": "Sugar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "rating": 7.2,
+      "year": 2024,
+      "days": 96,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt10982034",
       "name": "Trying",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
       "rating": 7.6,
       "year": 2020,
-      "days": 15,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt16418808",
-      "name": "Sugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "rating": 7.2,
-      "year": 2024,
-      "days": 95,
+      "days": 16,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 47,
+      "days": 48,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
       "rating": 7.719,
       "year": 2025,
-      "days": 244,
+      "days": 245,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
       "rating": 7.743,
       "year": 2019,
-      "days": 366,
+      "days": 367,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
       "rating": 8.202,
       "year": 2026,
-      "days": 82,
+      "days": 83,
       "trend": {
         "dir": "same",
         "delta": 0
