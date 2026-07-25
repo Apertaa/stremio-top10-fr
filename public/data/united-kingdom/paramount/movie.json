@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 28,
+      "days": 29,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 55,
+      "days": 56,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,53 +58,53 @@
     },
     {
       "rank": 5,
-      "id": "tt4419684",
-      "name": "In the Lost Lands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
-      "rating": 6.367,
-      "year": 2025,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 112,
+      "days": 113,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt4419684",
+      "name": "In the Lost Lands",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
+      "rating": 6.367,
+      "year": 2025,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
+      "id": "tt34890320",
+      "name": "Preschool",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
+      "rating": 6.063,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt29101725",
       "name": "Killing Faith",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
       "rating": 5.821,
       "year": 2025,
-      "days": 41,
+      "days": 42,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt25602750",
-      "name": "The Girl Who Escaped: The Kara Robinson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
-      "rating": 7.111,
-      "year": 2023,
-      "days": 408,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
       "rating": 7.302,
       "year": 2016,
-      "days": 32,
+      "days": 33,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt7574556",
-      "name": "Dead of Winter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
-      "rating": 6.4,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
       "year": 2025,
-      "days": 111,
+      "days": 66,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "apple",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,33 +11,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 2,
-      "id": "tt24169886",
-      "name": "The Instigators",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
-      "rating": 6.142,
-      "year": 2024,
-      "days": 449,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt16311594",
       "name": "F1® Le Film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 224,
+      "days": 225,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt24169886",
+      "name": "The Instigators",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
+      "rating": 6.142,
+      "year": 2024,
+      "days": 450,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 422,
+      "days": 423,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 498,
+      "days": 499,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
       "rating": 7.421,
       "year": 2020,
-      "days": 829,
+      "days": 830,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 105,
+      "days": 106,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gR2JQZ1oc5KTFEVz3luwDdJztrU.jpg",
       "rating": 6.414,
       "year": 2025,
-      "days": 146,
+      "days": 147,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 156,
+      "days": 157,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
       "rating": 7.078,
       "year": 2025,
-      "days": 161,
+      "days": 162,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

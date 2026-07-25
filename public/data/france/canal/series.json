@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "series",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ihsjLndu3FrhDFGjdYY0bbhuD9R.jpg",
       "rating": 5.4,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 157,
+      "days": 158,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 166,
+      "days": 167,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
       "rating": 5.455,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,28 +58,28 @@
     },
     {
       "rank": 5,
-      "id": "tt34675596",
-      "name": "Cape Fear - Les Nerfs à vif",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 46,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt31909098",
       "name": "The Miniature Wife",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
       "rating": 7.446,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt34675596",
+      "name": "Cape Fear - Les Nerfs à vif",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
+      "rating": 6.6,
+      "year": 2026,
+      "days": 47,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 69,
+      "days": 70,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 66,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt31438328",
-      "name": "La ville nous appartient",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": 36,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
+      "year": 2022,
+      "days": 182,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 181,
+      "id": "tt31438328",
+      "name": "La ville nous appartient",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t5DFRgvXfrmx8TM2uAbkZvT3LDl.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": 37,
       "trend": {
         "dir": "down",
         "delta": 1

@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
       "rating": 7.361,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,54 +45,54 @@
     },
     {
       "rank": 4,
+      "id": "tt35003538",
+      "name": "EPiC: Elvis Presley in Concert",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "rating": 8.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt32537226",
       "name": "Hunting Season",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 27,
+      "days": 28,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt30908405",
       "name": "The Last Rodeo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
       "rating": 7.648,
       "year": 2025,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "tt1189340",
       "name": "La Défense Lincoln",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
       "rating": 7.209,
       "year": 2011,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt8367814",
-      "name": "The Gentlemen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
-      "rating": 7.661,
-      "year": 2020,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
       "rating": 6.74,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt34471850",
-      "name": "Protector",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-      "rating": 8.551,
-      "year": 2026,
-      "days": 19,
+      "id": "tt8367814",
+      "name": "The Gentlemen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
+      "rating": 7.661,
+      "year": 2020,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0

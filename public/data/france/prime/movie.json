@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tGEJipReupfLc8yDHAUKqmqV6LE.jpg",
       "rating": 7.57,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
       "rating": 7.875,
       "year": 2021,
-      "days": 17,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5Dk5KHdHNSt6po6qUVVm95kpqSa.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
       "rating": 5.9,
       "year": 2025,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt36958376",
-      "name": "À contre-sens 2 : Londres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-      "rating": 7.623,
-      "year": 2026,
-      "days": 35,
+      "id": "tt0093507",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6RlX0L8k3eUT3hxMk58ZABesVR.jpg",
+      "rating": 5.827,
+      "year": 1987,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
       "rating": 6.905,
       "year": 2014,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt38235625",
-      "name": "Boulevard",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
-      "rating": 8.063,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
       "year": 2026,
-      "days": 13,
+      "days": 36,
       "trend": {
         "dir": "down",
         "delta": 2

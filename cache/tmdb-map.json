@@ -119,6 +119,16 @@
     "rating": 5.924,
     "ts": "2026-06-22"
   },
+  "72-hours-2026": {
+    "tmdbId": 949838,
+    "tmdbType": "movie",
+    "imdbId": "tt36304003",
+    "titleFr": "72 heures",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
+    "rating": 5.5,
+    "ts": "2026-07-25"
+  },
   "9-1-1-nashville": {
     "tmdbId": 284838,
     "tmdbType": "tv",
@@ -178,6 +188,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/wRP4HwILp2AnbzoS1NMNmaTavk1.jpg",
     "rating": 6.6,
     "ts": "2026-07-22"
+  },
+  "a-cruel-love-the-ruth-ellis-story": {
+    "tmdbId": 246770,
+    "tmdbType": "tv",
+    "imdbId": "tt28496144",
+    "titleFr": "A Cruel Love The Ruth Ellis Story",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/i2qEUE5dj3brA99H0kkLkH6RfnM.jpg",
+    "rating": 6.5,
+    "ts": "2026-07-25"
   },
   "a-dangerous-son": {
     "tmdbId": 522773,
@@ -1138,6 +1158,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/tmg3ilwFTxU0V8Kcm2No1rmHf3W.jpg",
     "rating": 5.59,
     "ts": "2026-06-27"
+  },
+  "born-evil-the-serial-killer-and-the-savior": {
+    "tmdbId": 261449,
+    "tmdbType": "tv",
+    "imdbId": "tt33081933",
+    "titleFr": "Hadden Clark : l'assassin qui parlait à Jésus",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/lBv80THexr4o274WbrXL5jMEmUI.jpg",
+    "rating": 6.846,
+    "ts": "2026-07-25"
   },
   "boudica": {
     "tmdbId": 975902,
@@ -2619,6 +2649,16 @@
     "rating": 8.1,
     "ts": "2026-06-19"
   },
+  "fired-on-mars": {
+    "tmdbId": 126726,
+    "tmdbType": "tv",
+    "imdbId": "tt27507828",
+    "titleFr": "Fired on Mars",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/7x4EO1UOvat2V78WuC2CpAqxjH8.jpg",
+    "rating": 7,
+    "ts": "2026-07-25"
+  },
   "first-man": {
     "tmdbId": 369972,
     "tmdbType": "movie",
@@ -2918,6 +2958,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/qCX5Jb1uaKrFVTfOnT265tdzvJT.jpg",
     "rating": 7.1,
     "ts": "2026-07-09"
+  },
+  "ghost-town": {
+    "tmdbId": 1562882,
+    "tmdbType": "movie",
+    "imdbId": null,
+    "titleFr": "Ghost Town",
+    "year": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/eDtYdIGGcwrOs4f7EqSrA8Z03B7.jpg",
+    "rating": 10,
+    "ts": "2026-07-25"
   },
   "ghosted-2023": {
     "tmdbId": 868759,
@@ -3758,6 +3808,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/3k504ZZXKzphYAXSfO2gPnxkMcI.jpg",
     "rating": null,
     "ts": "2026-07-24"
+  },
+  "jem": {
+    "tmdbId": 3127,
+    "tmdbType": "tv",
+    "imdbId": "tt0090461",
+    "titleFr": "Jem et les Hologrammes",
+    "year": 1985,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/t4eSrFgH4NZIsRCJiTYauLCsZpM.jpg",
+    "rating": 7.398,
+    "ts": "2026-07-25"
   },
   "jerry-marge-go-large": {
     "tmdbId": 843847,
@@ -5099,6 +5159,26 @@
     "rating": 6.249,
     "ts": "2026-07-10"
   },
+  "mortal-kombat-2021": {
+    "tmdbId": 460465,
+    "tmdbType": "movie",
+    "imdbId": "tt0293429",
+    "titleFr": "Mortal Kombat",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
+    "rating": 7.05,
+    "ts": "2026-07-25"
+  },
+  "mortal-kombat-ii": {
+    "tmdbId": 931285,
+    "tmdbType": "movie",
+    "imdbId": "tt17490712",
+    "titleFr": "Mortal Kombat II",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+    "rating": 7.978,
+    "ts": "2026-07-25"
+  },
   "ms-rachel": {
     "tmdbId": 282238,
     "tmdbType": "tv",
@@ -5148,6 +5228,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/yrXBnFF4nGYj8o2VFdFCSXzdTVW.jpg",
     "rating": 7.631,
     "ts": "2026-06-20"
+  },
+  "musafir-cafe": {
+    "tmdbId": 313101,
+    "tmdbType": "tv",
+    "imdbId": "tt39665097",
+    "titleFr": "मुसाफ़िर कैफ़े",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
+    "rating": null,
+    "ts": "2026-07-25"
   },
   "my-adventures-with-superman": {
     "tmdbId": 125928,
@@ -5889,6 +5979,16 @@
     "rating": 8.7,
     "ts": "2026-06-28"
   },
+  "pompeii-out-of-time-with-tom-hiddleston": {
+    "tmdbId": 277640,
+    "tmdbType": "tv",
+    "imdbId": "tt34688214",
+    "titleFr": "Pompéi : Tom Hiddleston remonte le temps",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
+    "rating": 6,
+    "ts": "2026-07-25"
+  },
   "ponies": {
     "tmdbId": 262793,
     "tmdbType": "tv",
@@ -5938,6 +6038,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/lhkdEsuljCVjMnSFGXjT2907DfJ.jpg",
     "rating": 6.275,
     "ts": "2026-06-23"
+  },
+  "preschool": {
+    "tmdbId": 1440049,
+    "tmdbType": "movie",
+    "imdbId": "tt34890320",
+    "titleFr": "Preschool",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
+    "rating": 6.063,
+    "ts": "2026-07-25"
   },
   "presence-2025": {
     "tmdbId": 1140535,
@@ -7139,6 +7249,16 @@
     "rating": 5.912,
     "ts": "2026-07-02"
   },
+  "stuart-fails-to-save-the-universe": {
+    "tmdbId": 287620,
+    "tmdbType": "tv",
+    "imdbId": "tt27497393",
+    "titleFr": "Stuart Fails to Save the Universe",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
+    "rating": 8.571,
+    "ts": "2026-07-25"
+  },
   "stuart-little": {
     "tmdbId": 10137,
     "tmdbType": "movie",
@@ -7638,6 +7758,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
     "rating": 6.171,
     "ts": "2026-06-20"
+  },
+  "the-butterfly-effect": {
+    "tmdbId": 1954,
+    "tmdbType": "movie",
+    "imdbId": "tt0289879",
+    "titleFr": "L'Effet papillon",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2Kvm8qyZREDXFVFhjNaHAaQdnDq.jpg",
+    "rating": 7.579,
+    "ts": "2026-07-25"
   },
   "the-cat-in-the-hat-2003": {
     "tmdbId": 10588,
@@ -9059,6 +9189,16 @@
     "rating": 7.225,
     "ts": "2026-07-14"
   },
+  "the-truthers": {
+    "tmdbId": 1659155,
+    "tmdbType": "movie",
+    "imdbId": "tt41111628",
+    "titleFr": "Leur vérité",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
+    "rating": 5,
+    "ts": "2026-07-25"
+  },
   "the-twisted-tale-of-amanda-knox": {
     "tmdbId": 248416,
     "tmdbType": "tv",
@@ -9148,6 +9288,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/efxlwMqMiZzDF2DABswC5VWptRC.jpg",
     "rating": 6.5,
     "ts": "2026-07-02"
+  },
+  "the-woman-in-the-wall": {
+    "tmdbId": 209922,
+    "tmdbType": "tv",
+    "imdbId": "tt21822590",
+    "titleFr": "The Woman in the Wall",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/tnqCuFq0RNBCdI8Tl3nFD0WLlis.jpg",
+    "rating": 6.668,
+    "ts": "2026-07-25"
   },
   "the-woman-in-the-yard": {
     "tmdbId": 1244944,

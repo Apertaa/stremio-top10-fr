@@ -2,97 +2,97 @@
   "country": "france",
   "key": "apple",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
+      "id": "tt33499146",
+      "name": "Les Fous du pickleball",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
+      "rating": 6.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt24169886",
       "name": "The Instigators",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 389,
+      "days": 390,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt13654226",
       "name": "The Gorge",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 504,
+      "days": 505,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt13287846",
       "name": "Napoléon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 62,
+      "days": 63,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt6857376",
-      "name": "Palmer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
-      "rating": 8.122,
-      "year": 2021,
-      "days": 455,
-      "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt27075958",
-      "name": "Fountain of Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
-      "rating": 6.255,
-      "year": 2025,
-      "days": 338,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt14257582",
-      "name": "Wolfs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
-      "rating": 6.542,
-      "year": 2024,
-      "days": 527,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt7214954",
       "name": "Luck",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
       "rating": 7.715,
       "year": 2022,
-      "days": 851,
+      "days": 852,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt16431870",
+      "name": "The Family Plan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
+      "rating": 7.211,
+      "year": 2023,
+      "days": 884,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt6857376",
+      "name": "Palmer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+      "rating": 8.122,
+      "year": 2021,
+      "days": 456,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 245,
+      "days": 246,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt27075958",
+      "name": "Fountain of Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
+      "rating": 6.255,
+      "year": 2025,
+      "days": 339,
       "trend": {
         "dir": "down",
         "delta": 4
       }
     },
     {
-      "rank": 9,
-      "id": "tt16431870",
-      "name": "The Family Plan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
-      "rating": 7.211,
-      "year": 2023,
-      "days": 883,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt13287846",
-      "name": "Napoléon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
-      "rating": 6.304,
-      "year": 2023,
-      "days": 331,
+      "id": "tt14257582",
+      "name": "Wolfs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "rating": 6.542,
+      "year": 2024,
+      "days": 528,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 4
       }
     }
   ]

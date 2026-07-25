@@ -2,55 +2,55 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
+      "id": "tt17490712",
+      "name": "Mortal Kombat II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+      "rating": 7.978,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt32612507",
       "name": "Le Réveil de la Momie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt12037194",
-      "name": "Furiosa — Une saga Mad Max",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
-      "rating": 7.454,
-      "year": 2024,
-      "days": 25,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt14557188",
-      "name": "Soft & Quiet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AePNbI18Ol65Dx7sVZfwQ8ivArX.jpg",
-      "rating": 6.433,
-      "year": 2022,
-      "days": 5,
+      "days": 21,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
+      "rank": 3,
+      "id": "tt0120177",
+      "name": "Spawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3svvunKXkhRvEKByGDua1Qu0otq.jpg",
+      "rating": 5.459,
+      "year": 1997,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 4
+      }
+    },
+    {
       "rank": 4,
-      "id": "tt5013056",
-      "name": "Dunkerque",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
-      "rating": 7.452,
-      "year": 2017,
-      "days": 10,
+      "id": "tt0293429",
+      "name": "Mortal Kombat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
+      "rating": 7.05,
+      "year": 2021,
+      "days": 11,
       "trend": {
         "dir": "new",
         "delta": null
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt0361748",
-      "name": "Inglourious Basterds",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
-      "rating": 8.217,
-      "year": 2009,
-      "days": 2,
+      "id": "tt5013056",
+      "name": "Dunkerque",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
+      "rating": 7.452,
+      "year": 2017,
+      "days": 11,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,64 +71,64 @@
     },
     {
       "rank": 6,
-      "id": "tt1160419",
-      "name": "Dune - Première partie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
-      "rating": 7.8,
-      "year": 2021,
-      "days": 16,
+      "id": "tt12037194",
+      "name": "Furiosa — Une saga Mad Max",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
+      "rating": 7.454,
+      "year": 2024,
+      "days": 26,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 7,
-      "id": "tt0120177",
-      "name": "Spawn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3svvunKXkhRvEKByGDua1Qu0otq.jpg",
-      "rating": 5.459,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt13345606",
       "name": "Evil Dead Rise",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
       "rating": 6.9,
       "year": 2023,
-      "days": 18,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
-      "days": 25,
+      "days": 19,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 8,
+      "id": "tt14557188",
+      "name": "Soft & Quiet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AePNbI18Ol65Dx7sVZfwQ8ivArX.jpg",
+      "rating": 6.433,
+      "year": 2022,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0361748",
+      "name": "Inglourious Basterds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
+      "rating": 8.217,
+      "year": 2009,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt0468569",
-      "name": "The Dark Knight : Le Chevalier noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
-      "rating": 8.533,
-      "year": 2008,
-      "days": null,
+      "id": "tt0482571",
+      "name": "Le Prestige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg",
+      "rating": 8.208,
+      "year": 2006,
+      "days": 25,
       "trend": {
         "dir": "new",
         "delta": null

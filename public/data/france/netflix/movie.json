@@ -2,136 +2,136 @@
   "country": "france",
   "key": "netflix",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
+      "id": "tt36304003",
+      "name": "72 heures",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt37042085",
       "name": "Elize Surgie de l'Ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt41617470",
-      "name": "Le Désir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
-      "rating": 6.077,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
+      "id": "tt41111628",
+      "name": "Leur vérité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
+      "rating": 5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt43619305",
       "name": "Amour et Machinations",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "id": "tt41617470",
+      "name": "Le Désir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "rating": 6.077,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt39749953",
       "name": "The Debt Collector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
-      "rank": 5,
-      "id": "tt34208307",
-      "name": "Rapide",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/edOjhDSXL9eVqVWZznn8s8EVsgi.jpg",
-      "rating": 6,
-      "year": 2025,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "id": "tt1517268",
       "name": "Barbie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
       "rating": 6.917,
       "year": 2023,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt32149847",
-      "name": "Drop Game",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/frsYDd9alTNvX5vzyGjDgCQh80Y.jpg",
-      "rating": 6.324,
-      "year": 2025,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt14827638",
-      "name": "Une Retraite d'Enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f5gKcfHdJUCxnsRkMXiIXNjUHO3.jpg",
-      "rating": 5.868,
-      "year": 2023,
-      "days": 9,
+      "id": "tt34208307",
+      "name": "Rapide",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/edOjhDSXL9eVqVWZznn8s8EVsgi.jpg",
+      "rating": 6,
+      "year": 2025,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 10,
-      "id": "tt41983440",
-      "name": "23 000 vies",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
-      "rating": 2.909,
-      "year": 2026,
-      "days": 4,
+      "id": "tmdb:1562882",
+      "name": "Ghost Town",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDtYdIGGcwrOs4f7EqSrA8Z03B7.jpg",
+      "rating": 10,
+      "year": null,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

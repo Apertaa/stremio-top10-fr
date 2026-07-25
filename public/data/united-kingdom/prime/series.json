@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 50,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt32020831",
-      "name": "Elle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
-      "rating": 10,
-      "year": 2026,
-      "days": 22,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt33546863",
       "name": "Off Campus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 71,
+      "days": 72,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32020831",
+      "name": "Elle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
+      "rating": 10,
+      "year": 2026,
+      "days": 23,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
       "rating": 7.394,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 43,
+      "days": 44,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0WO1ak3FEXiwhXhZMtIAPTZEXD.jpg",
       "rating": 6.3,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 106,
+      "days": 107,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt40914930",
+      "name": "अलायन्स",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t9Og3WjlXcptadBFhLFJL3cSMDy.jpg",
+      "rating": 6.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt30460310",
       "name": "Spider-Noir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 55,
+      "days": 56,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt14016500",
-      "name": "L'Été où je suis devenue jolie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 213,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "series",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 40,
+      "days": 41,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 152,
+      "days": 153,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 25,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i7FV4FGChmjNtjmMR2yTqJTTdQS.jpg",
       "rating": 7.95,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt32264653",
-      "name": "The Iris Affair",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
-      "rating": 6.4,
-      "year": 2025,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt34745910",
       "name": "Kerviel : Un trader, 50 milliards",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vkY2rgC0XLS0Dhlvhx7MGZqSqpo.jpg",
       "rating": 7.7,
       "year": 2024,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt32264653",
+      "name": "The Iris Affair",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
+      "rating": 6.4,
+      "year": 2025,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iakv0qM1MoPI12Zdo1CitO4VJ0Q.jpg",
       "rating": 7.623,
       "year": 2014,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDpbYGDRx98OXlXyPJMtGftQJaS.jpg",
       "rating": 6.906,
       "year": 2025,
-      "days": 93,
+      "days": 94,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

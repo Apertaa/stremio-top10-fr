@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
       "rating": 6.886,
       "year": 2022,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
       "rating": 6.917,
       "year": 2023,
-      "days": 48,
+      "days": 49,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nDkC47MBBjRyk3damnqMgQGlwIe.jpg",
       "rating": 5.438,
       "year": 2016,
-      "days": 29,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt27534307",
-      "name": "Speak No Evil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
-      "rating": 7.118,
-      "year": 2024,
-      "days": 3,
+      "id": "tt0289879",
+      "name": "L'Effet papillon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Kvm8qyZREDXFVFhjNaHAaQdnDq.jpg",
+      "rating": 7.579,
+      "year": 2004,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -76,32 +76,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
       "rating": 7.413,
       "year": 2022,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt1282140",
-      "name": "Easy Girl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLdSvAisVDItlHHg1u667iaHZTj.jpg",
-      "rating": 6.805,
-      "year": 2010,
-      "days": 11,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt0118883",
-      "name": "Complots",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPgI07FKnGKuhLm667rO3Oa04BX.jpg",
-      "rating": 6.628,
-      "year": 1997,
+      "id": "tt27534307",
+      "name": "Speak No Evil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
+      "rating": 7.118,
+      "year": 2024,
       "days": 4,
       "trend": {
         "dir": "down",
@@ -109,13 +96,26 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt1020558",
       "name": "Centurion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/QTqUs4JUdI6MI9lNXHjqnaiav4.jpg",
       "rating": 6.238,
       "year": 2010,
-      "days": 26,
+      "days": 27,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1282140",
+      "name": "Easy Girl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLdSvAisVDItlHHg1u667iaHZTj.jpg",
+      "rating": 6.805,
+      "year": 2010,
+      "days": 12,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt8368406",
-      "name": "Vivarium",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2SAH6napkUWibaAJ4oXr8dAVTIm.jpg",
-      "rating": 6.062,
-      "year": 2019,
-      "days": 33,
+      "id": "tt0118883",
+      "name": "Complots",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPgI07FKnGKuhLm667rO3Oa04BX.jpg",
+      "rating": 6.628,
+      "year": 1997,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "disney",
   "list": "series",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
+      "id": "tt34688214",
+      "name": "Pompéi : Tom Hiddleston remonte le temps",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt37063558",
       "name": "R.J. Decker",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 14,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
       "rating": 8.019,
       "year": 1989,
-      "days": 137,
+      "days": 138,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
       "rating": 8.171,
       "year": 2021,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 20,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
       "rating": null,
       "year": 2024,
-      "days": 12,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt32328599",
-      "name": "Les petites histoires de Bluey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
-      "rating": 8.256,
-      "year": 2024,
-      "days": 39,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 10,
-      "id": "tt0460649",
-      "name": "How I Met Your Mother",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6PuvBDHqUrJ3dRI2co1G4WXVWf.jpg",
-      "rating": 8.129,
-      "year": 2005,
-      "days": 24,
+      "rank": 9,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
+      "rating": 8.139,
+      "year": 2022,
+      "days": 21,
       "trend": {
         "dir": "down",
         "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt32328599",
+      "name": "Les petites histoires de Bluey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
+      "rating": 8.256,
+      "year": 2024,
+      "days": 40,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,44 +2,44 @@
   "country": "belgium",
   "key": "apple",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
+      "id": "tt33499146",
+      "name": "Les Fous du pickleball",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
+      "rating": 6.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt16311594",
       "name": "F1® Le Film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 223,
+      "days": 224,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt24169886",
       "name": "The Instigators",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 318,
+      "days": 319,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt13654226",
-      "name": "The Gorge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
-      "rating": 7.65,
-      "year": 2025,
-      "days": 504,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -50,23 +50,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 872,
+      "days": 873,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 864,
+      "id": "tt13654226",
+      "name": "The Gorge",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
+      "rating": 7.65,
+      "year": 2025,
+      "days": 505,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,59 +76,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 327,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt21103218",
-      "name": "The Lost Bus - Au cœur des flammes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cSU3FCDrgezl0JbBw2ryWwC1BWD.jpg",
-      "rating": 7.038,
-      "year": 2025,
-      "days": 129,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt24950660",
-      "name": "Pour l'éternité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
-      "rating": 7.078,
-      "year": 2025,
-      "days": 78,
+      "days": 328,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 7,
+      "id": "tt24950660",
+      "name": "Pour l'éternité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
+      "rating": 7.078,
+      "year": 2025,
+      "days": 79,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt21103218",
+      "name": "The Lost Bus - Au cœur des flammes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cSU3FCDrgezl0JbBw2ryWwC1BWD.jpg",
+      "rating": 7.038,
+      "year": 2025,
+      "days": 130,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 9,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 865,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt34276058",
       "name": "The Family Plan 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 212,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt14257582",
-      "name": "Wolfs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
-      "rating": 6.542,
-      "year": 2024,
-      "days": 620,
+      "days": 213,
       "trend": {
         "dir": "down",
         "delta": 1

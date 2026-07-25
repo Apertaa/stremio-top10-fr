@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
       "rating": 7.266,
       "year": 2025,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0093507",
       "name": "Les Maîtres de l'Univers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6RlX0L8k3eUT3hxMk58ZABesVR.jpg",
       "rating": 5.827,
       "year": 1987,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9KTIjgiA1LTVGjnMIAkFgn457qR.jpg",
       "rating": 3,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,28 +84,28 @@
     },
     {
       "rank": 7,
-      "id": "tt32394984",
-      "name": "Ligne de feu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
-      "rating": 5.871,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt6467266",
       "name": "Tous en scène 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
       "rating": 7.833,
       "year": 2021,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt32394984",
+      "name": "Ligne de feu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
+      "rating": 5.871,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
       "rating": 7.375,
       "year": 2025,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt17505010",
-      "name": "Horizon : Une saga américaine - Chapitre 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uO0tsSHByL7bgJhV81eQZwp4hD6.jpg",
-      "rating": 6.81,
-      "year": 2024,
       "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt36153493",
+      "name": "Wildcat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "rating": 6.184,
+      "year": 2025,
+      "days": 17,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

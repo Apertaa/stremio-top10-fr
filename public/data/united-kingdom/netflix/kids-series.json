@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 96,
+      "days": 97,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 529,
+      "days": 530,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 106,
+      "days": 107,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "top10:learning-and-fun-with-jose-comelon",
-      "name": "Learning and fun with Jose Comelon",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0426769",
       "name": "Peppa Pig",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 918,
+      "days": 919,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "top10:learning-and-fun-with-jose-comelon",
+      "name": "Learning and fun with Jose Comelon",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9t6stbz5F4W9tq7qLjmtGR4VmLG.jpg",
       "rating": 5.2,
       "year": 2016,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
       "rating": null,
       "year": 2023,
-      "days": 698,
+      "days": 699,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 180,
+      "days": 181,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
+      "id": "tt9165438",
+      "name": "Gabby et la maison magique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "rating": 7.9,
+      "year": 2021,
+      "days": 683,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt0206512",
       "name": "Bob l'éponge",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 56,
+      "days": 57,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 557,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "series",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 828,
+      "days": 829,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
+      "id": "tt6294706",
+      "name": "The Chi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+      "rating": 7.897,
+      "year": 2018,
+      "days": 209,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 365,
+      "days": 366,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt12327578",
-      "name": "Star Trek: Strange New Worlds",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": 88,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
       "rating": 6.813,
       "year": 1996,
-      "days": 735,
+      "days": 736,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
       "rating": 7.619,
       "year": 2003,
-      "days": 878,
+      "days": 879,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 69,
+      "days": 70,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
+      "id": "tt12327578",
+      "name": "Star Trek: Strange New Worlds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": 89,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt0251497",
       "name": "Big Brother",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
       "rating": 4.872,
       "year": 2000,
-      "days": 138,
+      "days": 139,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt14321632",
       "name": "All the Queen's Men",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
       "rating": 8.39,
       "year": 2021,
-      "days": 33,
+      "days": 34,
       "trend": {
         "dir": "down",
-        "delta": 5
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt13111078",
       "name": "Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
       "rating": 7.991,
       "year": 2023,
-      "days": 135,
+      "days": 136,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt0206512",
-      "name": "Bob l'éponge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
-      "rating": 7.7,
-      "year": 1999,
-      "days": 830,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     }
   ]

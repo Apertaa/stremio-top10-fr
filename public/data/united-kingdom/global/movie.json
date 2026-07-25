@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "movie",
-  "date": "202607241719",
+  "date": "202607251644",
   "entries": [
     {
       "rank": 1,
@@ -11,6 +11,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt36304003",
+      "name": "72 heures",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
+      "rating": 5.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "new",
@@ -18,52 +31,39 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt27534307",
       "name": "Speak No Evil",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
       "rating": 7.118,
       "year": 2024,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt37042085",
       "name": "Elize Surgie de l'Ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt7634968",
-      "name": "Ce que veulent les hommes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
-      "rating": 6.208,
-      "year": 2019,
-      "days": 9,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 57,
+      "id": "tt0481141",
+      "name": "Le Goût de la vie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
+      "rating": 6.707,
+      "year": 2007,
+      "days": 2,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,41 +71,41 @@
     },
     {
       "rank": 6,
-      "id": "tt0481141",
-      "name": "Le Goût de la vie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
-      "rating": 6.707,
-      "year": 2007,
-      "days": null,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 58,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
+      "id": "tt7634968",
+      "name": "Ce que veulent les hommes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
+      "rating": 6.208,
+      "year": 2019,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt11858890",
       "name": "The Creator",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
       "rating": 7.036,
       "year": 2023,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt36619926",
-      "name": "Heartstopper Forever",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "rating": 5.485,
-      "year": 2026,
       "days": 7,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 1
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
       "rating": 6.258,
       "year": 2009,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt43595399",
-      "name": "La dérive : Cauchemar en mer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "rating": 8.7,
+      "id": "tt39749953",
+      "name": "The Debt Collector",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+      "rating": 7.9,
       "year": 2026,
-      "days": 14,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]
