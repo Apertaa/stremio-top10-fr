@@ -2,7 +2,7 @@
   "country": "france",
   "key": "global",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 37,
+      "days": 38,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,18 +37,83 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt32777700",
+      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
+      "rating": 7.214,
+      "year": 2025,
+      "days": 3,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt36495086",
       "name": "La Carte des Désirs",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
       "rating": 7.3,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0227972",
+      "name": "WWE SmackDown Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
+      "rating": 7.5,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 37,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt35051401",
+      "name": "Le Palais de l'Est",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xIFTryxfZE6AxPULZ6BNxXs8w7.jpg",
+      "rating": 7.667,
       "year": 2026,
       "days": 8,
       "trend": {
@@ -57,81 +122,16 @@
       }
     },
     {
-      "rank": 5,
-      "id": "tt32777700",
-      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
-      "rating": 7.214,
-      "year": 2025,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 36,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt35051401",
-      "name": "Le Palais de l'Est",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xIFTryxfZE6AxPULZ6BNxXs8w7.jpg",
-      "rating": 7.667,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt12343534",
-      "name": "Jujutsu Kaisen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
-      "rating": 8.583,
-      "year": 2020,
-      "days": 15,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
+      "id": "tt40247521",
+      "name": "Spooky in Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
+      "rating": 7,
       "year": 2026,
-      "days": 16,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,29 +2,29 @@
   "country": "canada",
   "key": "global",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0227972",
-      "name": "WWE SmackDown Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
-      "rating": 7.5,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt28088031",
       "name": "Nouvelle vie à Ransom Canyon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 24,
+      "days": 26,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt27550719",
+      "name": "The Hawk",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
+      "rating": 3.962,
+      "year": 2026,
+      "days": 10,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,28 +32,28 @@
     },
     {
       "rank": 3,
-      "id": "tt27550719",
-      "name": "The Hawk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
-      "rating": 3.962,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt35495063",
       "name": "GIGN",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0227972",
+      "name": "WWE SmackDown Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
+      "rating": 7.5,
+      "year": 1999,
+      "days": 2,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 3
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
       "rating": 5.913,
       "year": 2022,
-      "days": 31,
+      "days": 32,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,46 +76,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 37,
+      "days": 38,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 16,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt42127457",
       "name": "Agent Kim Reactivated",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 24,
+      "days": 26,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt32777700",
       "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
       "rating": 7.214,
       "year": 2025,
-      "days": 3,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
+      "year": 2026,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 2
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
       "rating": null,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

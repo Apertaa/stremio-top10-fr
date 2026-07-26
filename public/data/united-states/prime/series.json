@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 72,
+      "days": 73,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 44,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 58,
+      "days": 59,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
       "rating": null,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 285,
+      "days": 286,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,33 +102,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 107,
+      "days": 108,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 9,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt0090461",
-      "name": "Jem et les Hologrammes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4eSrFgH4NZIsRCJiTYauLCsZpM.jpg",
-      "rating": 7.398,
-      "year": 1985,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 8,
+      "id": "tt32206408",
+      "name": "Vanished: The Heather Elvis Case",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVx2vE0hhInC53OuuXrkpO1H312.jpg",
+      "rating": 9,
+      "year": 2025,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
       "rating": 6.249,
       "year": 2022,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
       "rating": 6.439,
       "year": 2023,
-      "days": 27,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIG2bPJ0E5rxvPWUTpEjw1NE3Su.jpg",
       "rating": 6.927,
       "year": 2025,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
       "rating": 6.843,
       "year": 2013,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,28 +97,28 @@
     },
     {
       "rank": 8,
+      "id": "tt29623480",
+      "name": "Le Robot sauvage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
+      "rating": 8.312,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt3515878",
       "name": "Do Not Enter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
       "rating": 5.796,
       "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt3659388",
-      "name": "Seul sur Mars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/51CqiKVStZ2YPx64iPs3LDDiQnt.jpg",
-      "rating": 7.703,
-      "year": 2015,
       "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8J7wSsKe6bHvvUInu0VTTxBYhhy.jpg",
       "rating": 6.571,
       "year": 2010,
-      "days": 2,
+      "days": 3,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

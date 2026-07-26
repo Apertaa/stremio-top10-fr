@@ -2,136 +2,136 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
-      "id": "tt10374610",
-      "name": "Marche ou crève",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
-      "rating": 6.89,
-      "year": 2025,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt32612507",
-      "name": "Le Réveil de la Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-      "rating": 8.023,
+      "id": "tt17490712",
+      "name": "Mortal Kombat II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+      "rating": 7.978,
       "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt2854926",
-      "name": "TAG",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
-      "rating": 6.711,
-      "year": 2018,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt2557478",
-      "name": "Pacific Rim : Uprising",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
-      "rating": 6.124,
-      "year": 2018,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt4779682",
-      "name": "En eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
-      "rating": 6.248,
-      "year": 2018,
-      "days": 28,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt0120616",
-      "name": "La Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
-      "rating": 6.984,
-      "year": 1999,
-      "days": 47,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt17024450",
-      "name": "Equalizer 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/go2gtucO5LT92jnU40pbD0LImgg.jpg",
-      "rating": 7.296,
-      "year": 2023,
-      "days": 10,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt1277953",
-      "name": "Madagascar 3 : Bons baisers d'Europe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/trMyHbr9CfcNYWcNERp8RorfmoW.jpg",
-      "rating": 6.638,
-      "year": 2012,
-      "days": 6,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0455944",
-      "name": "Equalizer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/un8nwv94ERfZEypyuzEdR7UJ8l5.jpg",
-      "rating": 7.3,
-      "year": 2014,
-      "days": 9,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 10,
-      "id": "tt5463162",
-      "name": "Deadpool 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
-      "rating": 7.491,
-      "year": 2018,
+      "rank": 2,
+      "id": "tt0293429",
+      "name": "Mortal Kombat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
+      "rating": 7.05,
+      "year": 2021,
       "days": 20,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt10374610",
+      "name": "Marche ou crève",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
+      "rating": 6.89,
+      "year": 2025,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32612507",
+      "name": "Le Réveil de la Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+      "rating": 8.023,
+      "year": 2026,
+      "days": 21,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt2854926",
+      "name": "TAG",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+      "rating": 6.711,
+      "year": 2018,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt0293429",
+      "name": "Mortal Kombat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
+      "rating": 7.051,
+      "year": 2021,
+      "days": 8,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt2557478",
+      "name": "Pacific Rim : Uprising",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
+      "rating": 6.124,
+      "year": 2018,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt4779682",
+      "name": "En eaux troubles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
+      "rating": 6.248,
+      "year": 2018,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0120616",
+      "name": "La Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
+      "rating": 6.984,
+      "year": 1999,
+      "days": 48,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1277953",
+      "name": "Madagascar 3 : Bons baisers d'Europe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/trMyHbr9CfcNYWcNERp8RorfmoW.jpg",
+      "rating": 6.638,
+      "year": 2012,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

@@ -2,58 +2,58 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
-      "id": "tt24326458",
-      "name": "One Mile: Chapter One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
-      "rating": 7.005,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt24326462",
-      "name": "One Mile: Chapter Two",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
-      "rating": 6.867,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt32306991",
-      "name": "Solo Mio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "rating": 7.361,
-      "year": 2026,
-      "days": 14,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt35003538",
-      "name": "EPiC: Elvis Presley in Concert",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
-      "rating": 8.3,
+      "id": "tt18259538",
+      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
+      "rating": 9.353,
       "year": 2026,
       "days": null,
       "trend": {
         "dir": "new",
         "delta": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt24326462",
+      "name": "One Mile: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
+      "rating": 6.867,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32306991",
+      "name": "Solo Mio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "rating": 7.361,
+      "year": 2026,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,33 +63,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 28,
+      "days": 29,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
+      "id": "tt35003538",
+      "name": "EPiC: Elvis Presley in Concert",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "rating": 8.3,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt30908405",
       "name": "The Last Rodeo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
       "rating": 7.648,
       "year": 2025,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1189340",
-      "name": "La Défense Lincoln",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
-      "rating": 7.209,
-      "year": 2011,
-      "days": 10,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt1189340",
+      "name": "La Défense Lincoln",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
+      "rating": 7.209,
+      "year": 2011,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt38238651",
       "name": "The Internship",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
       "rating": 6.74,
       "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt8367814",
-      "name": "The Gentlemen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
-      "rating": 7.661,
-      "year": 2020,
-      "days": 7,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt0332452",
-      "name": "Troie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
-      "rating": 7.177,
-      "year": 2004,
-      "days": 25,
+      "id": "tt34471850",
+      "name": "Protector",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+      "rating": 8.551,
+      "year": 2026,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

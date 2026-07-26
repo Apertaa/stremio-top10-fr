@@ -2,45 +2,45 @@
   "country": "canada",
   "key": "global",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
-      "id": "tt43619305",
-      "name": "Amour et Machinations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-      "rating": 7.167,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt36304003",
       "name": "72 heures",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
-      "id": "tt37042085",
-      "name": "Elize Surgie de l'Ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
-      "rating": 5.9,
+      "rank": 2,
+      "id": "tt43619305",
+      "name": "Amour et Machinations",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "rating": 7.167,
       "year": 2026,
       "days": 3,
       "trend": {
         "dir": "down",
         "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt16366836",
+      "name": "Venom : The Last Dance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9sAK8lZDNkH9QBFjmqLytXnmzyM.jpg",
+      "rating": 6.665,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -50,19 +50,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDtYdIGGcwrOs4f7EqSrA8Z03B7.jpg",
       "rating": 10,
       "year": null,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt41111628",
-      "name": "Leur vérité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
-      "rating": 5,
-      "year": 2026,
+      "id": "tt29623480",
+      "name": "Le Robot sauvage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
+      "rating": 8.312,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "new",
@@ -71,41 +71,41 @@
     },
     {
       "rank": 6,
+      "id": "tt37042085",
+      "name": "Elize Surgie de l'Ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
+      "rating": 5.9,
+      "year": 2026,
+      "days": 4,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt41111628",
+      "name": "Leur vérité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
+      "rating": 5,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt39749953",
       "name": "The Debt Collector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 1,
+      "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt4103724",
-      "name": "Forever My Girl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHWknf62KnpvFBFmpru6FmsFy3a.jpg",
-      "rating": 7.621,
-      "year": 2018,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt41617470",
-      "name": "Le Désir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
-      "rating": 6.077,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "down",
-        "delta": 4
+        "delta": 2
       }
     },
     {
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 35,
+      "days": 36,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt26584495",
-      "name": "Companion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg",
-      "rating": 7.015,
-      "year": 2025,
-      "days": 7,
+      "id": "tt4103724",
+      "name": "Forever My Girl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHWknf62KnpvFBFmpru6FmsFy3a.jpg",
+      "rating": 7.621,
+      "year": 2018,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 4
+        "delta": 3
       }
     }
   ]

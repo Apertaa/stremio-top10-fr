@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
       "rating": 7.118,
       "year": 2024,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,20 +50,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt0481141",
-      "name": "Le Goût de la vie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
-      "rating": 6.707,
-      "year": 2007,
-      "days": 2,
+      "id": "tt7510222",
+      "name": "Moi, moche et méchant 4",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
+      "rating": 6.988,
+      "year": 2024,
+      "days": 59,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt7510222",
-      "name": "Moi, moche et méchant 4",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
-      "rating": 6.988,
-      "year": 2024,
-      "days": 58,
+      "id": "tt0481141",
+      "name": "Le Goût de la vie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
+      "rating": 6.707,
+      "year": 2007,
+      "days": 3,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -89,46 +89,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
       "rating": 6.208,
       "year": 2019,
-      "days": 10,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt11858890",
-      "name": "The Creator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
-      "rating": 7.036,
-      "year": 2023,
-      "days": 7,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0892782",
-      "name": "Monstres contre Aliens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
-      "rating": 6.258,
-      "year": 2009,
-      "days": 5,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "id": "tt10375624",
+      "name": "Si tu m'écoutes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": 26,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt39749953",
       "name": "The Debt Collector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": null,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": 17,
       "trend": {
         "dir": "new",
         "delta": null

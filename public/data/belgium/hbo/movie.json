@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "hbo",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
       "rating": 7.978,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,36 +24,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
       "rating": 7.177,
       "year": 2004,
-      "days": 19,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt32612507",
-      "name": "Le Réveil de la Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-      "rating": 8.023,
-      "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt0293429",
       "name": "Mortal Kombat",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
       "rating": 7.05,
       "year": 2021,
-      "days": 28,
+      "days": 29,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt32612507",
+      "name": "Le Réveil de la Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+      "rating": 8.023,
+      "year": 2026,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Kvm8qyZREDXFVFhjNaHAaQdnDq.jpg",
       "rating": 7.579,
       "year": 2004,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,62 +76,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6P9ZhywamwnglYLNybiyKEISpfE.jpg",
       "rating": 5.51,
       "year": 2008,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0800320",
-      "name": "Le Choc des Titans",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/45jdSr5oJNiJuZwZ83CblnNY8uJ.jpg",
-      "rating": 5.9,
-      "year": 2010,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt27534307",
-      "name": "Speak No Evil",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
-      "rating": 7.118,
-      "year": 2024,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt11182994",
-      "name": "Zillion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a08rbnJCJM3tdGo6POzpRfsfTFK.jpg",
-      "rating": 7.014,
-      "year": 2022,
-      "days": 28,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt11252248",
       "name": "Dog",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsPcTASS9idcD4YRG52XYDwjOI1.jpg",
       "rating": 7.289,
       "year": 2022,
-      "days": 11,
+      "days": 12,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt0800320",
+      "name": "Le Choc des Titans",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/45jdSr5oJNiJuZwZ83CblnNY8uJ.jpg",
+      "rating": 5.9,
+      "year": 2010,
+      "days": 10,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt27534307",
+      "name": "Speak No Evil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
+      "rating": 7.118,
+      "year": 2024,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1375666",
+      "name": "Inception",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
+      "rating": 8.4,
+      "year": 2010,
+      "days": 3,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

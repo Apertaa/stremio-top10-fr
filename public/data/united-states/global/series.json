@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 30,
+      "days": 33,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
       "rating": 3.962,
       "year": 2026,
-      "days": 9,
+      "days": 11,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 3,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,23 +50,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 37,
+      "days": 39,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt18396952",
-      "name": "L'Ultimatum : On se marie ou c'est fini",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
-      "rating": 5.913,
-      "year": 2022,
-      "days": 31,
+      "id": "tt32777700",
+      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
+      "rating": 7.214,
+      "year": 2025,
+      "days": 5,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
       "rating": 5.139,
       "year": 2026,
-      "days": 16,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt32777700",
-      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
-      "rating": 7.214,
-      "year": 2025,
-      "days": 3,
+      "id": "tt43476716",
+      "name": "Les Voisins de l'enfer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt43476716",
-      "name": "Les Voisins de l'enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 23,
+      "id": "tt18396952",
+      "name": "L'Ultimatum : On se marie ou c'est fini",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
+      "rating": 5.913,
+      "year": 2022,
+      "days": 33,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
       "year": 2026,
-      "days": 55,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
+      "id": "tt40247521",
+      "name": "Spooky in Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
+      "rating": 7,
       "year": 2026,
-      "days": 16,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

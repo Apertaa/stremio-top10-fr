@@ -2,81 +2,81 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
+      "id": "tt18259538",
+      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt24326458",
       "name": "One Mile: Chapter One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt24326462",
       "name": "One Mile: Chapter Two",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt14107334",
       "name": "Running Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt37577501",
       "name": "The Girl Who Survived: The Alina Thompson Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": 56,
+      "days": 57,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 113,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt4419684",
-      "name": "In the Lost Lands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
-      "rating": 6.367,
-      "year": 2025,
-      "days": 7,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 114,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt34890320",
-      "name": "Preschool",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
-      "rating": 6.063,
-      "year": 2026,
-      "days": null,
+      "id": "tt4419684",
+      "name": "In the Lost Lands",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
+      "rating": 6.367,
+      "year": 2025,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
       "rating": 5.821,
       "year": 2025,
-      "days": 42,
+      "days": 43,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt2582782",
-      "name": "Comancheria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JEWbVppKyZyIyE0aCYak2zUsg8.jpg",
-      "rating": 7.302,
-      "year": 2016,
-      "days": 33,
+      "id": "tt34890320",
+      "name": "Preschool",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
+      "rating": 6.063,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 66,
+      "days": 67,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

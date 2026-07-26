@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 104,
+      "days": 105,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 903,
+      "days": 904,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 804,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt7699866",
       "name": "Simon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcoDTpylduKBQMkwCUwybXUyILc.jpg",
       "rating": 7.9,
       "year": 2016,
-      "days": 869,
+      "days": 870,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt12363714",
       "name": "Les Sisters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
       "rating": 6,
       "year": 2017,
-      "days": 919,
+      "days": 920,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 803,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 788,
+      "days": 789,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 826,
+      "days": 827,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 109,
+      "days": 110,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9LFlpS1Ei9AJEPr1RmLirkv1yS.jpg",
       "rating": 6.4,
       "year": 2004,
-      "days": 744,
+      "days": 745,
       "trend": {
         "dir": "same",
         "delta": 0

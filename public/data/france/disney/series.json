@@ -2,7 +2,7 @@
   "country": "france",
   "key": "disney",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
       "rating": 6,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,49 +37,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt37063558",
-      "name": "R.J. Decker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
-      "rating": 7.8,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0096697",
       "name": "Les Simpson",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
       "rating": 8.019,
       "year": 1989,
-      "days": 138,
+      "days": 139,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt9140554",
       "name": "Loki",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
       "rating": 8.171,
       "year": 2021,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt37063558",
+      "name": "R.J. Decker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "rating": 8.5,
       "year": 2024,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qi92v86SWDJd3yA8hMqpU9mX1H.jpg",
       "rating": null,
       "year": 2024,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 21,
+      "id": "tt4902964",
+      "name": "Raiponce : La série",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tg9bjUH0ee9saRTABxObcXFsoIe.jpg",
+      "rating": 7.3,
+      "year": 2017,
+      "days": 1,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8wqm1ekWrrCecFPZHFuRULCrLBi.jpg",
       "rating": 8.256,
       "year": 2024,
-      "days": 34,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

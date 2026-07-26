@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
       "rating": 7.266,
       "year": 2025,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,15 +45,15 @@
     },
     {
       "rank": 4,
-      "id": "tt0093507",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6RlX0L8k3eUT3hxMk58ZABesVR.jpg",
-      "rating": 5.827,
-      "year": 1987,
-      "days": 1,
+      "id": "tt34381258",
+      "name": "The Good Boy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
+      "rating": 7.069,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -63,49 +63,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 30,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt36169378",
-      "name": "This Is Birmingham",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9KTIjgiA1LTVGjnMIAkFgn457qR.jpg",
-      "rating": 3,
-      "year": 2026,
-      "days": 2,
+      "days": 31,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 7,
-      "id": "tt6467266",
-      "name": "Tous en scène 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
-      "rating": 7.833,
-      "year": 2021,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "id": "tt32394984",
       "name": "Ligne de feu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
       "rating": 5.871,
       "year": 2026,
+      "days": 4,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt0093507",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6RlX0L8k3eUT3hxMk58ZABesVR.jpg",
+      "rating": 5.827,
+      "year": 1987,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt36169378",
+      "name": "This Is Birmingham",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9KTIjgiA1LTVGjnMIAkFgn457qR.jpg",
+      "rating": 3,
+      "year": 2026,
       "days": 3,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
       "rating": 7.375,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt36153493",
-      "name": "Wildcat",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
-      "rating": 6.184,
-      "year": 2025,
-      "days": 17,
+      "id": "tt6467266",
+      "name": "Tous en scène 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
+      "rating": 7.833,
+      "year": 2021,
+      "days": 10,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

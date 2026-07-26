@@ -2,29 +2,29 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
+      "id": "tt0227972",
+      "name": "WWE SmackDown Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
+      "rating": 7.5,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt34771210",
       "name": "Sur tes traces",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 37,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt27550719",
-      "name": "The Hawk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
-      "rating": 3.962,
-      "year": 2026,
-      "days": 9,
+      "days": 38,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -37,33 +37,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
+      "id": "tt27550719",
+      "name": "The Hawk",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
+      "rating": 3.962,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt28088031",
       "name": "Nouvelle vie à Ransom Canyon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 21,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 62,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -76,49 +76,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tnqCuFq0RNBCdI8Tl3nFD0WLlis.jpg",
       "rating": 6.668,
       "year": 2023,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 16,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt43476716",
       "name": "Les Voisins de l'enfer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
       "rating": 8,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt36614693",
-      "name": "WWE: Unreal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
-      "rating": 7.8,
-      "year": 2025,
-      "days": 16,
+      "rank": 8,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
+      "year": 2026,
+      "days": 17,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 63,
+      "trend": {
+        "dir": "down",
+        "delta": 4
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
       "rating": 8.552,
       "year": 2018,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0

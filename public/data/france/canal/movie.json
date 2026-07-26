@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vJa5OZv0QOnGgzTSmiLTm7tIyjp.jpg",
       "rating": null,
       "year": null,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
       "rating": 5.66,
       "year": 2025,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,28 +58,28 @@
     },
     {
       "rank": 5,
+      "id": "tt29516222",
+      "name": "Deep Water",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+      "rating": 7.363,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt38238651",
       "name": "The Internship",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
       "rating": 6.74,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt33244668",
-      "name": "Anaconda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
-      "rating": 5.876,
-      "year": 2025,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

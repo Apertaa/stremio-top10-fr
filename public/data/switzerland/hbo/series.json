@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
       "rating": 8.571,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oD1JuejHVuDfq5qSOGmBO5OlGEo.jpg",
       "rating": 7.459,
       "year": 2003,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -52,8 +52,8 @@
       "year": 2013,
       "days": 61,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
       "rating": 8.125,
       "year": 2008,
-      "days": 33,
+      "days": 34,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -91,8 +91,8 @@
       "year": 2025,
       "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -104,8 +104,8 @@
       "year": 2026,
       "days": 27,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7x4EO1UOvat2V78WuC2CpAqxjH8.jpg",
       "rating": 7,
       "year": 2023,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jre6pjAGc10l1r5ORUhN1akKZA2.jpg",
       "rating": 7.561,
       "year": 2012,
-      "days": 8,
+      "days": 9,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

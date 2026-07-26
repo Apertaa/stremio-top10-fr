@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "apple",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 499,
+      "days": 500,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 50,
+      "days": 51,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,20 +37,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
       "rating": 5.455,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt16418808",
-      "name": "Sugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "rating": 7.2,
-      "year": 2024,
-      "days": 199,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "rating": 8.34,
+      "year": 2020,
+      "days": 911,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "rating": 8.34,
-      "year": 2020,
-      "days": 910,
+      "id": "tt16418808",
+      "name": "Sugar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "rating": 7.2,
+      "year": 2024,
+      "days": 200,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/99f8XKkUXC2pKGqNzbUgA9Ui1zA.jpg",
       "rating": 8.202,
       "year": 2026,
-      "days": 87,
+      "days": 88,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,36 +89,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
       "rating": 7.719,
       "year": 2025,
-      "days": 260,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt10982034",
-      "name": "Trying",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
-      "rating": 7.6,
-      "year": 2020,
-      "days": 281,
+      "days": 261,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt35946742",
       "name": "Plaisir maximum garanti",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 66,
+      "days": 67,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt10982034",
+      "name": "Trying",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
+      "rating": 7.6,
+      "year": 2020,
+      "days": 282,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOn72IFPhA6B8d0hsEl1riECOES.jpg",
       "rating": 7.842,
       "year": 2023,
-      "days": 715,
+      "days": 716,
       "trend": {
         "dir": "same",
         "delta": 0

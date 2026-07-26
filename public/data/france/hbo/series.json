@@ -2,7 +2,7 @@
   "country": "france",
   "key": "hbo",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
+      "id": "tt27497393",
+      "name": "Stuart Fails to Save the Universe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
+      "rating": 8.571,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "tt2861424",
       "name": "Rick et Morty",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 153,
+      "days": 154,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
-      "year": 2026,
-      "days": 26,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
       "rating": 4.7,
       "year": 2026,
-      "days": 42,
+      "days": 43,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,38 +58,38 @@
     },
     {
       "rank": 5,
-      "id": "tt34988203",
-      "name": "Il était deux fois",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i7FV4FGChmjNtjmMR2yTqJTTdQS.jpg",
-      "rating": 7.95,
-      "year": 2026,
-      "days": 8,
+      "id": "tt15248880",
+      "name": "Adventure Time: Fionna and Cake",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+      "rating": 8.6,
+      "year": 2023,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
+      "id": "tt37543147",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
+      "rating": 4.5,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt34745910",
       "name": "Kerviel : Un trader, 50 milliards",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vkY2rgC0XLS0Dhlvhx7MGZqSqpo.jpg",
       "rating": 7.7,
       "year": 2024,
-      "days": 39,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt32264653",
-      "name": "The Iris Affair",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
-      "rating": 6.4,
-      "year": 2025,
-      "days": 15,
+      "days": 40,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iakv0qM1MoPI12Zdo1CitO4VJ0Q.jpg",
       "rating": 7.623,
       "year": 2014,
-      "days": 39,
+      "days": 40,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt28013708",
-      "name": "Task",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDpbYGDRx98OXlXyPJMtGftQJaS.jpg",
-      "rating": 6.906,
-      "year": 2025,
-      "days": 94,
+      "id": "tt34988203",
+      "name": "Il était deux fois",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i7FV4FGChmjNtjmMR2yTqJTTdQS.jpg",
+      "rating": 7.95,
+      "year": 2026,
+      "days": 9,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 10,
-      "id": "tt11198330",
-      "name": "House of the Dragon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "rating": 8.301,
-      "year": 2022,
-      "days": 23,
+      "id": "tt32264653",
+      "name": "The Iris Affair",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
+      "rating": 6.4,
+      "year": 2025,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

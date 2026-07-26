@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 57,
+      "days": 59,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt0892782",
-      "name": "Monstres contre Aliens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
-      "rating": 6.258,
-      "year": 2009,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt14205554",
       "name": "KPop Demon Hunters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "rating": 8,
       "year": 2025,
-      "days": 392,
+      "days": 394,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0892782",
+      "name": "Monstres contre Aliens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
+      "rating": 6.258,
+      "year": 2009,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
       "rating": 7.765,
       "year": 2001,
-      "days": 240,
+      "days": 241,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
       "rating": 6.453,
       "year": 2017,
-      "days": 143,
+      "days": 144,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 228,
+      "days": 229,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
       "rating": 5.314,
       "year": 2003,
-      "days": 72,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1679335",
-      "name": "Les Trolls",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddKk98obuNGy9CQbQ9LXv0llEZ3.jpg",
-      "rating": 6.626,
-      "year": 2016,
-      "days": 193,
+      "days": 73,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt3152592",
       "name": "Scooby !",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
       "rating": 6.991,
       "year": 2020,
-      "days": 23,
+      "days": 24,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 24,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

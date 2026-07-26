@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "apple",
   "list": "movie",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 224,
+      "days": 225,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 340,
+      "days": 341,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 505,
+      "days": 506,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,75 +63,75 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 356,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 555,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt7214954",
-      "name": "Luck",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
-      "rating": 7.715,
-      "year": 2022,
-      "days": 514,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt23724682",
-      "name": "Chantage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
-      "rating": 5.392,
-      "year": 2026,
-      "days": 105,
+      "days": 357,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 9,
-      "id": "tt24950660",
-      "name": "Pour l'éternité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
-      "rating": 7.078,
-      "year": 2025,
-      "days": 78,
+      "rank": 6,
+      "id": "tt23724682",
+      "name": "Chantage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
+      "rating": 5.392,
+      "year": 2026,
+      "days": 106,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "up",
+        "delta": 2
       }
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 556,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt27075958",
       "name": "Fountain of Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 335,
+      "days": 336,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt7214954",
+      "name": "Luck",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg",
+      "rating": 7.715,
+      "year": 2022,
+      "days": 515,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt24950660",
+      "name": "Pour l'éternité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
+      "rating": 7.078,
+      "year": 2025,
+      "days": 79,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "series",
-  "date": "202607251644",
+  "date": "202607261645",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 836,
+      "days": 837,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
       "rating": 8,
       "year": 2022,
-      "days": 261,
+      "days": 262,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 268,
+      "days": 269,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 443,
+      "days": 444,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,41 +58,41 @@
     },
     {
       "rank": 5,
-      "id": "tt0165581",
-      "name": "Un gars du Queens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
-      "rating": 7.1,
-      "year": 1998,
-      "days": 843,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt34991493",
       "name": "Dutton Ranch",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 69,
+      "days": 70,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "rating": 8.3,
       "year": 2022,
-      "days": 685,
+      "days": 686,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 44,
+      "trend": {
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 478,
+      "days": 479,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt26656917",
-      "name": "The Agency",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "id": "tt0165581",
+      "name": "Un gars du Queens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
       "rating": 7.1,
-      "year": 2024,
-      "days": 43,
+      "year": 1998,
+      "days": 844,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 4
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
       "rating": 7.781,
       "year": 1995,
-      "days": 299,
+      "days": 300,
       "trend": {
         "dir": "same",
         "delta": 0
