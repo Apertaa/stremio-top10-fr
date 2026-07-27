@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "series",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dX7tkJn3EXcWZDNrOh2gxyFoIKg.jpg",
       "rating": 8.25,
       "year": 2024,
-      "days": 50,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 30,
+      "days": 31,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
       "rating": 7.214,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 29,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt36495086",
       "name": "La Carte des Désirs",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
       "rating": 7.3,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 37,
+      "days": 38,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt27550719",
-      "name": "The Hawk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
-      "rating": 3.962,
-      "year": 2026,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt9018736",
       "name": "Avatar : Le dernier maître de l'air",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 69,
+      "days": 70,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt27550719",
+      "name": "The Hawk",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
+      "rating": 3.962,
+      "year": 2026,
+      "days": 10,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

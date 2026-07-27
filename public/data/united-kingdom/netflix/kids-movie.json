@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -26,12 +26,25 @@
       "year": 2025,
       "days": 394,
       "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0126029",
+      "name": "Shrek",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
+      "rating": 7.765,
+      "year": 2001,
+      "days": 242,
+      "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "tt0892782",
       "name": "Monstres contre Aliens",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
@@ -44,42 +57,29 @@
       }
     },
     {
-      "rank": 4,
-      "id": "tt0126029",
-      "name": "Shrek",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJIju4i2sENrfTbAXwL9OKv2e1i.jpg",
-      "rating": 7.765,
-      "year": 2001,
-      "days": 241,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 5,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 144,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt0298148",
       "name": "Shrek 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2e8hcPLaWjLXdQLgdi5otr4Jj9L.jpg",
       "rating": 7.319,
       "year": 2004,
-      "days": 229,
+      "days": 230,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 145,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
       "rating": 8.971,
       "year": 2026,
-      "days": 66,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt0312528",
-      "name": "Le chat chapeauté",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
-      "rating": 5.314,
-      "year": 2003,
-      "days": 73,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt3152592",
-      "name": "Scooby !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
-      "rating": 6.991,
-      "year": 2020,
-      "days": 24,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt0477347",
       "name": "La Nuit au musée",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
       "rating": 6.6,
       "year": 2006,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0312528",
+      "name": "Le chat chapeauté",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDdzVu10O14wkOxsvyGn43u0a3.jpg",
+      "rating": 5.314,
+      "year": 2003,
+      "days": 74,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt3152592",
+      "name": "Scooby !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xiq5NpooMCBFjQhGQjx8LqmhTy.jpg",
+      "rating": 6.991,
+      "year": 2020,
+      "days": 25,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

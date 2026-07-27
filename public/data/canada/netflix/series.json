@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "series",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 26,
+      "days": 27,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
       "rating": 3.962,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,23 +37,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt0227972",
-      "name": "WWE SmackDown Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
-      "rating": 7.5,
-      "year": 1999,
-      "days": 2,
+      "id": "tt34771210",
+      "name": "Sur tes traces",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 39,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
       "rating": 5.913,
       "year": 2022,
-      "days": 32,
+      "days": 33,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,25 +71,25 @@
     },
     {
       "rank": 6,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 38,
+      "id": "tt32777700",
+      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
+      "rating": 7.214,
+      "year": 2025,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
       "rank": 7,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
       "year": 2026,
-      "days": 26,
+      "days": 18,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt32777700",
-      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
-      "rating": 7.214,
-      "year": 2025,
-      "days": 4,
+      "id": "tt39665097",
+      "name": "मुसाफ़िर कैफ़े",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,28 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
       "year": 2026,
-      "days": 17,
+      "days": 27,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt39665097",
-      "name": "मुसाफ़िर कैफ़े",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 3
       }
     }
   ]

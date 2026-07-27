@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 35,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt0892782",
-      "name": "Monstres contre Aliens",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
-      "rating": 6.258,
-      "year": 2009,
-      "days": 8,
+      "id": "tt29552248",
+      "name": "Aventures croisées",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "rating": 8.971,
+      "year": 2026,
+      "days": 86,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -37,46 +37,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "rating": 8.122,
       "year": 2026,
-      "days": 62,
+      "days": 63,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt29552248",
-      "name": "Aventures croisées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "rating": 8.971,
-      "year": 2026,
-      "days": 85,
+      "id": "tt0892782",
+      "name": "Monstres contre Aliens",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Tmo9IFhT5QoaGWhzq51OApKgLU.jpg",
+      "rating": 6.258,
+      "year": 2009,
+      "days": 9,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
       "rank": 5,
+      "id": "tt19847976",
+      "name": "Wicked : Partie II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
+      "rating": 6.625,
+      "year": 2025,
+      "days": 22,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
       "id": "tt18259086",
       "name": "Sonic 3, le film",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
       "rating": 7.617,
       "year": 2024,
-      "days": 91,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 515,
+      "days": 92,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,15 +84,15 @@
     },
     {
       "rank": 7,
-      "id": "tt19847976",
-      "name": "Wicked : Partie II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
-      "rating": 6.625,
-      "year": 2025,
-      "days": 21,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 516,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
       "rating": 6.968,
       "year": 2025,
-      "days": 210,
+      "days": 211,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt22184976",
-      "name": "Minions et compagnie - La compil' n° 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
-      "rating": 7.028,
-      "year": 2022,
-      "days": 176,
+      "id": "tt0477347",
+      "name": "La Nuit au musée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
+      "rating": 6.6,
+      "year": 2006,
+      "days": 30,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt0477347",
-      "name": "La Nuit au musée",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iF88HSUPHFDPqW6jp4o8h40lbHC.jpg",
-      "rating": 6.6,
-      "year": 2006,
-      "days": 29,
+      "id": "tt22184976",
+      "name": "Minions et compagnie - La compil' n° 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7su7LZXTmsXubi4lHnaCXWk0f3q.jpg",
+      "rating": 7.028,
+      "year": 2022,
+      "days": 177,
       "trend": {
         "dir": "down",
         "delta": 1

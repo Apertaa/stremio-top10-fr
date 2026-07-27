@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,10 +11,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,36 +37,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt32306991",
-      "name": "Solo Mio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "rating": 7.361,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt32537226",
       "name": "Hunting Season",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32306991",
+      "name": "Solo Mio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "rating": 7.361,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
       "rating": 8.3,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
       "rating": 7.648,
       "year": 2025,
-      "days": 22,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
       "rating": 7.209,
       "year": 2011,
-      "days": 11,
+      "days": 12,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,20 +115,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
       "rating": 6.74,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt34471850",
-      "name": "Protector",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-      "rating": 8.551,
-      "year": 2026,
-      "days": 20,
+      "id": "tt8367814",
+      "name": "The Gentlemen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
+      "rating": 7.661,
+      "year": 2020,
+      "days": 8,
       "trend": {
         "dir": "new",
         "delta": null

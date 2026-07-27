@@ -769,6 +769,16 @@
     "rating": 6.3,
     "ts": "2026-06-30"
   },
+  "baby-shark-hospital-play": {
+    "tmdbId": 290219,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Baby Shark Hospital Play",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nDJfN6QNXGC7JxqUKEfQoTavMqr.jpg",
+    "rating": null,
+    "ts": "2026-07-27"
+  },
   "babygirl-2024": {
     "tmdbId": 1097549,
     "tmdbType": "movie",
@@ -3289,6 +3299,36 @@
     "rating": 6.808,
     "ts": "2026-07-03"
   },
+  "harry-potter-and-the-goblet-of-fire": {
+    "tmdbId": 674,
+    "tmdbType": "movie",
+    "imdbId": "tt0330373",
+    "titleFr": "Harry Potter et la Coupe de feu",
+    "year": 2005,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg",
+    "rating": 7.803,
+    "ts": "2026-07-27"
+  },
+  "harry-potter-and-the-order-of-the-phoenix": {
+    "tmdbId": 675,
+    "tmdbType": "movie",
+    "imdbId": "tt0373889",
+    "titleFr": "Harry Potter et l'Ordre du Phénix",
+    "year": 2007,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9ZfpCVNx0y8jpColnnfdA1HI4Zb.jpg",
+    "rating": 7.673,
+    "ts": "2026-07-27"
+  },
+  "harry-potter-and-the-prisoner-of-azkaban": {
+    "tmdbId": 673,
+    "tmdbType": "movie",
+    "imdbId": "tt0304141",
+    "titleFr": "Harry Potter et le Prisonnier d'Azkaban",
+    "year": 2004,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/t4P2079IyK19njHDP2GwQrKdvzd.jpg",
+    "rating": 8.01,
+    "ts": "2026-07-27"
+  },
   "hart-of-dixie": {
     "tmdbId": 39279,
     "tmdbType": "tv",
@@ -4469,6 +4509,16 @@
     "rating": 9.25,
     "ts": "2026-06-28"
   },
+  "locker-diaries-descendants": {
+    "tmdbId": 317374,
+    "tmdbType": "tv",
+    "imdbId": null,
+    "titleFr": "Locker Diaries: Descendants",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/2gqUrmVrgmmbghymywdpzPFw2as.jpg",
+    "rating": null,
+    "ts": "2026-07-27"
+  },
   "locker-diaries-phineas-and-ferb": {
     "tmdbId": 317375,
     "tmdbType": "tv",
@@ -4508,6 +4558,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/wo6gbvAxX3wbrHwmQwB48uZMveO.jpg",
     "rating": 7.422,
     "ts": "2026-06-20"
+  },
+  "lol-last-one-laughing-france": {
+    "tmdbId": 236767,
+    "tmdbType": "tv",
+    "imdbId": "tt29550394",
+    "titleFr": "LOL : Qui (c)rie, sort !",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/nI93MZf6n2OszaaueRSDuhxkF8C.jpg",
+    "rating": 7,
+    "ts": "2026-07-27"
   },
   "lol-last-one-laughing-indonesia": {
     "tmdbId": 255974,
@@ -9238,6 +9298,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/xNzhSaXoOpXIyYsid3L5FWsXkbb.jpg",
     "rating": 7.089,
     "ts": "2026-06-20"
+  },
+  "the-staircase-2022": {
+    "tmdbId": 122196,
+    "tmdbType": "tv",
+    "imdbId": "tt11324406",
+    "titleFr": "The Staircase",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/8xvMliM7rN7357p93I9rbeu3aeJ.jpg",
+    "rating": 6.973,
+    "ts": "2026-07-27"
   },
   "the-stranger-2025": {
     "tmdbId": 1605730,

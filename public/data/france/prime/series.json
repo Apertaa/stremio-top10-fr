@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "series",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 73,
+      "days": 74,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xHQDSDYFWbHuN71s23Yy9lwN70j.jpg",
       "rating": 7.5,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXpDNwci75WH21CAptGgWduBrXD.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 45,
+      "days": 46,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 108,
+      "days": 109,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 328,
+      "days": 329,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO6C0NFLDpdnKnltEhKvkvUjIpk.jpg",
       "rating": 7.912,
       "year": 2017,
-      "days": 28,
+      "days": 29,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt38960812",
-      "name": "À demain au bureau !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
-      "rating": 8.769,
-      "year": 2026,
-      "days": 19,
+      "id": "tt29550394",
+      "name": "LOL : Qui (c)rie, sort !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nI93MZf6n2OszaaueRSDuhxkF8C.jpg",
+      "rating": 7,
+      "year": 2023,
+      "days": 83,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "apple",
   "list": "movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 225,
+      "days": 226,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 403,
+      "days": 404,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 506,
+      "days": 507,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
       "rating": 7.421,
       "year": 2020,
-      "days": 911,
+      "days": 912,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "rating": 5.392,
       "year": 2026,
-      "days": 106,
+      "days": 107,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
       "rating": 7.211,
       "year": 2023,
-      "days": 911,
+      "days": 912,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
       "rating": 7.078,
       "year": 2025,
-      "days": 146,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt27075958",
-      "name": "Fountain of Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
-      "rating": 6.255,
-      "year": 2025,
-      "days": 405,
+      "days": 147,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt34276058",
       "name": "The Family Plan 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 246,
+      "days": 247,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt27075958",
+      "name": "Fountain of Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
+      "rating": 6.255,
+      "year": 2025,
+      "days": 406,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     }
   ]

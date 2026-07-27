@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 22,
+      "days": 23,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
       "rating": 6.249,
       "year": 2022,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt14670094",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
-      "rating": 6.439,
-      "year": 2023,
-      "days": 28,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt0899043",
       "name": "The Amateur",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIG2bPJ0E5rxvPWUTpEjw1NE3Su.jpg",
       "rating": 6.927,
       "year": 2025,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt14670094",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
+      "rating": 6.439,
+      "year": 2023,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
       "rating": 7.521,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
       "rating": 6.843,
       "year": 2013,
-      "days": 11,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,25 +97,25 @@
     },
     {
       "rank": 8,
-      "id": "tt29623480",
-      "name": "Le Robot sauvage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
-      "rating": 8.312,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt3515878",
       "name": "Do Not Enter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
       "rating": 5.796,
       "year": 2026,
-      "days": 7,
+      "days": 8,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt29623480",
+      "name": "Le Robot sauvage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
+      "rating": 8.312,
+      "year": 2024,
+      "days": 1,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt1226753",
-      "name": "L'Affaire Rachel Singer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8J7wSsKe6bHvvUInu0VTTxBYhhy.jpg",
-      "rating": 6.571,
-      "year": 2010,
-      "days": 3,
+      "id": "tt27032708",
+      "name": "Survivre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/901kRttzfLScns7ss7RyKqG6d2A.jpg",
+      "rating": 5.9,
+      "year": 2024,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

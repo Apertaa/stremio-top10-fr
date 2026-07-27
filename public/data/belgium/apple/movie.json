@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "apple",
   "list": "movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 225,
+      "days": 226,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 320,
+      "days": 321,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt13287846",
-      "name": "Napoléon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
-      "rating": 6.304,
-      "year": 2023,
-      "days": 874,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt13654226",
       "name": "The Gorge",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 506,
+      "days": 507,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt13287846",
+      "name": "Napoléon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
+      "rating": 6.304,
+      "year": 2023,
+      "days": 875,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -76,62 +76,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cSU3FCDrgezl0JbBw2ryWwC1BWD.jpg",
       "rating": 7.038,
       "year": 2025,
-      "days": 131,
+      "days": 132,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 866,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt34276058",
       "name": "The Family Plan 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
       "rating": 6.539,
       "year": 2025,
-      "days": 214,
+      "days": 215,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt27075958",
       "name": "Fountain of Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 329,
+      "days": 330,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt24950660",
+      "name": "Pour l'éternité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
+      "rating": 7.078,
+      "year": 2025,
+      "days": 80,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt16431870",
-      "name": "The Family Plan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2HmsHdWompo6PB5smZxxPb2hqcN.jpg",
-      "rating": 7.211,
-      "year": 2023,
-      "days": 770,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 867,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
       }
     }
   ]

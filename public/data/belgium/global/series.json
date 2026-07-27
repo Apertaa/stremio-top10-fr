@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "global",
   "list": "series",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,51 +32,51 @@
     },
     {
       "rank": 3,
-      "id": "tt28088031",
-      "name": "Nouvelle vie à Ransom Canyon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
-      "rating": 7.2,
-      "year": 2025,
-      "days": 28,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt32777700",
       "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
       "rating": 7.214,
       "year": 2025,
-      "days": 4,
+      "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt28088031",
+      "name": "Nouvelle vie à Ransom Canyon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
+      "rating": 7.2,
+      "year": 2025,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt0227972",
-      "name": "WWE SmackDown Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
-      "rating": 7.5,
-      "year": 1999,
-      "days": null,
+      "id": "tt2431250",
+      "name": "La Petite Maison dans la prairie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
+      "rating": 5.139,
+      "year": 2026,
+      "days": 18,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
       "year": 2026,
-      "days": 28,
+      "days": 38,
       "trend": {
         "dir": "up",
         "delta": 3
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 29,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt36495086",
       "name": "La Carte des Désirs",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
       "rating": 7.3,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 17,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 37,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt9018736",
       "name": "Avatar : Le dernier maître de l'air",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
       "rating": 7.79,
       "year": 2024,
-      "days": 72,
+      "days": 73,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt40247521",
+      "name": "Spooky in Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

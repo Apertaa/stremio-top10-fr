@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -45,19 +45,6 @@
     },
     {
       "rank": 4,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 39,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt32777700",
       "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
@@ -65,8 +52,21 @@
       "year": 2025,
       "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt34771210",
+      "name": "Sur tes traces",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 39,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -97,6 +97,19 @@
     },
     {
       "rank": 8,
+      "id": "top10:instadocs-the-prediction-games",
+      "name": "Instadocs: The Prediction Games",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt18396952",
       "name": "L'Ultimatum : On se marie ou c'est fini",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
@@ -104,12 +117,12 @@
       "year": 2022,
       "days": 33,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt42127457",
       "name": "Agent Kim Reactivated",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
@@ -117,21 +130,8 @@
       "year": 2026,
       "days": 19,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt40247521",
-      "name": "Spooky in Love",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
-      "rating": 7,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

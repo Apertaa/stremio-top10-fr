@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -45,19 +45,6 @@
     },
     {
       "rank": 4,
-      "id": "tt39538786",
-      "name": "Sniper : No Nation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "rating": 6.607,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt37042085",
       "name": "Elize Surgie de l'Ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
@@ -65,8 +52,21 @@
       "year": 2026,
       "days": 5,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt39538786",
+      "name": "Sniper : No Nation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
+      "rating": 6.607,
+      "year": 2026,
+      "days": 5,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -84,19 +84,6 @@
     },
     {
       "rank": 7,
-      "id": "tt19847976",
-      "name": "Wicked : Partie II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
-      "rating": 6.625,
-      "year": 2025,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt39749953",
       "name": "The Debt Collector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
@@ -104,12 +91,12 @@
       "year": 2026,
       "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
@@ -117,8 +104,21 @@
       "year": 2026,
       "days": 37,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt19847976",
+      "name": "Wicked : Partie II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
+      "rating": 6.625,
+      "year": 2025,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {

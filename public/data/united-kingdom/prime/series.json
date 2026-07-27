@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202607261645",
+  "date": "202607271728",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 10,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
       "rating": 8.5,
       "year": 2021,
-      "days": 52,
+      "days": 53,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 24,
+      "days": 25,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 73,
+      "days": 74,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
       "rating": 7.394,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,67 +71,67 @@
     },
     {
       "rank": 6,
-      "id": "tt33055254",
-      "name": "Au fil des années",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
-      "rating": 8.329,
-      "year": 2026,
-      "days": 45,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt1190634",
-      "name": "The Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
-      "rating": 8.451,
-      "year": 2019,
-      "days": 108,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt39779622",
       "name": "Jesy Nelson: Life After Little Mix",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0WO1ak3FEXiwhXhZMtIAPTZEXD.jpg",
       "rating": 6.3,
       "year": 2026,
-      "days": 8,
+      "days": 9,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt33055254",
+      "name": "Au fil des années",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
+      "rating": 8.329,
+      "year": 2026,
+      "days": 46,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt30460310",
-      "name": "Spider-Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "rating": 8.528,
-      "year": 2026,
-      "days": 57,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "id": "tmdb:207481",
       "name": "Billion Pound Cruise",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l5U5ho9XV3KYothjJecdoJ5AN7e.jpg",
       "rating": null,
       "year": 2020,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt1190634",
+      "name": "The Boys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
+      "rating": 8.451,
+      "year": 2019,
+      "days": 109,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt30460310",
+      "name": "Spider-Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "rating": 8.528,
+      "year": 2026,
+      "days": 58,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]
