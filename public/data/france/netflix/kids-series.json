@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 106,
+      "days": 109,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "top10:learning-and-fun-with-jose-comelon",
-      "name": "Learning and fun with Jose Comelon",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 13,
+      "id": "tt36582176",
+      "name": "Winx Club, la magie est de retour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
+      "rating": 6.7,
+      "year": 2025,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 905,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 96,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,90 +45,90 @@
     },
     {
       "rank": 4,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 908,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
       "id": "tt12363714",
       "name": "Les Sisters",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gAvyWzF5m28pwBKKfi3j6dXRfEf.jpg",
       "rating": 6,
       "year": 2017,
-      "days": 921,
+      "days": 924,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt7699866",
       "name": "Simon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wcoDTpylduKBQMkwCUwybXUyILc.jpg",
       "rating": 7.9,
       "year": 2016,
-      "days": 871,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt31624609",
-      "name": "Le monde de Little Angel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
-      "rating": null,
-      "year": 2022,
-      "days": 805,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0426769",
-      "name": "Peppa Pig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "rating": 6.6,
-      "year": 2004,
-      "days": 828,
+      "days": 874,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 7,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 114,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
       "rank": 8,
-      "id": "tt9165438",
-      "name": "Gabby et la maison magique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
-      "rating": 7.9,
-      "year": 2021,
-      "days": 790,
+      "id": "top10:learning-and-fun-with-jose-comelon",
+      "name": "Learning and fun with Jose Comelon",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt0426769",
+      "name": "Peppa Pig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "rating": 6.6,
+      "year": 2004,
+      "days": 831,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 9,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 111,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt14164922",
-      "name": "Astérix & Obélix : Le Combat des chefs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
-      "rating": 7.78,
-      "year": 2025,
-      "days": 237,
+      "id": "tt31624609",
+      "name": "Le monde de Little Angel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l4tej0fqv8c4L3P2ufMdGIBqYK0.jpg",
+      "rating": null,
+      "year": 2022,
+      "days": 807,
       "trend": {
         "dir": "new",
         "delta": null

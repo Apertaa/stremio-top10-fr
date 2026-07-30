@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,77 +19,77 @@
     },
     {
       "rank": 2,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 23,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt33714084",
-      "name": "Reminders of Him",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
-      "rating": 7.765,
-      "year": 2026,
-      "days": 13,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt1210027",
-      "name": "Afterburn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
-      "rating": 6.241,
-      "year": 2025,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 32,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt8879928",
       "name": "Cold Storage",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6VEXLZt3gEiCuPnl666nak3OXKW.jpg",
       "rating": 6.798,
       "year": 2026,
-      "days": 1,
+      "days": 4,
       "trend": {
         "dir": "up",
-        "delta": 4
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 26,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt36958312",
+      "name": "La Bouche du Diable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
+      "rating": 6.281,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33714084",
+      "name": "Reminders of Him",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
+      "rating": 7.765,
+      "year": 2026,
+      "days": 16,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1210027",
+      "name": "Afterburn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
+      "rating": 6.241,
+      "year": 2025,
+      "days": 21,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
       "year": 2026,
-      "days": 51,
+      "days": 35,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt32357218",
+      "name": "Shelter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
+      "rating": 7.669,
+      "year": 2026,
+      "days": 54,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt34378301",
       "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 61,
+      "days": 64,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1213641",
-      "name": "First Man - Le Premier Homme sur la Lune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/txUD2EzyNnPIX3dFb7jbKqAQTbm.jpg",
-      "rating": 7.044,
-      "year": 2018,
-      "days": 6,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt9150192",
-      "name": "A Working Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
-      "rating": 6.694,
+      "id": "tt31036941",
+      "name": "Jurassic World : Renaissance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/39BWHFc5J2Pp7gHcykwOkm3tWTA.jpg",
+      "rating": 6.276,
       "year": 2025,
-      "days": 151,
+      "days": 32,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

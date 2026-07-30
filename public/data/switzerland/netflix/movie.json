@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 3,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 5,
+      "days": 8,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
       "rating": 5,
       "year": 2026,
-      "days": 3,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 10,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 38,
+      "days": 41,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,38 +84,38 @@
     },
     {
       "rank": 7,
-      "id": "tt32278481",
-      "name": "Enola Holmes 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": 26,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt39749953",
       "name": "The Debt Collector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt15940132",
+      "name": "War Machine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "rating": 7.441,
+      "year": 2026,
+      "days": 37,
+      "trend": {
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt39538786",
-      "name": "Sniper : No Nation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "rating": 6.607,
+      "id": "tt32278481",
+      "name": "Enola Holmes 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
+      "rating": 7.6,
       "year": 2026,
-      "days": 11,
+      "days": 29,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt11858890",
-      "name": "The Creator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
-      "rating": 7.036,
-      "year": 2023,
-      "days": 10,
+      "id": "tt43617119",
+      "name": "Lentement l'Amour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
+      "rating": 4.4,
+      "year": 2026,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0

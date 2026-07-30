@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
       "rating": 7.978,
       "year": 2026,
-      "days": 1,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
       "rating": 7.05,
       "year": 2021,
-      "days": 21,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 15,
+      "days": 18,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "rating": 8.023,
       "year": 2026,
-      "days": 22,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
-      "id": "tt0293429",
-      "name": "Mortal Kombat",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
-      "rating": 7.051,
-      "year": 2021,
-      "days": 9,
+      "id": "tt2854926",
+      "name": "TAG",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+      "rating": 6.711,
+      "year": 2018,
+      "days": 8,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt2557478",
+      "name": "Pacific Rim : Uprising",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
+      "rating": 6.124,
+      "year": 2018,
+      "days": 10,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt2854926",
-      "name": "TAG",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
-      "rating": 6.711,
-      "year": 2018,
-      "days": 5,
+      "rank": 7,
+      "id": "tt43698070",
+      "name": "Air Jaws: Red, White and Breach",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzsFgpwG2tMP4sCQDr44kzAnwxs.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt2557478",
-      "name": "Pacific Rim : Uprising",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
-      "rating": 6.124,
-      "year": 2018,
-      "days": 7,
+      "rank": 8,
+      "id": "tmdb:1739628",
+      "name": "House of Sharks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3gkrgD35CqlZt7lizCtDGRpmtRG.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "tmdb:1739632",
+      "name": "Jurassic Sharks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8seDdMqcyYg5Gpn0yb8Z6oE3nBN.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt4779682",
       "name": "En eaux troubles",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
       "rating": 6.248,
       "year": 2018,
-      "days": 30,
+      "days": 33,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0120616",
-      "name": "La Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dBpXYbHLOEd7e1P3RXpwipgAkaN.jpg",
-      "rating": 6.984,
-      "year": 1999,
-      "days": 49,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt1277953",
-      "name": "Madagascar 3 : Bons baisers d'Europe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/trMyHbr9CfcNYWcNERp8RorfmoW.jpg",
-      "rating": 6.638,
-      "year": 2012,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

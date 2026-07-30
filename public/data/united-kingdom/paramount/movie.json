@@ -2,19 +2,19 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
-      "id": "tt18259538",
-      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
-      "rating": 9.353,
+      "id": "tt33028778",
+      "name": "Primate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "rating": 6.526,
       "year": 2026,
-      "days": 1,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
       "rating": 6.867,
       "year": 2026,
-      "days": 16,
+      "days": 19,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,101 +37,101 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
       "rating": 7.005,
       "year": 2026,
-      "days": 16,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt18259538",
+      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "tt14107334",
       "name": "Running Man",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
       "rating": 6.78,
       "year": 2025,
-      "days": 31,
+      "days": 34,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt37577501",
-      "name": "The Girl Who Survived: The Alina Thompson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 58,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
+      "id": "tt0103064",
+      "name": "Terminator 2 : Le Jugement dernier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg",
+      "rating": 8.159,
+      "year": 1991,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt4419684",
       "name": "In the Lost Lands",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
       "rating": 6.367,
       "year": 2025,
-      "days": 9,
+      "days": 12,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt37577501",
+      "name": "The Girl Who Survived: The Alina Thompson Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 61,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 115,
+      "rank": 9,
+      "id": "tt29101725",
+      "name": "Killing Faith",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
+      "rating": 5.821,
+      "year": 2025,
+      "days": 47,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 8,
-      "id": "tt29101725",
-      "name": "Killing Faith",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "rating": 5.821,
-      "year": 2025,
-      "days": 44,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt34890320",
-      "name": "Preschool",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
-      "rating": 6.063,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 10,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
-      "year": 2025,
-      "days": 68,
+      "id": "tt1745960",
+      "name": "Top Gun : Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": 118,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 4
       }
     }
   ]

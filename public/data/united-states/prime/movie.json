@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "rating": 8.7,
       "year": 2026,
-      "days": 23,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,38 +32,38 @@
     },
     {
       "rank": 3,
+      "id": "tt36958312",
+      "name": "La Bouche du Diable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
+      "rating": 6.281,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt5834426",
       "name": "Moonfall",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
       "rating": 6.249,
       "year": 2022,
-      "days": 17,
+      "days": 20,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt0899043",
-      "name": "The Amateur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIG2bPJ0E5rxvPWUTpEjw1NE3Su.jpg",
-      "rating": 6.927,
-      "year": 2025,
-      "days": 4,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt14670094",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
-      "rating": 6.439,
-      "year": 2023,
-      "days": 29,
+      "id": "tt0899043",
+      "name": "The Amateur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIG2bPJ0E5rxvPWUTpEjw1NE3Su.jpg",
+      "rating": 6.927,
+      "year": 2025,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
+      "id": "tt3515878",
+      "name": "Do Not Enter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
+      "rating": 5.796,
       "year": 2026,
-      "days": 32,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg",
       "rating": 6.843,
       "year": 2013,
-      "days": 12,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 8,
-      "id": "tt3515878",
-      "name": "Do Not Enter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eM1jtFPsCjGkmqZSnhuZQXrr0hN.jpg",
-      "rating": 5.796,
-      "year": 2026,
-      "days": 8,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt29623480",
-      "name": "Le Robot sauvage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
-      "rating": 8.312,
-      "year": 2024,
-      "days": 1,
+      "id": "tt14670094",
+      "name": "Impitoyable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYqSgNfmY0iiVyUiQQYWdxGyGfD.jpg",
+      "rating": 6.439,
+      "year": 2023,
+      "days": 32,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 10,
-      "id": "tt27032708",
-      "name": "Survivre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/901kRttzfLScns7ss7RyKqG6d2A.jpg",
-      "rating": 5.9,
-      "year": 2024,
-      "days": 1,
+      "rank": 9,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 35,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt1464335",
+      "name": "Uncharted",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
+      "rating": 6.886,
+      "year": 2022,
+      "days": 18,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

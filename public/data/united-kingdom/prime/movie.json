@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
+      "id": "tt34381258",
+      "name": "The Good Boy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
+      "rating": 7.069,
       "year": 2026,
-      "days": 23,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt34381258",
-      "name": "The Good Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
-      "rating": 7.069,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
       "year": 2026,
-      "days": 1,
+      "days": 26,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,46 +50,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
       "rating": 7.266,
       "year": 2025,
-      "days": 16,
+      "days": 19,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt36958312",
+      "name": "La Bouche du Diable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
+      "rating": 6.281,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 35,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 5,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 32,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt32394984",
-      "name": "Ligne de feu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
-      "rating": 5.871,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 7,
-      "id": "tt0093507",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6RlX0L8k3eUT3hxMk58ZABesVR.jpg",
-      "rating": 5.827,
-      "year": 1987,
-      "days": 3,
+      "id": "tt6467266",
+      "name": "Tous en scène 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
+      "rating": 7.833,
+      "year": 2021,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,27 +97,27 @@
     },
     {
       "rank": 8,
+      "id": "tt32394984",
+      "name": "Ligne de feu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
+      "rating": 5.871,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt32916440",
       "name": "Marty Supreme",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
       "rating": 7.375,
       "year": 2025,
-      "days": 9,
+      "days": 12,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt6467266",
-      "name": "Tous en scène 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
-      "rating": 7.833,
-      "year": 2021,
-      "days": 11,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
       "rating": 6.316,
       "year": 2026,
-      "days": 5,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

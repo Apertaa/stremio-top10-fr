@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg",
       "rating": 6.75,
       "year": 2026,
-      "days": 9,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt1757678",
-      "name": "Avatar : De feu et de cendres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
-      "rating": 7.604,
-      "year": 2025,
-      "days": 32,
+      "id": "tt10872600",
+      "name": "Spider-Man : No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
+      "rating": 7.933,
+      "year": 2021,
+      "days": 73,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt10872600",
-      "name": "Spider-Man : No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
-      "rating": 7.933,
-      "year": 2021,
-      "days": 70,
+      "id": "tt27419466",
+      "name": "Vaiana, la légende du bout du monde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 146,
       "trend": {
         "dir": "up",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
       "rating": 7.006,
       "year": 2024,
-      "days": 26,
+      "days": 29,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt27419466",
-      "name": "Vaiana, la légende du bout du monde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 143,
+      "id": "tt2250912",
+      "name": "Spider-Man : Homecoming",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
+      "rating": 7.33,
+      "year": 2017,
+      "days": 68,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -76,49 +76,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
       "rating": 7.4,
       "year": 2019,
-      "days": 14,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt20202136",
-      "name": "Descendants : L’Ascension de Red",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dMi80nBfxVBj7EfoixdabEOHxqj.jpg",
-      "rating": 6.744,
-      "year": 2024,
-      "days": 5,
+      "id": "tt1757678",
+      "name": "Avatar : De feu et de cendres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+      "rating": 7.604,
+      "year": 2025,
+      "days": 35,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
       "rank": 8,
+      "id": "tt33612209",
+      "name": "Le Diable s'habille en Prada 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+      "rating": 7.161,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "tt4154756",
       "name": "Avengers : Infinity War",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg",
       "rating": 8.239,
       "year": 2018,
-      "days": 5,
+      "days": 8,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt2250912",
-      "name": "Spider-Man : Homecoming",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
-      "rating": 7.33,
-      "year": 2017,
-      "days": 65,
-      "trend": {
-        "dir": "new",
-        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg",
       "rating": 8.238,
       "year": 2019,
-      "days": 8,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

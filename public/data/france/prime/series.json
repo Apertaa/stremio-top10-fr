@@ -2,7 +2,7 @@
   "country": "france",
   "key": "prime",
   "list": "series",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 74,
+      "days": 77,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,15 +19,15 @@
     },
     {
       "rank": 2,
-      "id": "tt32020831",
-      "name": "Elle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
-      "rating": 10,
-      "year": 2026,
-      "days": 25,
+      "id": "tt13924304",
+      "name": "Sandokan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xHQDSDYFWbHuN71s23Yy9lwN70j.jpg",
+      "rating": 7.5,
+      "year": 2025,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
@@ -37,23 +37,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 11,
+      "days": 14,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt13924304",
-      "name": "Sandokan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xHQDSDYFWbHuN71s23Yy9lwN70j.jpg",
-      "rating": 7.5,
-      "year": 2025,
-      "days": 8,
+      "id": "tt32020831",
+      "name": "Elle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
+      "rating": 10,
+      "year": 2026,
+      "days": 28,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXpDNwci75WH21CAptGgWduBrXD.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 42,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt33055254",
-      "name": "Au fil des années",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
-      "rating": 8.329,
+      "id": "tt38960812",
+      "name": "À demain au bureau !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
+      "rating": 8.769,
       "year": 2026,
-      "days": 46,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt1190634",
-      "name": "The Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
-      "rating": 8.451,
-      "year": 2019,
-      "days": 109,
+      "id": "tt33055254",
+      "name": "Au fil des années",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
+      "rating": 8.329,
+      "year": 2026,
+      "days": 49,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt14016500",
-      "name": "L'Été où je suis devenue jolie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 329,
+      "id": "tt1190634",
+      "name": "The Boys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
+      "rating": 8.451,
+      "year": 2019,
+      "days": 112,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt7550774",
-      "name": "Le prix de la passion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO6C0NFLDpdnKnltEhKvkvUjIpk.jpg",
-      "rating": 7.912,
-      "year": 2017,
-      "days": 29,
+      "id": "tt14016500",
+      "name": "L'Été où je suis devenue jolie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
+      "rating": 8.1,
+      "year": 2022,
+      "days": 332,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt29550394",
-      "name": "LOL : Qui (c)rie, sort !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nI93MZf6n2OszaaueRSDuhxkF8C.jpg",
-      "rating": 7,
-      "year": 2023,
-      "days": 83,
+      "id": "tt30460310",
+      "name": "Spider-Noir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "rating": 8.528,
+      "year": 2026,
+      "days": 58,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

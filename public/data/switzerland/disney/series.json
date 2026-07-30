@@ -2,16 +2,16 @@
   "country": "switzerland",
   "key": "disney",
   "list": "series",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
-      "id": "tt34688214",
-      "name": "Pompéi : Tom Hiddleston remonte le temps",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
-      "rating": 6,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
+      "rating": 6.5,
       "year": 2026,
-      "days": 2,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt37063558",
-      "name": "R.J. Decker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
-      "rating": 7.8,
+      "id": "tt34688214",
+      "name": "Pompéi : Tom Hiddleston remonte le temps",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
+      "rating": 6,
       "year": 2026,
-      "days": 11,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tmdb:328337",
-      "name": "Bluey Compilations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
-      "rating": null,
+      "id": "tt37063558",
+      "name": "R.J. Decker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
+      "rating": 7.8,
       "year": 2026,
-      "days": 17,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt35466672",
-      "name": "Malcolm : Rien n’a changé",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
-      "rating": 8.072,
+      "id": "tmdb:328337",
+      "name": "Bluey Compilations",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 99,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt31614348",
-      "name": "Famille en réparation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
-      "rating": 6.406,
-      "year": 2025,
-      "days": 17,
+      "id": "tt35466672",
+      "name": "Malcolm : Rien n’a changé",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
+      "rating": 8.072,
+      "year": 2026,
+      "days": 102,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt0285403",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "rating": 8.116,
-      "year": 2001,
-      "days": 18,
+      "id": "tt10970762",
+      "name": "The Testaments",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": 42,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
       }
     },
     {
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 99,
+      "days": 102,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
-      "year": 2026,
-      "days": 39,
+      "id": "tt31614348",
+      "name": "Famille en réparation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
+      "rating": 6.406,
+      "year": 2025,
+      "days": 20,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 29,
+      "id": "tt0285403",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+      "rating": 8.116,
+      "year": 2001,
+      "days": 21,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 10,
-      "id": "tt0410975",
-      "name": "Desperate Housewives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
-      "rating": 7.9,
-      "year": 2004,
-      "days": 26,
+      "id": "tt23731346",
+      "name": "Princesse Sofia : Apprentie magicienne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
+      "rating": 9.4,
+      "year": 2026,
+      "days": 14,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

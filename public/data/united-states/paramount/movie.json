@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 1,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt5095076",
-      "name": "Wardriver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
-      "rating": 7.338,
-      "year": 2026,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt1225822",
       "name": "Extract",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
       "rating": 5.847,
       "year": 2009,
-      "days": 116,
+      "days": 119,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt5095076",
+      "name": "Wardriver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
+      "rating": 7.338,
+      "year": 2026,
+      "days": 21,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
       "rating": 6.305,
       "year": 2015,
-      "days": 21,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,28 +58,28 @@
     },
     {
       "rank": 5,
-      "id": "tt6977338",
-      "name": "Good Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
-      "rating": 6.833,
-      "year": 2019,
-      "days": 23,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt1745960",
       "name": "Top Gun : Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 708,
+      "days": 711,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt6977338",
+      "name": "Good Boys",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
+      "rating": 6.833,
+      "year": 2019,
+      "days": 26,
+      "trend": {
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,20 +89,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
       "rating": 7.097,
       "year": 2025,
-      "days": 206,
+      "days": 209,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt10323676",
-      "name": "Le Contracteur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
-      "rating": 6.351,
-      "year": 2022,
-      "days": 97,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 62,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "rating": 6.178,
-      "year": 2026,
-      "days": 59,
+      "id": "tt10323676",
+      "name": "Le Contracteur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
+      "rating": 6.351,
+      "year": 2022,
+      "days": 100,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
       "rating": 6.033,
       "year": 2014,
-      "days": 6,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

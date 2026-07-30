@@ -2,41 +2,15 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
-      "id": "tt1464335",
-      "name": "Uncharted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
-      "rating": 6.886,
+      "id": "tt11138512",
+      "name": "The Northman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aHUGeJfC7xJkliJK5ivjKrhKBZf.jpg",
+      "rating": 7.024,
       "year": 2022,
-      "days": 9,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt0332452",
-      "name": "Troie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
-      "rating": 7.177,
-      "year": 2004,
-      "days": 23,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt0289879",
-      "name": "L'Effet papillon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Kvm8qyZREDXFVFhjNaHAaQdnDq.jpg",
-      "rating": 7.579,
-      "year": 2004,
       "days": 2,
       "trend": {
         "dir": "same",
@@ -44,13 +18,39 @@
       }
     },
     {
+      "rank": 2,
+      "id": "tt1464335",
+      "name": "Uncharted",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
+      "rating": 6.886,
+      "year": 2022,
+      "days": 12,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt0332452",
+      "name": "Troie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
+      "rating": 7.177,
+      "year": 2004,
+      "days": 26,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
       "rank": 4,
-      "id": "tt0443649",
-      "name": "10 000",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6P9ZhywamwnglYLNybiyKEISpfE.jpg",
-      "rating": 5.51,
-      "year": 2008,
-      "days": 1,
+      "id": "tt8367814",
+      "name": "The Gentlemen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
+      "rating": 7.661,
+      "year": 2020,
+      "days": 3,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt1517268",
-      "name": "Barbie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-      "rating": 6.917,
-      "year": 2023,
-      "days": 51,
+      "id": "tt0289879",
+      "name": "L'Effet papillon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Kvm8qyZREDXFVFhjNaHAaQdnDq.jpg",
+      "rating": 7.579,
+      "year": 2004,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt2094766",
-      "name": "Assassin's Creed",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nDkC47MBBjRyk3damnqMgQGlwIe.jpg",
-      "rating": 5.438,
-      "year": 2016,
-      "days": 32,
+      "id": "tt0443649",
+      "name": "10 000",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6P9ZhywamwnglYLNybiyKEISpfE.jpg",
+      "rating": 5.51,
+      "year": 2008,
+      "days": 4,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt8367814",
-      "name": "The Gentlemen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
-      "rating": 7.661,
-      "year": 2020,
-      "days": null,
+      "id": "tt10872600",
+      "name": "Spider-Man : No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
+      "rating": 7.933,
+      "year": 2021,
+      "days": 23,
       "trend": {
         "dir": "new",
         "delta": null
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt12593682",
-      "name": "Bullet Train",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
-      "rating": 7.413,
-      "year": 2022,
-      "days": 16,
+      "id": "tt11858890",
+      "name": "The Creator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
+      "rating": 7.036,
+      "year": 2023,
+      "days": 2,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
-      "days": 1,
+      "id": "tt1517268",
+      "name": "Barbie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "rating": 6.917,
+      "year": 2023,
+      "days": 54,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 10,
-      "id": "tt1282140",
-      "name": "Easy Girl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLdSvAisVDItlHHg1u667iaHZTj.jpg",
-      "rating": 6.805,
-      "year": 2010,
-      "days": 14,
+      "id": "tt2094766",
+      "name": "Assassin's Creed",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nDkC47MBBjRyk3damnqMgQGlwIe.jpg",
+      "rating": 5.438,
+      "year": 2016,
+      "days": 35,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

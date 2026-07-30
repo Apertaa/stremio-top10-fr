@@ -2,29 +2,29 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
-      "id": "tt14107334",
-      "name": "Running Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
-      "rating": 6.78,
-      "year": 2025,
-      "days": 9,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt33240811",
       "name": "The Party's Over",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vJa5OZv0QOnGgzTSmiLTm7tIyjp.jpg",
       "rating": null,
       "year": null,
-      "days": 5,
+      "days": 8,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt14107334",
+      "name": "Running Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
+      "rating": 6.78,
+      "year": 2025,
+      "days": 12,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
       "rating": 7.363,
       "year": 2026,
-      "days": 1,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,23 +50,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
       "rating": 5.66,
       "year": 2025,
-      "days": 3,
+      "days": 6,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt33028778",
+      "name": "Primate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "rating": 6.526,
+      "year": 2026,
+      "days": 1,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "tt10374610",
       "name": "Marche ou crève",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 15,
+      "days": 18,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     }
   ]

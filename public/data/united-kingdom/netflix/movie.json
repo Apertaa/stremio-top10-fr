@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 3,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "top10:aitch-dont-be-afraid%E2%80%8B",
-      "name": "Aitch: Don&#39;t Be Afraid​",
+      "id": "tmdb:1739239",
+      "name": "Aitch: Don't Be Afraid​",
       "tmdbPosterUrl": null,
       "rating": null,
-      "year": null,
-      "days": null,
+      "year": 2026,
+      "days": 4,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 5,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ueffCcq485jkEQMY30yCDmGEksQ.jpg",
       "rating": 7.118,
       "year": 2024,
-      "days": 11,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,23 +76,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYovCvLV1RxB0zAR5cXu699P9P7.jpg",
       "rating": 6.988,
       "year": 2024,
-      "days": 60,
+      "days": 63,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0481141",
-      "name": "Le Goût de la vie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
-      "rating": 6.707,
-      "year": 2007,
-      "days": 4,
+      "id": "tt4530422",
+      "name": "Overlord",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/amXo7gNqWPHpGa5l47VEs0DSatv.jpg",
+      "rating": 6.737,
+      "year": 2018,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -102,23 +102,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 28,
+      "days": 31,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt7634968",
-      "name": "Ce que veulent les hommes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lQnaDT3Sg0h9rWCg1kKiHM1TIot.jpg",
-      "rating": 6.208,
-      "year": 2019,
-      "days": 12,
+      "id": "tt0481141",
+      "name": "Le Goût de la vie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiOdx2irSOl62BhtUWmcu0lAnsZ.jpg",
+      "rating": 6.707,
+      "year": 2007,
+      "days": 7,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 3,
+      "days": 6,
       "trend": {
         "dir": "down",
         "delta": 1

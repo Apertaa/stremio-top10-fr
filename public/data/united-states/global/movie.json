@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202607271728",
+  "date": "202607301713",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 3,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,50 +32,37 @@
     },
     {
       "rank": 3,
-      "id": "tt4996328",
-      "name": "Ordinary Angels",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1NW0Ily0RyCPad1sNd2rl3W3LUc.jpg",
-      "rating": 7.689,
-      "year": 2024,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt37042085",
       "name": "Elize Surgie de l'Ombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 5,
+      "days": 8,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
-      "id": "tt39538786",
-      "name": "Sniper : No Nation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "rating": 6.607,
-      "year": 2026,
-      "days": 5,
+      "rank": 4,
+      "id": "tt4996328",
+      "name": "Ordinary Angels",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1NW0Ily0RyCPad1sNd2rl3W3LUc.jpg",
+      "rating": 7.689,
+      "year": 2024,
+      "days": 9,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 6,
-      "id": "tt41111628",
-      "name": "Leur vérité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
-      "rating": 5,
-      "year": 2026,
+      "rank": 5,
+      "id": "tt13433802",
+      "name": "Sans un bruit : Jour 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymMaqwKN3Ovy9nlIRmk5GsnxEkx.jpg",
+      "rating": 6.645,
+      "year": 2024,
       "days": 3,
       "trend": {
         "dir": "same",
@@ -83,26 +70,39 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "tt39749953",
       "name": "The Debt Collector",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 4,
+      "days": 7,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt39538786",
+      "name": "Sniper : No Nation",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
+      "rating": 6.607,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 37,
+      "id": "tt3874544",
+      "name": "Baby Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
+      "rating": 6.453,
+      "year": 2017,
+      "days": 85,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt19847976",
-      "name": "Wicked : Partie II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A16dlyaV3FCYGYIsYhQJr0tIjo5.jpg",
-      "rating": 6.625,
-      "year": 2025,
-      "days": 7,
+      "id": "tt41111628",
+      "name": "Leur vérité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
+      "rating": 5,
+      "year": 2026,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
+      "id": "tt2250912",
+      "name": "Spider-Man : Homecoming",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
+      "rating": 7.33,
       "year": 2017,
-      "days": 82,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]
