@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
       "rating": 7.978,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
       "rating": 7.05,
       "year": 2021,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
       "rating": 6.89,
       "year": 2025,
-      "days": 18,
+      "days": 19,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,80 +45,80 @@
     },
     {
       "rank": 4,
-      "id": "tt32612507",
-      "name": "Le Réveil de la Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-      "rating": 8.023,
-      "year": 2026,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt2854926",
-      "name": "TAG",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
-      "rating": 6.711,
-      "year": 2018,
-      "days": 8,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt2557478",
-      "name": "Pacific Rim : Uprising",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
-      "rating": 6.124,
-      "year": 2018,
-      "days": 10,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt43698070",
-      "name": "Air Jaws: Red, White and Breach",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzsFgpwG2tMP4sCQDr44kzAnwxs.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 1,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tmdb:1739628",
-      "name": "House of Sharks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3gkrgD35CqlZt7lizCtDGRpmtRG.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tmdb:1739632",
       "name": "Jurassic Sharks",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8seDdMqcyYg5Gpn0yb8Z6oE3nBN.jpg",
       "rating": null,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt32612507",
+      "name": "Le Réveil de la Momie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+      "rating": 8.023,
+      "year": 2026,
+      "days": 26,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt2854926",
+      "name": "TAG",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+      "rating": 6.711,
+      "year": 2018,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt2557478",
+      "name": "Pacific Rim : Uprising",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
+      "rating": 6.124,
+      "year": 2018,
+      "days": 11,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt43698070",
+      "name": "Air Jaws: Red, White and Breach",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzsFgpwG2tMP4sCQDr44kzAnwxs.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tmdb:1739628",
+      "name": "House of Sharks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3gkrgD35CqlZt7lizCtDGRpmtRG.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
       "rating": 6.248,
       "year": 2018,
-      "days": 33,
+      "days": 34,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

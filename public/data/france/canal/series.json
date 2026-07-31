@@ -2,7 +2,7 @@
   "country": "france",
   "key": "canal",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ihsjLndu3FrhDFGjdYY0bbhuD9R.jpg",
       "rating": 5.4,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 163,
+      "days": 164,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 172,
+      "days": 173,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
       "rating": 5.455,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 52,
+      "days": 53,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
       "rating": 7.446,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 72,
+      "days": 73,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 75,
+      "days": 76,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
       "rating": 8.5,
       "year": 2011,
-      "days": 360,
+      "days": 361,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 187,
+      "id": "tt18546730",
+      "name": "The Walking Dead : Dead City",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "rating": 7.9,
+      "year": 2023,
+      "days": 12,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 38,
+      "days": 39,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 44,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
       "rating": 8.571,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/noWGHRAllKVUlxTQ5T10gQL4BBL.jpg",
       "rating": 5.429,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
-      "rating": 8.746,
-      "year": 2025,
-      "days": 44,
+      "id": "tt38448408",
+      "name": "The Killings at Parrish Station",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
+      "rating": 5.667,
+      "year": 2026,
+      "days": 32,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
       }
     },
     {
@@ -76,62 +76,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8xvMliM7rN7357p93I9rbeu3aeJ.jpg",
       "rating": 6.973,
       "year": 2022,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
+      "rating": 8.746,
+      "year": 2025,
+      "days": 45,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt37543147",
       "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt38448408",
-      "name": "The Killings at Parrish Station",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
-      "rating": 5.667,
-      "year": 2026,
-      "days": 31,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt27507828",
-      "name": "Fired on Mars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7x4EO1UOvat2V78WuC2CpAqxjH8.jpg",
-      "rating": 7,
-      "year": 2023,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt3469050",
       "name": "90 jours pour se marier",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
       "rating": 7.1,
       "year": 2014,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt27507828",
+      "name": "Fired on Mars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7x4EO1UOvat2V78WuC2CpAqxjH8.jpg",
+      "rating": 7,
+      "year": 2023,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

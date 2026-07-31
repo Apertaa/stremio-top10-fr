@@ -2,7 +2,7 @@
   "country": "united-kingdom",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 535,
+      "days": 536,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 102,
+      "days": 103,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 112,
+      "days": 113,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 924,
+      "days": 925,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
       "rating": 6.843,
       "year": 2009,
-      "days": 65,
+      "days": 66,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9t6stbz5F4W9tq7qLjmtGR4VmLG.jpg",
       "rating": 5.2,
       "year": 2016,
-      "days": 25,
+      "days": 26,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 62,
+      "days": 63,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt36582176",
-      "name": "Winx Club, la magie est de retour",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
-      "rating": 6.7,
-      "year": 2025,
-      "days": 18,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tmdb:219799",
       "name": "安全警长啦咘啦哆",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
       "rating": 9,
       "year": 2022,
-      "days": 186,
+      "days": 187,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "tt3121722",
       "name": "La Pat' Patrouille",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
       "rating": 7,
       "year": 2013,
-      "days": 560,
+      "days": 561,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt36582176",
+      "name": "Winx Club, la magie est de retour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
+      "rating": 6.7,
+      "year": 2025,
+      "days": 19,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

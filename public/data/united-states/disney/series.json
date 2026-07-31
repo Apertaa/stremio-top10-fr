@@ -2,32 +2,32 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
-      "id": "tmdb:329903",
-      "name": "Mickey Mouse Clubhouse+: Mickey's Country Farm Songs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gnRRHjqLB11nHXGbwIfpAKR4F6X.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tmdb:317374",
       "name": "Locker Diaries: Descendants",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gqUrmVrgmmbghymywdpzPFw2as.jpg",
       "rating": null,
       "year": 2026,
-      "days": 3,
+      "days": 4,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 29,
+      "trend": {
+        "dir": "up",
+        "delta": 5
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,28 +45,28 @@
     },
     {
       "rank": 4,
-      "id": "tt40367753",
-      "name": "Dancing with the Stars: The Next Pro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 5,
       "id": "tmdb:328337",
       "name": "Bluey Compilations",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tmdb:329903",
+      "name": "Mickey Mouse Clubhouse+: Mickey's Country Farm Songs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gnRRHjqLB11nHXGbwIfpAKR4F6X.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 3,
+      "trend": {
+        "dir": "down",
+        "delta": 4
       }
     },
     {
@@ -76,46 +76,46 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 28,
+      "id": "tt40367753",
+      "name": "Dancing with the Stars: The Next Pro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt26685570",
-      "name": "How Not to Draw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
-      "rating": 8,
+      "id": "tt11871764",
+      "name": "Cool Attitude : Encore plus cool",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wGnR8jmLGV0yN6d7Eg1OsRubts8.jpg",
+      "rating": 5.3,
       "year": 2022,
-      "days": 39,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt9140554",
-      "name": "Loki",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
-      "rating": 8.171,
-      "year": 2021,
-      "days": 6,
+      "id": "tt6917254",
+      "name": "Beat Shazam",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q2U5Iulo8NWWiOiVx0f7VX9o4RM.jpg",
+      "rating": 5.1,
+      "year": 2017,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": null,
+      "id": "tt26685570",
+      "name": "How Not to Draw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": 40,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

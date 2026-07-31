@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
       "rating": 8.301,
       "year": 2022,
-      "days": 132,
+      "days": 133,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
       "rating": 8.679,
       "year": 2013,
-      "days": 105,
+      "days": 106,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,106 +32,106 @@
     },
     {
       "rank": 3,
-      "id": "tt27497393",
-      "name": "Stuart Fails to Save the Universe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
-      "rating": 8.571,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt28304310",
-      "name": "90 Day: The Last Resort",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": 111,
+      "id": "tt34881067",
+      "name": "Baylen Out Loud",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+      "rating": 8.7,
+      "year": 2025,
+      "days": 152,
       "trend": {
         "dir": "new",
         "delta": null
       }
     },
     {
-      "rank": 5,
-      "id": "tt3469050",
-      "name": "90 jours pour se marier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
-      "rating": 7.1,
-      "year": 2014,
-      "days": 206,
+      "rank": 4,
+      "id": "tt27497393",
+      "name": "Stuart Fails to Save the Universe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
+      "rating": 8.571,
+      "year": 2026,
+      "days": 6,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt37543147",
       "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
       "rating": 4.5,
       "year": 2026,
-      "days": 32,
+      "days": 33,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
+      "rank": 6,
+      "id": "tt3469050",
+      "name": "90 jours pour se marier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eGManEraajLjFpedZAgaMGNlBUT.jpg",
+      "rating": 7.1,
       "year": 2014,
-      "days": 592,
+      "days": 207,
       "trend": {
         "dir": "down",
-        "delta": 3
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "tt37692332",
       "name": "President Curtis",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/noWGHRAllKVUlxTQ5T10gQL4BBL.jpg",
       "rating": 5.429,
       "year": 2026,
-      "days": 1,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt28304310",
+      "name": "90 Day: The Last Resort",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lmexWiKPO8aYOVKPrWO8RMjAakv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 112,
+      "trend": {
+        "dir": "down",
+        "delta": 4
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.796,
+      "year": 2014,
+      "days": 593,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt37522426",
       "name": "Ami ou Assassin ?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eK2EsnQ7bSiSoRbUNENHtYf9WqU.jpg",
       "rating": 8.438,
       "year": 2025,
-      "days": 43,
+      "days": 44,
       "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt42815500",
-      "name": "Little Singles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eTR7IIKuVTs7GpoGmL9zIxRRXXm.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 15,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

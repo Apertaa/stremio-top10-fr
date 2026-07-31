@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "hbo",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mZgaULvOfCMc2MVKm0DzDLvi5ZU.jpg",
       "rating": 7.642,
       "year": 2014,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1VOKlC35yrwVKlfBSN52NY4zoF2.jpg",
       "rating": 7.452,
       "year": 2017,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3svvunKXkhRvEKByGDua1Qu0otq.jpg",
       "rating": 5.459,
       "year": 1997,
-      "days": 6,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,10 +102,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
       "rating": 7.051,
       "year": 2021,
-      "days": 1,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbxqFdWXHeLIJfagMMhVG5SV5tb.jpg",
       "rating": 7.454,
       "year": 2024,
-      "days": 29,
+      "days": 30,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg",
       "rating": 6.9,
       "year": 2023,
-      "days": 24,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0

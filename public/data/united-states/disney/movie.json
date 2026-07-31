@@ -2,58 +2,58 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
+      "id": "tt33612209",
+      "name": "Le Diable s'habille en Prada 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+      "rating": 7.161,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 7
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt34477910",
       "name": "Descendants : La Malédiction du Pays des Merveilles",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg",
       "rating": 6.75,
       "year": 2026,
-      "days": 12,
+      "days": 13,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "tt10872600",
       "name": "Spider-Man : No Way Home",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
       "rating": 7.933,
       "year": 2021,
-      "days": 73,
+      "days": 74,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt27419466",
-      "name": "Vaiana, la légende du bout du monde",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 146,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt13622970",
-      "name": "Vaiana 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
-      "rating": 7.006,
-      "year": 2024,
-      "days": 29,
+      "id": "tt6320628",
+      "name": "Spider-Man : Far From Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
+      "rating": 7.4,
+      "year": 2019,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "up",
+        "delta": 2
       }
     },
     {
@@ -63,72 +63,72 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
       "rating": 7.33,
       "year": 2017,
-      "days": 68,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt6320628",
-      "name": "Spider-Man : Far From Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
-      "rating": 7.4,
-      "year": 2019,
-      "days": 17,
+      "days": 69,
       "trend": {
         "dir": "same",
         "delta": 0
       }
     },
     {
+      "rank": 6,
+      "id": "tt27419466",
+      "name": "Vaiana, la légende du bout du monde",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 147,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
       "rank": 7,
+      "id": "tt13622970",
+      "name": "Vaiana 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "rating": 7.006,
+      "year": 2024,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt1757678",
       "name": "Avatar : De feu et de cendres",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "rating": 7.604,
       "year": 2025,
-      "days": 35,
-      "trend": {
-        "dir": "down",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt33612209",
-      "name": "Le Diable s'habille en Prada 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
-      "rating": 7.161,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt4154756",
-      "name": "Avengers : Infinity War",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg",
-      "rating": 8.239,
-      "year": 2018,
-      "days": 8,
+      "days": 36,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
+      "rank": 9,
+      "id": "tt0458352",
+      "name": "Le Diable s'habille en Prada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
+      "rating": 7.434,
+      "year": 2006,
+      "days": 53,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 10,
-      "id": "tt4154796",
-      "name": "Avengers : Endgame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg",
-      "rating": 8.238,
-      "year": 2019,
-      "days": 11,
+      "id": "tt4154756",
+      "name": "Avengers : Infinity War",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg",
+      "rating": 8.239,
+      "year": 2018,
+      "days": 9,
       "trend": {
         "dir": "down",
         "delta": 1

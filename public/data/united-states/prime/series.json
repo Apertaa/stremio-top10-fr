@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
       "rating": 3.8,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
       "rating": 10,
       "year": 2026,
-      "days": 28,
+      "days": 29,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
       "rating": 8.97,
       "year": 2026,
-      "days": 77,
+      "days": 78,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,67 +45,67 @@
     },
     {
       "rank": 4,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 13,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 5,
       "id": "tt33055254",
       "name": "Au fil des années",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.329,
       "year": 2026,
-      "days": 49,
+      "days": 50,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "tt30460310",
       "name": "Spider-Noir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
       "rating": 8.528,
       "year": 2026,
-      "days": 63,
+      "days": 64,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 6,
+      "id": "tt35346717",
+      "name": "Béryl : De paysan à maître d'armes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sunvA4HJbblDhgMH5I2StrF9wki.jpg",
+      "rating": 7.2,
+      "year": 2025,
+      "days": 3,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
       "rank": 7,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 14,
+      "trend": {
+        "dir": "down",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt39163341",
       "name": "Murder 101",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
       "rating": null,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt38960812",
-      "name": "À demain au bureau !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
-      "rating": 8.769,
-      "year": 2026,
-      "days": 12,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 290,
+      "days": 291,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt1190634",
-      "name": "The Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
-      "rating": 8.451,
-      "year": 2019,
-      "days": 112,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "rating": 8.078,
+      "year": 2022,
+      "days": 70,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

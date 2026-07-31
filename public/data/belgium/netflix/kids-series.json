@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 109,
+      "days": 110,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
       "rating": 6.7,
       "year": 2025,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
       "rating": 6.843,
       "year": 2009,
-      "days": 802,
+      "days": 803,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,36 +50,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 919,
+      "days": 920,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 878,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "top10:learning-and-fun-with-jose-comelon",
       "name": "Learning and fun with Jose Comelon",
       "tmdbPosterUrl": null,
       "rating": null,
       "year": null,
-      "days": 16,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 877,
-      "trend": {
-        "dir": "same",
-        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 877,
+      "days": 878,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 197,
+      "days": 198,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,23 +115,23 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vTx1aljYcHYUKLvs2cKkoJruITu.jpg",
       "rating": 8.011,
       "year": 2013,
-      "days": 459,
+      "days": 460,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt6581428",
-      "name": "Booba",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e5s0wmwtxLaM8aFsDuk0fLO8Inj.jpg",
-      "rating": 6.2,
+      "id": "tt3596174",
+      "name": "Henry Danger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+      "rating": 8.279,
       "year": 2014,
-      "days": 98,
+      "days": 173,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

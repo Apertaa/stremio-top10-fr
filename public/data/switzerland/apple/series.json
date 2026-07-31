@@ -2,29 +2,29 @@
   "country": "switzerland",
   "key": "apple",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
-      "id": "tt34866681",
-      "name": "Lucky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
-      "rating": 5.455,
-      "year": 2026,
-      "days": 14,
-      "trend": {
-        "dir": "up",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": 393,
+      "days": 394,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt34866681",
+      "name": "Lucky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
+      "rating": 5.455,
+      "year": 2026,
+      "days": 15,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
       "rating": 8.34,
       "year": 2020,
-      "days": 702,
+      "days": 703,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,33 +50,33 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
       "rating": 6.6,
       "year": 2026,
-      "days": 54,
+      "days": 55,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt10982034",
-      "name": "Trying",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
-      "rating": 7.6,
-      "year": 2020,
-      "days": 22,
-      "trend": {
-        "dir": "up",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt16418808",
       "name": "Sugar",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "rating": 7.2,
       "year": 2024,
-      "days": 102,
+      "days": 103,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt10982034",
+      "name": "Trying",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/403g0sHxcdLQti6P68v8vN3BGZw.jpg",
+      "rating": 7.6,
+      "year": 2020,
+      "days": 23,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt35946742",
-      "name": "Plaisir maximum garanti",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
-      "rating": 5.7,
-      "year": 2026,
-      "days": 54,
+      "id": "tt30459041",
+      "name": "Vrais voisins, faux amis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
+      "rating": 7.719,
+      "year": 2025,
+      "days": 252,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt30459041",
-      "name": "Vrais voisins, faux amis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLJWV9NgY9vGIPSZwXQGXxxVvqj.jpg",
-      "rating": 7.719,
-      "year": 2025,
-      "days": 251,
+      "id": "tt35946742",
+      "name": "Plaisir maximum garanti",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hFKOglPtEpknH7HZPwadBboDPci.jpg",
+      "rating": 5.7,
+      "year": 2026,
+      "days": 55,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwU65YHkNbXpyNVtxGSpDOScMW1.jpg",
       "rating": 7.743,
       "year": 2019,
-      "days": 373,
+      "days": 374,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmjW474DJ27bqTYNvS4MvraJgiQ.jpg",
       "rating": 8.396,
       "year": 2022,
-      "days": 536,
+      "days": 537,
       "trend": {
         "dir": "same",
         "delta": 0

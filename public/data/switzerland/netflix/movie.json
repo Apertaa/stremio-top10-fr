@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
       "rating": 5,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "rating": 7.441,
       "year": 2026,
-      "days": 37,
+      "days": 38,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,7 +115,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ncHImt9szlNQaNM2iY3vcgSdDp.jpg",
       "rating": 7.6,
       "year": 2026,
-      "days": 29,
+      "days": 30,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -128,7 +128,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
       "rating": 4.4,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0

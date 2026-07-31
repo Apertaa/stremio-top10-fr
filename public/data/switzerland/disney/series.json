@@ -2,7 +2,7 @@
   "country": "switzerland",
   "key": "disney",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 1,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
       "rating": 8.072,
       "year": 2026,
-      "days": 102,
+      "days": 103,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 42,
+      "days": 43,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
       "rating": 8.1,
       "year": 2024,
-      "days": 102,
+      "days": 103,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yJUu0kD8pfVVNJOpWuipjZqI44i.jpg",
       "rating": 6.406,
       "year": 2025,
-      "days": 20,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
       "rating": 8.116,
       "year": 2001,
-      "days": 21,
+      "days": 22,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

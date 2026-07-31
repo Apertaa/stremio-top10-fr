@@ -2,32 +2,32 @@
   "country": "france",
   "key": "prime",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0427340",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
-      "rating": 7.282,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt36958312",
       "name": "La Bouche du Diable",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
       "rating": 6.281,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0427340",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
+      "rating": 7.282,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5Dk5KHdHNSt6po6qUVVm95kpqSa.jpg",
       "rating": 6,
       "year": 2026,
-      "days": 9,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tGEJipReupfLc8yDHAUKqmqV6LE.jpg",
       "rating": 7.57,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
       "rating": 7.875,
       "year": 2021,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,59 +76,59 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 21,
+      "days": 22,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt10078772",
-      "name": "Vol à haut risque",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
-      "rating": 5.9,
-      "year": 2025,
-      "days": 26,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt32357218",
       "name": "Shelter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 41,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt1840309",
-      "name": "Divergente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
-      "rating": 6.905,
-      "year": 2014,
-      "days": 18,
+      "days": 42,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 10,
-      "id": "tt36963493",
-      "name": "Une famille de bâtards",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-      "rating": 5.257,
+      "rank": 8,
+      "id": "tt36331860",
+      "name": "Love Me Love Me",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "rating": 5.978,
       "year": 2026,
-      "days": 39,
+      "days": 66,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt10078772",
+      "name": "Vol à haut risque",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
+      "rating": 5.9,
+      "year": 2025,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt27572862",
+      "name": "Meg Rising 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gtsAg5YT04HfqTx38XAAdVNBOk0.jpg",
+      "rating": 3.308,
+      "year": 2023,
+      "days": null,
       "trend": {
         "dir": "new",
         "delta": null

@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "apple",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up0kyZZlLX24dE9SzDuTjXe6HFl.jpg",
       "rating": 7.797,
       "year": 2025,
-      "days": 229,
+      "days": 230,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,10 +37,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
       "rating": 7.65,
       "year": 2025,
-      "days": 510,
+      "days": 511,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg",
       "rating": 6.304,
       "year": 2023,
-      "days": 878,
+      "days": 879,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pmTQyOKV71IyODxfSXUS94L3j8.jpg",
       "rating": 6.142,
       "year": 2024,
-      "days": 324,
+      "days": 325,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,28 +71,28 @@
     },
     {
       "rank": 6,
+      "id": "tt12573454",
+      "name": "Sharper",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yvt5DM98hQWgUl0uBIEj6wbqFXq.jpg",
+      "rating": 6.8,
+      "year": 2023,
+      "days": 478,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "tt27075958",
       "name": "Fountain of Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lU8UHihpQVVzyynfNaVsNjCxDXM.jpg",
       "rating": 6.255,
       "year": 2025,
-      "days": 333,
+      "days": 334,
       "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt6048922",
-      "name": "USS Greyhound - La Bataille de l'Atlantique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
-      "rating": 7.421,
-      "year": 2020,
-      "days": 870,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
       "rating": 7.078,
       "year": 2025,
-      "days": 83,
+      "days": 84,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
+      "id": "tt6048922",
+      "name": "USS Greyhound - La Bataille de l'Atlantique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzfRM2qbA8X9pOBfRNkIjorNmOu.jpg",
+      "rating": 7.421,
+      "year": 2020,
+      "days": 871,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt21103218",
       "name": "The Lost Bus - Au cœur des flammes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cSU3FCDrgezl0JbBw2ryWwC1BWD.jpg",
       "rating": 7.038,
       "year": 2025,
-      "days": 135,
+      "days": 136,
       "trend": {
         "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt34276058",
-      "name": "The Family Plan 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlwplmgaj36GElSofHrykqXtebL.jpg",
-      "rating": 6.539,
-      "year": 2025,
-      "days": 218,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "netflix",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": 6.7,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,10 +24,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
       "rating": 5.2,
       "year": 2026,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -37,71 +37,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
       "rating": 7.214,
       "year": 2025,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt28088031",
-      "name": "Nouvelle vie à Ransom Canyon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
+      "id": "tt13592494",
+      "name": "L'Attentat du vol Pan Am 103",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pfT0nfWUpxaACI3JQWFLbDRVvm7.jpg",
       "rating": 7.2,
       "year": 2025,
-      "days": 25,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 42,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt42127457",
-      "name": "Agent Kim Reactivated",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 34,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt38734636",
-      "name": "Oasis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 41,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt43492801",
-      "name": "Fúria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
-      "rating": 1,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "new",
@@ -109,26 +57,78 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt36495086",
-      "name": "La Carte des Désirs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
-      "rating": 7.3,
-      "year": 2026,
-      "days": 13,
+      "rank": 5,
+      "id": "tt28088031",
+      "name": "Nouvelle vie à Ransom Canyon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
+      "rating": 7.2,
+      "year": 2025,
+      "days": 26,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 10,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
+      "rank": 6,
+      "id": "tt34771210",
+      "name": "Sur tes traces",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
+      "rating": 8.2,
       "year": 2026,
-      "days": 20,
+      "days": 43,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt43492801",
+      "name": "Fúria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 2,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt42127457",
+      "name": "Agent Kim Reactivated",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 35,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt38734636",
+      "name": "Oasis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 42,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt36495086",
+      "name": "La Carte des Désirs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
+      "rating": 7.3,
+      "year": 2026,
+      "days": 14,
       "trend": {
         "dir": "down",
         "delta": 1

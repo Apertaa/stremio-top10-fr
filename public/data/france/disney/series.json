@@ -2,7 +2,7 @@
   "country": "france",
   "key": "disney",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
       "rating": 6.5,
       "year": 2026,
-      "days": 2,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt34688214",
-      "name": "Pompéi : Tom Hiddleston remonte le temps",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tmdb:328337",
       "name": "Bluey Compilations",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
       "rating": null,
       "year": 2026,
-      "days": 20,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt34688214",
+      "name": "Pompéi : Tom Hiddleston remonte le temps",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": 6,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
       "rating": 8.227,
       "year": 2026,
-      "days": 31,
+      "days": 32,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2AjzqV565NWhiyjsorSu7s9bLsD.jpg",
       "rating": 8.072,
       "year": 2026,
-      "days": 76,
+      "days": 77,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,15 +71,15 @@
     },
     {
       "rank": 6,
-      "id": "tt37063558",
-      "name": "R.J. Decker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
-      "rating": 7.8,
+      "id": "tt39333617",
+      "name": "Perfect Crown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z6on6DbEKpE9gOr8lvjj3xebGtd.jpg",
+      "rating": 8.9,
       "year": 2026,
-      "days": 14,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 4
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
       "rating": 7.9,
       "year": 2004,
-      "days": 65,
+      "days": 66,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt37063558",
+      "name": "R.J. Decker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": 15,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt16026746",
+      "name": "X-Men '97",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "rating": 8.5,
+      "year": 2024,
+      "days": 17,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt23731346",
       "name": "Princesse Sofia : Apprentie magicienne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
       "rating": 9.4,
       "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt0434665",
-      "name": "Bleach",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
-      "rating": 8.4,
-      "year": 2004,
-      "days": 8,
+      "days": 21,
       "trend": {
         "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt39333617",
-      "name": "Perfect Crown",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z6on6DbEKpE9gOr8lvjj3xebGtd.jpg",
-      "rating": 8.9,
-      "year": 2026,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
+        "delta": 2
       }
     }
   ]

@@ -2,42 +2,42 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
+      "id": "tt36958312",
+      "name": "La Bouche du Diable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
+      "rating": 6.281,
+      "year": 2026,
+      "days": 1,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 2,
       "id": "tt0427340",
       "name": "Les Maîtres de l'Univers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
       "rating": 7.282,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt8879928",
-      "name": "Cold Storage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6VEXLZt3gEiCuPnl666nak3OXKW.jpg",
-      "rating": 6.798,
-      "year": 2026,
-      "days": 4,
-      "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
+      "id": "tt8879928",
+      "name": "Cold Storage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6VEXLZt3gEiCuPnl666nak3OXKW.jpg",
+      "rating": 6.798,
       "year": 2026,
-      "days": 26,
+      "days": 5,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -45,15 +45,15 @@
     },
     {
       "rank": 4,
-      "id": "tt36958312",
-      "name": "La Bouche du Diable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
-      "rating": 6.281,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
       "year": 2026,
-      "days": null,
+      "days": 27,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
       "rating": 7.765,
       "year": 2026,
-      "days": 16,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,62 +76,62 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
       "rating": 6.241,
       "year": 2025,
-      "days": 21,
+      "days": 22,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 7,
+      "id": "top10:akalpit",
+      "name": "Akalpit",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": null,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt32565993",
+      "name": "Les moutons détectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
+      "rating": 7.521,
+      "year": 2026,
+      "days": 36,
       "trend": {
         "dir": "down",
         "delta": 1
       }
     },
     {
-      "rank": 7,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
-      "year": 2026,
-      "days": 35,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "id": "tt32357218",
       "name": "Shelter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
       "rating": 7.669,
       "year": 2026,
-      "days": 54,
+      "days": 55,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt34378301",
       "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": 64,
+      "days": 65,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt31036941",
-      "name": "Jurassic World : Renaissance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/39BWHFc5J2Pp7gHcykwOkm3tWTA.jpg",
-      "rating": 6.276,
-      "year": 2025,
-      "days": 32,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

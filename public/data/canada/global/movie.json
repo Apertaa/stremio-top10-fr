@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "global",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
       "rating": 7.167,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -37,7 +37,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9sAK8lZDNkH9QBFjmqLytXnmzyM.jpg",
       "rating": 6.665,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt37042085",
-      "name": "Elize Surgie de l'Ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
-      "rating": 5.9,
-      "year": 2026,
-      "days": 8,
+      "id": "tmdb:1562882",
+      "name": "Ghost Town",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDtYdIGGcwrOs4f7EqSrA8Z03B7.jpg",
+      "rating": 10,
+      "year": null,
+      "days": 7,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,28 +58,28 @@
     },
     {
       "rank": 5,
-      "id": "tmdb:1562882",
-      "name": "Ghost Town",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDtYdIGGcwrOs4f7EqSrA8Z03B7.jpg",
-      "rating": 10,
-      "year": null,
-      "days": 6,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt29623480",
       "name": "Le Robot sauvage",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
       "rating": 8.312,
       "year": 2024,
-      "days": 5,
+      "days": 6,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt37042085",
+      "name": "Elize Surgie de l'Ombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
+      "rating": 5.9,
+      "year": 2026,
+      "days": 9,
+      "trend": {
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -89,7 +89,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
       "rating": 5,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -102,7 +102,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt0104187",
-      "name": "California Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJx5ZXnZrVHTk99x6bZAB8p8YVO.jpg",
-      "rating": 5.813,
-      "year": 1992,
-      "days": 2,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt10375624",
       "name": "Si tu m'écoutes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 40,
+      "days": 41,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt6320628",
+      "name": "Spider-Man : Far From Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
+      "rating": 7.4,
+      "year": 2019,
+      "days": 2,
+      "trend": {
+        "dir": "new",
+        "delta": null
       }
     }
   ]

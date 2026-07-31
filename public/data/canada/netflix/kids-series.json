@@ -2,7 +2,7 @@
   "country": "canada",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
       "rating": 7.286,
       "year": 2025,
-      "days": 528,
+      "days": 529,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,28 +19,28 @@
     },
     {
       "rank": 2,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 108,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt13158394",
       "name": "Danny Go!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
       "rating": 8,
       "year": 2019,
-      "days": 114,
+      "days": 115,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 109,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
       "rating": 6.843,
       "year": 2009,
-      "days": 34,
+      "days": 35,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,51 +58,51 @@
     },
     {
       "rank": 5,
-      "id": "tt1442464",
-      "name": "The Middle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
-      "rating": 7.564,
-      "year": 2009,
-      "days": 157,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt0426769",
       "name": "Peppa Pig",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 876,
+      "days": 877,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt1442464",
+      "name": "The Middle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
+      "rating": 7.564,
+      "year": 2009,
+      "days": 158,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt36582176",
-      "name": "Winx Club, la magie est de retour",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
-      "rating": 6.7,
-      "year": 2025,
-      "days": 20,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt0206512",
       "name": "Bob l'éponge",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
       "rating": 7.7,
       "year": 1999,
-      "days": 307,
+      "days": 308,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt39053780",
+      "name": "Mark Rober's CrunchLabs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kzAREjuo07QJ44QPlYC7RzVmWuB.jpg",
+      "rating": 9.7,
+      "year": 2025,
+      "days": 213,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt39053780",
-      "name": "Mark Rober's CrunchLabs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kzAREjuo07QJ44QPlYC7RzVmWuB.jpg",
-      "rating": 9.7,
+      "id": "tt36582176",
+      "name": "Winx Club, la magie est de retour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
+      "rating": 6.7,
       "year": 2025,
-      "days": 212,
+      "days": 21,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
       "rating": 7.9,
       "year": 2021,
-      "days": 895,
+      "days": 896,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

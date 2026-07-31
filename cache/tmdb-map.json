@@ -789,6 +789,16 @@
     "rating": 8.239,
     "ts": "2026-07-18"
   },
+  "avenue-5": {
+    "tmdbId": 90811,
+    "tmdbType": "tv",
+    "imdbId": "tt10234362",
+    "titleFr": "Avenue 5",
+    "year": 2020,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/inSe4HBqnwIoeqoChGlagVs0avG.jpg",
+    "rating": 6.555,
+    "ts": "2026-07-31"
+  },
   "babe": {
     "tmdbId": 9598,
     "tmdbType": "movie",
@@ -908,6 +918,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/4q2lifIQOMo8NMmnUuLHU8qVpOA.jpg",
     "rating": 10,
     "ts": "2026-07-09"
+  },
+  "beat-shazam": {
+    "tmdbId": 71654,
+    "tmdbType": "tv",
+    "imdbId": "tt6917254",
+    "titleFr": "Beat Shazam",
+    "year": 2017,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/q2U5Iulo8NWWiOiVx0f7VX9o4RM.jpg",
+    "rating": 5.1,
+    "ts": "2026-07-31"
   },
   "beauty-from-pain": {
     "tmdbId": 1495694,
@@ -2158,6 +2178,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
     "rating": 7.545,
     "ts": "2026-06-20"
+  },
+  "drive-2011": {
+    "tmdbId": 64690,
+    "tmdbType": "movie",
+    "imdbId": "tt0780504",
+    "titleFr": "Drive",
+    "year": 2011,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/mUKm5eaYm30KYyaudRn5tA204ua.jpg",
+    "rating": 7.583,
+    "ts": "2026-07-31"
   },
   "drivers-ed": {
     "tmdbId": 1398050,
@@ -5149,6 +5179,16 @@
     "rating": 6.374,
     "ts": "2026-06-21"
   },
+  "megalodon-the-frenzy": {
+    "tmdbId": 1165918,
+    "tmdbType": "movie",
+    "imdbId": "tt27572862",
+    "titleFr": "Meg Rising 2",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/gtsAg5YT04HfqTx38XAAdVNBOk0.jpg",
+    "rating": 3.308,
+    "ts": "2026-07-31"
+  },
   "memoir-of-a-snail": {
     "tmdbId": 1064486,
     "tmdbType": "movie",
@@ -5298,6 +5338,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
     "rating": 7.3,
     "ts": "2026-06-21"
+  },
+  "miss-congeniality": {
+    "tmdbId": 1493,
+    "tmdbType": "movie",
+    "imdbId": "tt0212346",
+    "titleFr": "Miss Détective",
+    "year": 2000,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/vNw2SiwiHRfxDOcPHqUi27J5oXn.jpg",
+    "rating": 6.53,
+    "ts": "2026-07-31"
   },
   "miss-congeniality-2-armed-and-fabulous": {
     "tmdbId": 10040,
@@ -6999,6 +7049,16 @@
     "rating": 6.043,
     "ts": "2026-07-01"
   },
+  "shark-warning": {
+    "tmdbId": 1321239,
+    "tmdbType": "movie",
+    "imdbId": "tt32990776",
+    "titleFr": "Shark Warning",
+    "year": 2024,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/5EFhIT8QzlID8oGACtepaAxiwOU.jpg",
+    "rating": 4.8,
+    "ts": "2026-07-31"
+  },
   "sharper": {
     "tmdbId": 717980,
     "tmdbType": "movie",
@@ -7178,6 +7238,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
     "rating": 7.833,
     "ts": "2026-07-17"
+  },
+  "sinners": {
+    "tmdbId": 1233413,
+    "tmdbType": "movie",
+    "imdbId": "tt31193180",
+    "titleFr": "Sinners",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
+    "rating": 7.5,
+    "ts": "2026-07-31"
   },
   "skin-2018": {
     "tmdbId": 563575,
@@ -7378,6 +7448,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
     "rating": 7.33,
     "ts": "2026-06-23"
+  },
+  "spider-man-into-the-spider-verse": {
+    "tmdbId": 324857,
+    "tmdbType": "movie",
+    "imdbId": "tt4633694",
+    "titleFr": "Spider-Man : New Generation",
+    "year": 2018,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3bSWpsB2PqoTrJhW9cM6tJMDxIm.jpg",
+    "rating": 8.393,
+    "ts": "2026-07-31"
   },
   "spider-man-no-way-home": {
     "tmdbId": 634649,
@@ -8038,6 +8118,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
     "rating": 5,
     "ts": "2026-07-18"
+  },
+  "the-bombing-of-pan-am-103": {
+    "tmdbId": 248226,
+    "tmdbType": "tv",
+    "imdbId": "tt13592494",
+    "titleFr": "L'Attentat du vol Pan Am 103",
+    "year": 2025,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/pfT0nfWUpxaACI3JQWFLbDRVvm7.jpg",
+    "rating": 7.2,
+    "ts": "2026-07-31"
   },
   "the-boroughs": {
     "tmdbId": 224941,
@@ -9159,6 +9249,16 @@
     "rating": 6.6,
     "ts": "2026-06-20"
   },
+  "the-north-water": {
+    "tmdbId": 86941,
+    "tmdbType": "tv",
+    "imdbId": "tt7660970",
+    "titleFr": "The North Water",
+    "year": 2021,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/xIACCRoObEovoaFptUxQkPdFLdZ.jpg",
+    "rating": 7.354,
+    "ts": "2026-07-31"
+  },
   "the-northman": {
     "tmdbId": 639933,
     "tmdbType": "movie",
@@ -9288,6 +9388,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/yFsZglny2MbSTtwbSueUZU2Vzwb.jpg",
     "rating": 6.962,
     "ts": "2026-06-24"
+  },
+  "the-proud-family-louder-and-prouder": {
+    "tmdbId": 125438,
+    "tmdbType": "tv",
+    "imdbId": "tt11871764",
+    "titleFr": "Cool Attitude : Encore plus cool",
+    "year": 2022,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wGnR8jmLGV0yN6d7Eg1OsRubts8.jpg",
+    "rating": 5.3,
+    "ts": "2026-07-31"
   },
   "the-punisher-one-last-kill": {
     "tmdbId": 1439930,
@@ -9638,6 +9748,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/46aFAarpJSGP5r9aJ8BboPcISvl.jpg",
     "rating": 4.884,
     "ts": "2026-06-24"
+  },
+  "the-walking-dead-dead-city": {
+    "tmdbId": 194583,
+    "tmdbType": "tv",
+    "imdbId": "tt18546730",
+    "titleFr": "The Walking Dead : Dead City",
+    "year": 2023,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+    "rating": 7.9,
+    "ts": "2026-07-31"
   },
   "the-war-with-grandpa": {
     "tmdbId": 425001,
@@ -10108,6 +10228,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/i7FV4FGChmjNtjmMR2yTqJTTdQS.jpg",
     "rating": 7.95,
     "ts": "2026-07-17"
+  },
+  "twisted-2026": {
+    "tmdbId": 1373198,
+    "tmdbType": "movie",
+    "imdbId": "tt14201728",
+    "titleFr": "Twisted",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/AkRiuvV7R46xfMqUJWKyJ1fuSXh.jpg",
+    "rating": 4.608,
+    "ts": "2026-07-31"
   },
   "twisters": {
     "tmdbId": 718821,
@@ -10778,6 +10908,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/v5YTSuNcQvexKTylDWBbueIZaBx.jpg",
     "rating": 7.964,
     "ts": "2026-07-06"
+  },
+  "wrath": {
+    "tmdbId": 292533,
+    "tmdbType": "tv",
+    "imdbId": "tt43492801",
+    "titleFr": "Fúria",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+    "rating": 5.5,
+    "ts": "2026-07-31"
   },
   "wrath-2026": {
     "tmdbId": 292533,

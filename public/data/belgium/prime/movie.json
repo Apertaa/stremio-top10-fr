@@ -2,45 +2,45 @@
   "country": "belgium",
   "key": "prime",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
-      "id": "tt0427340",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
-      "rating": 7.282,
-      "year": 2026,
-      "days": 7,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
-      "year": 2026,
-      "days": 26,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt36958312",
       "name": "La Bouche du Diable",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
       "rating": 6.281,
       "year": 2026,
-      "days": null,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt0427340",
+      "name": "Les Maîtres de l'Univers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
+      "rating": 7.282,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt12042730",
+      "name": "Projet Dernière Chance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "rating": 8.7,
+      "year": 2026,
+      "days": 27,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     },
     {
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yEafQw7Gl21nCQaFFCo2x07JK98.jpg",
       "rating": 7.27,
       "year": 2024,
-      "days": 23,
+      "days": 24,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jKRzh9y5YjYNISbeh55FQwetsSu.jpg",
       "rating": 7.875,
       "year": 2021,
-      "days": 23,
+      "days": 24,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
       "rating": 8.063,
       "year": 2026,
-      "days": 19,
+      "days": 20,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
+      "id": "tt36331860",
+      "name": "Love Me Love Me",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "rating": 5.978,
+      "year": 2026,
+      "days": 89,
+      "trend": {
+        "dir": "new",
+        "delta": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt42483037",
       "name": "Marave",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
       "rating": 5.7,
       "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "down",
-        "delta": 3
-      }
-    },
-    {
-      "rank": 8,
-      "id": "tt2467046",
-      "name": "Le Chaos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5wwPaz255ixKW8ejcNR0gqQbZqK.jpg",
-      "rating": 4.292,
-      "year": 2014,
-      "days": 13,
+      "days": 22,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,15 +110,15 @@
     },
     {
       "rank": 9,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
+      "id": "tt36958376",
+      "name": "À contre-sens 2 : Londres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
+      "rating": 7.623,
       "year": 2026,
-      "days": 53,
+      "days": 42,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oldKO0tV1OdJc0ohterwomhExDq.jpg",
       "rating": 6.694,
       "year": 2025,
-      "days": 200,
+      "days": 201,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "series",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 839,
+      "days": 840,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
       "rating": 8.479,
       "year": 2022,
-      "days": 783,
+      "days": 784,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "rating": 8.3,
-      "year": 2022,
-      "days": 765,
-      "trend": {
-        "dir": "up",
-        "delta": 2
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt0452046",
       "name": "Esprits criminels",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
       "year": 2005,
-      "days": 853,
+      "days": 854,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "rating": 8.3,
+      "year": 2022,
+      "days": 766,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -63,20 +63,20 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "rating": 8.3,
       "year": 2018,
-      "days": 704,
+      "days": 705,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 74,
+      "id": "tt16098700",
+      "name": "Fire Country : Pompiers sur Appel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
+      "rating": 8.1,
+      "year": 2022,
+      "days": 382,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
-      "id": "tt16098700",
-      "name": "Fire Country : Pompiers sur Appel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
-      "rating": 8.1,
-      "year": 2022,
-      "days": 381,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 846,
+      "days": 847,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 8,
+      "id": "tt1695360",
+      "name": "Avatar : La Légende de Korra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K6oyogaEAw339ki8fhmx7NdTFd.jpg",
+      "rating": 8.2,
+      "year": 2012,
+      "days": 44,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,25 +110,25 @@
     },
     {
       "rank": 9,
-      "id": "tt1695360",
-      "name": "Avatar : La Légende de Korra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K6oyogaEAw339ki8fhmx7NdTFd.jpg",
-      "rating": 8.2,
-      "year": 2012,
-      "days": 43,
+      "id": "tt12327578",
+      "name": "Star Trek: Strange New Worlds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": 109,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt0206512",
-      "name": "Bob l'éponge",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
-      "rating": 7.7,
-      "year": 1999,
-      "days": 828,
+      "id": "tt6473344",
+      "name": "SEAL Team",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
+      "rating": 8.031,
+      "year": 2017,
+      "days": 561,
       "trend": {
         "dir": "new",
         "delta": null

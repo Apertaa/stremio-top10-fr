@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
       "rating": 9.353,
       "year": 2026,
-      "days": 4,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt38238651",
-      "name": "The Internship",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
-      "rating": 6.74,
+      "id": "tt19838566",
+      "name": "Kraken",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
+      "rating": 6.287,
       "year": 2026,
-      "days": 16,
+      "days": 55,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt19838566",
-      "name": "Kraken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg",
-      "rating": 6.287,
+      "id": "tt38238651",
+      "name": "The Internship",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
+      "rating": 6.74,
       "year": 2026,
-      "days": 54,
+      "days": 17,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -50,10 +50,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 463,
+      "days": 464,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,10 +63,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
       "rating": 6.609,
       "year": 2024,
-      "days": 107,
+      "days": 108,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -76,10 +76,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
       "rating": 5.505,
       "year": 2026,
-      "days": 44,
+      "days": 45,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -89,10 +89,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6AYN96FjWSZQVRYpAPmBAVq2s.jpg",
       "rating": 7.17,
       "year": 2023,
-      "days": 130,
+      "days": 131,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -102,36 +102,36 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
       "rating": 5.835,
       "year": 2001,
-      "days": 44,
+      "days": 45,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 37,
-      "trend": {
-        "dir": "down",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 10,
       "id": "tt9603212",
       "name": "Mission : Impossible - Dead Reckoning Partie 1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bdYbHxECXsN169pVrTz2TobFqXb.jpg",
       "rating": 7.5,
       "year": 2023,
-      "days": 83,
+      "days": 84,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 10,
+      "id": "tt0306047",
+      "name": "Scary Movie 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
+      "rating": 5.976,
+      "year": 2003,
+      "days": 38,
+      "trend": {
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

@@ -2,7 +2,7 @@
   "country": "belgium",
   "key": "global",
   "list": "movie",
-  "date": "202607301713",
+  "date": "202607311717",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
       "rating": 5.5,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -24,7 +24,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
       "rating": 5.9,
       "year": 2026,
-      "days": 8,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,15 +32,15 @@
     },
     {
       "rank": 3,
-      "id": "tt43619305",
-      "name": "Amour et Machinations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-      "rating": 7.167,
-      "year": 2026,
-      "days": 7,
+      "id": "tt31193180",
+      "name": "Sinners",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
+      "rating": 7.5,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
       "rating": 5,
       "year": 2026,
-      "days": 6,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,15 +58,15 @@
     },
     {
       "rank": 5,
-      "id": "tt39749953",
-      "name": "The Debt Collector",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
-      "rating": 7.9,
+      "id": "tt43619305",
+      "name": "Amour et Machinations",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "rating": 7.167,
       "year": 2026,
-      "days": 7,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
@@ -76,7 +76,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": 41,
+      "days": 42,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
+      "id": "tt39749953",
+      "name": "The Debt Collector",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+      "rating": 7.9,
+      "year": 2026,
+      "days": 8,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 8,
       "id": "tt41617470",
       "name": "Le Désir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
       "rating": 6.077,
       "year": 2026,
-      "days": 13,
+      "days": 14,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "tt15940132",
       "name": "War Machine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "rating": 7.441,
       "year": 2026,
-      "days": 30,
+      "days": 31,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tt39538786",
       "name": "Sniper : No Nation",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
       "rating": 6.607,
       "year": 2026,
-      "days": 14,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt3566834",
-      "name": "Minecraft, le film",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
-      "rating": 6.255,
-      "year": 2025,
-      "days": 27,
-      "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]
