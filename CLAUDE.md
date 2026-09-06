@@ -22,4 +22,4 @@ bun run typecheck
 
 ## Note mainteneur
 
-Ce dépôt est un **satellite** : les décisions, l'historique de construction et la base de connaissances vivent dans le workspace privé `~/dev/stremio` (voir aussi `~/dev/Atlas/registre/fiches/stremio-top10-fr.md`). Pour un changement substantiel, ouvrir la session depuis le cockpit. Leçons apprises ici → `/socle:retrospective`.
+Ce dépôt est un **satellite** : les décisions, l'historique de construction et la base de connaissances vivent dans le workspace privé `~/dev/Projets-PERSO/stremio` (voir aussi `~/dev/Atlas/registre/fiches/stremio-top10-fr.md`). Pour un changement substantiel, ouvrir la session depuis le cockpit. Leçons apprises ici → `/socle:retrospective`.
