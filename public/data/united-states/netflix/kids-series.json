@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt35406274",
-      "name": "Ms. Rachel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
-      "rating": 7.286,
-      "year": 2025,
-      "days": 534,
+      "id": "tt36258621",
+      "name": "Le Ticket d'or de Willy Wonka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 115,
+      "id": "tmdb:302447",
+      "name": "Spooky Halloween Playlist",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zTwZKRDzWB2IjaPpBItTR0wQE4X.jpg",
+      "rating": null,
+      "year": 2025,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 110,
+      "id": "tt35406274",
+      "name": "Ms. Rachel",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
+      "rating": 7.286,
+      "year": 2025,
+      "days": 598,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,38 +45,38 @@
     },
     {
       "rank": 4,
-      "id": "tt1884856",
-      "name": "Masha et Michka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
-      "rating": 6.843,
-      "year": 2009,
-      "days": 9,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 179,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 384,
+      "id": "tt41538904",
+      "name": "LEGO One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+      "rating": 8.045,
+      "year": 2026,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt0426769",
-      "name": "Peppa Pig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "rating": 6.6,
-      "year": 2004,
-      "days": 701,
+      "id": "tt9165438",
+      "name": "Gabby et la maison magique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "rating": 7.9,
+      "year": 2021,
+      "days": 861,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt1604099",
-      "name": "Victorious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
-      "rating": 8.216,
-      "year": 2010,
-      "days": 276,
+      "id": "tmdb:329710",
+      "name": "씰룩",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6U10hNvdMPGqfhVztJtDN73yiC2.jpg",
+      "rating": 10,
+      "year": 2023,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt0063951",
-      "name": "1 Rue Sesame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-      "rating": 7.1,
-      "year": 1969,
-      "days": 251,
+      "id": "tt37610484",
+      "name": "Is It Cake? Halloween",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7CJCFVmWfza0ix3VZO9N37mEeGm.jpg",
+      "rating": 7,
+      "year": 2025,
+      "days": 42,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt2712516",
-      "name": "Les Thunderman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vTx1aljYcHYUKLvs2cKkoJruITu.jpg",
-      "rating": 8.011,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
       "year": 2013,
-      "days": 45,
+      "days": 446,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tmdb:219799",
-      "name": "安全警长啦咘啦哆",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
-      "rating": 9,
-      "year": 2022,
-      "days": 179,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 171,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

@@ -2,16 +2,16 @@
   "country": "united-kingdom",
   "key": "global",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt43680755",
-      "name": "Les Meurtres de l'Idaho: Cauchemar sur le Campus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+      "id": "tt44877899",
+      "name": "Outside",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
       "rating": 5.2,
       "year": 2026,
-      "days": 2,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,64 +19,64 @@
     },
     {
       "rank": 2,
-      "id": "tt13592494",
-      "name": "L'Attentat du vol Pan Am 103",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pfT0nfWUpxaACI3JQWFLbDRVvm7.jpg",
-      "rating": 7.2,
-      "year": 2025,
-      "days": null,
+      "id": "tt21097264",
+      "name": "À l'est d'Éden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ygwE4kbLxKApQoC26Q0DiJQnkMl.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 2,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "up",
+        "delta": 3
       }
     },
     {
       "rank": 3,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": 43,
+      "id": "tt2369037",
+      "name": "Leaving",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8YEkWcTwLkLBz7UiPe7vQPhmgl.jpg",
+      "rating": 6.154,
+      "year": 2012,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt28088031",
-      "name": "Nouvelle vie à Ransom Canyon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
-      "rating": 7.2,
-      "year": 2025,
-      "days": 27,
+      "id": "tt13210838",
+      "name": "The Gentlemen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5Ka1S5FHXKPKRhfrioYVWY7RsG9.jpg",
+      "rating": 7.879,
+      "year": 2024,
+      "days": 113,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt35495063",
-      "name": "GIGN",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
-      "rating": 6.7,
+      "id": "tmdb:299939",
+      "name": "Monstre : L'Histoire de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruw68QldiWzOjUdKX9hUFT1pjv.jpg",
+      "rating": 7.109,
       "year": 2026,
-      "days": 9,
+      "days": 16,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt27550719",
-      "name": "The Hawk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
-      "rating": 3.962,
+      "id": "tt36258621",
+      "name": "Le Ticket d'or de Willy Wonka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+      "rating": 6,
       "year": 2026,
-      "days": 15,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,25 +84,25 @@
     },
     {
       "rank": 7,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
-      "year": 2026,
-      "days": 68,
+      "id": "tt2359704",
+      "name": "JoJo's Bizarre Adventure",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "rating": 8.544,
+      "year": 2012,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt21822590",
-      "name": "The Woman in the Wall",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tnqCuFq0RNBCdI8Tl3nFD0WLlis.jpg",
-      "rating": 6.668,
-      "year": 2023,
-      "days": 7,
+      "id": "tt41538904",
+      "name": "LEGO One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+      "rating": 8.045,
+      "year": 2026,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt7587890",
-      "name": "The Rookie : Le Flic de Los Angeles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
-      "rating": 8.552,
-      "year": 2018,
-      "days": 28,
+      "id": "tt35929525",
+      "name": "Shaque : Tous suspects",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+      "rating": 6.7,
+      "year": 2026,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 19,
+      "id": "tt0092339",
+      "name": "Campus Show",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dhmTO1OiIenY4sXmLi5J5X73qnt.jpg",
+      "rating": 7.2,
+      "year": 1987,
+      "days": 8,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

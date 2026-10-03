@@ -2,16 +2,16 @@
   "country": "canada",
   "key": "prime",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt30494226",
-      "name": "Ride or Die",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
-      "rating": 3.8,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wltznBj9nVDqlvBWZq37P5zp7ib.jpg",
+      "rating": 8.105,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt32020831",
-      "name": "Elle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
-      "rating": 10,
-      "year": 2026,
-      "days": 29,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "rating": 8.078,
+      "year": 2022,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt33546863",
-      "name": "Off Campus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "rating": 8.97,
+      "id": "tt23734948",
+      "name": "The Pendragon Cycle: Rise of the Merlin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+      "rating": 7.394,
       "year": 2026,
-      "days": 78,
+      "days": 26,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tmdb:329770",
-      "name": "Adarsh Baal Vidyalaya",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b3S9eCtm8WbfzIOSUbXLZeWL5Sy.jpg",
-      "rating": 10,
+      "id": "tt35618070",
+      "name": "Sterling Point",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mhqEXKwIv5wIlG1eih5OQB25vi8.jpg",
+      "rating": 8.199,
       "year": 2026,
-      "days": 5,
+      "days": 58,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt40914930",
-      "name": "अलायन्स",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t9Og3WjlXcptadBFhLFJL3cSMDy.jpg",
-      "rating": 6.5,
+      "id": "tt33546863",
+      "name": "Off Campus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
+      "rating": 8.97,
       "year": 2026,
-      "days": 29,
+      "days": 142,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
-      "rating": 8.2,
+      "id": "tt15689870",
+      "name": "Gray",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6u0kpkkEvIIOf4n5OMGVPGUAxHq.jpg",
+      "rating": 6.5,
       "year": 2023,
-      "days": 17,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt33055254",
-      "name": "Au fil des années",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
-      "rating": 8.329,
+      "id": "tt30494226",
+      "name": "Ride or Die",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
+      "rating": 3.8,
       "year": 2026,
-      "days": 50,
+      "days": 79,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
+      "id": "tt43659651",
+      "name": "World's Most Evil Women",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6AYfFqEpxVKDB1om2In3OmHUHDR.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 28,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 9,
+      "id": "tt44974627",
+      "name": "The Grand Tour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "rating": 8.429,
+      "year": 2026,
+      "days": 28,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "rank": 10,
       "id": "tt14016500",
       "name": "L'Été où je suis devenue jolie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 283,
+      "days": 315,
       "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "tt10541088",
-      "name": "Clarkson à la ferme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
-      "rating": 8.5,
-      "year": 2021,
-      "days": 55,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tt39163341",
-      "name": "Murder 101",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

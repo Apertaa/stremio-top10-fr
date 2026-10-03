@@ -2,81 +2,81 @@
   "country": "united-kingdom",
   "key": "hbo",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt17490712",
-      "name": "Mortal Kombat II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
-      "rating": 7.978,
-      "year": 2026,
-      "days": 5,
+      "id": "tt0387564",
+      "name": "Saw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3fhUaMnlY72GGuBlzEeKA4brZAb.jpg",
+      "rating": 7.428,
+      "year": 2004,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
       "rank": 2,
-      "id": "tt0332452",
-      "name": "Troie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
-      "rating": 7.177,
-      "year": 2004,
-      "days": 18,
+      "id": "tt8814476",
+      "name": "Supergirl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1rtTSqlITti6l6NLouxVO0xFqto.jpg",
+      "rating": 6.662,
+      "year": 2026,
+      "days": 22,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt0293429",
-      "name": "Mortal Kombat",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
-      "rating": 7.05,
-      "year": 2021,
-      "days": 5,
+      "id": "tt33510831",
+      "name": "Frères d'Armes : l'héritage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 22,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt1375666",
-      "name": "Inception",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-      "rating": 8.4,
-      "year": 2010,
-      "days": 13,
+      "id": "tt0432348",
+      "name": "Saw II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tz8Dfep4Vz142fZ9GdRGdhjVrI2.jpg",
+      "rating": 6.611,
+      "year": 2005,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 5
       }
     },
     {
       "rank": 5,
-      "id": "tt0816692",
-      "name": "Interstellar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1pnigkWWy8W032o9TKDneBa3eVK.jpg",
-      "rating": 8.482,
-      "year": 2014,
-      "days": 13,
+      "id": "tt9224104",
+      "name": "En eaux très troubles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tPnya8bGupPR7dYxlh5w4z3P6pW.jpg",
+      "rating": 6.374,
+      "year": 2023,
+      "days": 21,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt0800320",
-      "name": "Le Choc des Titans",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/45jdSr5oJNiJuZwZ83CblnNY8uJ.jpg",
-      "rating": 5.9,
-      "year": 2010,
-      "days": 5,
+      "id": "tt0067992",
+      "name": "Charlie et la Chocolaterie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwYNxm7fAieioAsLEcg6KNZ8pLS.jpg",
+      "rating": 7.483,
+      "year": 1971,
+      "days": 7,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt0105695",
-      "name": "Impitoyable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
-      "rating": 7.911,
-      "year": 1992,
-      "days": 18,
+      "id": "tt0396269",
+      "name": "Serial noceurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zbiv6c4RD1ji7HNarRK4RekZIqI.jpg",
+      "rating": 6.502,
+      "year": 2005,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 8,
-      "id": "tt32612507",
-      "name": "Le Réveil de la Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-      "rating": 8.023,
-      "year": 2026,
-      "days": 26,
+      "id": "tt0489270",
+      "name": "Saw III",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oT0CHpyQgryaz4z3TAq9Gvtcn2A.jpg",
+      "rating": 6.418,
+      "year": 2006,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt0186566",
-      "name": "Space Cowboys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cqCqe8rGvNIYvS9FXKS1VVrxRZX.jpg",
-      "rating": 6.398,
-      "year": 2000,
-      "days": 13,
+      "id": "tt1320253",
+      "name": "Expendables : Unité spéciale",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8lf2H5wZ9kKwCFzp7sRAZy91uoZ.jpg",
+      "rating": 6.251,
+      "year": 2010,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt6723592",
-      "name": "Tenet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/72SOtZnFhCumLRZhoXlX8g2IkgF.jpg",
-      "rating": 7.176,
-      "year": 2020,
-      "days": 13,
+      "id": "tt0158983",
+      "name": "South Park, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k80LaWllraUYrcSCpxB3eYv7Gxb.jpg",
+      "rating": 7.292,
+      "year": 1999,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     }
   ]

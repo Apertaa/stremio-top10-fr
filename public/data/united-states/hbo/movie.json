@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt17490712",
-      "name": "Mortal Kombat II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
-      "rating": 7.978,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
+      "rating": 7.022,
       "year": 2026,
-      "days": 5,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt0293429",
-      "name": "Mortal Kombat",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rxw7an9VWIlaEzTB4ETadMWSdym.jpg",
-      "rating": 7.05,
-      "year": 2021,
-      "days": 25,
+      "id": "tt8814476",
+      "name": "Supergirl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1rtTSqlITti6l6NLouxVO0xFqto.jpg",
+      "rating": 6.662,
+      "year": 2026,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,77 +32,77 @@
     },
     {
       "rank": 3,
-      "id": "tt10374610",
-      "name": "Marche ou crève",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
-      "rating": 6.89,
-      "year": 2025,
-      "days": 19,
+      "id": "tt0121164",
+      "name": "Les Noces funèbres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7JcwGSEvPEPbp09zDk1FyNmcofA.jpg",
+      "rating": 7.591,
+      "year": 2005,
+      "days": 57,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 4,
-      "id": "tmdb:1739632",
-      "name": "Jurassic Sharks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8seDdMqcyYg5Gpn0yb8Z6oE3nBN.jpg",
-      "rating": null,
+      "id": "tt31189814",
+      "name": "The Criminals",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vUvZuBWRsjO2tnUo2yesrdbhKal.jpg",
+      "rating": 7.168,
       "year": 2026,
-      "days": 1,
+      "days": 27,
       "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt32612507",
-      "name": "Le Réveil de la Momie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-      "rating": 8.023,
-      "year": 2026,
-      "days": 26,
+      "id": "tt0094721",
+      "name": "Beetlejuice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AtBDU4kFKkW0nWDtzROUHGdx4Br.jpg",
+      "rating": 7.368,
+      "year": 1988,
+      "days": 93,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt2854926",
-      "name": "TAG",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
-      "rating": 6.711,
-      "year": 2018,
-      "days": 9,
+      "id": "tt3532216",
+      "name": "Barry Seal - American Traffic",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/moEM5ICGDleT1BC4k6DXuYPUWrp.jpg",
+      "rating": 6.902,
+      "year": 2017,
+      "days": 14,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 2
       }
     },
     {
       "rank": 7,
-      "id": "tt2557478",
-      "name": "Pacific Rim : Uprising",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9d0PK7PgaoNs6kSBKnjeYmPBfF.jpg",
-      "rating": 6.124,
-      "year": 2018,
-      "days": 11,
+      "id": "tt0087800",
+      "name": "Les Griffes de la nuit",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Aqj5iaJYbgUWaBxpLhgydrkKri5.jpg",
+      "rating": 7.355,
+      "year": 1984,
+      "days": 17,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt43698070",
-      "name": "Air Jaws: Red, White and Breach",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzsFgpwG2tMP4sCQDr44kzAnwxs.jpg",
-      "rating": null,
+      "id": "tt46066368",
+      "name": "Miller Night Football",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
+      "rating": 10,
       "year": 2026,
-      "days": 2,
+      "days": 1,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tmdb:1739628",
-      "name": "House of Sharks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3gkrgD35CqlZt7lizCtDGRpmtRG.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 1,
+      "id": "tt0862856",
+      "name": "Trick 'r Treat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+      "rating": 6.988,
+      "year": 2007,
+      "days": 8,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt4779682",
-      "name": "En eaux troubles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKmxFCYGSync2zH94Aukzcp8yYA.jpg",
-      "rating": 6.248,
-      "year": 2018,
-      "days": 34,
+      "id": "tt1663202",
+      "name": "The Revenant",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AsDto68FNWNXD15Ov0yMXASJiSB.jpg",
+      "rating": 7.541,
+      "year": 2015,
+      "days": 60,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 5
       }
     }
   ]

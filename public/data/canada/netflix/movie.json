@@ -2,16 +2,16 @@
   "country": "canada",
   "key": "netflix",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt36304003",
-      "name": "72 heures",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
-      "rating": 5.5,
+      "id": "tt44568097",
+      "name": "Le Veuf : Jusqu'à ce que la mort...",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+      "rating": 6.25,
       "year": 2026,
-      "days": 7,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,10 +19,10 @@
     },
     {
       "rank": 2,
-      "id": "tt43619305",
-      "name": "Amour et Machinations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-      "rating": 7.167,
+      "id": "tt6933238",
+      "name": "UNABOMBER",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "rating": 6.596,
       "year": 2026,
       "days": 8,
       "trend": {
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt16366836",
-      "name": "Venom : The Last Dance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9sAK8lZDNkH9QBFjmqLytXnmzyM.jpg",
-      "rating": 6.665,
-      "year": 2024,
-      "days": 6,
+      "id": "tt33219707",
+      "name": "40 Dates and 40 Nights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+      "rating": 7.016,
+      "year": 2026,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,51 +45,51 @@
     },
     {
       "rank": 4,
-      "id": "tmdb:1562882",
-      "name": "Ghost Town",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eDtYdIGGcwrOs4f7EqSrA8Z03B7.jpg",
-      "rating": 10,
-      "year": null,
-      "days": 7,
+      "id": "tt29252358",
+      "name": "Armor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jmNBQ8GaQ4pzxPfZ4Lp1uJrcAE.jpg",
+      "rating": 5.463,
+      "year": 2024,
+      "days": 2,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt29623480",
-      "name": "Le Robot sauvage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
-      "rating": 8.312,
-      "year": 2024,
-      "days": 6,
+      "id": "tt36429458",
+      "name": "À vie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "rating": 5.886,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 6,
-      "id": "tt37042085",
-      "name": "Elize Surgie de l'Ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
-      "rating": 5.9,
-      "year": 2026,
-      "days": 9,
+      "id": "tt0162983",
+      "name": "Raccroche !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/XKfe6N4S1EfV0bcpelUnXjr8D.jpg",
+      "rating": 5.284,
+      "year": 2000,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt41111628",
-      "name": "Leur vérité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
-      "rating": 5,
-      "year": 2026,
-      "days": 7,
+      "id": "tt3402138",
+      "name": "Y a-t-il un flic pour sauver le monde ?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dIOzuzx0CLYpNLx1Yf44cykyYX5.jpg",
+      "rating": 6.372,
+      "year": 2025,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,38 +97,38 @@
     },
     {
       "rank": 8,
-      "id": "tt39749953",
-      "name": "The Debt Collector",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
-      "rating": 7.9,
-      "year": 2026,
-      "days": 8,
+      "id": "tt4058618",
+      "name": "Du sang dans la neige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xrMKxQ51tuPpGb9tWFDqoGXPJMi.jpg",
+      "rating": 6.4,
+      "year": 2024,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 9,
-      "id": "tt10375624",
-      "name": "Si tu m'écoutes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "rating": 7.4,
-      "year": 2026,
-      "days": 41,
+      "id": "tt3566834",
+      "name": "Minecraft, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
+      "rating": 6.255,
+      "year": 2025,
+      "days": 13,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt6320628",
-      "name": "Spider-Man : Far From Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
-      "rating": 7.4,
-      "year": 2019,
-      "days": 2,
+      "id": "tt11068094",
+      "name": "White Bird",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8JweOVzEcI0oBrcnuqlTIvW5pp4.jpg",
+      "rating": 7.839,
+      "year": 2023,
+      "days": 1,
       "trend": {
         "dir": "new",
         "delta": null

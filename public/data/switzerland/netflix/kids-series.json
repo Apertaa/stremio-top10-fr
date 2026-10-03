@@ -2,16 +2,16 @@
   "country": "switzerland",
   "key": "netflix",
   "list": "kids-series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt41672842",
-      "name": "Salish & Jordan Matter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
-      "rating": 5.5,
+      "id": "tt41538904",
+      "name": "LEGO One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+      "rating": 8.045,
       "year": 2026,
-      "days": 110,
+      "days": 3,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,41 +19,41 @@
     },
     {
       "rank": 2,
-      "id": "tt1884856",
-      "name": "Masha et Michka",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
-      "rating": 6.843,
-      "year": 2009,
-      "days": 639,
+      "id": "tt36258621",
+      "name": "Le Ticket d'or de Willy Wonka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt36582176",
-      "name": "Winx Club, la magie est de retour",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jfudDh96UfnwxYlamlw5fT275dg.jpg",
-      "rating": 6.7,
-      "year": 2025,
-      "days": 34,
+      "id": "tt9165438",
+      "name": "Gabby et la maison magique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "rating": 7.9,
+      "year": 2021,
+      "days": 934,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt8811416",
-      "name": "Bobo Siebenschläfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/67IWX8vXTSTCOvHFWarxYM3vlNf.jpg",
-      "rating": 6,
-      "year": 2014,
-      "days": 315,
+      "id": "tt41672842",
+      "name": "Salish & Jordan Matter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+      "rating": 5.5,
+      "year": 2026,
+      "days": 172,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,7 +63,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "rating": 6.6,
       "year": 2004,
-      "days": 914,
+      "days": 978,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt1442464",
-      "name": "The Middle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
-      "rating": 7.564,
-      "year": 2009,
-      "days": 105,
+      "id": "tt13158394",
+      "name": "Danny Go!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+      "rating": 8,
+      "year": 2019,
+      "days": 178,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt13158394",
-      "name": "Danny Go!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
-      "rating": 8,
-      "year": 2019,
-      "days": 114,
+      "id": "tt39053780",
+      "name": "Mark Rober's CrunchLabs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kzAREjuo07QJ44QPlYC7RzVmWuB.jpg",
+      "rating": 9.7,
+      "year": 2025,
+      "days": 216,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -97,41 +97,41 @@
     },
     {
       "rank": 8,
-      "id": "tt3121722",
-      "name": "La Pat' Patrouille",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "rating": 7,
-      "year": 2013,
-      "days": 875,
+      "id": "tt40029087",
+      "name": "L'École des licornes : Révélations",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7ISVs3g7rjCnhFqnWLdwqxw9Wus.jpg",
+      "rating": 8.1,
+      "year": 2026,
+      "days": 42,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt9165438",
-      "name": "Gabby et la maison magique",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
-      "rating": 7.9,
-      "year": 2021,
-      "days": 877,
+      "id": "tt3121722",
+      "name": "La Pat' Patrouille",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
+      "rating": 7,
+      "year": 2013,
+      "days": 929,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "top10:learning-and-fun-with-jose-comelon",
-      "name": "Learning and fun with Jose Comelon",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": 17,
+      "id": "tt1884856",
+      "name": "Masha et Michka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruQSBtzk5d6mQHLoiBvOQEr728R.jpg",
+      "rating": 6.843,
+      "year": 2009,
+      "days": 700,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "new",
+        "delta": null
       }
     }
   ]

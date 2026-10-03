@@ -2,16 +2,16 @@
   "country": "france",
   "key": "hbo",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt11138512",
-      "name": "The Northman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aHUGeJfC7xJkliJK5ivjKrhKBZf.jpg",
-      "rating": 7.024,
-      "year": 2022,
-      "days": 3,
+      "id": "tt31193180",
+      "name": "Sinners",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
+      "rating": 7.5,
+      "year": 2025,
+      "days": 15,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,119 +19,119 @@
     },
     {
       "rank": 2,
-      "id": "tt0780504",
-      "name": "Drive",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mUKm5eaYm30KYyaudRn5tA204ua.jpg",
-      "rating": 7.583,
-      "year": 2011,
-      "days": 15,
+      "id": "tt1483013",
+      "name": "Oblivion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dCdMqPnhSnVOPnebN8gzHwZYUkG.jpg",
+      "rating": 6.694,
+      "year": 2013,
+      "days": 11,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt11858890",
-      "name": "The Creator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pP1cyoXFc5Br1Sg21uORSN49yyu.jpg",
-      "rating": 7.036,
-      "year": 2023,
+      "id": "tt0144084",
+      "name": "American Psycho",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2DWqsx0vafGcfytSIwhtL5nI1uV.jpg",
+      "rating": 7.401,
+      "year": 2000,
       "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 5
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt10872600",
-      "name": "Spider-Man : No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
-      "rating": 7.933,
-      "year": 2021,
-      "days": 24,
+      "id": "tt13845758",
+      "name": "Ogre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3QxtIzY8vRI4FV2hHUNrN9JifYf.jpg",
+      "rating": 5.3,
+      "year": 2022,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt1464335",
-      "name": "Uncharted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg",
-      "rating": 6.886,
-      "year": 2022,
-      "days": 13,
+      "id": "tt0332280",
+      "name": "N'oublie jamais",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t3TvNqHTLU1pMVdjG3lF7dSiG8s.jpg",
+      "rating": 7.89,
+      "year": 2004,
+      "days": 12,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt1517268",
-      "name": "Barbie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-      "rating": 6.917,
-      "year": 2023,
-      "days": 55,
+      "id": "tt0479528",
+      "name": "Solitaire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fjRPH5ViE1WcJvdah5DnXjct2Uc.jpg",
+      "rating": 6.3,
+      "year": 2007,
+      "days": 7,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt0332452",
-      "name": "Troie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pkKBYrihVm5kuBgOH04KagSids0.jpg",
-      "rating": 7.177,
-      "year": 2004,
-      "days": 27,
+      "id": "tt3566834",
+      "name": "Minecraft, le film",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg",
+      "rating": 6.255,
+      "year": 2025,
+      "days": 29,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt8367814",
-      "name": "The Gentlemen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/86UEvw3t8amtxepQRtBiQHkk954.jpg",
-      "rating": 7.661,
-      "year": 2020,
-      "days": 4,
+      "id": "tt0120873",
+      "name": "U.S. Marshals",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iEueu9LkwgIzchGPrCjtkrZcYws.jpg",
+      "rating": 6.557,
+      "year": 1998,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt2250912",
-      "name": "Spider-Man : Homecoming",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
-      "rating": 7.33,
-      "year": 2017,
-      "days": null,
+      "id": "tt0096926",
+      "name": "Un Scenario en or",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/olQw61BotSq74LgpwQTn4qPYAk1.jpg",
+      "rating": 5.932,
+      "year": 1989,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt6320628",
-      "name": "Spider-Man : Far From Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg",
-      "rating": 7.4,
-      "year": 2019,
-      "days": null,
+      "id": "tt6914122",
+      "name": "Résistance",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jDBa5AZFxsOCakIcS7xVJPU4Rbx.jpg",
+      "rating": 7,
+      "year": 2020,
+      "days": 6,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

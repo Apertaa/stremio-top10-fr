@@ -2,68 +2,68 @@
   "country": "switzerland",
   "key": "paramount",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt18259538",
-      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 5,
+      "id": "tt26843513",
+      "name": "Sovereign",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
+      "rating": 6.638,
+      "year": 2025,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 2,
-      "id": "tt30826955",
-      "name": "Légitime vengeance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mY3xrbfdv86cupUq5FdjRlZfb4G.jpg",
-      "rating": 4.472,
-      "year": 2025,
-      "days": 27,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
+      "year": 2026,
+      "days": 19,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt14107334",
-      "name": "Running Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
-      "rating": 6.78,
+      "id": "tt29468874",
+      "name": "Terreur en haute mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qGrRA1eV5hBDO5flXvNFFAPfUVE.jpg",
+      "rating": 6.261,
       "year": 2025,
-      "days": 64,
+      "days": 7,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt27424511",
-      "name": "Off the Grid",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eSkrwrryWJT2W9qkKo4Fyr0dms3.jpg",
-      "rating": 6.405,
-      "year": 2025,
-      "days": 13,
+      "id": "tt24326462",
+      "name": "One Mile: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
+      "rating": 6.867,
+      "year": 2026,
+      "days": 56,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt33057137",
-      "name": "Prisoner of War",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rAbqDQ5yPkC4C9VBnShcFLNZ8fo.jpg",
-      "rating": 7.18,
-      "year": 2025,
-      "days": 20,
+      "id": "tt14895206",
+      "name": "Dead for a Dollar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rJv7YTJWl3CvgMfYRyIO2M4kEzk.jpg",
+      "rating": 5.848,
+      "year": 2022,
+      "days": 22,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,38 +71,38 @@
     },
     {
       "rank": 6,
-      "id": "tt6001846",
-      "name": "Long Gone Heroes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z7wa3ksG7qfaJ6ZQ1hqyBZswc7n.jpg",
-      "rating": 5.356,
-      "year": 2024,
-      "days": 136,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt34890320",
-      "name": "Preschool",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
-      "rating": 6.063,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
       "year": 2026,
-      "days": 6,
+      "days": 56,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
+      "rank": 7,
+      "id": "tt9663168",
+      "name": "La conspiration du diable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3u2PoQOeGeITp7WoNEBQ5xShg2A.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
       "rank": 8,
-      "id": "tt0306047",
-      "name": "Scary Movie 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKj6r2pmdBScuEWBDYOhZ3gh9zS.jpg",
-      "rating": 5.976,
-      "year": 2003,
-      "days": 37,
+      "id": "tt7469828",
+      "name": "Paradise Highway",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg",
+      "rating": 5.9,
+      "year": 2022,
+      "days": 3,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt15665274",
-      "name": "The Channel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": 38,
+      "id": "tt33028778",
+      "name": "Primate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "rating": 6.526,
+      "year": 2026,
+      "days": 28,
       "trend": {
         "dir": "new",
         "delta": null
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt0257106",
-      "name": "Scary Movie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mMp80A2GMlHBCvescywvrJqGcF6.jpg",
-      "rating": 5.835,
-      "year": 2001,
-      "days": 44,
+      "id": "tt18259538",
+      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
+      "rating": 9.353,
+      "year": 2026,
+      "days": 65,
       "trend": {
         "dir": "down",
         "delta": 1

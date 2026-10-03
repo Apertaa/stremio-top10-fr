@@ -2,16 +2,16 @@
   "country": "belgium",
   "key": "hbo",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt11198330",
-      "name": "House of the Dragon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "rating": 8.301,
-      "year": 2022,
-      "days": 43,
+      "id": "tt26545992",
+      "name": "Lanterns",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
+      "rating": 8.367,
+      "year": 2026,
+      "days": 45,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt2861424",
-      "name": "Rick et Morty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "rating": 8.679,
-      "year": 2013,
-      "days": 66,
+      "id": "tt27497393",
+      "name": "Stuart Fails to Save the Universe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
+      "rating": 8.571,
+      "year": 2026,
+      "days": 69,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt27497393",
-      "name": "Stuart Fails to Save the Universe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
-      "rating": 8.571,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "rating": 7.6,
       "year": 2026,
-      "days": 5,
+      "days": 11,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -50,7 +50,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/noWGHRAllKVUlxTQ5T10gQL4BBL.jpg",
       "rating": 5.429,
       "year": 2026,
-      "days": 3,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt37543147",
-      "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOOLHsRdNymdPlfEXRRxcJDCY9b.jpg",
-      "rating": 4.5,
+      "id": "tt40407840",
+      "name": "Paolo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EGhg689jbAO865qWs8AznalyWl.jpg",
+      "rating": 5.5,
       "year": 2026,
-      "days": 32,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt41050785",
-      "name": "Proud",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-      "rating": 4.7,
+      "id": "tt45658470",
+      "name": "Professeur Raoult vs le gang des Cerises",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6RNbBESf3DTaFqEys7slb7xzCUH.jpg",
+      "rating": 7.5,
       "year": 2026,
-      "days": 48,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,12 +84,12 @@
     },
     {
       "rank": 7,
-      "id": "tt34988203",
-      "name": "Il était deux fois",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i7FV4FGChmjNtjmMR2yTqJTTdQS.jpg",
-      "rating": 7.95,
-      "year": 2026,
-      "days": 13,
+      "id": "tt5754602",
+      "name": "4 Blocks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5KY603CZqvxm86QSWuqfAxW7ra4.jpg",
+      "rating": 6.4,
+      "year": 2017,
+      "days": 5,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -97,12 +97,12 @@
     },
     {
       "rank": 8,
-      "id": "tt32264653",
-      "name": "The Iris Affair",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
-      "rating": 6.4,
-      "year": 2025,
-      "days": 20,
+      "id": "tt0446809",
+      "name": "Péril en Haute Mer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8gh7igLtJdzcbRGYIjRqTW55Ryc.jpg",
+      "rating": 7.185,
+      "year": 2005,
+      "days": 10,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.796,
-      "year": 2014,
-      "days": 119,
+      "id": "tt9280400",
+      "name": "A Killer Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aq9m0ZiiNVquFFrTMeL9dCDstkJ.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": 21,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,12 +123,12 @@
     },
     {
       "rank": 10,
-      "id": "tt12074628",
-      "name": "Smiling Friends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
-      "rating": 8.5,
-      "year": 2020,
-      "days": 64,
+      "id": "top10:the-influencer-guru",
+      "name": "The Influencer Guru",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0

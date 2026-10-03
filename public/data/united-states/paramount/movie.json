@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "paramount",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt18259538",
-      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
-      "rating": 9.353,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
       "year": 2026,
-      "days": 5,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,119 +19,119 @@
     },
     {
       "rank": 2,
-      "id": "tt1225822",
-      "name": "Extract",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
-      "rating": 5.847,
-      "year": 2009,
-      "days": 120,
+      "id": "tt24326462",
+      "name": "One Mile: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
+      "rating": 6.867,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 3
       }
     },
     {
       "rank": 3,
-      "id": "tt5095076",
-      "name": "Wardriver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
-      "rating": 7.338,
+      "id": "tt39316472",
+      "name": "Jackass: le meilleur pour la fin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xd7tpoTpkOUIMf0Xd6DcCWqNrNQ.jpg",
+      "rating": 7.437,
       "year": 2026,
-      "days": 22,
+      "days": 8,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt1524930",
-      "name": "Vive les Vacances",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ybTZa6kNZtuWHwLJzpouHt6ffml.jpg",
-      "rating": 6.305,
-      "year": 2015,
-      "days": 25,
+      "id": "tt33296751",
+      "name": "Le Virtuose",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9sxdWvYJDyZeKHhBSU8Kczw7yC.jpg",
+      "rating": 7.619,
+      "year": 2026,
+      "days": 11,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt6977338",
-      "name": "Good Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AteSJ4ezNi76PL0m3LZzmBROEQD.jpg",
-      "rating": 6.833,
-      "year": 2019,
-      "days": 27,
+      "id": "tt32321803",
+      "name": "The Get Out",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": 17,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "down",
+        "delta": 3
       }
     },
     {
       "rank": 6,
-      "id": "tt1745960",
-      "name": "Top Gun : Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": 712,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 6.4,
+      "year": 2026,
+      "days": 18,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt10323676",
-      "name": "Le Contracteur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg",
-      "rating": 6.351,
-      "year": 2022,
-      "days": 101,
+      "id": "tt0350261",
+      "name": "Une Vie Inachevée",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yV2zy8n2ZNynfMHm9vm2II5rvjT.jpg",
+      "rating": 6.8,
+      "year": 2005,
+      "days": 67,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "rating": 6.178,
-      "year": 2026,
-      "days": 63,
+      "id": "tt0120812",
+      "name": "Rush Hour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+      "rating": 7.085,
+      "year": 1998,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 9,
-      "id": "tt4627382",
-      "name": "Roofman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
-      "rating": 7.097,
-      "year": 2025,
-      "days": 210,
+      "id": "tt0266915",
+      "name": "Rush Hour 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/muBpOJcl6nBfPfjmj620xZjGgtL.jpg",
+      "rating": 6.78,
+      "year": 2001,
+      "days": null,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 10,
-      "id": "tt2039393",
-      "name": "The Gambler",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
-      "rating": 6.033,
-      "year": 2014,
-      "days": 9,
+      "id": "tt1723121",
+      "name": "Les Miller, une famille en herbe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5iXScuz8ARGHLyoXuokt2SjLZda.jpg",
+      "rating": 6.841,
+      "year": 2013,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

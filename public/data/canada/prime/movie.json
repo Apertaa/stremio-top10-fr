@@ -2,68 +2,68 @@
   "country": "canada",
   "key": "prime",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt36958312",
-      "name": "La Bouche du Diable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
-      "rating": 6.281,
+      "id": "tt22526100",
+      "name": "The Love Hypothesis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6hfjkMZIsAOVdNC4NAAmCYthC7r.jpg",
+      "rating": 8.058,
       "year": 2026,
-      "days": 1,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 2,
-      "id": "tt0427340",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
-      "rating": 7.282,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
+      "rating": 7.022,
       "year": 2026,
-      "days": 8,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt8879928",
-      "name": "Cold Storage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6VEXLZt3gEiCuPnl666nak3OXKW.jpg",
-      "rating": 6.798,
+      "id": "tt27681354",
+      "name": "Les Spécialistes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sF1EGQWrUghvtD3VpqgsBACHr9u.jpg",
+      "rating": 7.563,
       "year": 2026,
-      "days": 5,
+      "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
+      "id": "tt37287335",
+      "name": "Obsession",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
+      "rating": 8.2,
       "year": 2026,
-      "days": 27,
+      "days": 14,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt33714084",
-      "name": "Reminders of Him",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
-      "rating": 7.765,
+      "id": "tt35672862",
+      "name": "Hokum",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2sq0GooVOtvGAQRyuYsSg9GA8Fy.jpg",
+      "rating": 6.835,
       "year": 2026,
-      "days": 17,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt1210027",
-      "name": "Afterburn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
-      "rating": 6.241,
-      "year": 2025,
-      "days": 22,
+      "id": "tt43617372",
+      "name": "Toi+Moi - Seuls contre tous",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xwzLNsGMh1yDRGOGH58ftPWmfzq.jpg",
+      "rating": 5.684,
+      "year": 2026,
+      "days": 13,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "top10:akalpit",
-      "name": "Akalpit",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": null,
-      "days": null,
+      "id": "tt36073210",
+      "name": "Attirés malgré nous",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fWCEAgqwVgSqelrDS48F843ZHx7.jpg",
+      "rating": 6.809,
+      "year": 2026,
+      "days": 23,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
+      "id": "tt32547691",
+      "name": "Pressure",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
+      "rating": 7.678,
       "year": 2026,
-      "days": 36,
+      "days": 3,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt32357218",
-      "name": "Shelter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qybHIG4px6546LKgSdPiyEdbDiK.jpg",
-      "rating": 7.669,
-      "year": 2026,
-      "days": 55,
+      "id": "tt36153493",
+      "name": "Wildcat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "rating": 6.184,
+      "year": 2025,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt34378301",
-      "name": "Jack Ryan de Tom Clancy : Guerre Fantôme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg",
-      "rating": 7.1,
+      "id": "tt32321803",
+      "name": "The Get Out",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "rating": 6,
       "year": 2026,
-      "days": 65,
+      "days": 12,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

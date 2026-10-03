@@ -2,16 +2,16 @@
   "country": "france",
   "key": "prime",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt33546863",
-      "name": "Off Campus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "rating": 8.97,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wltznBj9nVDqlvBWZq37P5zp7ib.jpg",
+      "rating": 8.105,
       "year": 2026,
-      "days": 78,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt13924304",
-      "name": "Sandokan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xHQDSDYFWbHuN71s23Yy9lwN70j.jpg",
-      "rating": 7.5,
+      "id": "tt32546170",
+      "name": "Dear You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3jwsaJ3um9nNhoyAkpYXCjoUolV.jpg",
+      "rating": 7.8,
       "year": 2025,
-      "days": 12,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt30494226",
-      "name": "Ride or Die",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
-      "rating": 3.8,
-      "year": 2026,
-      "days": 15,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "rating": 8.078,
+      "year": 2022,
+      "days": 51,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt32020831",
-      "name": "Elle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
-      "rating": 10,
+      "id": "tt33546863",
+      "name": "Off Campus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
+      "rating": 8.97,
       "year": 2026,
-      "days": 29,
+      "days": 142,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt35707374",
-      "name": "Memory of a Killer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXpDNwci75WH21CAptGgWduBrXD.jpg",
-      "rating": 7.4,
+      "id": "tt35618070",
+      "name": "Sterling Point",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mhqEXKwIv5wIlG1eih5OQB25vi8.jpg",
+      "rating": 8.199,
       "year": 2026,
-      "days": 46,
+      "days": 58,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,41 +71,41 @@
     },
     {
       "rank": 6,
-      "id": "tt33055254",
-      "name": "Au fil des années",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
-      "rating": 8.329,
-      "year": 2026,
-      "days": 50,
+      "id": "tt35681005",
+      "name": "Velvet New-York: Le nouvel empire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eBndCk0Wl3zcdXOL77C6O76pU0o.jpg",
+      "rating": 7.9,
+      "year": 2025,
+      "days": 26,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 7,
-      "id": "tt35346717",
-      "name": "Béryl : De paysan à maître d'armes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sunvA4HJbblDhgMH5I2StrF9wki.jpg",
-      "rating": 7.2,
-      "year": 2025,
-      "days": 7,
+      "id": "tt43620105",
+      "name": "Les Fumiers Bienvenue à la ferme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UyNsq06VJN0nue3KBm5NYMLgIq.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": 34,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt38960812",
-      "name": "À demain au bureau !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUeTFsH00wy4MwRLDMERc4Tjm9N.jpg",
-      "rating": 8.769,
-      "year": 2026,
-      "days": 23,
+      "id": "tt29550394",
+      "name": "LOL : Qui (c)rie, sort !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nI93MZf6n2OszaaueRSDuhxkF8C.jpg",
+      "rating": 7,
+      "year": 2023,
+      "days": 102,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -115,10 +115,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
       "rating": 8.451,
       "year": 2019,
-      "days": 113,
+      "days": 165,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -128,10 +128,10 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UjOeSZHunQqpSimmobGCWzkuXh.jpg",
       "rating": 8.1,
       "year": 2022,
-      "days": 333,
+      "days": 386,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

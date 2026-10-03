@@ -2,53 +2,14 @@
   "country": "belgium",
   "key": "disney",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 2,
-      "id": "tt34688214",
-      "name": "Pompéi : Tom Hiddleston remonte le temps",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tmdb:328337",
-      "name": "Bluey Compilations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
-      "id": "tt37063558",
-      "name": "R.J. Decker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
-      "rating": 7.8,
+      "id": "tt44924447",
+      "name": "Surveillant !",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhFwS4wNQ8Gxnh6m6fG0xCfEus7.jpg",
+      "rating": 8.417,
       "year": 2026,
       "days": 15,
       "trend": {
@@ -57,13 +18,52 @@
       }
     },
     {
-      "rank": 5,
-      "id": "tt10970762",
-      "name": "The Testaments",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7jlgPdsefwYjnjEDbfXAE1YU5rU.jpg",
-      "rating": 8.227,
+      "rank": 2,
+      "id": "tt9140554",
+      "name": "Loki",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
+      "rating": 8.171,
+      "year": 2021,
+      "days": 34,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt36210894",
+      "name": "The Drop : une saga Snowfall",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9eengN2v9ZTwPfFC0LRMoJULk.jpg",
+      "rating": 7.864,
       "year": 2026,
-      "days": 32,
+      "days": 22,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt0410975",
+      "name": "Desperate Housewives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": 70,
+      "trend": {
+        "dir": "up",
+        "delta": 3
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tmdb:328337",
+      "name": "Bluey Compilations",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": 68,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,38 +71,38 @@
     },
     {
       "rank": 6,
-      "id": "tt23731346",
-      "name": "Princesse Sofia : Apprentie magicienne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/btMAULyx0ecn7slCxJYQ1aNX7yx.jpg",
-      "rating": 9.4,
+      "id": "tt32642114",
+      "name": "City of Blood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aFOIKzRZBUk7NwR49dgL9aJAAD3.jpg",
+      "rating": 6.4,
       "year": 2026,
-      "days": 21,
+      "days": 15,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 7,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iaJfffjCqXATU5msr4PAgOWLMl4.jpg",
-      "rating": 8.139,
-      "year": 2022,
-      "days": 25,
+      "id": "tt43739197",
+      "name": "Somebody Knows Something",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uXwgUY4RFT06kuyrObtOJxqVh1D.jpg",
+      "rating": 10,
+      "year": 2026,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.1,
-      "year": 2024,
-      "days": 77,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
+      "rating": 6.5,
+      "year": 2026,
+      "days": 67,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -110,12 +110,12 @@
     },
     {
       "rank": 9,
-      "id": "tt0410975",
-      "name": "Desperate Housewives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
-      "rating": 7.9,
-      "year": 2004,
-      "days": 35,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 5.9,
+      "year": 2025,
+      "days": 36,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt9140554",
-      "name": "Loki",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
-      "rating": 8.171,
-      "year": 2021,
-      "days": 7,
+      "id": "tt1442437",
+      "name": "Modern Family",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "rating": 7.913,
+      "year": 2009,
+      "days": 130,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "netflix",
   "list": "kids-movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 592,
+      "id": "tt34459219",
+      "name": "‎Papa à plein temps",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gdzdo1Eph4xeB6SQBgtSsjXFsMM.jpg",
+      "rating": 7.13,
+      "year": 2026,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt14205554",
-      "name": "KPop Demon Hunters",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "rating": 8,
-      "year": 2025,
-      "days": 399,
+      "id": "tt0451079",
+      "name": "Horton",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w6wnwsngxRqGvXBpt7yerMVTKUL.jpg",
+      "rating": 6.526,
+      "year": 2008,
+      "days": 1,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt2224026",
-      "name": "En route !",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3uBiHSO1i6HUhr5fHuXhoavypZA.jpg",
-      "rating": 6.787,
-      "year": 2015,
-      "days": 293,
+      "id": "tt3915174",
+      "name": "Le Chat Potté 2 : la dernière quête",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kO35BwoKHyP1VRulxZJVeEl5dvS.jpg",
+      "rating": 8.219,
+      "year": 2022,
+      "days": 87,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt3469046",
-      "name": "Moi, moche et méchant 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
-      "rating": 6.468,
-      "year": 2017,
-      "days": 243,
+      "id": "tt14205554",
+      "name": "KPop Demon Hunters",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "rating": 8,
+      "year": 2025,
+      "days": 463,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,51 +58,51 @@
     },
     {
       "rank": 5,
-      "id": "tt27613895",
-      "name": "GOAT : Rêver plus haut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "rating": 8.122,
-      "year": 2026,
-      "days": 77,
+      "id": "tt2293640",
+      "name": "Les Minions",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sGuZHYvu0mXeQCwvJ5yzk2Yoytq.jpg",
+      "rating": 6.426,
+      "year": 2015,
+      "days": 550,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt2709768",
-      "name": "Comme des bêtes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cn7mFB0sCeQJO8MAyl15yFp0rpc.jpg",
-      "rating": 6.322,
-      "year": 2016,
-      "days": 512,
+      "id": "tt5220122",
+      "name": "Hôtel Transylvanie 3 : Des vacances monstrueuses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1LxO3gfe1YCXWD8zHEQXuPlOBye.jpg",
+      "rating": 6.851,
+      "year": 2018,
+      "days": 121,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt5113044",
-      "name": "Les Minions 2 : Il était une fois Gru",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pA05WmBZLEu32peDDh3I4VuVPsu.jpg",
-      "rating": 7.3,
-      "year": 2022,
-      "days": 124,
+      "id": "tt6095472",
+      "name": "Angry Birds : Copains comme cochons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9YYRD0el7wa9kiZC4RsfxGpTrtX.jpg",
+      "rating": 7.054,
+      "year": 2019,
+      "days": 36,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt3470600",
-      "name": "Tous en scène",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6igG1J3T6uavROpQAhKfptm4KA4.jpg",
-      "rating": 7.125,
-      "year": 2016,
-      "days": 436,
+      "id": "tt3469046",
+      "name": "Moi, moche et méchant 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sXRCdFPzlQeRGPO6wWhCOnVI0wR.jpg",
+      "rating": 6.468,
+      "year": 2017,
+      "days": 290,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt29552248",
-      "name": "Aventures croisées",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "rating": 8.971,
+      "id": "tt27613895",
+      "name": "GOAT : Rêver plus haut",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "rating": 8.122,
       "year": 2026,
-      "days": 78,
+      "days": 123,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt4633694",
-      "name": "Spider-Man : New Generation",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3bSWpsB2PqoTrJhW9cM6tJMDxIm.jpg",
-      "rating": 8.393,
-      "year": 2018,
-      "days": 49,
+      "id": "tt0307453",
+      "name": "Gang de Requins",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wCRT8jjUrAkITnhC31ZbOWIZpHV.jpg",
+      "rating": 6.043,
+      "year": 2004,
+      "days": 76,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     }
   ]

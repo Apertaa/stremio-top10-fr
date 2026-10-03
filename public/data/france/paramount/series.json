@@ -2,7 +2,7 @@
   "country": "france",
   "key": "paramount",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fgRCZiN3igJqtIAXrBm9S7BwLVp.jpg",
       "rating": 8.3,
       "year": 1997,
-      "days": 840,
+      "days": 904,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,38 +19,38 @@
     },
     {
       "rank": 2,
-      "id": "tt9813792",
-      "name": "FROM",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "rating": 8.479,
-      "year": 2022,
-      "days": 784,
+      "id": "tt31510819",
+      "name": "MobLand",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fs1GCzfveWH8A8xG7UunUYNmQPP.jpg",
+      "rating": 8.463,
+      "year": 2025,
+      "days": 107,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 2
       }
     },
     {
       "rank": 3,
-      "id": "tt0452046",
-      "name": "Esprits criminels",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
-      "rating": 8.3,
-      "year": 2005,
-      "days": 854,
+      "id": "tt13111078",
+      "name": "Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
+      "rating": 7.991,
+      "year": 2023,
+      "days": 168,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "rating": 8.3,
-      "year": 2022,
-      "days": 766,
+      "id": "tt14321632",
+      "name": "All the Queen's Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
+      "rating": 8.39,
+      "year": 2021,
+      "days": 23,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,27 +58,27 @@
     },
     {
       "rank": 5,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "id": "tt0452046",
+      "name": "Esprits criminels",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRgsJq9dMz7bIciUEqwbmzFBwSL.jpg",
       "rating": 8.3,
-      "year": 2018,
-      "days": 705,
+      "year": 2005,
+      "days": 918,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt16098700",
-      "name": "Fire Country : Pompiers sur Appel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
-      "rating": 8.1,
+      "id": "tt9813792",
+      "name": "FROM",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "rating": 8.479,
       "year": 2022,
-      "days": 382,
+      "days": 848,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
       "rating": 8.2,
       "year": 2006,
-      "days": 847,
+      "days": 906,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 8,
-      "id": "tt1695360",
-      "name": "Avatar : La Légende de Korra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K6oyogaEAw339ki8fhmx7NdTFd.jpg",
-      "rating": 8.2,
-      "year": 2012,
-      "days": 44,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "rating": 8.3,
+      "year": 2022,
+      "days": 830,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt12327578",
-      "name": "Star Trek: Strange New Worlds",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tv3W5DNDzeQaHFFrrqDZ4joCQcN.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": 109,
+      "id": "tt0206512",
+      "name": "Bob l'éponge",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uUUzblARnPSjgqIGnrp799I13X2.jpg",
+      "rating": 7.7,
+      "year": 1999,
+      "days": 870,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt6473344",
-      "name": "SEAL Team",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rQJKfadORdmznHxKmM2g8Qti6DU.jpg",
-      "rating": 8.031,
-      "year": 2017,
-      "days": 561,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": 767,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

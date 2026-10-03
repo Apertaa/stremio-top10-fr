@@ -2,16 +2,16 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tmdb:317374",
-      "name": "Locker Diaries: Descendants",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gqUrmVrgmmbghymywdpzPFw2as.jpg",
-      "rating": null,
+      "id": "tt36210894",
+      "name": "The Drop : une saga Snowfall",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9eengN2v9ZTwPfFC0LRMoJULk.jpg",
+      "rating": 7.864,
       "year": 2026,
-      "days": 4,
+      "days": 23,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -19,76 +19,37 @@
     },
     {
       "rank": 2,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "rating": 8.5,
-      "year": 2024,
-      "days": 29,
+      "id": "tt1844624",
+      "name": "American Horror Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6n7edVeJJFLPwd2pQdbiZ0b8wW.jpg",
+      "rating": 8.077,
+      "year": 2011,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 3,
+      "id": "tt28689687",
+      "name": "La Maison de Mickey+",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8jOZjiktLVJxeNuha3MQc5MfhUb.jpg",
+      "rating": 8.1,
+      "year": 2025,
+      "days": 1,
       "trend": {
         "dir": "up",
         "delta": 5
       }
     },
     {
-      "rank": 3,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUbeseppeo1XBwTLks8qXyS0fiT.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 4,
-      "id": "tmdb:328337",
-      "name": "Bluey Compilations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRinl073rUml8S1zOVPeulNpiH3.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 21,
-      "trend": {
-        "dir": "up",
-        "delta": 1
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tmdb:329903",
-      "name": "Mickey Mouse Clubhouse+: Mickey's Country Farm Songs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gnRRHjqLB11nHXGbwIfpAKR4F6X.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": 3,
-      "trend": {
-        "dir": "down",
-        "delta": 4
-      }
-    },
-    {
-      "rank": 6,
-      "id": "tt34688214",
-      "name": "Pompéi : Tom Hiddleston remonte le temps",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": 6,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt40367753",
-      "name": "Dancing with the Stars: The Next Pro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-      "rating": null,
-      "year": 2026,
+      "id": "tt0285403",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+      "rating": 8.116,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "new",
@@ -96,13 +57,52 @@
       }
     },
     {
+      "rank": 5,
+      "id": "top10:jeff-and-his-super-hero-friends",
+      "name": "Jeff and His Super Hero Friends",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 1,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 6,
+      "id": "tt6343290",
+      "name": "Marvel's Ultimate Comics",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ObO02dL4QbzMuhnW3jU3XYkuAq.jpg",
+      "rating": 6.4,
+      "year": 2016,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt9140554",
+      "name": "Loki",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zNwEwSXojMrQapZHQx5fO8iph4R.jpg",
+      "rating": 8.171,
+      "year": 2021,
+      "days": 42,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
       "rank": 8,
-      "id": "tt11871764",
-      "name": "Cool Attitude : Encore plus cool",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wGnR8jmLGV0yN6d7Eg1OsRubts8.jpg",
-      "rating": 5.3,
-      "year": 2022,
-      "days": null,
+      "id": "tmdb:334707",
+      "name": "American Horror Story Official Podcast",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8ustmzB6e36Frm3X3skX0iN2Q85.jpg",
+      "rating": 10,
+      "year": 2026,
+      "days": 6,
       "trend": {
         "dir": "new",
         "delta": null
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt6917254",
-      "name": "Beat Shazam",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q2U5Iulo8NWWiOiVx0f7VX9o4RM.jpg",
-      "rating": 5.1,
-      "year": 2017,
-      "days": null,
+      "id": "tt37063558",
+      "name": "R.J. Decker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": 15,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 4
       }
     },
     {
       "rank": 10,
-      "id": "tt26685570",
-      "name": "How Not to Draw",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AsZIO0kJpAmod2DFrjLtDhbbuL.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": 40,
+      "id": "tt33403818",
+      "name": "Mickey's Spooky Stories",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/61lEIt68ysrMMP28WCdCO0t457N.jpg",
+      "rating": 5.3,
+      "year": 2024,
+      "days": 6,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

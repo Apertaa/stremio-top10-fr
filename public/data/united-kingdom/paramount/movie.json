@@ -2,16 +2,16 @@
   "country": "united-kingdom",
   "key": "paramount",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt24326458",
-      "name": "One Mile: Chapter One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
-      "rating": 7.005,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "rating": 6.178,
       "year": 2026,
-      "days": 20,
+      "days": 36,
       "trend": {
         "dir": "up",
         "delta": 2
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt24326462",
-      "name": "One Mile: Chapter Two",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
-      "rating": 6.867,
-      "year": 2026,
-      "days": 20,
+      "id": "tt3569230",
+      "name": "Legend",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uFIBu8h4gFcbiGFrQVRbu03H1ku.jpg",
+      "rating": 7.048,
+      "year": 2015,
+      "days": 14,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,25 +32,25 @@
     },
     {
       "rank": 3,
-      "id": "tt18259538",
-      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
-      "rating": 9.353,
+      "id": "tt14201728",
+      "name": "Twisted",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AkRiuvV7R46xfMqUJWKyJ1fuSXh.jpg",
+      "rating": 4.608,
       "year": 2026,
-      "days": 5,
+      "days": 1,
       "trend": {
         "dir": "up",
-        "delta": 1
+        "delta": 4
       }
     },
     {
       "rank": 4,
-      "id": "tt33028778",
-      "name": "Primate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
-      "rating": 6.526,
-      "year": 2026,
-      "days": 1,
+      "id": "tt4876134",
+      "name": "Braquage en or",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r636zWtCiDQCJWouFX4c548cqos.jpg",
+      "rating": 5.4,
+      "year": 2021,
+      "days": 18,
       "trend": {
         "dir": "down",
         "delta": 3
@@ -58,25 +58,25 @@
     },
     {
       "rank": 5,
-      "id": "tt14107334",
-      "name": "Running Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
-      "rating": 6.78,
-      "year": 2025,
-      "days": 35,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
+      "year": 2026,
+      "days": 84,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt0103064",
-      "name": "Terminator 2 : Le Jugement dernier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg",
-      "rating": 8.159,
-      "year": 1991,
-      "days": 3,
+      "id": "tt24326462",
+      "name": "One Mile: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
+      "rating": 6.867,
+      "year": 2026,
+      "days": 84,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -89,49 +89,49 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg",
       "rating": 8.158,
       "year": 2022,
-      "days": 119,
+      "days": 178,
       "trend": {
         "dir": "up",
-        "delta": 3
+        "delta": 2
       }
     },
     {
       "rank": 8,
-      "id": "tt4419684",
-      "name": "In the Lost Lands",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wKO67hBgdbdEhZWWnL5xmHw3wAN.jpg",
-      "rating": 6.367,
+      "id": "tt15128544",
+      "name": "Sunray: Fallen Soldier",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3E92rB9z2nUvbdQYt3nzL2s5Cl6.jpg",
+      "rating": 6.2,
       "year": 2025,
-      "days": 13,
+      "days": 7,
       "trend": {
         "dir": "down",
-        "delta": 1
+        "delta": 3
       }
     },
     {
       "rank": 9,
-      "id": "tt29101725",
-      "name": "Killing Faith",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "rating": 5.821,
-      "year": 2025,
-      "days": 48,
+      "id": "tt32375562",
+      "name": "South Park : La Fin de l'obésité",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8xi21LBcxxoGkIr3j6mx5Tcuo85.jpg",
+      "rating": 7.413,
+      "year": 2024,
+      "days": 441,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt37577501",
-      "name": "The Girl Who Survived: The Alina Thompson Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": 62,
+      "id": "tt30505159",
+      "name": "South Park (Ne convient pas aux enfants)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fcaNbtHvCHyL8TEa2vRZjSKXhya.jpg",
+      "rating": 7.439,
+      "year": 2023,
+      "days": 531,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "new",
+        "delta": null
       }
     }
   ]

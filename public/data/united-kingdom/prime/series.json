@@ -2,16 +2,16 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt30494226",
-      "name": "Ride or Die",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tpnk8SIMp7ok2LyV9nfF6lXdohK.jpg",
-      "rating": 3.8,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wltznBj9nVDqlvBWZq37P5zp7ib.jpg",
+      "rating": 8.105,
       "year": 2026,
-      "days": 15,
+      "days": 16,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt10541088",
-      "name": "Clarkson à la ferme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
-      "rating": 8.5,
-      "year": 2021,
-      "days": 57,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "rating": 8.078,
+      "year": 2022,
+      "days": 50,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,12 +32,12 @@
     },
     {
       "rank": 3,
-      "id": "tt33546863",
-      "name": "Off Campus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "rating": 8.97,
+      "id": "tt44974627",
+      "name": "The Grand Tour",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "rating": 8.429,
       "year": 2026,
-      "days": 78,
+      "days": 28,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -45,12 +45,12 @@
     },
     {
       "rank": 4,
-      "id": "tt32020831",
-      "name": "Elle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cpdy7BM2vvGTriPHSKl3K7jBR4C.jpg",
-      "rating": 10,
+      "id": "tt33546863",
+      "name": "Off Campus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
+      "rating": 8.97,
       "year": 2026,
-      "days": 29,
+      "days": 142,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt23734948",
-      "name": "The Pendragon Cycle: Rise of the Merlin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
-      "rating": 7.394,
-      "year": 2026,
-      "days": 13,
+      "id": "tt0185906",
+      "name": "Frères d'armes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
+      "rating": 8.606,
+      "year": 2001,
+      "days": 25,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tmdb:329378",
-      "name": "The Curse Of Love Island",
-      "tmdbPosterUrl": null,
-      "rating": null,
-      "year": 2026,
-      "days": 3,
+      "id": "tt10541088",
+      "name": "Clarkson à la ferme",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
+      "rating": 8.5,
+      "year": 2021,
+      "days": 121,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt33055254",
-      "name": "Au fil des années",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
-      "rating": 8.329,
+      "id": "tt35618070",
+      "name": "Sterling Point",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mhqEXKwIv5wIlG1eih5OQB25vi8.jpg",
+      "rating": 8.199,
       "year": 2026,
-      "days": 50,
+      "days": 58,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt1190634",
-      "name": "The Boys",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
-      "rating": 8.451,
-      "year": 2019,
-      "days": 113,
+      "id": "tmdb:335616",
+      "name": "The Fit Bit Killer",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": 2026,
+      "days": 16,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt30460310",
-      "name": "Spider-Noir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "rating": 8.528,
-      "year": 2026,
-      "days": 62,
+      "id": "tt0374463",
+      "name": "Le Pacifique",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tmjca0r0Wam21385kHDjudhDgIW.jpg",
+      "rating": 7.798,
+      "year": 2010,
+      "days": 8,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
-      "rating": 8.078,
-      "year": 2022,
-      "days": 71,
+      "id": "tt34691775",
+      "name": "It's Not Like That",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4hiOFff1XvM1Sy3XGN83DvPl44H.jpg",
+      "rating": 8.5,
+      "year": 2026,
+      "days": 1,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

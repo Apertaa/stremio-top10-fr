@@ -2,16 +2,16 @@
   "country": "canada",
   "key": "paramount",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt24326458",
-      "name": "One Mile: Chapter One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
-      "rating": 7.005,
+      "id": "tt39316472",
+      "name": "Jackass: le meilleur pour la fin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xd7tpoTpkOUIMf0Xd6DcCWqNrNQ.jpg",
+      "rating": 7.437,
       "year": 2026,
-      "days": 10,
+      "days": 8,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,90 +19,90 @@
     },
     {
       "rank": 2,
-      "id": "tt18259538",
-      "name": "‎Avatar Aang: Le dernier Maître de l'Air",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x1rFMh6WcjpX09HvSkf6am9L5L2.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 5,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt24326462",
-      "name": "One Mile: Chapter Two",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
-      "rating": 6.867,
-      "year": 2026,
-      "days": 10,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt32537226",
       "name": "Hunting Season",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "rating": 6.953,
       "year": 2025,
-      "days": 34,
+      "days": 98,
       "trend": {
         "dir": "up",
         "delta": 1
       }
     },
     {
-      "rank": 5,
-      "id": "tt30908405",
-      "name": "The Last Rodeo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
-      "rating": 7.648,
-      "year": 2025,
-      "days": 27,
+      "rank": 3,
+      "id": "tt0094078",
+      "name": "Cordes et discordes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eeOUXSo8UeswXZO9QJ10uE0OLCu.jpg",
+      "rating": 5.1,
+      "year": 1987,
+      "days": 7,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "rank": 4,
+      "id": "tt24326458",
+      "name": "One Mile: Chapter One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCWZe1paNWaz2mwsggiovEXQnD8.jpg",
+      "rating": 7.005,
+      "year": 2026,
+      "days": 74,
       "trend": {
         "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tt14507394",
+      "name": "Hellfire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "rating": 5.294,
+      "year": 2026,
+      "days": 18,
+      "trend": {
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt32306991",
-      "name": "Solo Mio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "rating": 7.361,
+      "id": "tt32093575",
+      "name": "Scary Movie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+      "rating": 6.4,
       "year": 2026,
-      "days": 20,
+      "days": 18,
+      "trend": {
+        "dir": "up",
+        "delta": 2
+      }
+    },
+    {
+      "rank": 7,
+      "id": "tt30908405",
+      "name": "The Last Rodeo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
+      "rating": 7.648,
+      "year": 2025,
+      "days": 70,
       "trend": {
         "dir": "down",
         "delta": 2
       }
     },
     {
-      "rank": 7,
-      "id": "tt14201728",
-      "name": "Twisted",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AkRiuvV7R46xfMqUJWKyJ1fuSXh.jpg",
-      "rating": 4.608,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "new",
-        "delta": null
-      }
-    },
-    {
       "rank": 8,
-      "id": "tt35003538",
-      "name": "EPiC: Elvis Presley in Concert",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
-      "rating": 8.3,
+      "id": "tt24326462",
+      "name": "One Mile: Chapter Two",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qcdByCdHgvdhiRuMccwvamkRblT.jpg",
+      "rating": 6.867,
       "year": 2026,
-      "days": 6,
+      "days": 74,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -110,28 +110,28 @@
     },
     {
       "rank": 9,
-      "id": "tt1189340",
-      "name": "La Défense Lincoln",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fvDuLXrEWL7famstyY2VTEPfLDL.jpg",
-      "rating": 7.209,
-      "year": 2011,
-      "days": 16,
+      "id": "tt0076666",
+      "name": "La Fièvre du samedi soir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/psg46TubysFxNxxy20VBK1hc4nk.jpg",
+      "rating": 6.738,
+      "year": 1977,
+      "days": 2,
       "trend": {
-        "dir": "down",
+        "dir": "up",
         "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt38238651",
-      "name": "The Internship",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
-      "rating": 6.74,
-      "year": 2026,
-      "days": 15,
+      "id": "tt4627382",
+      "name": "Roofman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1HTuYJvK9qEeK0gbPijCJ18RQ9.jpg",
+      "rating": 7.097,
+      "year": 2025,
+      "days": 195,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "new",
+        "delta": null
       }
     }
   ]

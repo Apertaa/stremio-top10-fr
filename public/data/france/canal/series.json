@@ -2,16 +2,16 @@
   "country": "france",
   "key": "canal",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt34273502",
-      "name": "Prisoner",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ihsjLndu3FrhDFGjdYY0bbhuD9R.jpg",
-      "rating": 5.4,
-      "year": 2026,
-      "days": 16,
+      "id": "tt33184638",
+      "name": "Has Fallen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aFIGvsWknUfDIdjrkJNknyNuZZL.jpg",
+      "rating": 7,
+      "year": 2024,
+      "days": 75,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -19,12 +19,12 @@
     },
     {
       "rank": 2,
-      "id": "tt11198330",
-      "name": "House of the Dragon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "rating": 8.301,
-      "year": 2022,
-      "days": 164,
+      "id": "tt31510819",
+      "name": "MobLand",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fs1GCzfveWH8A8xG7UunUYNmQPP.jpg",
+      "rating": 8.463,
+      "year": 2025,
+      "days": 100,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -32,38 +32,38 @@
     },
     {
       "rank": 3,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": 173,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "rating": 8.34,
+      "year": 2020,
+      "days": 104,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt34866681",
-      "name": "Lucky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v9JULqfkf2wpwxvRbsxArywH2tm.jpg",
-      "rating": 5.455,
-      "year": 2026,
-      "days": 15,
+      "id": "tt13111078",
+      "name": "Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
+      "rating": 7.991,
+      "year": 2023,
+      "days": 126,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 5,
-      "id": "tt34675596",
-      "name": "Cape Fear - Les Nerfs à vif",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2BuGd8rDimZgJGkU0Gn34gjAYmY.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": 53,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Edj9sccDf1lXQkkJHFedsDdTiS.jpg",
+      "rating": 8.006,
+      "year": 2022,
+      "days": 130,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt31909098",
-      "name": "The Miniature Wife",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
-      "rating": 7.446,
-      "year": 2026,
-      "days": 21,
+      "id": "tt16528504",
+      "name": "Ceci n'est pas un crime",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9KufsEVDkEtU2a7qFSmOtnAVOMo.jpg",
+      "rating": 4.861,
+      "year": 2025,
+      "days": 6,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,38 +84,38 @@
     },
     {
       "rank": 7,
-      "id": "tt16418808",
-      "name": "Sugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "rating": 7.2,
-      "year": 2024,
-      "days": 73,
+      "id": "tt26545992",
+      "name": "Lanterns",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
+      "rating": 8.367,
+      "year": 2026,
+      "days": 43,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt34991493",
-      "name": "Dutton Ranch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kaWNHypRh9OFSJzEgj8prvMkA5h.jpg",
-      "rating": 9.353,
-      "year": 2026,
-      "days": 76,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zGMLj5ZTybGpgYtNnDbMbN1rOcp.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": 237,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt0944947",
-      "name": "Game of Thrones",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
-      "rating": 8.5,
-      "year": 2011,
-      "days": 361,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yewGBOuVmcZnMQ60xGGjUhobOsJ.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": 2,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -123,15 +123,15 @@
     },
     {
       "rank": 10,
-      "id": "tt18546730",
-      "name": "The Walking Dead : Dead City",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "rating": 7.9,
-      "year": 2023,
-      "days": 12,
+      "id": "tt26656917",
+      "name": "The Agency",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pjRsaSVoyK7BYeEjYuRUJu9DDko.jpg",
+      "rating": 7.1,
+      "year": 2024,
+      "days": 111,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

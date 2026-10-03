@@ -2,55 +2,55 @@
   "country": "france",
   "key": "canal",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt33240811",
-      "name": "The Party's Over",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vJa5OZv0QOnGgzTSmiLTm7tIyjp.jpg",
-      "rating": null,
-      "year": null,
-      "days": 9,
+      "id": "tt38814447",
+      "name": "Le Crime du 3e étage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+      "rating": 6.4,
+      "year": 2026,
+      "days": 6,
       "trend": {
-        "dir": "up",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 2,
-      "id": "tt29516222",
-      "name": "Deep Water",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
-      "rating": 7.363,
+      "id": "tt31777964",
+      "name": "Gourou",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ufdcPu8CdcsC0c73pATNjYXEmMR.jpg",
+      "rating": 6.013,
       "year": 2026,
-      "days": 5,
+      "days": 11,
       "trend": {
-        "dir": "up",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt14107334",
-      "name": "Running Man",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
-      "rating": 6.78,
-      "year": 2025,
-      "days": 13,
+      "id": "tt32897959",
+      "name": "“Hurlevent”",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+      "rating": 6.663,
+      "year": 2026,
+      "days": 7,
       "trend": {
-        "dir": "down",
-        "delta": 3
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt33028778",
-      "name": "Primate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
-      "rating": 6.526,
-      "year": 2026,
-      "days": 2,
+      "id": "tt29567915",
+      "name": "Nuremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "rating": 7.56,
+      "year": 2025,
+      "days": 1,
       "trend": {
         "dir": "up",
         "delta": 1
@@ -58,28 +58,28 @@
     },
     {
       "rank": 5,
-      "id": "tt4045450",
-      "name": "Souviens-toi… l'été dernier",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
-      "rating": 5.66,
-      "year": 2025,
-      "days": 7,
+      "id": "top10:le-gang-des-souris-vertes",
+      "name": "Le Gang des souris vertes",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 1,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt10374610",
-      "name": "Marche ou crève",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
-      "rating": 6.89,
+      "id": "tt27543632",
+      "name": "La Femme de ménage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
+      "rating": 7.266,
       "year": 2025,
-      "days": 19,
+      "days": 27,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     }
   ]

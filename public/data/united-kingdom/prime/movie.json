@@ -2,81 +2,81 @@
   "country": "united-kingdom",
   "key": "prime",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt36958312",
-      "name": "La Bouche du Diable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
-      "rating": 6.281,
+      "id": "tt22526100",
+      "name": "The Love Hypothesis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6hfjkMZIsAOVdNC4NAAmCYthC7r.jpg",
+      "rating": 8.058,
       "year": 2026,
-      "days": 1,
+      "days": 9,
       "trend": {
-        "dir": "up",
-        "delta": 4
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 2,
-      "id": "tt0427340",
-      "name": "Les Maîtres de l'Univers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg",
-      "rating": 7.282,
+      "id": "tt32321803",
+      "name": "The Get Out",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "rating": 6,
       "year": 2026,
-      "days": 8,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 3,
-      "id": "tt34381258",
-      "name": "The Good Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
-      "rating": 7.069,
+      "id": "tt1341338",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9mP2PVMau6tSQTLHqKI2A5L0VPB.jpg",
+      "rating": 7.109,
       "year": 2026,
-      "days": 5,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 4,
-      "id": "tt12042730",
-      "name": "Projet Dernière Chance",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "rating": 8.7,
+      "id": "tt27681354",
+      "name": "Les Spécialistes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sF1EGQWrUghvtD3VpqgsBACHr9u.jpg",
+      "rating": 7.563,
       "year": 2026,
-      "days": 27,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 5,
-      "id": "tt27543632",
-      "name": "La Femme de ménage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naFRoBTiHycN71wO02BA1NyLJ28.jpg",
-      "rating": 7.266,
+      "id": "tt29008225",
+      "name": "Fackham Hall",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+      "rating": 6.613,
       "year": 2025,
       "days": 20,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 6,
-      "id": "tt32565993",
-      "name": "Les moutons détectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "rating": 7.521,
+      "id": "tt46659055",
+      "name": "Hair Fetish Killer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vFlXXWjkVGDBqTjogleu7wAO0E3.jpg",
+      "rating": null,
       "year": 2026,
-      "days": 36,
+      "days": 9,
       "trend": {
         "dir": "same",
         "delta": 0
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt32990776",
-      "name": "Shark Warning",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5EFhIT8QzlID8oGACtepaAxiwOU.jpg",
-      "rating": 4.8,
+      "id": "tt2049403",
+      "name": "Beetlejuice Beetlejuice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4M8fnQF821aVFBbhLdTQGf4j4W9.jpg",
+      "rating": 6.918,
       "year": 2024,
-      "days": null,
+      "days": 13,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 8,
-      "id": "tt6467266",
-      "name": "Tous en scène 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg",
-      "rating": 7.833,
-      "year": 2021,
-      "days": 15,
+      "id": "tt43617372",
+      "name": "Toi+Moi - Seuls contre tous",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xwzLNsGMh1yDRGOGH58ftPWmfzq.jpg",
+      "rating": 5.684,
+      "year": 2026,
+      "days": 13,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 9,
-      "id": "tt32394984",
-      "name": "Ligne de feu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8u12wW2Codb2nPdSNveoFfZdiOp.jpg",
-      "rating": 5.871,
-      "year": 2026,
-      "days": 9,
+      "id": "tt0435625",
+      "name": "The Descent",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hUZbZj7yb16tokai802DmawqUxE.jpg",
+      "rating": 7,
+      "year": 2005,
+      "days": 2,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     },
     {
       "rank": 10,
-      "id": "tt32916440",
-      "name": "Marty Supreme",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
-      "rating": 7.375,
-      "year": 2025,
-      "days": 13,
+      "id": "tt5177120",
+      "name": "Le Ministère de la Sale Guerre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cEsfWlqC89pec6402kGUaw3J48L.jpg",
+      "rating": 6.997,
+      "year": 2024,
+      "days": 23,
       "trend": {
-        "dir": "down",
-        "delta": 1
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

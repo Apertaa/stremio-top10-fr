@@ -2,14 +2,27 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt43680755",
-      "name": "Les Meurtres de l'Idaho: Cauchemar sur le Campus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
-      "rating": 5.2,
+      "id": "tmdb:87012",
+      "name": "The Great British Bake Off",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zZBzkM3XXZHOauKlHSv3Vg6e4iZ.jpg",
+      "rating": 8,
+      "year": 2017,
+      "days": 80,
+      "trend": {
+        "dir": "up",
+        "delta": 5
+      }
+    },
+    {
+      "rank": 2,
+      "id": "tt21097264",
+      "name": "À l'est d'Éden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ygwE4kbLxKApQoC26Q0DiJQnkMl.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": 2,
       "trend": {
@@ -18,39 +31,26 @@
       }
     },
     {
-      "rank": 2,
-      "id": "tt28088031",
-      "name": "Nouvelle vie à Ransom Canyon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5qMYhSczmETyayRyUyBzeJgFDWx.jpg",
-      "rating": 7.2,
-      "year": 2025,
-      "days": 37,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
       "rank": 3,
-      "id": "tt13592494",
-      "name": "L'Attentat du vol Pan Am 103",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pfT0nfWUpxaACI3JQWFLbDRVvm7.jpg",
+      "id": "tt0092339",
+      "name": "Campus Show",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dhmTO1OiIenY4sXmLi5J5X73qnt.jpg",
       "rating": 7.2,
-      "year": 2025,
-      "days": null,
+      "year": 1987,
+      "days": 9,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "down",
+        "delta": 2
       }
     },
     {
       "rank": 4,
-      "id": "tt27550719",
-      "name": "The Hawk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqe6Xs0UxpaSnJ7zUwzcixSC1OT.jpg",
-      "rating": 3.962,
+      "id": "tt36258621",
+      "name": "Le Ticket d'or de Willy Wonka",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+      "rating": 6,
       "year": 2026,
-      "days": 15,
+      "days": 10,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,12 +58,12 @@
     },
     {
       "rank": 5,
-      "id": "tt32777700",
-      "name": "Dad is a hero, Mom is a spirit, I'm a reincarnator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pGVTpCHQY7zUmFjaKfjtoBtk8zy.jpg",
-      "rating": 7.214,
-      "year": 2025,
-      "days": 9,
+      "id": "tt12408718",
+      "name": "Murder in a Small Town",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
+      "rating": 6.9,
+      "year": 2024,
+      "days": 4,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -71,12 +71,12 @@
     },
     {
       "rank": 6,
-      "id": "tt34771210",
-      "name": "Sur tes traces",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-      "rating": 8.2,
+      "id": "tmdb:299939",
+      "name": "Monstre : L'Histoire de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ruw68QldiWzOjUdKX9hUFT1pjv.jpg",
+      "rating": 7.109,
       "year": 2026,
-      "days": 43,
+      "days": 16,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -84,54 +84,54 @@
     },
     {
       "rank": 7,
-      "id": "tt2431250",
-      "name": "La Petite Maison dans la prairie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9AhIHTT6HBsOSVWRfO620RbCdpC.jpg",
-      "rating": 5.139,
-      "year": 2026,
-      "days": 22,
+      "id": "tt2359704",
+      "name": "JoJo's Bizarre Adventure",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "rating": 8.544,
+      "year": 2012,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 8,
-      "id": "tt35495063",
-      "name": "GIGN",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
-      "rating": 6.7,
+      "id": "tt41538904",
+      "name": "LEGO One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+      "rating": 8.045,
       "year": 2026,
-      "days": 9,
+      "days": 4,
       "trend": {
         "dir": "down",
-        "delta": 2
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt43476716",
-      "name": "Les Voisins de l'enfer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cC8OQ7PyMy8Caz6z97QvW3CQbbL.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": 29,
+      "id": "tt20221678",
+      "name": "The Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kfKsJktZvK22sYX2gV2LjsdIz3u.jpg",
+      "rating": 7.6,
+      "year": 2023,
+      "days": 18,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt18396952",
-      "name": "L'Ultimatum : On se marie ou c'est fini",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3WOYsavLJpaV3GooXYEjKbkqECe.jpg",
-      "rating": 5.913,
-      "year": 2022,
-      "days": 37,
+      "id": "top10:sam-morril-incorrect",
+      "name": "Sam Morril: Incorrect",
+      "tmdbPosterUrl": null,
+      "rating": null,
+      "year": null,
+      "days": 4,
       "trend": {
-        "dir": "down",
-        "delta": 2
+        "dir": "same",
+        "delta": 0
       }
     }
   ]

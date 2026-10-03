@@ -2,55 +2,55 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202607311717",
+  "date": "202610031853",
   "entries": [
     {
       "rank": 1,
-      "id": "tt36304003",
-      "name": "72 heures",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
-      "rating": 5.5,
+      "id": "tt36429458",
+      "name": "À vie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "rating": 5.886,
       "year": 2026,
-      "days": 7,
+      "days": null,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "new",
+        "delta": null
       }
     },
     {
       "rank": 2,
-      "id": "tt43619305",
-      "name": "Amour et Machinations",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-      "rating": 7.167,
+      "id": "tt44568097",
+      "name": "Le Veuf : Jusqu'à ce que la mort...",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+      "rating": 6.25,
       "year": 2026,
-      "days": 8,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 3,
-      "id": "tt4996328",
-      "name": "Ordinary Angels",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1NW0Ily0RyCPad1sNd2rl3W3LUc.jpg",
-      "rating": 7.689,
-      "year": 2024,
-      "days": 10,
+      "id": "tt6933238",
+      "name": "UNABOMBER",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "rating": 6.596,
+      "year": 2026,
+      "days": 8,
       "trend": {
-        "dir": "up",
+        "dir": "down",
         "delta": 1
       }
     },
     {
       "rank": 4,
-      "id": "tt37042085",
-      "name": "Elize Surgie de l'Ombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
-      "rating": 5.9,
+      "id": "tt34459219",
+      "name": "‎Papa à plein temps",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gdzdo1Eph4xeB6SQBgtSsjXFsMM.jpg",
+      "rating": 7.13,
       "year": 2026,
-      "days": 9,
+      "days": 7,
       "trend": {
         "dir": "down",
         "delta": 1
@@ -58,80 +58,80 @@
     },
     {
       "rank": 5,
-      "id": "tt13433802",
-      "name": "Sans un bruit : Jour 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymMaqwKN3Ovy9nlIRmk5GsnxEkx.jpg",
-      "rating": 6.645,
-      "year": 2024,
-      "days": 4,
+      "id": "tt0451079",
+      "name": "Horton",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w6wnwsngxRqGvXBpt7yerMVTKUL.jpg",
+      "rating": 6.526,
+      "year": 2008,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 6,
-      "id": "tt39749953",
-      "name": "The Debt Collector",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
-      "rating": 7.9,
-      "year": 2026,
-      "days": 8,
+      "id": "tt4058618",
+      "name": "Du sang dans la neige",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xrMKxQ51tuPpGb9tWFDqoGXPJMi.jpg",
+      "rating": 6.4,
+      "year": 2024,
+      "days": 3,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 7,
-      "id": "tt2250912",
-      "name": "Spider-Man : Homecoming",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
-      "rating": 7.33,
-      "year": 2017,
-      "days": 14,
+      "id": "tt35048044",
+      "name": "Seduced by His Lies",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xPsOBqPeybLt40qX4mkGOoFNA34.jpg",
+      "rating": 6,
+      "year": 2025,
+      "days": 3,
       "trend": {
-        "dir": "up",
-        "delta": 3
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 8,
-      "id": "tt3874544",
-      "name": "Baby Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k3szwIbPnQ7uCyMReaUfuc5xaf4.jpg",
-      "rating": 6.453,
-      "year": 2017,
-      "days": 86,
+      "id": "tt3717252",
+      "name": "Underworld : Blood Wars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/428eArd597goXIfJGtQ5bITERXv.jpg",
+      "rating": 5.925,
+      "year": 2016,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "up",
+        "delta": 1
       }
     },
     {
       "rank": 9,
-      "id": "tt41111628",
-      "name": "Leur vérité",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg",
-      "rating": 5,
-      "year": 2026,
-      "days": 7,
+      "id": "tt4196776",
+      "name": "Jason Bourne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3q8u4UgOjCufGJwfMbQHU4DbJj.jpg",
+      "rating": 6.385,
+      "year": 2016,
+      "days": 2,
       "trend": {
-        "dir": "same",
-        "delta": 0
+        "dir": "down",
+        "delta": 1
       }
     },
     {
       "rank": 10,
-      "id": "tt0095907",
-      "name": "A Private Life",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
-      "rating": 8,
-      "year": 1989,
-      "days": null,
+      "id": "tt1099212",
+      "name": "Twilight, chapitre 1 : Fascination",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8phJ4i9m1tBDJbOwwQPvdeWhN2h.jpg",
+      "rating": 6.273,
+      "year": 2008,
+      "days": 23,
       "trend": {
-        "dir": "new",
-        "delta": null
+        "dir": "same",
+        "delta": 0
       }
     }
   ]
