@@ -1689,6 +1689,16 @@
     "rating": 6.069,
     "ts": "2026-10-03"
   },
+  "carrie-2026": {
+    "tmdbId": 288673,
+    "tmdbType": "tv",
+    "imdbId": "tt11540908",
+    "titleFr": "Carrie",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/dkDeQSeJGSfEBFavomS3LUci2VO.jpg",
+    "rating": 8.39,
+    "ts": "2026-10-10"
+  },
   "carriers": {
     "tmdbId": 25769,
     "tmdbType": "movie",
@@ -5098,6 +5108,16 @@
     "posterUrl": "https://image.tmdb.org/t/p/w780/wBRTzPOtwDor3xSB2KmlbsZoepm.jpg",
     "rating": 6.769,
     "ts": "2026-07-03"
+  },
+  "kill-jackie": {
+    "tmdbId": 284558,
+    "tmdbType": "tv",
+    "imdbId": "tt35726020",
+    "titleFr": "Kill Jackie",
+    "year": 2026,
+    "posterUrl": "https://image.tmdb.org/t/p/w780/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg",
+    "rating": 7.1,
+    "ts": "2026-10-10"
   },
   "killer-whale": {
     "tmdbId": 1412598,
